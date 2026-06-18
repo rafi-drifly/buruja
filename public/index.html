@@ -4,99 +4,112 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Buruja: a verse a day, for the sake of Allah</title>
-<meta name="description" content="One verse of the Qur'an a day with tafsir, in Arabic, English, and Swedish, delivered to your calendar. Free forever, as sadaqah jariyah.">
+<meta name="description" content="Daily Qur'an with tafsir, the Companions, the Seerah, the Prophets, the 99 Names, Juz Amma, and a daily wird, in Arabic, English, and Swedish. Free forever, as sadaqah jariyah.">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,400;0,500;0,600;1,400;1,500&family=Inter:wght@400;500;600&family=Amiri:wght@400;700&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500&family=Inter:wght@400;500;600&family=Amiri:wght@400;700&display=swap" rel="stylesheet">
 <style>
-  /* Tokens mirror ../brand/brand.css  (identity: Ink & Parchment) */
   :root{
     --parchment:#F1E8D5; --surface:#FBF6EA; --ink:#211F1A; --muted:#736A58;
     --teal:#1C6E68; --teal-strong:#155551; --sepia:#5A4632; --hairline:#E0D4BB; --wash:#E7EFEB;
+    --gold:#A6803B; --gold-soft:#C9B79A;
     --font-display:'Cormorant Garamond',Georgia,serif; --font-body:'Inter',system-ui,sans-serif;
     --font-arabic:'Amiri',serif; --radius:16px;
+    --hero-ink:#0F1A18; --hero-cream:#ECE6D9; --hero-muted:#9A9486; --hero-gold:#C9B79A;
+    --hero-teal:#7FCCC4; --hero-line:#26403E; --hero-surface:#16201E;
   }
-  @media (prefers-color-scheme: dark){
-    :root{ --parchment:#0F1A18; --surface:#16201E; --ink:#ECE6D9; --muted:#9A9486;
-      --teal:#5BB5AD; --teal-strong:#7FCCC4; --sepia:#C9B79A; --hairline:#26332F; --wash:#14241F; }
-  }
-  /* explicit themes set by the toggle; these win over the OS media query */
-  [data-theme="light"]{ --parchment:#F1E8D5; --surface:#FBF6EA; --ink:#211F1A; --muted:#736A58; --teal:#1C6E68; --teal-strong:#155551; --sepia:#5A4632; --hairline:#E0D4BB; --wash:#E7EFEB; }
-  [data-theme="dark"]{ --parchment:#0F1A18; --surface:#16201E; --ink:#ECE6D9; --muted:#9A9486; --teal:#5BB5AD; --teal-strong:#7FCCC4; --sepia:#C9B79A; --hairline:#26332F; --wash:#14241F; }
+  [data-theme="light"]{ --parchment:#F1E8D5; --surface:#FBF6EA; --ink:#211F1A; --muted:#736A58; --teal:#1C6E68; --teal-strong:#155551; --sepia:#5A4632; --hairline:#E0D4BB; --wash:#E7EFEB; --gold:#A6803B; }
+  [data-theme="dark"]{ --parchment:#0F1A18; --surface:#16201E; --ink:#ECE6D9; --muted:#9A9486; --teal:#5BB5AD; --teal-strong:#7FCCC4; --sepia:#C9B79A; --hairline:#26332F; --wash:#14241F; --gold:#C9B79A; }
   *{box-sizing:border-box;}
   html{scroll-behavior:smooth;}
   body{margin:0; background:var(--parchment); color:var(--ink); font-family:var(--font-body); line-height:1.6; -webkit-font-smoothing:antialiased;}
-  .wrap{max-width:1040px; margin:0 auto; padding:0 24px;}
+  .wrap{max-width:1080px; margin:0 auto; padding:0 24px;}
   a{color:var(--teal); text-decoration:none;} a:hover{color:var(--teal-strong);}
   h1,h2,h3{font-family:var(--font-display); font-weight:600; line-height:1.1; margin:0;}
   .kicker{font-size:12px; letter-spacing:.22em; text-transform:uppercase; color:var(--teal); font-weight:600;}
 
+  /* logo */
+  .logo{display:flex; align-items:center; gap:11px; color:var(--ink);}
+  .logo .emblem{width:30px; height:30px; flex:0 0 auto;}
+  .logo .name{font-family:var(--font-display); font-size:24px; font-weight:600; letter-spacing:.01em;}
+  .logo .ar{font-family:var(--font-arabic); font-size:15px; color:var(--gold); margin-inline-start:2px; opacity:.9;}
+
   /* header */
-  header{position:sticky; top:0; z-index:10; background:color-mix(in srgb, var(--parchment) 88%, transparent); backdrop-filter:blur(8px); border-bottom:1px solid var(--hairline);}
-  .bar{display:flex; align-items:center; justify-content:space-between; height:66px;}
-  .wordmark{font-family:var(--font-display); font-size:23px; font-weight:600;}
-  .wordmark i{color:var(--teal); font-weight:500;}
-  nav a{color:var(--ink); margin-left:26px; font-size:14px;}
+  header{position:sticky; top:0; z-index:20; background:color-mix(in srgb, var(--parchment) 86%, transparent); backdrop-filter:blur(10px); border-bottom:1px solid var(--hairline);}
+  .bar{display:flex; align-items:center; justify-content:space-between; height:68px;}
+  nav a{color:var(--ink); margin-left:24px; font-size:14px;}
   nav a:hover{color:var(--teal);}
   .bar-right{display:flex; align-items:center; gap:16px;}
   .theme-btn{background:transparent; border:1px solid var(--hairline); border-radius:999px; padding:7px 14px; font-size:13px; font-weight:500; color:var(--ink); cursor:pointer; font-family:var(--font-body);}
   .theme-btn:hover{border-color:var(--teal); color:var(--teal);}
-  @media(max-width:680px){ nav{display:none;} }
+  @media(max-width:820px){ nav{display:none;} }
 
-  /* hero */
-  .hero{display:grid; grid-template-columns:1.05fr .95fr; gap:48px; align-items:center; padding:72px 0 64px;}
-  .hero h1{font-size:54px; letter-spacing:-.01em; margin:14px 0 18px;}
-  .hero p.lead{font-size:18px; color:var(--muted); max-width:46ch; margin:0 0 28px;}
-  @media(max-width:860px){ .hero{grid-template-columns:1fr; padding:48px 0;} .hero h1{font-size:42px;} }
+  /* hero — dark celestial band */
+  .hero-band{position:relative; overflow:hidden; background:radial-gradient(120% 140% at 80% -10%, #1b2b27 0%, var(--hero-ink) 55%); color:var(--hero-cream); border-bottom:1px solid var(--hero-line);}
+  .stars{position:absolute; inset:0; width:100%; height:100%; pointer-events:none;}
+  .hero{position:relative; z-index:1; display:grid; grid-template-columns:1.05fr .95fr; gap:52px; align-items:center; padding:84px 0 80px;}
+  .hero h1{font-family:var(--font-display); font-size:60px; line-height:1.04; letter-spacing:-.01em; margin:16px 0 20px; color:var(--hero-cream); font-weight:600;}
+  .hero p.lead{font-size:18px; color:var(--hero-muted); max-width:46ch; margin:0 0 30px;}
+  .hero .kicker{color:var(--hero-gold);}
+  @media(max-width:880px){ .hero{grid-template-columns:1fr; padding:56px 0;} .hero h1{font-size:44px;} }
 
-  .signup{display:flex; gap:10px; max-width:430px; flex-wrap:wrap;}
-  .signup input{flex:1; min-width:200px; padding:14px 16px; border:1px solid var(--hairline); border-radius:12px; background:var(--surface); color:var(--ink); font-size:15px; font-family:var(--font-body);}
-  .signup input::placeholder{color:var(--muted);}
-  .btn{background:var(--teal); color:#FBF6EA; border:0; border-radius:12px; padding:14px 22px; font-size:15px; font-weight:600; cursor:pointer; font-family:var(--font-body);}
-  .btn:hover{background:var(--teal-strong);}
-  .fineprint{font-size:13px; color:var(--muted); margin:12px 0 0;}
+  .signup{display:flex; gap:10px; max-width:440px; flex-wrap:wrap;}
+  .signup input{flex:1; min-width:200px; padding:14px 16px; border:1px solid var(--hero-line); border-radius:12px; background:rgba(255,255,255,.04); color:var(--hero-cream); font-size:15px; font-family:var(--font-body);}
+  .signup input::placeholder{color:var(--hero-muted);}
+  .btn{background:var(--hero-teal); color:#0F1A18; border:0; border-radius:12px; padding:14px 24px; font-size:15px; font-weight:600; cursor:pointer; font-family:var(--font-body);}
+  .btn:hover{filter:brightness(1.08);}
+  .fineprint{font-size:13px; color:var(--hero-muted); margin:14px 0 0;}
 
   /* verse card */
-  .card{background:var(--surface); border:1px solid var(--hairline); border-radius:var(--radius); padding:30px 32px; box-shadow:0 24px 50px -32px rgba(0,0,0,.4);}
-  .card-top{display:flex; justify-content:space-between; align-items:center; margin-bottom:20px;}
-  .badge{font-size:11px; letter-spacing:.18em; text-transform:uppercase; color:var(--teal); font-weight:600;}
-  .ref{font-family:var(--font-display); font-size:16px; color:var(--muted);}
-  .ar{font-family:var(--font-arabic); font-size:30px; line-height:2; text-align:right; direction:rtl; color:var(--sepia); margin:0 0 20px;}
-  .rule{height:1px; background:var(--hairline); border:0; margin:20px 0;}
-  .en{font-family:var(--font-display); font-size:21px; line-height:1.5; margin:0 0 12px;}
-  .sv{font-size:14px; font-style:italic; color:var(--muted); margin:0;}
-  .card-foot{margin-top:22px; display:flex; align-items:center; gap:9px; font-size:12px; letter-spacing:.04em; color:var(--muted);}
-  .dot{width:7px; height:7px; border-radius:50%; background:var(--teal);}
+  .card{background:var(--hero-surface); border:1px solid var(--hero-line); border-radius:var(--radius); padding:32px 34px; box-shadow:0 40px 80px -40px rgba(0,0,0,.7);}
+  .card-top{display:flex; justify-content:space-between; align-items:center; margin-bottom:22px;}
+  .badge{font-size:11px; letter-spacing:.18em; text-transform:uppercase; color:var(--hero-teal); font-weight:600;}
+  .ref{font-family:var(--font-display); font-size:16px; color:var(--hero-muted);}
+  .ar{font-family:var(--font-arabic); font-size:30px; line-height:2; text-align:right; direction:rtl; color:var(--hero-gold); margin:0 0 20px;}
+  .rule{height:1px; background:var(--hero-line); border:0; margin:20px 0;}
+  .en{font-family:var(--font-display); font-size:21px; line-height:1.5; margin:0 0 12px; color:var(--hero-cream);}
+  .sv{font-size:14px; font-style:italic; color:var(--hero-muted); margin:0;}
+  .card-foot{margin-top:22px; display:flex; align-items:center; gap:9px; font-size:12px; letter-spacing:.04em; color:var(--hero-muted);}
+  .dot{width:7px; height:7px; border-radius:50%; background:var(--hero-teal);}
 
   /* sections */
-  section.block{padding:64px 0; border-top:1px solid var(--hairline);}
-  .block h2{font-size:34px; margin-bottom:8px;}
-  .block .sub{color:var(--muted); margin:0 0 36px; max-width:54ch;}
-  .grid{display:grid; grid-template-columns:repeat(2,1fr); gap:20px;}
-  @media(max-width:760px){ .grid{grid-template-columns:1fr;} }
-  .feature{background:var(--surface); border:1px solid var(--hairline); border-radius:var(--radius); padding:26px;}
-  .feature h3{font-size:22px; margin-bottom:8px;}
-  .feature h3 .n{font-family:var(--font-body); font-size:12px; color:var(--teal); font-weight:600; letter-spacing:.1em; display:block; margin-bottom:6px;}
-  .feature p{margin:0; color:var(--muted); font-size:15px;}
+  section.block{padding:72px 0; border-top:1px solid var(--hairline);}
+  .block h2{font-size:36px; margin-bottom:10px;}
+  .block .sub{color:var(--muted); margin:0 0 40px; max-width:56ch; font-size:16px;}
 
-  .steps{display:grid; grid-template-columns:repeat(3,1fr); gap:22px;}
+  /* explore grid */
+  .grid{display:grid; grid-template-columns:repeat(3,1fr); gap:18px;}
+  @media(max-width:900px){ .grid{grid-template-columns:repeat(2,1fr);} }
+  @media(max-width:560px){ .grid{grid-template-columns:1fr;} }
+  .tile{position:relative; display:block; background:var(--surface); border:1px solid var(--hairline); border-radius:var(--radius); padding:24px 24px 22px; color:var(--ink); transition:transform .18s ease, box-shadow .18s ease, border-color .18s ease;}
+  .tile:hover{transform:translateY(-3px); box-shadow:0 22px 44px -30px rgba(0,0,0,.45); border-color:var(--teal); color:var(--ink);}
+  .tile .tstar{width:22px; height:22px; opacity:.85; margin-bottom:14px;}
+  .tile h3{font-size:22px; margin-bottom:6px;}
+  .tile .meta{font-size:12px; letter-spacing:.12em; text-transform:uppercase; color:var(--teal); font-weight:600; margin-bottom:10px;}
+  .tile p{margin:0; color:var(--muted); font-size:14.5px; line-height:1.55;}
+  .tile .go{margin-top:14px; font-size:13px; color:var(--teal); font-weight:600;}
+
+  .steps{display:grid; grid-template-columns:repeat(3,1fr); gap:24px;}
   @media(max-width:760px){ .steps{grid-template-columns:1fr;} }
-  .step .num{font-family:var(--font-display); font-size:40px; color:var(--teal); line-height:1;}
+  .step .num{font-family:var(--font-display); font-size:42px; color:var(--teal); line-height:1;}
   .step h3{font-size:20px; margin:10px 0 6px;}
   .step p{margin:0; color:var(--muted); font-size:15px;}
 
-  .why{background:var(--wash); border:1px solid var(--hairline); border-radius:var(--radius); padding:44px; text-align:center;}
-  .why h2{font-size:30px; margin-bottom:14px;}
-  .why p{max-width:60ch; margin:0 auto; color:var(--ink);}
+  .why{background:var(--wash); border:1px solid var(--hairline); border-radius:var(--radius); padding:48px; text-align:center;}
+  .why h2{font-size:32px; margin-bottom:14px;}
+  .why p{max-width:62ch; margin:0 auto; color:var(--ink);}
 
-  .cta{text-align:center; padding:72px 0;}
-  .cta h2{font-size:38px; margin-bottom:10px;}
+  .cta{text-align:center; padding:80px 0;}
+  .cta h2{font-size:40px; margin-bottom:10px;}
   .cta .signup{margin:24px auto 0; justify-content:center;}
+  .cta .signup input{background:var(--surface); color:var(--ink); border-color:var(--hairline);}
+  .cta .btn{background:var(--teal); color:#FBF6EA;}
 
-  footer{border-top:1px solid var(--hairline); padding:40px 0 56px; color:var(--muted); font-size:14px;}
-  .foot-top{display:flex; justify-content:space-between; gap:24px; flex-wrap:wrap; margin-bottom:24px;}
+  footer{border-top:1px solid var(--hairline); padding:48px 0 60px; color:var(--muted); font-size:14px;}
+  .foot-top{display:flex; justify-content:space-between; gap:24px; flex-wrap:wrap; margin-bottom:26px; align-items:flex-start;}
   footer a{color:var(--muted);} footer a:hover{color:var(--teal);}
   .foot-links a{margin-left:20px;}
+  @media(max-width:560px){ .foot-links a{margin:0 16px 0 0; display:inline-block;} }
   .grounding{font-size:12px; color:var(--muted); border-top:1px solid var(--hairline); padding-top:18px;}
   code{font-family:ui-monospace,monospace; font-size:11px;}
 </style>
@@ -108,12 +121,12 @@
   <meta property="og:type" content="website">
   <meta property="og:site_name" content="Buruja">
   <meta property="og:title" content="Buruja: a verse a day, for the sake of Allah">
-  <meta property="og:description" content="One verse of the Qur">
+  <meta property="og:description" content="Daily Qur">
   <meta property="og:url" content="https://buruja.com/">
   <meta property="og:image" content="https://buruja.com/og-default.png">
   <meta name="twitter:card" content="summary_large_image">
   <meta name="twitter:title" content="Buruja: a verse a day, for the sake of Allah">
-  <meta name="twitter:description" content="One verse of the Qur">
+  <meta name="twitter:description" content="Daily Qur">
   <meta name="twitter:image" content="https://buruja.com/og-default.png">
   <script type="application/ld+json">[{"@context":"https://schema.org","@type":"Organization","name":"Buruja","url":"https://buruja.com","logo":"https://buruja.com/og-default.png"},{"@context":"https://schema.org","@type":"WebSite","name":"Buruja","url":"https://buruja.com"}]</script>
 </head>
@@ -121,99 +134,94 @@
 
 <header>
   <div class="wrap bar">
-    <div class="wordmark">Buruja</div>
+    <a class="logo" href="/" aria-label="Buruja home">
+      <svg class="emblem" viewBox="0 0 48 48" aria-hidden="true" xmlns="http://www.w3.org/2000/svg">
+        <defs><linearGradient id="g1" x1="0" y1="0" x2="1" y2="1">
+          <stop offset="0" stop-color="#E4C778"/><stop offset="1" stop-color="#A6803B"/></linearGradient></defs>
+        <circle cx="24" cy="24" r="21" fill="none" stroke="url(#g1)" stroke-width="0.7" opacity="0.45"/>
+        <rect x="10.5" y="10.5" width="27" height="27" fill="none" stroke="url(#g1)" stroke-width="1.5"/>
+        <rect x="10.5" y="10.5" width="27" height="27" fill="none" stroke="url(#g1)" stroke-width="1.5" transform="rotate(45 24 24)"/>
+        <circle cx="24" cy="24" r="2.6" fill="#E4C778"/>
+        <circle cx="24" cy="3" r="1.5" fill="currentColor" opacity=".6"/>
+        <circle cx="44.5" cy="31" r="1.2" fill="currentColor" opacity=".5"/>
+        <circle cx="6.5" cy="17" r="1.1" fill="currentColor" opacity=".5"/>
+      </svg>
+      <span class="name">Buruja</span><span class="ar">البروج</span>
+    </a>
     <div class="bar-right">
       <nav>
-        <a href="#tracks">What you get</a>
-        <a href="#how">How it works</a>
-        <a href="#why">Why it's free</a>
+        <a href="/quran-reader/">Qur'an</a>
         <a href="/companions/">Companions</a>
         <a href="/seerah/">Seerah</a>
+        <a href="/prophets/">Prophets</a>
         <a href="/adhkar/">Dhikr &amp; Du'a</a>
+        <a href="#explore">All</a>
         <a href="#join">Join</a>
       </nav>
-      <button id="themeToggle" class="theme-btn" type="button" aria-label="Toggle light or dark">Night</button>
+      <button id="themeToggle" class="theme-btn" type="button" aria-label="Toggle light or dark">Day</button>
     </div>
   </div>
 </header>
 
+<!-- HERO -->
+<div class="hero-band">
+  <svg class="stars" viewBox="0 0 1200 520" preserveAspectRatio="xMidYMid slice" aria-hidden="true" xmlns="http://www.w3.org/2000/svg">
+    <g stroke="#2b463f" stroke-width="1" opacity="0.8">
+      <line x1="120" y1="90" x2="240" y2="60"/><line x1="240" y1="60" x2="350" y2="120"/>
+      <line x1="350" y1="120" x2="470" y2="80"/><line x1="980" y1="120" x2="1080" y2="70"/>
+      <line x1="980" y1="120" x2="900" y2="200"/>
+    </g>
+    <g fill="#C9B79A">
+      <circle cx="120" cy="90" r="2.4"/><circle cx="240" cy="60" r="3"/><circle cx="350" cy="120" r="2"/>
+      <circle cx="470" cy="80" r="2.6"/><circle cx="980" cy="120" r="3"/><circle cx="1080" cy="70" r="2.2"/>
+      <circle cx="900" cy="200" r="2"/><circle cx="60" cy="260" r="1.8"/><circle cx="1140" cy="300" r="2"/>
+      <circle cx="640" cy="50" r="1.6"/><circle cx="780" cy="150" r="1.4"/><circle cx="200" cy="200" r="1.4"/>
+    </g>
+    <g fill="#5BB5AD" opacity="0.8">
+      <circle cx="540" cy="40" r="1.6"/><circle cx="1020" cy="240" r="1.6"/><circle cx="160" cy="150" r="1.4"/>
+    </g>
+  </svg>
+  <main class="wrap">
+    <section class="hero">
+      <div>
+        <span class="kicker">Free forever · sadaqah jariyah</span>
+        <h1>Let the Qur'an find you every morning.</h1>
+        <p class="lead">A verse a day with tafsir, in Arabic, English, and Swedish, delivered straight to your calendar. One ayah at a time, from the first of the Book to the last, over the next seventeen years.</p>
+        <form class="signup" id="join" onsubmit="return false;">
+          <input type="email" placeholder="you@email.com" aria-label="Email address">
+          <button class="btn" type="submit">Join the waitlist</button>
+        </form>
+        <p class="fineprint">Launching 31 August 2026. No ads, no selling, ever.</p>
+      </div>
+      <div class="card">
+        <div class="card-top"><span class="badge">Today</span><span class="ref">Sūrat ar-Raʿd · 13:28</span></div>
+        <p class="ar">الَّذِينَ آمَنُوا وَتَطْمَئِنُّ قُلُوبُهُم بِذِكْرِ اللَّهِ ۗ أَلَا بِذِكْرِ اللَّهِ تَطْمَئِنُّ الْقُلُوبُ</p>
+        <hr class="rule">
+        <p class="en">“Those who have believed and whose hearts are assured by the remembrance of Allāh. Unquestionably, by the remembrance of Allāh hearts are assured.”</p>
+        <p class="sv">de som tror och vars hjärtan blir stilla när Guds namn nämns - är det inte så att då Guds namn nämns blir människohjärtat stilla</p>
+        <div class="card-foot"><span class="dot"></span> A daily portion of remembrance</div>
+      </div>
+    </section>
+  </main>
+</div>
+
 <main class="wrap">
-
-  <!-- HERO -->
-  <section class="hero">
-    <div>
-      <span class="kicker">Free forever · sadaqah jariyah</span>
-      <h1>Let the Qur'an find you every morning.</h1>
-      <p class="lead">A verse a day with tafsir, in Arabic, English, and Swedish, delivered straight to your calendar. One ayah at a time, from the first of the Book to the last, over the next seventeen years.</p>
-      <form class="signup" id="join" onsubmit="return false;">
-        <input type="email" placeholder="you@email.com" aria-label="Email address">
-        <button class="btn" type="submit">Join the waitlist</button>
-      </form>
-      <p class="fineprint">Launching 31 August 2026. No ads, no selling, ever.</p>
-    </div>
-
-    <div class="card">
-      <div class="card-top"><span class="badge">Today</span><span class="ref">Sūrat ar-Raʿd · 13:28</span></div>
-      <p class="ar">الَّذِينَ آمَنُوا وَتَطْمَئِنُّ قُلُوبُهُم بِذِكْرِ اللَّهِ ۗ أَلَا بِذِكْرِ اللَّهِ تَطْمَئِنُّ الْقُلُوبُ</p>
-      <hr class="rule">
-      <p class="en">“Those who have believed and whose hearts are assured by the remembrance of Allāh. Unquestionably, by the remembrance of Allāh hearts are assured.”</p>
-      <p class="sv">de som tror och vars hjärtan blir stilla när Guds namn nämns - är det inte så att då Guds namn nämns blir människohjärtat stilla</p>
-      <div class="card-foot"><span class="dot"></span> A daily portion of remembrance</div>
-    </div>
-  </section>
-
-  <!-- TRACKS -->
-  <section class="block" id="tracks">
-    <h2>What lands in your day</h2>
-    <p class="sub">Six streams of the same intention: to keep your heart connected, one day at a time.</p>
-    <div class="grid">
-      <div class="feature">
-        <h3><span class="n">DAILY QUR'AN</span>All 6,236 verses</h3>
-        <p>One ayah each morning, every one carrying Ibn Kathir's tafsir and the story behind it. A complete reading of the Book from 2026 to 2043.</p>
-      </div>
-      <div class="feature">
-        <h3><span class="n">THE 365</span>Verse, heart, and Sunnah</h3>
-        <p>Three parallel years: a Verse to recite, a Tazkiyah (a disease of the heart and its cure), and a Sunnah to live, for every day.</p>
-      </div>
-      <div class="feature">
-        <h3><span class="n">THE COMPANIONS</span>183 of the Sahaba</h3>
-        <p>One life at a time. Their courage, their sacrifice, and their love for the Prophet (peace be upon him), retold to move the heart, not just inform it.</p>
-      </div>
-      <div class="feature">
-        <h3><span class="n">THE SEERAH</span>104 days with the Prophet</h3>
-        <p>The whole life of the Prophet Muhammad (peace be upon him) in 104 daily readings, from before his birth to his passing, retold from Dr. Yasir Qadhi's landmark series with every verse verified.</p>
-      </div>
-      <div class="feature">
-        <h3><span class="n">DHIKR &amp; DU'A</span>The believer's daily wird</h3>
-        <p>Morning and evening adhkar, the words before sleep, and the supplications of the Qur'an and the Prophet (peace be upon him), each with Arabic, meaning, and recitation to listen and learn. 26 collections, 229 in all.</p>
-      </div>
-      <div class="feature">
-        <h3><span class="n">PRAYER TIMES · SALATTID</span>Never miss a salah</h3>
-        <p>Accurate Nordic prayer times in your calendar through SalatTid.se, the Swedish home of Buruja.</p>
-      </div>
-    </div>
+  <!-- EXPLORE -->
+  <section class="block" id="explore">
+    <span class="kicker">The libraries</span>
+    <h2>Everything we have built, in one place</h2>
+    <p class="sub">Years of work, every verse and story verified against the canonical sources. Begin anywhere.</p>
+    <div class="grid" id="tiles"></div>
   </section>
 
   <!-- HOW -->
   <section class="block" id="how">
-    <h2>How it works</h2>
+    <h2>How the daily verse works</h2>
     <p class="sub">No new app to open. It lives where you already look ten times a day: your calendar.</p>
     <div class="steps">
-      <div class="step">
-        <div class="num">1</div>
-        <h3>Subscribe once</h3>
-        <p>Add the calendar with a single tap. Apple, Google, and Outlook all welcome.</p>
-      </div>
-      <div class="step">
-        <div class="num">2</div>
-        <h3>Wake to a verse</h3>
-        <p>Each morning the day's ayah is already waiting: Arabic, translation, and tafsir.</p>
-      </div>
-      <div class="step">
-        <div class="num">3</div>
-        <h3>Carry it with you</h3>
-        <p>Read it, sit with it, and let it shape the hours that follow. Tomorrow, the next.</p>
-      </div>
+      <div class="step"><div class="num">1</div><h3>Subscribe once</h3><p>Add the calendar with a single tap. Apple, Google, and Outlook all welcome.</p></div>
+      <div class="step"><div class="num">2</div><h3>Wake to a verse</h3><p>Each morning the day's ayah is already waiting: Arabic, translation, and tafsir.</p></div>
+      <div class="step"><div class="num">3</div><h3>Carry it with you</h3><p>Read it, sit with it, and let it shape the hours that follow. Tomorrow, the next.</p></div>
     </div>
   </section>
 
@@ -229,27 +237,30 @@
   <section class="cta">
     <span class="kicker">31 August 2026</span>
     <h2>Be there for the first verse.</h2>
-    <p class="lead" style="color:var(--muted); margin:0 auto;">Leave your email and the very first wird will reach you on launch morning.</p>
+    <p class="sub" style="margin:10px auto 0; text-align:center;">Leave your email and the very first wird will reach you on launch morning.</p>
     <form class="signup" onsubmit="return false;">
       <input type="email" placeholder="you@email.com" aria-label="Email address">
       <button class="btn" type="submit">Join the waitlist</button>
     </form>
   </section>
-
 </main>
 
 <footer>
   <div class="wrap">
     <div class="foot-top">
-      <div class="wordmark" style="font-size:20px;">Buruja</div>
+      <a class="logo" href="/" style="gap:10px;">
+        <svg class="emblem" viewBox="0 0 48 48" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" style="width:26px;height:26px;">
+          <defs><linearGradient id="g2" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#E4C778"/><stop offset="1" stop-color="#A6803B"/></linearGradient></defs>
+          <rect x="10.5" y="10.5" width="27" height="27" fill="none" stroke="url(#g2)" stroke-width="1.6"/>
+          <rect x="10.5" y="10.5" width="27" height="27" fill="none" stroke="url(#g2)" stroke-width="1.6" transform="rotate(45 24 24)"/>
+          <circle cx="24" cy="24" r="2.6" fill="#E4C778"/>
+        </svg>
+        <span class="name" style="font-size:20px;">Buruja</span>
+      </a>
       <div class="foot-links">
-        <a href="#tracks">What you get</a>
-        <a href="#how">How it works</a>
-        <a href="#why">Why it's free</a>
-        <a href="/companions/">Companions</a>
-        <a href="/seerah/">Seerah</a>
-        <a href="/adhkar/">Dhikr &amp; Du'a</a>
-        <a href="#join">Join</a>
+        <a href="/quran-reader/">Qur'an</a><a href="/companions/">Companions</a><a href="/seerah/">Seerah</a>
+        <a href="/prophets/">Prophets</a><a href="/asma-ul-husna/">99 Names</a><a href="/juz-amma/">Juz Amma</a>
+        <a href="/adhkar/">Dhikr &amp; Du'a</a><a href="/new-muslim/">New Muslim</a>
       </div>
     </div>
     <p>Made for the sake of Allah. buruja.com</p>
@@ -263,13 +274,27 @@
 
 <script>
 (function(){
+  var TILES = [
+    ["The Qur'an","Read & listen","/quran-reader/","The full mushaf with tajwid colouring, verse by verse, to read and to recite."],
+    ["The Companions","183 of the Sahaba","/companions/","One life at a time. Their courage and love for the Prophet صلى الله عليه وسلم, retold to move the heart."],
+    ["The Seerah","104 days","/seerah/","The whole life of the Prophet صلى الله عليه وسلم in 104 daily readings, every verse verified."],
+    ["Stories of the Prophets","From Adam to Isa","/prophets/","The Messengers before him, and the lessons their lives carry for ours."],
+    ["The 99 Names","Asma ul-Husna","/asma-ul-husna/","Each beautiful Name of Allah, its meaning, and how to live in its light."],
+    ["Juz Amma","The 30th Juz","/juz-amma/","The surahs we recite most, with meaning and reflection for each."],
+    ["Dhikr & Du'a","The daily wird","/adhkar/","Morning and evening adhkar and the supplications of the Qur'an and Sunnah, with audio."],
+    ["New Muslim Path","Start here","/new-muslim/","A gentle, ordered path through the first things, for anyone beginning."]
+  ];
+  var star='<svg class="tstar" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg"><defs><linearGradient id="ts" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#E4C778"/><stop offset="1" stop-color="#A6803B"/></linearGradient></defs><rect x="11" y="11" width="26" height="26" fill="none" stroke="url(#ts)" stroke-width="2"/><rect x="11" y="11" width="26" height="26" fill="none" stroke="url(#ts)" stroke-width="2" transform="rotate(45 24 24)"/><circle cx="24" cy="24" r="2.4" fill="#E4C778"/></svg>';
+  document.getElementById('tiles').innerHTML = TILES.map(function(t){
+    return '<a class="tile" href="'+t[2]+'">'+star+'<div class="meta">'+t[1]+'</div><h3>'+t[0]+'</h3><p>'+t[3]+'</p><div class="go">Explore &rarr;</div></a>';
+  }).join('');
+
   var root = document.documentElement, btn = document.getElementById('themeToggle');
-  function set(t){ root.setAttribute('data-theme', t); if(btn){ btn.textContent = (t === 'dark' ? 'Day' : 'Night'); } try{ localStorage.setItem('wird-theme', t); }catch(e){} }
-  var saved; try{ saved = localStorage.getItem('wird-theme'); }catch(e){}
+  function set(t){ root.setAttribute('data-theme', t); if(btn){ btn.textContent = (t === 'dark' ? 'Day' : 'Night'); } try{ localStorage.setItem('buruja-theme', t); }catch(e){} }
+  var saved; try{ saved = localStorage.getItem('buruja-theme'); }catch(e){}
   set(saved || 'light');
   if(btn){ btn.addEventListener('click', function(){ set(root.getAttribute('data-theme') === 'dark' ? 'light' : 'dark'); }); }
 })();
 </script>
-
 </body>
 </html>
