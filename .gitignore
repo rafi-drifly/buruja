@@ -11,6 +11,7 @@
 !/build.py
 !/seo.py
 !/make_assets.py
+!/theme.py
 !/public/
 !/wrangler.toml
 
