@@ -1,0 +1,684 @@
+{
+  "pillar": "Stories of the Prophets",
+  "subtitle": "29 days with the prophets before him ﷺ",
+  "count": 29,
+  "source": {
+    "teacher": "Mufti Ismail Menk",
+    "series": "Stories of the Prophets",
+    "playlist_id": "PL9821CA747E7E0674",
+    "playlist_url": "https://www.youtube.com/playlist?list=PL9821CA747E7E0674",
+    "note": "Mufti Ismail Menk's beloved Stories of the Prophets series, 29 episodes, from the creation of Adam to Isa. Retold faithfully in the brand voice and credited to him, never reproduced verbatim."
+  },
+  "phases": [
+    {
+      "key": "prologue",
+      "title": "Why their stories",
+      "blurb": "Why Allah fills the Qur'an with the prophets before Him ﷺ, and how to read their lives"
+    },
+    {
+      "key": "beginnings",
+      "title": "The first human beings",
+      "blurb": "Adam, the father of us all, his sons, and the first souls raised to Allah"
+    },
+    {
+      "key": "warners",
+      "title": "The early warners",
+      "blurb": "Nuh, Hud, and Salih, sent to nations that mistook their strength for safety"
+    },
+    {
+      "key": "khalil",
+      "title": "The friend of the Most Merciful",
+      "blurb": "Ibrahim and Ismail, the broken idols, the fire that cooled, and the Ka'bah raised"
+    },
+    {
+      "key": "yusuf",
+      "title": "Tested, then chosen",
+      "blurb": "Yaqub's patience, Yusuf's well and throne, and the trials of Ayyub and Yunus"
+    },
+    {
+      "key": "musa",
+      "title": "Musa and the Children of Israel",
+      "blurb": "The staff, the sea, the Pharaoh, the law, and Shu'ayb's honest scales"
+    },
+    {
+      "key": "kings",
+      "title": "The kings who bowed",
+      "blurb": "Dawud and Sulayman, given a kingdom and kept humble, and the line of Zakariyya"
+    },
+    {
+      "key": "isa",
+      "title": "The word of Allah",
+      "blurb": "Isa, his mother Maryam, and the promise of the messenger to come after him ﷺ"
+    }
+  ],
+  "note": "One episode per day, 29 days. Each entry is retold faithfully in the brand voice from Mufti Menk's lecture, credited to him, never reproduced verbatim (the same way the Companions pillar retells Omar Suleiman and the Seerah retells Yasir Qadhi). The Qur'an is grounded via quran.ai, never from memory. Where Mufti Menk relays an Israiliyyat report or weighs an account, his caveat is kept. Every entry bridges back into the wider library so the prophet's life connects to the Qur'an, the Seerah, and the reader's own faith.",
+  "episodes": [
+    {
+      "day": 1,
+      "episode_no": 1,
+      "kind": "prologue",
+      "slug": "introduction-to-the-prophets",
+      "phase": "prologue",
+      "video_id": "IQjzErJlpJ0",
+      "video_title": "Stories Of The Prophets-01~Introduction To Stories Of The Prophets",
+      "theme_en": "Why Allah tells us their stories",
+      "bridges": [
+        {
+          "to": "new-muslim/the-six-pillars-of-iman",
+          "label": "The six pillars of iman",
+          "note": "Believing in every prophet is the fourth article of your faith"
+        },
+        {
+          "to": "seerah/specialities-of-the-prophet-1",
+          "label": "The Seerah begins",
+          "note": "Where the long chain of prophets completes: Muhammad ﷺ"
+        },
+        {
+          "to": "juz-amma/al-ala",
+          "label": "Surah al-A'la",
+          "note": "The Qur'an names the scriptures of Ibrahim and Musa"
+        }
+      ],
+      "status": "done"
+    },
+    {
+      "day": 2,
+      "episode_no": 2,
+      "kind": "episode",
+      "slug": "the-creation-of-adam",
+      "phase": "beginnings",
+      "video_id": "mknf5MB1qDI",
+      "video_title": "Stories Of The Prophets-02~Creation Of Aadam",
+      "theme_en": "The creation of Adam",
+      "bridges": [
+        {
+          "to": "new-muslim/who-is-allah",
+          "label": "Who is Allah",
+          "note": "The Creator who shaped Adam with His own hand"
+        },
+        {
+          "to": "asma-ul-husna/al-khaliq-al-bari",
+          "label": "Al-Khaliq, al-Bari",
+          "note": "Allah, the Maker of Adam from clay"
+        }
+      ],
+      "status": "done"
+    },
+    {
+      "day": 3,
+      "episode_no": 3,
+      "kind": "episode",
+      "slug": "adam-on-earth-part-1",
+      "phase": "beginnings",
+      "video_id": "J9IDLOza_KM",
+      "video_title": "Stories Of The Prophets-03~Aadam on Earth-(Part 1)",
+      "theme_en": "Adam on earth, part 1",
+      "bridges": [
+        {
+          "to": "new-muslim/tawbah-when-you-slip",
+          "label": "Tawbah when you slip",
+          "note": "Adam fell, then turned back: the first repentance Allah ever accepted"
+        },
+        {
+          "to": "asma-ul-husna/al-ghaffar",
+          "label": "Al-Ghaffar",
+          "note": "The One who forgave Adam and teaches us to return"
+        }
+      ],
+      "status": "done"
+    },
+    {
+      "day": 4,
+      "episode_no": 4,
+      "kind": "episode",
+      "slug": "adam-on-earth-part-2",
+      "phase": "beginnings",
+      "video_id": "WNPjOOwXOIk",
+      "video_title": "Stories Of The Prophets-04~Aadam On Earth-(Part 2)",
+      "theme_en": "Adam on earth, part 2",
+      "bridges": [
+        {
+          "to": "new-muslim/the-six-pillars-of-iman",
+          "label": "The six pillars of iman",
+          "note": "Believing in every prophet is the fourth article of your faith"
+        },
+        {
+          "to": "asma-ul-husna/al-quddus-as-salam",
+          "label": "Al-Quddus, as-Salam",
+          "note": "The peace Adam was promised, and the home we are walking back to"
+        }
+      ],
+      "status": "done"
+    },
+    {
+      "day": 5,
+      "episode_no": 5,
+      "kind": "episode",
+      "slug": "shith-the-trust-passed-on",
+      "phase": "beginnings",
+      "video_id": "OAHdqM72TvA",
+      "video_title": "Stories Of The Prophets-05~Sheeth",
+      "theme_en": "Shith and the trust passed on",
+      "bridges": [
+        {
+          "to": "new-muslim/who-is-muhammad",
+          "label": "Who is Muhammad ﷺ",
+          "note": "Prophethood, handed down until it reached him ﷺ"
+        }
+      ],
+      "status": "done"
+    },
+    {
+      "day": 6,
+      "episode_no": 6,
+      "kind": "episode",
+      "slug": "idris-raised-to-a-high-place",
+      "phase": "beginnings",
+      "video_id": "eGgNrs9UyRU",
+      "video_title": "Stories Of The Prophets-06~Idrees",
+      "theme_en": "Idris, raised to a high place",
+      "bridges": [
+        {
+          "to": "seerah/the-night-journey-1",
+          "label": "The Night Journey",
+          "note": "The Prophet ﷺ met Idris in the heavens, raised high"
+        },
+        {
+          "to": "asma-ul-husna/al-ali-al-mutaali",
+          "label": "Al-Ali, al-Muta'ali",
+          "note": "The Most High, who raised Idris near"
+        }
+      ],
+      "status": "done"
+    },
+    {
+      "day": 7,
+      "episode_no": 7,
+      "kind": "episode",
+      "slug": "nuh-and-the-flood",
+      "phase": "warners",
+      "video_id": "AclAV0cY5a8",
+      "video_title": "Stories Of The Prophets-07~Nuh [Noah]",
+      "theme_en": "Nuh and the flood",
+      "bridges": [
+        {
+          "to": "new-muslim/dua-talking-to-allah",
+          "label": "Du'a, talking to Allah",
+          "note": "Nuh called his people 950 years, then called on his Lord"
+        },
+        {
+          "to": "asma-ul-husna/ar-rabb",
+          "label": "Ar-Rabb",
+          "note": "The Lord Nuh trusted when the water rose"
+        }
+      ],
+      "status": "done"
+    },
+    {
+      "day": 8,
+      "episode_no": 8,
+      "kind": "episode",
+      "slug": "hud-and-the-people-of-ad",
+      "phase": "warners",
+      "video_id": "Ub2SsLvzdjA",
+      "video_title": "Stories Of The Prophets-08~Hud",
+      "theme_en": "Hud and the people of Ad",
+      "bridges": [
+        {
+          "to": "juz-amma/al-fajr",
+          "label": "Surah al-Fajr",
+          "note": "Allah recalls Iram of the pillars, the people of Ad"
+        },
+        {
+          "to": "new-muslim/the-six-pillars-of-iman",
+          "label": "The six pillars of iman",
+          "note": "Believing in every prophet is the fourth article of your faith"
+        }
+      ],
+      "status": "done"
+    },
+    {
+      "day": 9,
+      "episode_no": 9,
+      "kind": "episode",
+      "slug": "salih-and-the-she-camel",
+      "phase": "warners",
+      "video_id": "kHtxCfDNUSs",
+      "video_title": "Stories Of The Prophets-09~Saalih",
+      "theme_en": "Salih and the she-camel",
+      "bridges": [
+        {
+          "to": "juz-amma/ash-shams",
+          "label": "Surah ash-Shams",
+          "note": "The Qur'an's oath that ends with Thamud and the she-camel"
+        },
+        {
+          "to": "juz-amma/al-fajr",
+          "label": "Surah al-Fajr",
+          "note": "Thamud, who carved the rocks of the valley"
+        }
+      ],
+      "status": "done"
+    },
+    {
+      "day": 10,
+      "episode_no": 10,
+      "kind": "episode",
+      "slug": "ibrahim-the-friend-of-allah-part-1",
+      "phase": "khalil",
+      "video_id": "ZzWI0EsWrh4",
+      "video_title": "Stories Of The Prophets-10~Ibraheem / Abraham - (Part 1)",
+      "theme_en": "Ibrahim, the friend of Allah, part 1",
+      "bridges": [
+        {
+          "to": "new-muslim/the-shahada",
+          "label": "The shahada",
+          "note": "Ibrahim's pure tawhid: the one message every prophet carried"
+        },
+        {
+          "to": "asma-ul-husna/al-wadud",
+          "label": "Al-Wadud",
+          "note": "The Loving One, who took Ibrahim as a friend"
+        }
+      ],
+      "status": "done"
+    },
+    {
+      "day": 11,
+      "episode_no": 11,
+      "kind": "episode",
+      "slug": "ibrahim-the-friend-of-allah-part-2",
+      "phase": "khalil",
+      "video_id": "IcKEwfygNS4",
+      "video_title": "Stories Of The Prophets-11~Ibraheem - (Part 2)",
+      "theme_en": "Ibrahim, the friend of Allah, part 2",
+      "bridges": [
+        {
+          "to": "new-muslim/the-six-pillars-of-iman",
+          "label": "The six pillars of iman",
+          "note": "Believing in every prophet is the fourth article of your faith"
+        },
+        {
+          "to": "asma-ul-husna/al-latif-al-khabir",
+          "label": "Al-Latif, al-Khabir",
+          "note": "The Subtle, who cooled the fire around Ibrahim"
+        }
+      ],
+      "status": "done"
+    },
+    {
+      "day": 12,
+      "episode_no": 12,
+      "kind": "episode",
+      "slug": "ibrahim-and-ismail-part-3",
+      "phase": "khalil",
+      "video_id": "vgBElb0j5tQ",
+      "video_title": "Stories Of The Prophets-12~Ibraheem and Ismail - (Part 3)",
+      "theme_en": "Ibrahim and Ismail, part 3",
+      "bridges": [
+        {
+          "to": "new-muslim/hajj-the-pilgrimage",
+          "label": "Hajj, the pilgrimage",
+          "note": "The rites you will one day walk were Ibrahim and Ismail's submission"
+        },
+        {
+          "to": "seerah/the-farewell-hajj",
+          "label": "The Farewell Hajj",
+          "note": "The Prophet ﷺ completing the pilgrimage Ibrahim began"
+        }
+      ],
+      "status": "done"
+    },
+    {
+      "day": 13,
+      "episode_no": 13,
+      "kind": "episode",
+      "slug": "ibrahim-and-ismail-part-4",
+      "phase": "khalil",
+      "video_id": "fk9JJqui9r0",
+      "video_title": "Stories Of The Prophets-13~Ibraheem and Ismail - (Part 4)",
+      "theme_en": "Ibrahim and Ismail, part 4",
+      "bridges": [
+        {
+          "to": "new-muslim/hajj-the-pilgrimage",
+          "label": "Hajj, the pilgrimage",
+          "note": "The Ka'bah father and son raised together"
+        },
+        {
+          "to": "seerah/the-conquest-of-makkah-1",
+          "label": "The Conquest of Makkah",
+          "note": "The house of Ibrahim, cleared of idols at last"
+        }
+      ],
+      "status": "done"
+    },
+    {
+      "day": 14,
+      "episode_no": 14,
+      "kind": "episode",
+      "slug": "lut-and-the-overturned-towns",
+      "phase": "khalil",
+      "video_id": "oYsNjZOBo-o",
+      "video_title": "Stories Of The Prophets-14 - Lot [Lut] - Mufti Menk",
+      "theme_en": "Lut and the overturned towns",
+      "bridges": [
+        {
+          "to": "new-muslim/halal-and-haram",
+          "label": "Halal and haram",
+          "note": "A people who called the forbidden normal, and the prophet who would not"
+        }
+      ],
+      "status": "done"
+    },
+    {
+      "day": 15,
+      "episode_no": 15,
+      "kind": "episode",
+      "slug": "yaqub-and-yusuf-part-1",
+      "phase": "yusuf",
+      "video_id": "9QhbwC94V4g",
+      "video_title": "Stories Of The Prophets-15~Yaqub and Yusuf - Part 1",
+      "theme_en": "Yaqub and Yusuf, part 1",
+      "bridges": [
+        {
+          "to": "new-muslim/when-life-gets-in-the-way",
+          "label": "When life gets in the way",
+          "note": "Yaqub's beautiful patience when everything was taken from him"
+        }
+      ],
+      "status": "done"
+    },
+    {
+      "day": 16,
+      "episode_no": 16,
+      "kind": "episode",
+      "slug": "yusuf-part-2",
+      "phase": "yusuf",
+      "video_id": "TwgOZTP_kvo",
+      "video_title": "Stories Of The Prophets-16~ Yusuf - Part 2",
+      "theme_en": "Yusuf, part 2",
+      "bridges": [
+        {
+          "to": "asma-ul-husna/al-latif-al-khabir",
+          "label": "Al-Latif, al-Khabir",
+          "note": "The Subtle, who ran Yusuf's rescue through the very pit meant to bury him"
+        }
+      ],
+      "status": "done"
+    },
+    {
+      "day": 17,
+      "episode_no": 17,
+      "kind": "episode",
+      "slug": "yusuf-part-3",
+      "phase": "yusuf",
+      "video_id": "EoyRGktUows",
+      "video_title": "Stories Of The Prophets-17~Yusuf - Part 3",
+      "theme_en": "Yusuf, part 3",
+      "bridges": [
+        {
+          "to": "seerah/the-conquest-of-makkah-2",
+          "label": "The Conquest of Makkah",
+          "note": "The Prophet ﷺ forgave Quraysh with Yusuf's own words: no blame upon you today"
+        },
+        {
+          "to": "new-muslim/tawbah-when-you-slip",
+          "label": "Tawbah when you slip",
+          "note": "Yusuf, who chose forgiveness over revenge"
+        }
+      ],
+      "status": "done"
+    },
+    {
+      "day": 18,
+      "episode_no": 18,
+      "kind": "episode",
+      "slug": "ayyub-and-yunus",
+      "phase": "yusuf",
+      "video_id": "etLBpjWmBtc",
+      "video_title": "Stories Of The Prophets-18~Ayoub [Job] and Yunus [Jonas]",
+      "theme_en": "Ayyub's patience and Yunus in the dark",
+      "bridges": [
+        {
+          "to": "new-muslim/dua-talking-to-allah",
+          "label": "Du'a, talking to Allah",
+          "note": "The cry from the belly of the whale that Allah promised to answer for anyone"
+        },
+        {
+          "to": "new-muslim/tawbah-when-you-slip",
+          "label": "Tawbah when you slip",
+          "note": "There is no darkness Allah cannot reach into"
+        }
+      ],
+      "status": "done"
+    },
+    {
+      "day": 19,
+      "episode_no": 19,
+      "kind": "episode",
+      "slug": "musa-and-harun-part-1",
+      "phase": "musa",
+      "video_id": "PFCTEIiMuww",
+      "video_title": "Stories Of The Prophets-19~Musa [Moses] and Haroon [Aron]",
+      "theme_en": "Musa and Harun, part 1",
+      "bridges": [
+        {
+          "to": "asma-ul-husna/al-latif-al-khabir",
+          "label": "Al-Latif, al-Khabir",
+          "note": "The hand that floated Musa to the very palace that hunted him"
+        }
+      ],
+      "status": "done"
+    },
+    {
+      "day": 20,
+      "episode_no": 20,
+      "kind": "episode",
+      "slug": "musa-and-harun-part-2",
+      "phase": "musa",
+      "video_id": "vldKHcVG2xA",
+      "video_title": "Stories Of The Prophets-20~Musa [Moses] and Haroon [Aron] - Part 2",
+      "theme_en": "Musa and Harun, part 2",
+      "bridges": [
+        {
+          "to": "juz-amma/an-naziat",
+          "label": "Surah an-Naziat",
+          "note": "Allah retells Musa before Pharaoh: go, he has transgressed"
+        },
+        {
+          "to": "new-muslim/dua-talking-to-allah",
+          "label": "Du'a, talking to Allah",
+          "note": "Musa's du'a: open my chest, ease my task"
+        }
+      ],
+      "status": "done"
+    },
+    {
+      "day": 21,
+      "episode_no": 21,
+      "kind": "episode",
+      "slug": "musa-and-harun-part-3",
+      "phase": "musa",
+      "video_id": "jdX_AfjWL04",
+      "video_title": "Stories Of The Prophets-21~Musa [Moses] and Haroon [Aron] - Part 3",
+      "theme_en": "Musa and Harun, part 3",
+      "bridges": [
+        {
+          "to": "juz-amma/an-naziat",
+          "label": "Surah an-Naziat",
+          "note": "The drowning of Pharaoh, the warning Allah preserved"
+        }
+      ],
+      "status": "done"
+    },
+    {
+      "day": 22,
+      "episode_no": 22,
+      "kind": "episode",
+      "slug": "musa-and-bani-israil-part-1",
+      "phase": "musa",
+      "video_id": "7M4o6DWdbfc",
+      "video_title": "Stories Of The Prophets-22~Musa [Moses] and Bani Israel - Part 1",
+      "theme_en": "Musa and the Children of Israel, part 1",
+      "bridges": [
+        {
+          "to": "seerah/the-night-journey-2",
+          "label": "The Night Journey",
+          "note": "The Prophet ﷺ met Musa in the heavens, who sent him back for the prayers"
+        },
+        {
+          "to": "new-muslim/the-six-pillars-of-iman",
+          "label": "The six pillars of iman",
+          "note": "Believing in every prophet is the fourth article of your faith"
+        }
+      ],
+      "status": "done"
+    },
+    {
+      "day": 23,
+      "episode_no": 23,
+      "kind": "episode",
+      "slug": "musa-and-bani-israil-part-2",
+      "phase": "musa",
+      "video_id": "QdISexTuUCc",
+      "video_title": "Stories Of The Prophets-23~Musa [Moses] and Bani Israel - Part 2",
+      "theme_en": "Musa and the Children of Israel, part 2",
+      "bridges": [
+        {
+          "to": "new-muslim/why-we-pray",
+          "label": "Why we pray",
+          "note": "A nation given everything, who still had to learn to obey"
+        }
+      ],
+      "status": "done"
+    },
+    {
+      "day": 24,
+      "episode_no": 24,
+      "kind": "episode",
+      "slug": "shuayb-and-the-honest-scale",
+      "phase": "musa",
+      "video_id": "_9voHb5ZPTc",
+      "video_title": "Stories Of The Prophets-24~Shoaib",
+      "theme_en": "Shu'ayb and the honest scale",
+      "bridges": [
+        {
+          "to": "new-muslim/halal-and-haram",
+          "label": "Halal and haram",
+          "note": "Shu'ayb's people cheated the scales: faith reaches all the way into your trade"
+        }
+      ],
+      "status": "done"
+    },
+    {
+      "day": 25,
+      "episode_no": 25,
+      "kind": "episode",
+      "slug": "between-musa-and-dawud",
+      "phase": "kings",
+      "video_id": "SJHEzAqwuoo",
+      "video_title": "Stories Of The Prophets-25~Musa, Uzair, Hizqeel, Yushua, Dawud - Part 1",
+      "theme_en": "Between Musa and Dawud",
+      "bridges": [
+        {
+          "to": "new-muslim/the-six-pillars-of-iman",
+          "label": "The six pillars of iman",
+          "note": "Believing in every prophet is the fourth article of your faith"
+        },
+        {
+          "to": "new-muslim/the-six-pillars-of-iman",
+          "label": "Belief in the Last Day",
+          "note": "Uzair, and the man Allah let die a hundred years, then woke"
+        }
+      ],
+      "status": "done"
+    },
+    {
+      "day": 26,
+      "episode_no": 26,
+      "kind": "episode",
+      "slug": "dawud-the-grateful",
+      "phase": "kings",
+      "video_id": "_ODguRpnXq0",
+      "video_title": "Stories Of The Prophets-26~Dawud [David] - Part 2",
+      "theme_en": "Dawud, given a kingdom and kept grateful",
+      "bridges": [
+        {
+          "to": "asma-ul-husna/ash-shakur-al-halim",
+          "label": "Ash-Shakur",
+          "note": "The Appreciative, who taught Dawud's house to give thanks"
+        },
+        {
+          "to": "new-muslim/why-we-pray",
+          "label": "Why we pray",
+          "note": "Dawud, who fasted half his life and prayed half his night"
+        }
+      ],
+      "status": "done"
+    },
+    {
+      "day": 27,
+      "episode_no": 27,
+      "kind": "episode",
+      "slug": "sulayman-and-the-kingdom-part-1",
+      "phase": "kings",
+      "video_id": "cxLPytuySn0",
+      "video_title": "Stories Of The Prophets-27~Sulayman [Solomon}] - Part 1",
+      "theme_en": "Sulayman and the kingdom, part 1",
+      "bridges": [
+        {
+          "to": "asma-ul-husna/al-malik",
+          "label": "Al-Malik",
+          "note": "The King, who gave Sulayman a kingdom no one after would have"
+        }
+      ],
+      "status": "done"
+    },
+    {
+      "day": 28,
+      "episode_no": 28,
+      "kind": "episode",
+      "slug": "sulayman-and-the-line-of-zakariyya",
+      "phase": "kings",
+      "video_id": "gP0kxuGP7_s",
+      "video_title": "Stories Of The Prophets-28~Sulayman  P2 , Ilyaas, Dhul Kifl, Zakariyyah, Yahya",
+      "theme_en": "Sulayman, and the line of Zakariyya",
+      "bridges": [
+        {
+          "to": "new-muslim/dua-talking-to-allah",
+          "label": "Du'a, talking to Allah",
+          "note": "Zakariyya, who asked for a child in old age, and was given Yahya"
+        }
+      ],
+      "status": "done"
+    },
+    {
+      "day": 29,
+      "episode_no": 29,
+      "kind": "finale",
+      "slug": "isa-the-word-of-allah",
+      "phase": "isa",
+      "video_id": "y0pc95YEloA",
+      "video_title": "Stories Of The Prophets-29~Isa [Jesus]",
+      "theme_en": "Isa, the word of Allah",
+      "bridges": [
+        {
+          "to": "seerah/specialities-of-the-prophet-1",
+          "label": "The Seerah begins",
+          "note": "Isa foretold a messenger named Ahmad: the chain reaches Muhammad ﷺ"
+        },
+        {
+          "to": "new-muslim/who-is-muhammad",
+          "label": "Who is Muhammad ﷺ",
+          "note": "The prophet Isa promised would come after him"
+        },
+        {
+          "to": "new-muslim/the-six-pillars-of-iman",
+          "label": "The six pillars of iman",
+          "note": "Believing in every prophet is the fourth article of your faith"
+        }
+      ],
+      "status": "done"
+    }
+  ]
+}

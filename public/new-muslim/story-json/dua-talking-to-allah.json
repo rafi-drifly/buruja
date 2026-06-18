@@ -1,0 +1,100 @@
+{
+  "slug": "dua-talking-to-allah",
+  "day": 22,
+  "lesson_no": 22,
+  "tier": 2,
+  "kind": "new-muslim",
+  "name": "Du'a",
+  "epithet": "Talking to Allah",
+  "title": "Du'a: Talking to Allah in Your Own Words, for New Muslims",
+  "meta_description": "A gentle guide to du'a for new Muslims: that you can talk to Allah directly, in any language, any time, that He commands and loves it, and what to hold onto when a prayer feels unanswered.",
+  "keywords": ["what is dua", "how to make dua", "can I make dua in English", "talking to Allah", "does Allah answer dua", "dua for new Muslims", "supplication in Islam"],
+  "lede": [
+    "The formal prayer, salah, has its set words and Arabic, and you are learning it. But there is another kind of prayer with no script at all, and it may be the one that saves you on the hard nights: du'a, simply talking to Allah. Telling Him what you fear, what you want, what you are sorry for, in your own words.",
+    "Many new Muslims do not realise they are allowed to do this, freely, constantly, in any language. You are. It is not a lesser prayer. It is the marrow of worship, and the door to it is never closed."
+  ],
+  "do_today": {
+    "label": "Just for today",
+    "text": "Tonight, in your own language, out loud or in your heart, say one real thing to Allah. Not a memorised formula, just the truth: a worry, a thank-you, a plea for help. Speak to Him as the Near One who is listening, because He is. That honest sentence is du'a, and it is worship."
+  },
+  "sections": [
+    {
+      "h2": "He told you to ask",
+      "paras": [
+        "You might fear that bothering God with your small needs is presumptuous. The opposite is true. Allah does not merely permit you to ask; He commands it, and promises an answer:"
+      ],
+      "ayah": {
+        "arabic": "وَقَالَ رَبُّكُمُ ٱدْعُونِىٓ أَسْتَجِبْ لَكُمْ ۚ إِنَّ ٱلَّذِينَ يَسْتَكْبِرُونَ عَنْ عِبَادَتِى سَيَدْخُلُونَ جَهَنَّمَ دَاخِرِينَ",
+        "text": "And your Lord says, 'Call upon Me; I will respond to you.' Indeed, those who disdain My worship will enter Hell rendered contemptible.",
+        "ref": "Ghafir 40:60"
+      },
+      "tafsir": { "source": "Tafsir as-Sa'di", "text": "As-Sa'di reads this as a mark of Allah's kindness: He does not merely allow you to call on Him, He commands it and promises to respond, and He counts turning away from asking Him as a kind of arrogance. So to raise your hands and ask is not an imposition on Allah; it is one of the acts of worship He most loves." }
+    },
+    {
+      "h2": "In any language, any words",
+      "paras": [
+        "Here is the freedom no one may have told you: du'a does not have to be in Arabic, and it does not have to be beautiful. The set Arabic is for the formal salah; your personal conversation with Allah can be in English, or your mother tongue, or broken half-sentences through tears. He understands all of it, because He understands the heart before the words.",
+        "You can make du'a anywhere and anytime, walking, driving, lying awake, washing dishes. There are beloved memorised du'as from the Prophet ﷺ that you will gather over time, and they are treasures. But never let learning the formal ones stop you from talking to Allah right now, today, exactly as you are."
+      ]
+    },
+    {
+      "h2": "He is near, and He remembers you",
+      "paras": [
+        "When you turn to Him, you are not calling across a vast distance to someone who might not be listening. You are speaking to the One who is closer than your own pulse, and who answers a relationship of remembrance with remembrance:"
+      ],
+      "ayah": {
+        "arabic": "فَٱذْكُرُونِىٓ أَذْكُرْكُمْ وَٱشْكُرُوا۟ لِى وَلَا تَكْفُرُونِ",
+        "text": "So remember Me; I will remember you. And be grateful to Me and do not deny Me.",
+        "ref": "Al-Baqarah 2:152"
+      }
+    },
+    {
+      "h2": "When it feels unanswered",
+      "paras": [
+        "Sometimes you will ask and ask and seem to get silence. Hold onto what the Prophet ﷺ taught: no sincere du'a is ever wasted. Allah either gives you what you asked, or holds it back and gives you something better, or stores its full weight for you on the Day you will need it most. The answer is always yes; only the form and the timing are His.",
+        "So keep asking, and lean into the moments He made especially open: the last third of the night, the time you are in prostration, the moments before you break a fast, while it rains, between the call to prayer and the prayer itself. And ask Him for everything, the enormous and the tiny, because a Lord who tells you to call on Him is not waiting to be impressed. He is waiting to be asked."
+      ]
+    }
+  ],
+  "dua": {
+    "arabic": "رَبِّ إِنِّى لِمَآ أَنزَلْتَ إِلَىَّ مِنْ خَيْرٍ فَقِيرٌ",
+    "translit": "Rabbi inni lima anzalta ilayya min khayrin faqir",
+    "meaning": "My Lord, indeed I am, for whatever good You would send down to me, in need. (Al-Qasas 28:24, the du'a of Musa)"
+  },
+  "lessons_heading": "Carry this with you",
+  "lessons_intro": "If you remember nothing else from this page, remember that the door of du'a is never closed.",
+  "lessons": [
+    { "bold": "He commanded you to ask.", "text": "'Call upon Me; I will respond.' Asking is not presumptuous; it is worship He loves, and turning away from it is the real arrogance." },
+    { "bold": "Any language, any words, any time.", "text": "Du'a needs no Arabic and no polish. Speak to Allah plainly, in your own tongue, anywhere. He hears the heart before the words." },
+    { "bold": "He is near, and remembers you.", "text": "You are not calling across a distance. 'Remember Me; I will remember you.' He is closer than your own pulse." },
+    { "bold": "No du'a is ever wasted.", "text": "He gives what you asked, or something better, or stores its weight for the Day you need it most. The answer is always yes." }
+  ],
+  "faq": [
+    { "q": "What is du'a?", "a": "Du'a is personal supplication: talking to Allah directly, asking Him, thanking Him, confiding in Him. Unlike the formal prayer (salah), it has no set form or required language, and it can be made anytime and anywhere. The Prophet ﷺ called du'a the essence of worship." },
+    { "q": "Can I make du'a in English or my own language?", "a": "Yes, absolutely. Your personal du'a can be in any language; Allah understands every tongue and the heart behind it. Only the formal salah is recited in Arabic. Speak to Allah in whatever words come honestly to you." },
+    { "q": "Does Allah always answer du'a?", "a": "The Prophet ﷺ taught that no sincere du'a is wasted: Allah either grants what you asked, replaces it with something better, or stores its reward for the Hereafter. The answer is always yes in some form; the timing and the shape are His wisdom." },
+    { "q": "When are du'as most likely to be accepted?", "a": "Among the times the Prophet ﷺ highlighted are the last third of the night, while in prostration, before breaking a fast, during rain, and between the call to prayer (adhan) and the prayer. But you may call on Allah at any moment; He is always near." },
+    { "q": "Do I have to memorize Arabic du'as?", "a": "No. Memorising the Prophet's ﷺ du'as is a beautiful goal you grow into over time, and they are treasures. But you should never wait to learn them before talking to Allah. Speak to Him today, in your own words." }
+  ],
+  "closing_heading": "A du'a about du'a",
+  "closing": [
+    "Of everything you have learned on this path, this may be the one to reach for first when the floor drops out from under you: you can talk to Allah, right now, in your own words, and He is listening, and He has promised to answer. No appointment, no Arabic, no waiting until you are good enough. Just a near Lord and an honest heart.",
+    "Tomorrow we meet the mercy that makes all of this survivable: tawbah, turning back to Allah after you slip. Because you will slip, and the same door of du'a you opened today is the door you will walk back through, again and again, and find Him waiting.",
+    "O Allah, You told me to call on You and promised to answer. So here I am, calling. Loosen my tongue with You, make me one who asks You for everything and thanks You for everything, and never let me be too proud, or too ashamed, to speak to You. I am in need of every good You would send me. Ameen."
+  ],
+  "source_note": "Qur'an citations (40:60, 2:152, and the du'a from 28:24) are from the Saheeh International translation, with the Arabic in Uthmani script verified via quran.ai (edition ar-uthmani-minimal). The 'From the tafsir' note on 40:60 is a faithful condensed rendering of Tafsir as-Sa'di (edition ar-saadi, via quran.ai), not a verbatim quotation. The teaching that du'a is the essence of worship is reported in Jami at-Tirmidhi 3372 and Sunan Abi Dawud 1479 (sahih); the 'one of three' outcomes of du'a is in Musnad Ahmad and Jami at-Tirmidhi (graded hasan/sahih). FOR SCHOLAR REVIEW: please confirm the hadith references and grades (du'a as worship, the three outcomes, the recommended times) before publication.",
+  "next": "tawbah-when-you-slip",
+  "bridges_to": "asma-ul-husna/al-qarib-al-mujib",
+  "related": [
+    {"to": "asma-ul-husna/al-qarib-al-mujib", "label": "Al-Qarib, Al-Mujib", "note": "the Near, the Responsive: the two names that are the whole promise of du'a"},
+    {"to": "asma-ul-husna/ar-rahman-ar-rahim", "label": "Ar-Rahman, Ar-Rahim", "note": "the Mercy that leans toward you the moment you call"}
+  ],
+  "social": {
+    "hook": "Many new Muslims do not realise they are allowed to do this: talk to Allah directly, in any language, anytime, in your own words. He did not just permit it. He commanded it: 'Call upon Me; I will respond to you.'",
+    "caption": "Du'a: simply talking to Allah, in your own words and your own tongue, and what to hold onto when a prayer feels unanswered. Lesson 22 of The New Muslim Path. Buruja."
+  },
+  "email": {
+    "subject": "You can just talk to Allah",
+    "preview": "Du'a needs no Arabic and no polish. He commanded you to ask and promised to answer. Here is how."
+  }
+}

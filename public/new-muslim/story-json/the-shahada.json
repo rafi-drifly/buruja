@@ -1,0 +1,118 @@
+{
+  "slug": "the-shahada",
+  "day": 3,
+  "lesson_no": 3,
+  "tier": 1,
+  "kind": "new-muslim",
+  "name": "The Shahada",
+  "epithet": "The door you walked through",
+  "title": "The Shahada in Depth: The Words That Made You Muslim",
+  "meta_description": "You entered Islam with one sentence. A gentle, deeper look at the shahada for new Muslims: what 'there is no god but Allah, Muhammad is His Messenger' really means, and why it is the lightest and heaviest of words.",
+  "keywords": ["what does the shahada mean", "shahada meaning", "la ilaha illa Allah meaning", "two halves of the shahada", "testimony of faith Islam", "new Muslim shahada"],
+  "lede": [
+    "You walked through a door made of one sentence. On the first day we only asked you to say it. Today we sit with it, because the shahada is small enough to fit in a single breath and large enough to hold your whole life.",
+    "Say it again with me, slowly, before we begin: there is no god but Allah, and Muhammad is the Messenger of Allah. Now let us look at what you actually said."
+  ],
+  "do_today": {
+    "label": "Just for today",
+    "text": "Say the shahada once today with your eyes closed, slowly enough to hear each word land. You are not just repeating sounds. You are bearing witness. And as you will see below, the very same testimony is spoken by Allah Himself in the Qur'an, and by His angels. You are in immense company."
+  },
+  "sections": [
+    {
+      "h2": "What you actually said",
+      "paras": [
+        "The word shahada means a testimony, the kind a witness gives. A witness does not invent what they say. They report what they have come to know is true. When you say the shahada, you are not making a wish or signing up for something. You are standing up and testifying to the deepest truth there is.",
+        "It has two halves, and they belong together. The first is about God: there is no god but Allah. The second is about the way to Him: Muhammad is the Messenger of Allah. One tells you Who to turn to. The other tells you how you will ever know what He wants. Take one without the other and the door does not open. Together, they are the whole of it."
+      ]
+    },
+    {
+      "h2": "There is no god but Allah",
+      "tafsir": {"source": "Tafsir as-Sa'di", "text": "As-Sa'di notes that the 'knowledge' Allah commands here is not merely words on the tongue: it is the heart's firm recognition of the meaning of 'there is no god but Allah,' completed by living according to it, and he calls this an obligation upon every single person, with no one excused."},
+      "paras": [
+        "Look closely at the first half, because it is built in a beautiful order. It does not begin by saying 'there is a God.' It begins by clearing the ground: there is no god. None at all, of any kind. And only then does it plant the one truth in the cleared earth: except Allah.",
+        "So before you affirm Him, you deny everything that was pretending to be Him. Every smaller master you were serving, the money, the image, the fear, the craving, the approval of the crowd, you set it down first. La ilaha, no gods. Illa Allah, except the One. It is a sentence that empties your hands so they can finally hold the only thing worth holding. Allah states this same truth about Himself:"
+      ],
+      "ayah": {
+        "arabic": "فَٱعْلَمْ أَنَّهُۥ لَآ إِلَٰهَ إِلَّا ٱللَّهُ",
+        "text": "So know that there is no deity except Allah.",
+        "ref": "Muhammad 47:19"
+      }
+    },
+    {
+      "h2": "And you are not testifying alone",
+      "paras": [
+        "Here is something to steady you. The words you spoke, perhaps nervously, perhaps alone in a quiet room, are the same words the Creator speaks about Himself, and the same words His angels speak. When you said the shahada, you joined a testimony that was already being given across the heavens:"
+      ],
+      "ayah": {
+        "arabic": "شَهِدَ ٱللَّهُ أَنَّهُۥ لَآ إِلَٰهَ إِلَّا هُوَ وَٱلْمَلَٰٓئِكَةُ وَأُو۟لُوا۟ ٱلْعِلْمِ قَآئِمًۢا بِٱلْقِسْطِ ۚ لَآ إِلَٰهَ إِلَّا هُوَ ٱلْعَزِيزُ ٱلْحَكِيمُ",
+        "text": "Allah witnesses that there is no deity except Him, and so do the angels and those of knowledge, maintaining creation in justice. There is no deity except Him, the Exalted in Might, the Wise.",
+        "ref": "Aal 'Imran 3:18"
+      }
+    },
+    {
+      "h2": "The One you are left with is merciful",
+      "paras": [
+        "And notice that when everything false is cleared away, the One who remains is not cold or distant. He attaches His mercy to His oneness, in the same breath, so you know exactly Who you are left alone with:"
+      ],
+      "ayah": {
+        "arabic": "وَإِلَٰهُكُمْ إِلَٰهٌ وَٰحِدٌ ۖ لَّآ إِلَٰهَ إِلَّا هُوَ ٱلرَّحْمَٰنُ ٱلرَّحِيمُ",
+        "text": "And your god is one God. There is no deity except Him, the Entirely Merciful, the Especially Merciful.",
+        "ref": "Al-Baqarah 2:163"
+      }
+    },
+    {
+      "h2": "And Muhammad is His Messenger",
+      "paras": [
+        "The second half saves you from a problem you might not have noticed. If there is one God, and He has wishes for how we live, how would you ever come to know them? You could guess for a lifetime. So He did not leave it to guessing. He sent a Messenger to show the way plainly, in a human life you can actually follow.",
+        "To say 'Muhammad is the Messenger of Allah' is to accept that what he brought is from God, and to take him, rather than the trends of the age or the habits you happened to inherit, as the trustworthy guide. That is why the two halves cannot be split. The first gives you the destination. The second gives you the map, and the one who walked it first.",
+        "And these words weigh almost nothing on the tongue and almost everything on the scale. The Prophet ﷺ said:"
+      ],
+      "hadith": {
+        "text": "Whoever dies knowing that there is no god but Allah will enter Paradise.",
+        "source": "Sahih Muslim 26",
+        "grade": "sahih"
+      }
+    }
+  ],
+  "dua": {
+    "arabic": "رَبَّنَا لَا تُزِغْ قُلُوبَنَا بَعْدَ إِذْ هَدَيْتَنَا وَهَبْ لَنَا مِن لَّدُنكَ رَحْمَةً ۚ إِنَّكَ أَنتَ ٱلْوَهَّابُ",
+    "translit": "Rabbana la tuzigh qulubana ba'da idh hadaytana wa hab lana min ladunka rahmah, innaka anta-l-Wahhab",
+    "meaning": "Our Lord, let not our hearts deviate after You have guided us, and grant us from Yourself mercy. Indeed, You are the Bestower. (Aal 'Imran 3:8)"
+  },
+  "lessons_heading": "Carry this with you",
+  "lessons_intro": "If you remember nothing else from this page, remember these four things about the words you said.",
+  "lessons": [
+    { "bold": "Shahada means testimony.", "text": "You are not wishing or joining. You are bearing witness to what is true." },
+    { "bold": "First empty, then affirm.", "text": "'No god' clears away every false master. 'Except Allah' plants the only One worth serving." },
+    { "bold": "The two halves are one door.", "text": "Allah is the destination. The Messenger ﷺ is the map. Neither works without the other." },
+    { "bold": "The lightest words, the heaviest weight.", "text": "Whoever dies upon them enters Paradise. You have spoken the first word of a believer's life." }
+  ],
+  "faq": [
+    { "q": "What exactly is the shahada?", "a": "The shahada is the Islamic testimony of faith: 'I bear witness that there is no god but Allah, and I bear witness that Muhammad is the Messenger of Allah.' Saying it sincerely, with belief in its meaning, is what makes a person Muslim." },
+    { "q": "Why does it start with 'there is no god'?", "a": "The first half denies before it affirms. 'There is no god' clears away every false object of worship, and 'but Allah' affirms the one true God. You set down every smaller master before you take hold of the One." },
+    { "q": "Does saying the shahada really erase my past?", "a": "Yes. The Prophet ﷺ taught that entering Islam wipes out what came before it, and the Qur'an says Allah forgives all sins. When you embraced Islam, you began with a clean page." },
+    { "q": "What if I said it but did not feel completely certain?", "a": "Certainty grows. You said it with willingness, and that is the true beginning. The du'a of this lesson, asking Allah to keep your heart steady, is made for exactly this. Faith deepens with knowledge and practice; it does not arrive all at once." },
+    { "q": "Do I have to keep repeating the shahada?", "a": "You do not need to repeat it to remain Muslim; once said sincerely, you are Muslim. But Muslims say it often, in the daily prayer and in remembrance, because it is the heart of the faith and a comfort to the soul." }
+  ],
+  "closing_heading": "A du'a to keep your heart steady",
+  "closing": [
+    "You walked through a door of one sentence, and today you saw how much it holds: a clearing-away and a holding-fast, a testimony spoken by Allah and His angels long before it was ever spoken by you, a destination and the guide who shows the way.",
+    "Tomorrow we begin to act on it. You will learn wudu, the simple washing that prepares you to stand before the One you just testified to. The words are spoken. Now, gently, we start to live them.",
+    "O Allah, You guided my heart when it did not know how to ask. Do not let it slip back now. Keep it turned toward You, steady it when it shakes, and let the words I spoke grow roots in me. You are the Bestower. I am asking. Ameen."
+  ],
+  "source_note": "Qur'an citations (47:19, 3:18, 2:163, and the du'a from 3:8) are from the Saheeh International translation, verified against the canonical Arabic text via quran.ai (Arabic in Uthmani script, edition ar-uthmani-minimal). Hadith: 'Whoever dies knowing that there is no god but Allah will enter Paradise,' Sahih Muslim 26 (sahih); the teaching that Islam wipes out what came before it is the hadith of 'Amr ibn al-'As, Sahih Muslim 121 (sahih). FOR SCHOLAR REVIEW: confirm the explanation of negation-then-affirmation in the kalimah, the statement on shahada validity and the erasing of past sins, and the hadith references before publication. The 'From the tafsir' note is a faithful condensed rendering of Tafsir as-Sa'di (edition ar-saadi, via quran.ai), not a verbatim quotation; FOR SCHOLAR REVIEW: confirm it reflects as-Sa'di accurately.",
+  "next": "how-to-make-wudu",
+  "bridges_to": "companions/abu-bakr-part-1",
+  "related": [
+    {"to": "companions/abu-bakr-part-1", "label": "Abu Bakr", "note": "among the very first to say it and mean it"},
+    {"to": "companions/bilal-ibn-rabah", "label": "Bilal ibn Rabah", "note": "who held the testimony under torture: One, One"}
+  ],
+  "social": {
+    "hook": "The shahada empties your hands before it fills them. 'There is no god' sets down every false master. 'But Allah' plants the only One worth holding. You spoke a testimony Allah and His angels were already speaking.",
+    "caption": "You entered Islam with one sentence. Here is what it really means, and why it is the lightest and heaviest of all words. Lesson 3 of The New Muslim Path. Buruja."
+  },
+  "email": {
+    "subject": "The one sentence that made you Muslim",
+    "preview": "Small enough for a breath, large enough to hold your whole life. A closer look at the shahada."
+  }
+}

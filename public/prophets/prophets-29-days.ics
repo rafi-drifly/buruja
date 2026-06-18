@@ -1,0 +1,543 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Buruja//Stories of the Prophets 29 Days//EN
+X-WR-CALDESC:One prophet every day\, retold faithfully from Mufti Ismail Me
+ nk's Stories of the Prophets\, each connected back to the Qur'an and the l
+ ife of the Prophet ﷺ. A sadaqah jariyah by Buruja.
+X-WR-CALNAME:Stories of the Prophets: 29 days
+BEGIN:VEVENT
+SUMMARY:Stories of the Prophets\, day 1: Why Allah tells us their stories
+DTSTART:20260831T090000
+DTEND:20260831T091500
+UID:prophets-day-01@buruja.com
+DESCRIPTION:Why their stories\n\nWhy Allah tells us their stories\n\nRead t
+ oday's entry: https://buruja.com/prophets/introduction-to-the-prophets/\nW
+ atch the episode with Mufti Menk: https://www.youtube.com/watch?v=IQjzErJl
+ pJ0\n\nRetold faithfully from Mufti Ismail Menk's Stories of the Prophets.
+  Buruja\, buruja.com
+TRANSP:TRANSPARENT
+URL:https://buruja.com/prophets/introduction-to-the-prophets/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Stories of the Prophets\, day 1: Why Allah tells us their stori
+ es
+TRIGGER:P0D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Stories of the Prophets\, day 2: The creation of Adam
+DTSTART:20260901T090000
+DTEND:20260901T091500
+UID:prophets-day-02@buruja.com
+DESCRIPTION:The first human beings\n\nThe creation of Adam\n\nRead today's 
+ entry: https://buruja.com/prophets/the-creation-of-adam/\nWatch the episod
+ e with Mufti Menk: https://www.youtube.com/watch?v=mknf5MB1qDI\n\nRetold f
+ aithfully from Mufti Ismail Menk's Stories of the Prophets. Buruja\, buruj
+ a.com
+TRANSP:TRANSPARENT
+URL:https://buruja.com/prophets/the-creation-of-adam/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Stories of the Prophets\, day 2: The creation of Adam
+TRIGGER:P0D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Stories of the Prophets\, day 3: Adam on earth\, part 1
+DTSTART:20260902T090000
+DTEND:20260902T091500
+UID:prophets-day-03@buruja.com
+DESCRIPTION:The first human beings\n\nAdam on earth\, part 1\n\nRead today'
+ s entry: https://buruja.com/prophets/adam-on-earth-part-1/\nWatch the epis
+ ode with Mufti Menk: https://www.youtube.com/watch?v=J9IDLOza_KM\n\nRetold
+  faithfully from Mufti Ismail Menk's Stories of the Prophets. Buruja\, bur
+ uja.com
+TRANSP:TRANSPARENT
+URL:https://buruja.com/prophets/adam-on-earth-part-1/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Stories of the Prophets\, day 3: Adam on earth\, part 1
+TRIGGER:P0D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Stories of the Prophets\, day 4: Adam on earth\, part 2
+DTSTART:20260903T090000
+DTEND:20260903T091500
+UID:prophets-day-04@buruja.com
+DESCRIPTION:The first human beings\n\nAdam on earth\, part 2\n\nRead today'
+ s entry: https://buruja.com/prophets/adam-on-earth-part-2/\nWatch the epis
+ ode with Mufti Menk: https://www.youtube.com/watch?v=WNPjOOwXOIk\n\nRetold
+  faithfully from Mufti Ismail Menk's Stories of the Prophets. Buruja\, bur
+ uja.com
+TRANSP:TRANSPARENT
+URL:https://buruja.com/prophets/adam-on-earth-part-2/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Stories of the Prophets\, day 4: Adam on earth\, part 2
+TRIGGER:P0D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Stories of the Prophets\, day 5: Shith and the trust passed on
+DTSTART:20260904T090000
+DTEND:20260904T091500
+UID:prophets-day-05@buruja.com
+DESCRIPTION:The first human beings\n\nShith and the trust passed on\n\nRead
+  today's entry: https://buruja.com/prophets/shith-the-trust-passed-on/\nWa
+ tch the episode with Mufti Menk: https://www.youtube.com/watch?v=OAHdqM72T
+ vA\n\nRetold faithfully from Mufti Ismail Menk's Stories of the Prophets. 
+ Buruja\, buruja.com
+TRANSP:TRANSPARENT
+URL:https://buruja.com/prophets/shith-the-trust-passed-on/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Stories of the Prophets\, day 5: Shith and the trust passed on
+TRIGGER:P0D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Stories of the Prophets\, day 6: Idris\, raised to a high place
+DTSTART:20260905T090000
+DTEND:20260905T091500
+UID:prophets-day-06@buruja.com
+DESCRIPTION:The first human beings\n\nIdris\, raised to a high place\n\nRea
+ d today's entry: https://buruja.com/prophets/idris-raised-to-a-high-place/
+ \nWatch the episode with Mufti Menk: https://www.youtube.com/watch?v=eGgNr
+ s9UyRU\n\nRetold faithfully from Mufti Ismail Menk's Stories of the Prophe
+ ts. Buruja\, buruja.com
+TRANSP:TRANSPARENT
+URL:https://buruja.com/prophets/idris-raised-to-a-high-place/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Stories of the Prophets\, day 6: Idris\, raised to a high place
+TRIGGER:P0D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Stories of the Prophets\, day 7: Nuh and the flood
+DTSTART:20260906T090000
+DTEND:20260906T091500
+UID:prophets-day-07@buruja.com
+DESCRIPTION:The early warners\n\nNuh and the flood\n\nRead today's entry: h
+ ttps://buruja.com/prophets/nuh-and-the-flood/\nWatch the episode with Muft
+ i Menk: https://www.youtube.com/watch?v=AclAV0cY5a8\n\nRetold faithfully f
+ rom Mufti Ismail Menk's Stories of the Prophets. Buruja\, buruja.com
+TRANSP:TRANSPARENT
+URL:https://buruja.com/prophets/nuh-and-the-flood/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Stories of the Prophets\, day 7: Nuh and the flood
+TRIGGER:P0D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Stories of the Prophets\, day 8: Hud and the people of Ad
+DTSTART:20260907T090000
+DTEND:20260907T091500
+UID:prophets-day-08@buruja.com
+DESCRIPTION:The early warners\n\nHud and the people of Ad\n\nRead today's e
+ ntry: https://buruja.com/prophets/hud-and-the-people-of-ad/\nWatch the epi
+ sode with Mufti Menk: https://www.youtube.com/watch?v=Ub2SsLvzdjA\n\nRetol
+ d faithfully from Mufti Ismail Menk's Stories of the Prophets. Buruja\, bu
+ ruja.com
+TRANSP:TRANSPARENT
+URL:https://buruja.com/prophets/hud-and-the-people-of-ad/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Stories of the Prophets\, day 8: Hud and the people of Ad
+TRIGGER:P0D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Stories of the Prophets\, day 9: Salih and the she-camel
+DTSTART:20260908T090000
+DTEND:20260908T091500
+UID:prophets-day-09@buruja.com
+DESCRIPTION:The early warners\n\nSalih and the she-camel\n\nRead today's en
+ try: https://buruja.com/prophets/salih-and-the-she-camel/\nWatch the episo
+ de with Mufti Menk: https://www.youtube.com/watch?v=kHtxCfDNUSs\n\nRetold 
+ faithfully from Mufti Ismail Menk's Stories of the Prophets. Buruja\, buru
+ ja.com
+TRANSP:TRANSPARENT
+URL:https://buruja.com/prophets/salih-and-the-she-camel/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Stories of the Prophets\, day 9: Salih and the she-camel
+TRIGGER:P0D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Stories of the Prophets\, day 10: Ibrahim\, the friend of Allah\, p
+ art 1
+DTSTART:20260909T090000
+DTEND:20260909T091500
+UID:prophets-day-10@buruja.com
+DESCRIPTION:The friend of the Most Merciful\n\nIbrahim\, the friend of Alla
+ h\, part 1\n\nRead today's entry: https://buruja.com/prophets/ibrahim-the-
+ friend-of-allah-part-1/\nWatch the episode with Mufti Menk: https://www.yo
+ utube.com/watch?v=ZzWI0EsWrh4\n\nRetold faithfully from Mufti Ismail Menk'
+ s Stories of the Prophets. Buruja\, buruja.com
+TRANSP:TRANSPARENT
+URL:https://buruja.com/prophets/ibrahim-the-friend-of-allah-part-1/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Stories of the Prophets\, day 10: Ibrahim\, the friend of Allah
+ \, part 1
+TRIGGER:P0D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Stories of the Prophets\, day 11: Ibrahim\, the friend of Allah\, p
+ art 2
+DTSTART:20260910T090000
+DTEND:20260910T091500
+UID:prophets-day-11@buruja.com
+DESCRIPTION:The friend of the Most Merciful\n\nIbrahim\, the friend of Alla
+ h\, part 2\n\nRead today's entry: https://buruja.com/prophets/ibrahim-the-
+ friend-of-allah-part-2/\nWatch the episode with Mufti Menk: https://www.yo
+ utube.com/watch?v=IcKEwfygNS4\n\nRetold faithfully from Mufti Ismail Menk'
+ s Stories of the Prophets. Buruja\, buruja.com
+TRANSP:TRANSPARENT
+URL:https://buruja.com/prophets/ibrahim-the-friend-of-allah-part-2/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Stories of the Prophets\, day 11: Ibrahim\, the friend of Allah
+ \, part 2
+TRIGGER:P0D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Stories of the Prophets\, day 12: Ibrahim and Ismail\, part 3
+DTSTART:20260911T090000
+DTEND:20260911T091500
+UID:prophets-day-12@buruja.com
+DESCRIPTION:The friend of the Most Merciful\n\nIbrahim and Ismail\, part 3\
+ n\nRead today's entry: https://buruja.com/prophets/ibrahim-and-ismail-part
+ -3/\nWatch the episode with Mufti Menk: https://www.youtube.com/watch?v=vg
+ BElb0j5tQ\n\nRetold faithfully from Mufti Ismail Menk's Stories of the Pro
+ phets. Buruja\, buruja.com
+TRANSP:TRANSPARENT
+URL:https://buruja.com/prophets/ibrahim-and-ismail-part-3/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Stories of the Prophets\, day 12: Ibrahim and Ismail\, part 3
+TRIGGER:P0D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Stories of the Prophets\, day 13: Ibrahim and Ismail\, part 4
+DTSTART:20260912T090000
+DTEND:20260912T091500
+UID:prophets-day-13@buruja.com
+DESCRIPTION:The friend of the Most Merciful\n\nIbrahim and Ismail\, part 4\
+ n\nRead today's entry: https://buruja.com/prophets/ibrahim-and-ismail-part
+ -4/\nWatch the episode with Mufti Menk: https://www.youtube.com/watch?v=fk
+ 9JJqui9r0\n\nRetold faithfully from Mufti Ismail Menk's Stories of the Pro
+ phets. Buruja\, buruja.com
+TRANSP:TRANSPARENT
+URL:https://buruja.com/prophets/ibrahim-and-ismail-part-4/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Stories of the Prophets\, day 13: Ibrahim and Ismail\, part 4
+TRIGGER:P0D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Stories of the Prophets\, day 14: Lut and the overturned towns
+DTSTART:20260913T090000
+DTEND:20260913T091500
+UID:prophets-day-14@buruja.com
+DESCRIPTION:The friend of the Most Merciful\n\nLut and the overturned towns
+ \n\nRead today's entry: https://buruja.com/prophets/lut-and-the-overturned
+ -towns/\nWatch the episode with Mufti Menk: https://www.youtube.com/watch?
+ v=oYsNjZOBo-o\n\nRetold faithfully from Mufti Ismail Menk's Stories of the
+  Prophets. Buruja\, buruja.com
+TRANSP:TRANSPARENT
+URL:https://buruja.com/prophets/lut-and-the-overturned-towns/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Stories of the Prophets\, day 14: Lut and the overturned towns
+TRIGGER:P0D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Stories of the Prophets\, day 15: Yaqub and Yusuf\, part 1
+DTSTART:20260914T090000
+DTEND:20260914T091500
+UID:prophets-day-15@buruja.com
+DESCRIPTION:Tested\, then chosen\n\nYaqub and Yusuf\, part 1\n\nRead today'
+ s entry: https://buruja.com/prophets/yaqub-and-yusuf-part-1/\nWatch the ep
+ isode with Mufti Menk: https://www.youtube.com/watch?v=9QhbwC94V4g\n\nReto
+ ld faithfully from Mufti Ismail Menk's Stories of the Prophets. Buruja\, b
+ uruja.com
+TRANSP:TRANSPARENT
+URL:https://buruja.com/prophets/yaqub-and-yusuf-part-1/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Stories of the Prophets\, day 15: Yaqub and Yusuf\, part 1
+TRIGGER:P0D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Stories of the Prophets\, day 16: Yusuf\, part 2
+DTSTART:20260915T090000
+DTEND:20260915T091500
+UID:prophets-day-16@buruja.com
+DESCRIPTION:Tested\, then chosen\n\nYusuf\, part 2\n\nRead today's entry: h
+ ttps://buruja.com/prophets/yusuf-part-2/\nWatch the episode with Mufti Men
+ k: https://www.youtube.com/watch?v=TwgOZTP_kvo\n\nRetold faithfully from M
+ ufti Ismail Menk's Stories of the Prophets. Buruja\, buruja.com
+TRANSP:TRANSPARENT
+URL:https://buruja.com/prophets/yusuf-part-2/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Stories of the Prophets\, day 16: Yusuf\, part 2
+TRIGGER:P0D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Stories of the Prophets\, day 17: Yusuf\, part 3
+DTSTART:20260916T090000
+DTEND:20260916T091500
+UID:prophets-day-17@buruja.com
+DESCRIPTION:Tested\, then chosen\n\nYusuf\, part 3\n\nRead today's entry: h
+ ttps://buruja.com/prophets/yusuf-part-3/\nWatch the episode with Mufti Men
+ k: https://www.youtube.com/watch?v=EoyRGktUows\n\nRetold faithfully from M
+ ufti Ismail Menk's Stories of the Prophets. Buruja\, buruja.com
+TRANSP:TRANSPARENT
+URL:https://buruja.com/prophets/yusuf-part-3/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Stories of the Prophets\, day 17: Yusuf\, part 3
+TRIGGER:P0D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Stories of the Prophets\, day 18: Ayyub's patience and Yunus in the
+  dark
+DTSTART:20260917T090000
+DTEND:20260917T091500
+UID:prophets-day-18@buruja.com
+DESCRIPTION:Tested\, then chosen\n\nAyyub's patience and Yunus in the dark\
+ n\nRead today's entry: https://buruja.com/prophets/ayyub-and-yunus/\nWatch
+  the episode with Mufti Menk: https://www.youtube.com/watch?v=etLBpjWmBtc\
+ n\nRetold faithfully from Mufti Ismail Menk's Stories of the Prophets. Bur
+ uja\, buruja.com
+TRANSP:TRANSPARENT
+URL:https://buruja.com/prophets/ayyub-and-yunus/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Stories of the Prophets\, day 18: Ayyub's patience and Yunus in
+  the dark
+TRIGGER:P0D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Stories of the Prophets\, day 19: Musa and Harun\, part 1
+DTSTART:20260918T090000
+DTEND:20260918T091500
+UID:prophets-day-19@buruja.com
+DESCRIPTION:Musa and the Children of Israel\n\nMusa and Harun\, part 1\n\nR
+ ead today's entry: https://buruja.com/prophets/musa-and-harun-part-1/\nWat
+ ch the episode with Mufti Menk: https://www.youtube.com/watch?v=PFCTEIiMuw
+ w\n\nRetold faithfully from Mufti Ismail Menk's Stories of the Prophets. B
+ uruja\, buruja.com
+TRANSP:TRANSPARENT
+URL:https://buruja.com/prophets/musa-and-harun-part-1/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Stories of the Prophets\, day 19: Musa and Harun\, part 1
+TRIGGER:P0D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Stories of the Prophets\, day 20: Musa and Harun\, part 2
+DTSTART:20260919T090000
+DTEND:20260919T091500
+UID:prophets-day-20@buruja.com
+DESCRIPTION:Musa and the Children of Israel\n\nMusa and Harun\, part 2\n\nR
+ ead today's entry: https://buruja.com/prophets/musa-and-harun-part-2/\nWat
+ ch the episode with Mufti Menk: https://www.youtube.com/watch?v=vldKHcVG2x
+ A\n\nRetold faithfully from Mufti Ismail Menk's Stories of the Prophets. B
+ uruja\, buruja.com
+TRANSP:TRANSPARENT
+URL:https://buruja.com/prophets/musa-and-harun-part-2/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Stories of the Prophets\, day 20: Musa and Harun\, part 2
+TRIGGER:P0D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Stories of the Prophets\, day 21: Musa and Harun\, part 3
+DTSTART:20260920T090000
+DTEND:20260920T091500
+UID:prophets-day-21@buruja.com
+DESCRIPTION:Musa and the Children of Israel\n\nMusa and Harun\, part 3\n\nR
+ ead today's entry: https://buruja.com/prophets/musa-and-harun-part-3/\nWat
+ ch the episode with Mufti Menk: https://www.youtube.com/watch?v=jdX_AfjWL0
+ 4\n\nRetold faithfully from Mufti Ismail Menk's Stories of the Prophets. B
+ uruja\, buruja.com
+TRANSP:TRANSPARENT
+URL:https://buruja.com/prophets/musa-and-harun-part-3/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Stories of the Prophets\, day 21: Musa and Harun\, part 3
+TRIGGER:P0D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Stories of the Prophets\, day 22: Musa and the Children of Israel\,
+  part 1
+DTSTART:20260921T090000
+DTEND:20260921T091500
+UID:prophets-day-22@buruja.com
+DESCRIPTION:Musa and the Children of Israel\n\nMusa and the Children of Isr
+ ael\, part 1\n\nRead today's entry: https://buruja.com/prophets/musa-and-b
+ ani-israil-part-1/\nWatch the episode with Mufti Menk: https://www.youtube
+ .com/watch?v=7M4o6DWdbfc\n\nRetold faithfully from Mufti Ismail Menk's Sto
+ ries of the Prophets. Buruja\, buruja.com
+TRANSP:TRANSPARENT
+URL:https://buruja.com/prophets/musa-and-bani-israil-part-1/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Stories of the Prophets\, day 22: Musa and the Children of Isra
+ el\, part 1
+TRIGGER:P0D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Stories of the Prophets\, day 23: Musa and the Children of Israel\,
+  part 2
+DTSTART:20260922T090000
+DTEND:20260922T091500
+UID:prophets-day-23@buruja.com
+DESCRIPTION:Musa and the Children of Israel\n\nMusa and the Children of Isr
+ ael\, part 2\n\nRead today's entry: https://buruja.com/prophets/musa-and-b
+ ani-israil-part-2/\nWatch the episode with Mufti Menk: https://www.youtube
+ .com/watch?v=QdISexTuUCc\n\nRetold faithfully from Mufti Ismail Menk's Sto
+ ries of the Prophets. Buruja\, buruja.com
+TRANSP:TRANSPARENT
+URL:https://buruja.com/prophets/musa-and-bani-israil-part-2/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Stories of the Prophets\, day 23: Musa and the Children of Isra
+ el\, part 2
+TRIGGER:P0D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Stories of the Prophets\, day 24: Shu'ayb and the honest scale
+DTSTART:20260923T090000
+DTEND:20260923T091500
+UID:prophets-day-24@buruja.com
+DESCRIPTION:Musa and the Children of Israel\n\nShu'ayb and the honest scale
+ \n\nRead today's entry: https://buruja.com/prophets/shuayb-and-the-honest-
+ scale/\nWatch the episode with Mufti Menk: https://www.youtube.com/watch?v
+ =_9voHb5ZPTc\n\nRetold faithfully from Mufti Ismail Menk's Stories of the 
+ Prophets. Buruja\, buruja.com
+TRANSP:TRANSPARENT
+URL:https://buruja.com/prophets/shuayb-and-the-honest-scale/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Stories of the Prophets\, day 24: Shu'ayb and the honest scale
+TRIGGER:P0D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Stories of the Prophets\, day 25: Between Musa and Dawud
+DTSTART:20260924T090000
+DTEND:20260924T091500
+UID:prophets-day-25@buruja.com
+DESCRIPTION:The kings who bowed\n\nBetween Musa and Dawud\n\nRead today's e
+ ntry: https://buruja.com/prophets/between-musa-and-dawud/\nWatch the episo
+ de with Mufti Menk: https://www.youtube.com/watch?v=SJHEzAqwuoo\n\nRetold 
+ faithfully from Mufti Ismail Menk's Stories of the Prophets. Buruja\, buru
+ ja.com
+TRANSP:TRANSPARENT
+URL:https://buruja.com/prophets/between-musa-and-dawud/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Stories of the Prophets\, day 25: Between Musa and Dawud
+TRIGGER:P0D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Stories of the Prophets\, day 26: Dawud\, given a kingdom and kept 
+ grateful
+DTSTART:20260925T090000
+DTEND:20260925T091500
+UID:prophets-day-26@buruja.com
+DESCRIPTION:The kings who bowed\n\nDawud\, given a kingdom and kept gratefu
+ l\n\nRead today's entry: https://buruja.com/prophets/dawud-the-grateful/\n
+ Watch the episode with Mufti Menk: https://www.youtube.com/watch?v=_ODguRp
+ nXq0\n\nRetold faithfully from Mufti Ismail Menk's Stories of the Prophets
+ . Buruja\, buruja.com
+TRANSP:TRANSPARENT
+URL:https://buruja.com/prophets/dawud-the-grateful/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Stories of the Prophets\, day 26: Dawud\, given a kingdom and k
+ ept grateful
+TRIGGER:P0D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Stories of the Prophets\, day 27: Sulayman and the kingdom\, part 1
+DTSTART:20260926T090000
+DTEND:20260926T091500
+UID:prophets-day-27@buruja.com
+DESCRIPTION:The kings who bowed\n\nSulayman and the kingdom\, part 1\n\nRea
+ d today's entry: https://buruja.com/prophets/sulayman-and-the-kingdom-part
+ -1/\nWatch the episode with Mufti Menk: https://www.youtube.com/watch?v=cx
+ LPytuySn0\n\nRetold faithfully from Mufti Ismail Menk's Stories of the Pro
+ phets. Buruja\, buruja.com
+TRANSP:TRANSPARENT
+URL:https://buruja.com/prophets/sulayman-and-the-kingdom-part-1/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Stories of the Prophets\, day 27: Sulayman and the kingdom\, pa
+ rt 1
+TRIGGER:P0D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Stories of the Prophets\, day 28: Sulayman\, and the line of Zakari
+ yya
+DTSTART:20260927T090000
+DTEND:20260927T091500
+UID:prophets-day-28@buruja.com
+DESCRIPTION:The kings who bowed\n\nSulayman\, and the line of Zakariyya\n\n
+ Read today's entry: https://buruja.com/prophets/sulayman-and-the-line-of-z
+ akariyya/\nWatch the episode with Mufti Menk: https://www.youtube.com/watc
+ h?v=gP0kxuGP7_s\n\nRetold faithfully from Mufti Ismail Menk's Stories of t
+ he Prophets. Buruja\, buruja.com
+TRANSP:TRANSPARENT
+URL:https://buruja.com/prophets/sulayman-and-the-line-of-zakariyya/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Stories of the Prophets\, day 28: Sulayman\, and the line of Za
+ kariyya
+TRIGGER:P0D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Stories of the Prophets\, day 29: Isa\, the word of Allah
+DTSTART:20260928T090000
+DTEND:20260928T091500
+UID:prophets-day-29@buruja.com
+DESCRIPTION:The word of Allah\n\nIsa\, the word of Allah\n\nRead today's en
+ try: https://buruja.com/prophets/isa-the-word-of-allah/\nWatch the episode
+  with Mufti Menk: https://www.youtube.com/watch?v=y0pc95YEloA\n\nRetold fa
+ ithfully from Mufti Ismail Menk's Stories of the Prophets. Buruja\, buruja
+ .com
+TRANSP:TRANSPARENT
+URL:https://buruja.com/prophets/isa-the-word-of-allah/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Stories of the Prophets\, day 29: Isa\, the word of Allah
+TRIGGER:P0D
+END:VALARM
+END:VEVENT
+END:VCALENDAR

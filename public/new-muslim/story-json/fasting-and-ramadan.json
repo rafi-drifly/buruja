@@ -1,0 +1,161 @@
+{
+  "slug": "fasting-and-ramadan",
+  "day": 18,
+  "lesson_no": 18,
+  "tier": 2,
+  "kind": "new-muslim",
+  "name": "Fasting and Ramadan",
+  "epithet": "The month that changes you",
+  "title": "Sawm: Fasting and the Month of Ramadan, for New Muslims",
+  "meta_description": "The fourth pillar, gently explained for new Muslims: what fasting is, the month of Ramadan, why it forgives and draws you near, and how to meet your first Ramadan without fear.",
+  "keywords": [
+    "what is sawm",
+    "fourth pillar of Islam",
+    "fasting in Ramadan",
+    "first Ramadan new Muslim",
+    "why do Muslims fast",
+    "who has to fast Ramadan",
+    "Ramadan for beginners"
+  ],
+  "lede": [
+    "The fourth pillar is a whole month given a shape: Ramadan, in which Muslims fast from dawn to sunset, leaving food, drink, and intimacy through the daylight hours, and leaning hard into prayer, the Qur'an, and charity. From the outside it can look like deprivation.",
+    "From the inside, many Muslims come to call it the best month of the year, and wait for it the way you wait for someone you love. This lesson is what it is, why it does what it does, and how to meet your first one without fear."
+  ],
+  "do_today": {
+    "label": "Just for today",
+    "text": "Before Ramadan ever comes, try this once: pick a few hours today and leave one small habit for Allah's sake, a snack, a coffee, the endless scrolling. When the small wanting arrives, turn it into a moment of remembering Him. You are not fasting Ramadan yet. You are training the muscle that Ramadan uses."
+  },
+  "sections": [
+    {
+      "h2": "The fourth pillar",
+      "paras": [
+        "Fasting, sawm in Arabic, is not unique to Islam; Allah points out that it was given to the believers before us too, and He tells us its purpose, which is not hunger but taqwa, a heart awake to Allah:"
+      ],
+      "ayah": {
+        "arabic": "يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ كُتِبَ عَلَيْكُمُ ٱلصِّيَامُ كَمَا كُتِبَ عَلَى ٱلَّذِينَ مِن قَبْلِكُمْ لَعَلَّكُمْ تَتَّقُونَ",
+        "text": "O you who have believed, decreed upon you is fasting as it was decreed upon those before you, that you may become righteous.",
+        "ref": "Al-Baqarah 2:183"
+      }
+    },
+    {
+      "h2": "The month of the Qur'an",
+      "paras": [
+        "Why this particular month? Because Ramadan is the month the Qur'an itself began to descend, and Allah ties the fast to that gift, then, in the same breath, makes the ease in it unmistakable:"
+      ],
+      "ayah": {
+        "arabic": "شَهْرُ رَمَضَانَ ٱلَّذِىٓ أُنزِلَ فِيهِ ٱلْقُرْءَانُ هُدًى لِّلنَّاسِ وَبَيِّنَٰتٍ مِّنَ ٱلْهُدَىٰ وَٱلْفُرْقَانِ ۚ فَمَن شَهِدَ مِنكُمُ ٱلشَّهْرَ فَلْيَصُمْهُ ۖ وَمَن كَانَ مَرِيضًا أَوْ عَلَىٰ سَفَرٍ فَعِدَّةٌ مِّنْ أَيَّامٍ أُخَرَ ۗ يُرِيدُ ٱللَّهُ بِكُمُ ٱلْيُسْرَ وَلَا يُرِيدُ بِكُمُ ٱلْعُسْرَ وَلِتُكْمِلُوا۟ ٱلْعِدَّةَ وَلِتُكَبِّرُوا۟ ٱللَّهَ عَلَىٰ مَا هَدَىٰكُمْ وَلَعَلَّكُمْ تَشْكُرُونَ",
+        "text": "The month of Ramadan in which was revealed the Qur'an, a guidance for the people and clear proofs of guidance and criterion. So whoever sights the month, let him fast it; and whoever is ill or on a journey, then an equal number of other days. Allah intends for you ease and does not intend for you hardship, and wants for you to complete the period and to glorify Allah for that to which He has guided you; and perhaps you will be grateful.",
+        "ref": "Al-Baqarah 2:185"
+      },
+      "tafsir": {
+        "source": "Tafsir as-Sa'di",
+        "text": "As-Sa'di notes that fasting was tied to this month because Ramadan is when Allah sent His greatest gift, the Qur'an, so it is fitting that such a month be a season of worship. And he dwells on 'Allah intends for you ease, not hardship' as a principle that runs through the whole religion: wherever a genuine burden arises, Allah lightens the load, here by letting the ill and the traveller fast other days instead."
+      }
+    },
+    {
+      "h2": "Why it forgives, and why it draws you near",
+      "paras": [
+        "Two promises make Ramadan beloved. The first is a clean slate. The Prophet ﷺ said:"
+      ],
+      "hadith": {
+        "text": "Whoever fasts Ramadan out of faith and seeking reward, his previous sins are forgiven.",
+        "source": "Sahih al-Bukhari 38; Sahih Muslim 760",
+        "grade": "sahih"
+      }
+    },
+    {
+      "h2": "He is near in this month",
+      "paras": [
+        "The second promise is nearness. It is no accident that, right in the middle of the verses about fasting, Allah pauses to say something tender, as if Ramadan opens a door straight to Him:"
+      ],
+      "ayah": {
+        "arabic": "وَإِذَا سَأَلَكَ عِبَادِى عَنِّى فَإِنِّى قَرِيبٌ ۖ أُجِيبُ دَعْوَةَ ٱلدَّاعِ إِذَا دَعَانِ ۖ فَلْيَسْتَجِيبُوا۟ لِى وَلْيُؤْمِنُوا۟ بِى لَعَلَّهُمْ يَرْشُدُونَ",
+        "text": "And when My servants ask you concerning Me, indeed I am near. I respond to the invocation of the supplicant when he calls upon Me. So let them respond to Me and believe in Me that they may be rightly guided.",
+        "ref": "Al-Baqarah 2:186"
+      }
+    },
+    {
+      "h2": "Meeting your first Ramadan, gently",
+      "paras": [
+        "If your first Ramadan is coming, meet it without dread. You eat a meal before dawn (suhur) and break the fast at sunset (iftar), often with dates and water, frequently with others, and the evenings fill with prayer and food and a warmth that is hard to describe until you have lived it. For some the hunger is milder than expected; for others it is genuinely hard, especially the first year. Both are completely normal.",
+        "And the door of ease stays open. The Qur'an already named the ill and the traveller as exempt, to fast other days instead, and the scholars extend that mercy to others for whom fasting would cause harm, such as the pregnant or nursing, the elderly, and those with certain illnesses, with their own provisions. And if you live with a history of disordered eating, or a condition like diabetes where fasting could genuinely endanger you, this is exactly what those exemptions are for: choosing not to fast when fasting would harm you is obedience, not failure. If you are unsure whether or how you should fast in your situation, ask a trusted teacher; the goal is never to harm yourself. Start where you can, lean on the community, and let the month do its quiet work on you."
+      ]
+    }
+  ],
+  "dua": {
+    "arabic": "ذَهَبَ الظَّمَأُ وَابْتَلَّتِ الْعُرُوقُ وَثَبَتَ الْأَجْرُ إِنْ شَاءَ اللَّهُ",
+    "translit": "Dhahaba az-zama'u wabtallati-l-'uruqu wa thabata-l-ajru in sha Allah",
+    "meaning": "The thirst is gone, the veins are moistened, and the reward is certain, if Allah wills. (the du'a the Prophet ﷺ said on breaking his fast, Sunan Abi Dawud 2357)"
+  },
+  "lessons_heading": "Carry this with you",
+  "lessons_intro": "If you remember nothing else from this page, remember that Ramadan is a gift, not a punishment.",
+  "lessons": [
+    {
+      "bold": "Fasting is for taqwa, not hunger.",
+      "text": "Its purpose is a heart made awake to Allah. The empty stomach is only the doorway."
+    },
+    {
+      "bold": "Ramadan is the month of the Qur'an.",
+      "text": "You fast it because it is the month the Book began to descend, a season built for drawing near."
+    },
+    {
+      "bold": "It forgives, and it brings you close.",
+      "text": "Past sins wiped for the sincere faster, and 'I am near' spoken right among the verses of fasting."
+    },
+    {
+      "bold": "The door of ease stays open.",
+      "text": "The ill and the traveller fast other days; mercy extends to others too. Never harm yourself; ask a teacher."
+    }
+  ],
+  "faq": [
+    {
+      "q": "What is sawm (fasting) in Islam?",
+      "a": "Sawm is the fourth pillar of Islam: fasting from dawn until sunset during the month of Ramadan, abstaining from food, drink, and intimacy, while increasing prayer, Qur'an, and charity. Its aim is taqwa, a heightened awareness of Allah."
+    },
+    {
+      "q": "Why do Muslims fast in Ramadan specifically?",
+      "a": "Because Ramadan is the month in which the Qur'an began to be revealed. The Qur'an ties the fast to that gift, making the month a yearly season of worship, forgiveness, and nearness to Allah."
+    },
+    {
+      "q": "Does everyone have to fast?",
+      "a": "No. The Qur'an exempts the ill and the traveller, who fast an equal number of other days, and the scholars extend mercy to others for whom fasting would cause harm, such as the pregnant, nursing, elderly, and chronically ill, with their own rulings. Ask a trusted teacher about your situation; you must never harm yourself."
+    },
+    {
+      "q": "What if I am new and have never fasted?",
+      "a": "Meet it gently. Eat before dawn (suhur), break your fast at sunset (iftar), lean on the community, and start where you are able. The hunger is smaller than you fear and passes, and most Muslims come to love the month deeply."
+    },
+    {
+      "q": "What does fasting actually do for me?",
+      "a": "The Prophet ﷺ taught that fasting Ramadan with faith and sincerity wipes away previous sins, and the Qur'an places Allah's nearness right among the verses of fasting. It is built to forgive you and to draw you close."
+    }
+  ],
+  "closing_heading": "A du'a as Ramadan approaches",
+  "closing": [
+    "The month that looks from outside like going without is, from inside, the year's great homecoming: a clean slate for the sincere, a door to nearness opened wide, and a whole community fasting and breaking bread and praying in the dark together. You were not made to dread it. You were made for it.",
+    "Tomorrow we reach the fifth and final pillar, the journey of a lifetime: Hajj, the pilgrimage to Makkah, and the call first raised by Ibrahim that still gathers millions from every corner of the earth.",
+    "O Allah, let me reach Ramadan, and let it reach my heart. Make its fasting light, its nights luminous, and its forgiveness mine. You said You are near; let me be among those who call on You in it and are answered. Ameen."
+  ],
+  "source_note": "Qur'an citations (2:183, 2:185, 2:186) are from the Saheeh International translation, with the Arabic in Uthmani script verified via quran.ai (edition ar-uthmani-minimal). The 'From the tafsir' note on 2:185 is a faithful condensed rendering of Tafsir as-Sa'di (edition ar-saadi, via quran.ai), not a verbatim quotation. Hadith: 'Whoever fasts Ramadan out of faith and seeking reward, his previous sins are forgiven,' Sahih al-Bukhari 38 and Sahih Muslim 760 (sahih); the du'a on breaking the fast, Sunan Abi Dawud 2357 (graded hasan). FOR SCHOLAR REVIEW: this lesson contains fasting fiqh. Please confirm the exemptions (ill, traveller, pregnant, nursing, elderly, chronically ill) and their provisions, the suhur/iftar description, the hadith references and the grade of the iftar du'a, and the as-Sa'di rendering before publication.",
+  "next": "hajj-the-pilgrimage",
+  "bridges_to": "juz-amma/al-qadr",
+  "related": [
+    {
+      "to": "juz-amma/al-qadr",
+      "label": "Surah al-Qadr",
+      "note": "the Night of Decree, the jewel hidden in the last ten nights of Ramadan"
+    },
+    {
+      "to": "asma-ul-husna/al-ghaffar",
+      "label": "Al-Ghaffar",
+      "note": "the Ever-Forgiving: Ramadan is His season of wiping the slate clean"
+    }
+  ],
+  "social": {
+    "hook": "From outside, Ramadan looks like a month of going without. From inside, most Muslims call it the best month of the year. Right among the verses of fasting, Allah pauses to say: 'indeed, I am near.' That is what the month is really for.",
+    "caption": "The fourth pillar, gently: what fasting is, why Ramadan forgives and draws you near, and how to meet your first one without fear. Lesson 18 of The New Muslim Path. Buruja."
+  },
+  "email": {
+    "subject": "Ramadan: the month that changes you",
+    "preview": "Not deprivation, but a homecoming: forgiveness, nearness, and a door Allah opens wide."
+  }
+}

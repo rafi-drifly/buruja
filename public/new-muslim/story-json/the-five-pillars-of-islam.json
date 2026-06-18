@@ -1,0 +1,111 @@
+{
+  "slug": "the-five-pillars-of-islam",
+  "day": 9,
+  "lesson_no": 9,
+  "tier": 2,
+  "kind": "new-muslim",
+  "name": "The Five Pillars of Islam",
+  "epithet": "What a Muslim does",
+  "title": "The Five Pillars of Islam, Simply Explained",
+  "meta_description": "The five things a Muslim does, gently explained for new Muslims: the testimony, prayer, zakah, fasting, and pilgrimage. You already have the first two. Here is the rest of the frame.",
+  "keywords": ["five pillars of Islam", "what are the 5 pillars of Islam", "pillars of Islam explained", "shahada salah zakah sawm hajj", "five pillars for beginners"],
+  "lede": [
+    "Yesterday you saw the whole map: Islam, Iman, Ihsan. Today we walk into the first room, Islam, the things a Muslim does. The Prophet ﷺ described them as five pillars, the way a tent stands on five poles. Take heart before we begin: you already hold two of them.",
+    "Do not read this as a to-do list to finish by Friday. Read it as a frame for a whole life, raised one pillar at a time. The first you said at your door. The second you learned this week. The other three unfold gently from here."
+  ],
+  "do_today": {
+    "label": "Just for today",
+    "text": "Count them on your hand, once: shahada, salah, zakah, sawm, hajj. Testimony, prayer, charity, fasting, pilgrimage. You do not have to act on all five today. Just hold the shape of them, and notice that the first two are already yours."
+  },
+  "sections": [
+    {
+      "h2": "Five, and you already have two",
+      "paras": [
+        "The Prophet ﷺ gave the whole of the practical religion in one sentence, and it is worth holding close, because it tells you that Islam is not endless. It has a shape, and the shape has five parts:"
+      ],
+      "hadith": {
+        "text": "Islam is built upon five: the testimony that there is no god but Allah and that Muhammad is the Messenger of Allah, establishing the prayer, giving the zakah, the pilgrimage to the House, and fasting in Ramadan.",
+        "source": "Sahih al-Bukhari 8; Sahih Muslim 16",
+        "grade": "sahih"
+      }
+    },
+    {
+      "h2": "The two you already carry",
+      "paras": [
+        "The first pillar is the shahada, the testimony you said at the door: there is no god but Allah, and Muhammad is His Messenger. That single sentence made you Muslim, and it is the pillar all the others rest on.",
+        "The second is salah, the five daily prayers, which you spent this week learning. You have the form, the words, and the wudu before it. Two pillars, already standing. Let that settle before you reach for the next three."
+      ]
+    },
+    {
+      "h2": "Zakah: the wealth that purifies",
+      "paras": [
+        "The third pillar is zakah, a yearly giving from your savings to those in need, usually a small portion (about one-fortieth, or 2.5 percent) of the wealth you have held for a year above a basic threshold. It is not a tax and not a favor to the poor; the Qur'an treats it as the poor's right and as something that purifies the giver's wealth and heart.",
+        "You do not need to calculate anything today, and if you have little, it may not be due from you at all. Just know the principle: in Islam, what you own is a trust, and a small, deliberate share of it belongs to others. A local teacher can help you work out if and what you owe when the time comes."
+      ]
+    },
+    {
+      "h2": "Sawm: the month of fasting",
+      "paras": [
+        "The fourth pillar is sawm, the fast of Ramadan: for one month a year, from dawn to sunset, Muslims leave food, drink, and intimacy, and lean into prayer, the Qur'an, and charity. It sounds hard from the outside. From the inside, most Muslims come to love it as the best month of the year.",
+        "Allah tells you what it is for, and it is not hunger:"
+      ],
+      "ayah": {
+        "arabic": "يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ كُتِبَ عَلَيْكُمُ ٱلصِّيَامُ كَمَا كُتِبَ عَلَى ٱلَّذِينَ مِن قَبْلِكُمْ لَعَلَّكُمْ تَتَّقُونَ",
+        "text": "O you who have believed, decreed upon you is fasting as it was decreed upon those before you, that you may become righteous.",
+        "ref": "Al-Baqarah 2:183"
+      }
+    },
+    {
+      "h2": "Hajj: the journey of a lifetime",
+      "paras": [
+        "The fifth pillar is Hajj, the pilgrimage to Makkah, where millions stand together in white, rich and poor indistinguishable, in the greatest gathering on earth. And here is its mercy: it is required only once in a lifetime, and only for those who can truly afford it and are able to make the journey.",
+        "So if you are new, with little money and a long road ahead, this pillar is not a weight on you today. It waits, patiently, for the day you are able:"
+      ],
+      "ayah": {
+        "arabic": "وَلِلَّهِ عَلَى ٱلنَّاسِ حِجُّ ٱلْبَيْتِ مَنِ ٱسْتَطَاعَ إِلَيْهِ سَبِيلًا",
+        "text": "And due to Allah from the people is a pilgrimage to the House, for whoever is able to find thereto a way.",
+        "ref": "Aal 'Imran 3:97"
+      }
+    }
+  ],
+  "dua": {
+    "arabic": "رَبَّنَا تَقَبَّلْ مِنَّآ ۖ إِنَّكَ أَنتَ ٱلسَّمِيعُ ٱلْعَلِيمُ",
+    "translit": "Rabbana taqabbal minna, innaka anta-s-Sami'u-l-'Alim",
+    "meaning": "Our Lord, accept this from us. Indeed, You are the Hearing, the Knowing. (Al-Baqarah 2:127, the words of Ibrahim as he raised the Kaaba)"
+  },
+  "lessons_heading": "Carry this with you",
+  "lessons_intro": "If you remember nothing else from this page, remember the five, and how few are due from you today.",
+  "lessons": [
+    { "bold": "Islam stands on five pillars.", "text": "Shahada, salah, zakah, sawm, hajj. The whole practical religion has a shape, and it is not endless." },
+    { "bold": "Two are already yours.", "text": "You said the shahada, and you learned the prayer this week. You are not at the start line; you are already standing." },
+    { "bold": "Zakah and sawm come gently.", "text": "A small yearly charity if you have savings, and one month of fasting a year. Neither is asked of you all at once." },
+    { "bold": "Hajj waits for when you are able.", "text": "Once in a lifetime, and only if you can afford and manage it. No burden on you today." }
+  ],
+  "faq": [
+    { "q": "What are the five pillars of Islam?", "a": "They are the five core practices of a Muslim: the shahada (testimony of faith), salah (five daily prayers), zakah (yearly charity from savings), sawm (fasting the month of Ramadan), and Hajj (pilgrimage to Makkah once in a lifetime for those able)." },
+    { "q": "Do I have to do all five right away?", "a": "No. You already have the shahada and you have learned the prayer. Zakah is only due on savings held above a threshold for a year, fasting comes once a year in Ramadan, and Hajj is a once-in-a-lifetime duty only for those able. The religion is paced for human beings." },
+    { "q": "How much is zakah?", "a": "For most wealth it is about 2.5 percent (one-fortieth) of savings you have held for a lunar year above a minimum threshold. If you have little, it may not be due from you at all. A knowledgeable local teacher can help you calculate it when the time comes." },
+    { "q": "What if I cannot afford Hajj?", "a": "Then it is not required of you. The Qur'an makes Hajj a duty only for those who are able to find a way, in means and in body. It waits patiently until, and unless, you are able." }
+  ],
+  "closing_heading": "A du'a as you see the frame",
+  "closing": [
+    "Five pillars, and two of them already stand because of the week you just lived. The other three are not a cliff to climb today; they are markers along a whole life, each arriving in its season, each lighter than it looked from outside.",
+    "Tomorrow we cross from what a Muslim does into what a Muslim believes: the six articles of faith, the quiet convictions beneath all five pillars. The body of the religion has its shape. Next we find its heart.",
+    "O Allah, You built this religion on five gentle pillars and asked of me only what I can carry. Raise them in my life, one by one, in their time. Accept from me the two that already stand, and make the rest easy when they come. Our Lord, accept this from us. Ameen."
+  ],
+  "source_note": "Qur'an citations (2:183, 3:97, and the du'a from 2:127) are from the Saheeh International translation, with the Arabic in Uthmani script verified via quran.ai (edition ar-uthmani-minimal). The hadith 'Islam is built upon five' is recorded in Sahih al-Bukhari 8 and Sahih Muslim 16, graded sahih. FOR SCHOLAR REVIEW: this lesson summarizes the pillars and gives a simplified zakah figure (2.5 percent / nisab) and the conditions of Hajj. Please confirm the zakah and Hajj framing and the hadith wording (some narrations list the pillars in a slightly different order) before publication.",
+  "next": "the-six-pillars-of-iman",
+  "bridges_to": null,
+  "related": [
+    {"to": "companions/abu-bakr-part-1", "label": "Abu Bakr", "note": "a life built on all five"},
+    {"to": "juz-amma/al-ikhlas", "label": "Surah al-Ikhlas", "note": "the creed your first pillar testifies to"}
+  ],
+  "social": {
+    "hook": "Islam stands on five pillars, and if you took your shahada and learned to pray this week, two of them are already standing. You are not at the start line. You are already holding up the tent.",
+    "caption": "The five things a Muslim does, gently explained, and how few are actually due from you today. Lesson 9 of The New Muslim Path. Buruja."
+  },
+  "email": {
+    "subject": "The Five Pillars, and the two you already have",
+    "preview": "Shahada, salah, zakah, sawm, hajj. You are further along than you think."
+  }
+}

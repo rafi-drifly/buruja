@@ -1,0 +1,119 @@
+{
+  "slug": "who-is-allah",
+  "day": 1,
+  "lesson_no": 1,
+  "tier": 1,
+  "kind": "new-muslim",
+  "name": "Who Is Allah",
+  "epithet": "The One you turned toward",
+  "title": "Who Is Allah? A Gentle First Look for New Muslims",
+  "meta_description": "You said there is no god but Allah. So who is He? A soft, simple introduction to Allah for new Muslims: One, like nothing else, nearer than your own heartbeat, and more merciful than you were told.",
+  "keywords": ["who is Allah", "what do Muslims believe about God", "is Allah the same as God", "tawhid for beginners", "Allah mercy", "new Muslim who is Allah"],
+  "lede": [
+    "Yesterday you said, or you are getting ready to say, that there is no god but Allah. So it is fair to ask, gently and without any shame: who is He? You are allowed to ask. Wanting to know the One you are turning toward is the beginning of loving Him.",
+    "You will not learn all of Him in a day, or in a lifetime. No one does. But you can meet Him today, the way you meet anyone, by learning a little of what He is like. Let us start there, slowly."
+  ],
+  "do_today": {
+    "label": "Just for today",
+    "text": "Wherever you are, set down whatever is in your hands for a moment and say, quietly, 'Ya Allah.' That is all. It means 'O Allah,' and it is the oldest way a human heart has ever reached for Him. You do not need the right words yet. He already hears you."
+  },
+  "sections": [
+    {
+      "h2": "He is One, and that changes everything",
+      "tafsir": {"source": "Tafsir as-Sa'di", "text": "As-Sa'di notes that these four short lines hold the whole of tawhid: Allah is the One, unique and perfect, with no equal in His names, His attributes, or His actions; and as As-Samad, He is the One whom every creature turns to in its need, while He Himself needs nothing, which is why He neither begets nor is born."},
+      "paras": [
+        "The first thing to know is the thing you already said: He is One. Not one among many, not the strongest of several gods. One, alone, with no partner, no rival, no equal. This is called tawhid, which means making God one, and it is the ground the whole religion stands on.",
+        "Allah is His name, the name He calls Himself in the Qur'an. It is not a foreign word for a foreign god. It is the name the Prophets all the way back called the one Creator: Adam, Ibrahim, Musa, and Isa (Abraham, Moses, and Jesus, peace be upon them). When you say 'Allah,' you are calling Him by His own name.",
+        "He described Himself in four short lines, a whole surah, a chapter of the Qur'an, given so that you would never be confused about who He is:"
+      ],
+      "ayah": {
+        "arabic": "قُلْ هُوَ ٱللَّهُ أَحَدٌ ٱللَّهُ ٱلصَّمَدُ لَمْ يَلِدْ وَلَمْ يُولَدْ وَلَمْ يَكُن لَّهُۥ كُفُوًا أَحَدٌۢ",
+        "text": "Say, 'He is Allah, who is One, Allah, the Eternal Refuge. He neither begets nor is born, nor is there to Him any equivalent.'",
+        "ref": "Al-Ikhlas 112:1-4"
+      }
+    },
+    {
+      "h2": "Nothing you can imagine is Him",
+      "paras": [
+        "Here is a relief for your mind. You do not have to picture Him, and you should not try. He is not an old man in the sky, not a light, not a shape, not anything your eyes have ever seen or your mind can draw. Every picture you could make would be too small.",
+        "The Qur'an gives you one clean rule that frees you from all of that:"
+      ],
+      "ayah": {
+        "arabic": "لَيْسَ كَمِثْلِهِۦ شَىْءٌ ۖ وَهُوَ ٱلسَّمِيعُ ٱلْبَصِيرُ",
+        "text": "There is nothing like unto Him, and He is the Hearing, the Seeing.",
+        "ref": "Ash-Shura 42:11"
+      }
+    },
+    {
+      "h2": "He is closer than you think",
+      "paras": [
+        "People sometimes imagine God as distant and uninvolved, too far away to notice them. The Qur'an gently corrects that. He made you, and He is never unaware of you: nearer to you, in His knowledge and His care, than the people in the room, nearer than your own pulse:"
+      ],
+      "ayah": {
+        "arabic": "وَلَقَدْ خَلَقْنَا ٱلْإِنسَٰنَ وَنَعْلَمُ مَا تُوَسْوِسُ بِهِۦ نَفْسُهُۥ ۖ وَنَحْنُ أَقْرَبُ إِلَيْهِ مِنْ حَبْلِ ٱلْوَرِيدِ",
+        "text": "And We have already created man and know what his soul whispers to him, and We are closer to him than his jugular vein.",
+        "ref": "Qaf 50:16"
+      }
+    },
+    {
+      "h2": "He is more merciful than you have been told",
+      "paras": [
+        "Maybe you grew up afraid of God, or were taught He is mostly angry, mostly counting your faults. Set that down. The Qur'an opens, and nearly every one of its chapters opens, with two of His names said together: Ar-Rahman, Ar-Rahim, the Entirely Merciful, the Especially Merciful. Mercy is the first thing He tells you about Himself.",
+        "The Prophet ﷺ once watched a mother find her lost child in a crowd, snatch him up, and hold him to her chest. He asked the people around him whether they thought this mother would ever throw her own child into a fire. Never, they said. And he told them:"
+      ],
+      "hadith": {
+        "text": "Allah is more merciful to His servants than this woman is to her child.",
+        "source": "Sahih al-Bukhari 5999; Sahih Muslim 2754",
+        "grade": "sahih"
+      }
+    },
+    {
+      "h2": "You can meet Him name by name",
+      "paras": [
+        "That is the One you have turned toward: One, like nothing else, nearer than your heartbeat, and gentler than you were led to believe. You do not have to grasp all of Him at once. He let Himself be known in pieces, through His beautiful names, each one a door you can walk through when you are ready.",
+        "There is the Merciful, and the Forgiving, and the Provider, and the Near who answers. When your heart wants more of Him, that is where you go, one name at a time. For today, it is enough simply to know that the One you called upon is good, and close, and listening."
+      ]
+    }
+  ],
+  "dua": {
+    "arabic": "رَبِّ زِدْنِى عِلْمًا",
+    "translit": "Rabbi zidni 'ilma",
+    "meaning": "My Lord, increase me in knowledge. (Ta-Ha 20:114)"
+  },
+  "lessons_heading": "Carry this with you",
+  "lessons_intro": "If you remember nothing else from this page, remember these four things about the One you turned toward.",
+  "lessons": [
+    { "bold": "He is One.", "text": "No partner, no equal, no rival. This is tawhid, and the whole of Islam grows from it." },
+    { "bold": "He is like nothing else.", "text": "Do not strain to picture Him. There is nothing like Him, and He hears and sees you right now." },
+    { "bold": "He is closer than your own heartbeat.", "text": "Nearer to you than your jugular vein. You have never once been alone." },
+    { "bold": "Mercy is the first thing He says about Himself.", "text": "He is more merciful to you than a mother to her child. You are not turning toward anger. You are turning toward mercy." }
+  ],
+  "faq": [
+    { "q": "Is Allah a different God from the one Jews and Christians worship?", "a": "Allah is simply the Arabic word for the one God, the Creator of everything. It is the same word Arabic-speaking Jews and Christians use for God. Muslims believe He is the one God of Adam, Abraham, Moses, and Jesus (peace be upon them), worshipped now exactly as He asked to be: as One, with no partner." },
+    { "q": "What does tawhid mean?", "a": "Tawhid means the oneness of God. It is the belief that there is only one God, with no partner, no equal, and nothing sharing in His authority. It is the most important belief in Islam, and the first half of the shahada." },
+    { "q": "Do I have to picture Allah to worship Him?", "a": "No, and you should not try. The Qur'an says there is nothing like Him, so any image would be wrong. You worship Him knowing that He hears you and sees you, without needing to imagine a form." },
+    { "q": "How do I get to know Allah?", "a": "Begin with His names and attributes, the ways He describes Himself in the Qur'an: the Merciful, the Forgiving, the Near. Each name is a window. Praying, and reading the Qur'an, are how that knowing deepens over time." },
+    { "q": "I was taught to be afraid of God. Is that right?", "a": "There is awe in loving Allah, but the Qur'an leads with mercy, not fear. He describes Himself as more merciful than a mother to her child. A healthy heart holds both hope and awe, with hope walking in front." }
+  ],
+  "closing_heading": "A du'a as you get to know Him",
+  "closing": [
+    "You turned toward Someone yesterday, or you are about to. Today you learned a little of who He is: One, like nothing else, nearer than your own pulse, and more merciful than you were led to believe. That is not a small thing to carry.",
+    "Tomorrow we meet the man He sent to show you the way to Him, the Prophet Muhammad ﷺ. For now, let it be enough that you know a little more of the One who has known you all along.",
+    "O Allah, You who are nearer to me than my own heartbeat, let me know You. Open my heart to Your mercy, steady it with Your nearness, and make the love of You grow in me a little more each day. You are the One. There is nothing like You. Ameen."
+  ],
+  "source_note": "Qur'an citations (112:1-4, 42:11, 50:16, and the du'a from 20:114) are from the Saheeh International translation, verified against the canonical Arabic text via quran.ai (Arabic in Uthmani script, edition ar-uthmani-minimal). The hadith of the mother and child is narrated in Sahih al-Bukhari 5999 and Sahih Muslim 2754 (sahih). FOR SCHOLAR REVIEW: confirm the simplified framing of tawhid, the statement that Allah is the same God worshipped by the earlier Prophets, and the wording and attribution of the hadith before publication. The 'From the tafsir' note is a faithful condensed rendering of Tafsir as-Sa'di (edition ar-saadi, via quran.ai), not a verbatim quotation; FOR SCHOLAR REVIEW: confirm it reflects as-Sa'di accurately.",
+  "next": "who-is-muhammad",
+  "bridges_to": "asma-ul-husna/ar-rahman-ar-rahim",
+  "related": [
+    {"to": "asma-ul-husna/ar-rahman-ar-rahim", "label": "Ar-Rahman, Ar-Rahim", "note": "the two names of mercy He opens almost every chapter with"},
+    {"to": "asma-ul-husna/al-quddus-as-salam", "label": "Al-Quddus, As-Salam", "note": "the Most Pure, the Source of Peace"}
+  ],
+  "social": {
+    "hook": "You said there is no god but Allah. So who is He? One, like nothing else, nearer to you than your own heartbeat, and more merciful than you were ever told.",
+    "caption": "New to Islam, or coming back to it? Meet the One you turned toward, gently and without shame. Lesson 1 of The New Muslim Path. Buruja."
+  },
+  "email": {
+    "subject": "Who is Allah? A gentle first look",
+    "preview": "One, like nothing else, nearer than your heartbeat, and more merciful than you were told."
+  }
+}

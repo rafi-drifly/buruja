@@ -1,0 +1,100 @@
+{
+  "slug": "the-four-schools",
+  "day": 14,
+  "lesson_no": 14,
+  "tier": 2,
+  "kind": "new-muslim",
+  "name": "The Four Schools",
+  "epithet": "Different paths, one prayer",
+  "title": "The Four Schools of Islamic Law (Madhhabs), Explained Simply",
+  "meta_description": "Why do Muslims pray a little differently? A gentle, non-sectarian introduction to the four schools of law for new Muslims: Hanafi, Maliki, Shafi'i, and Hanbali, why they differ, and why all are valid.",
+  "keywords": ["four schools of Islam", "what is a madhhab", "Hanafi Maliki Shafi'i Hanbali", "why do Muslims pray differently", "which madhhab should I follow", "schools of Islamic law"],
+  "lede": [
+    "Sooner or later you will notice it. You pray next to one person who folds their hands on their chest, another on the navel; one says ameen aloud, another silently; one raises their hands at several points, another only once. Your first thought may be: who is doing it wrong, and am I?",
+    "No one is doing it wrong. What you are seeing is the four schools of law, the madhhabs, and understanding them will save you a great deal of anxiety. This is not four religions. It is one religion, carefully studied, with small honest differences on the details."
+  ],
+  "do_today": {
+    "label": "Just for today",
+    "text": "The next time you see someone pray a little differently from how you learned, practice one thought: 'that is probably just a different school, and it is valid.' Do not correct them, and do not panic about yourself. Just let the difference be what it is: normal."
+  },
+  "sections": [
+    {
+      "h2": "Why Muslims pray a little differently",
+      "paras": [
+        "The Prophet ﷺ prayed in a certain way, and his Companions learned it directly from him. But on some small points he did things more than one way at different times, or a detail reached one Companion and not another. So when the great scholars later gathered all the evidence, they sometimes weighed an ambiguous point differently, in good faith, from the same Qur'an and Sunnah.",
+        "The result is not chaos; it is richness. The Qur'an itself tells us that differing approaches, within the bounds of the truth, were part of the design, and that the response is not to argue but to compete in goodness:"
+      ],
+      "ayah": {
+        "arabic": "لِكُلٍّ جَعَلْنَا مِنكُمْ شِرْعَةً وَمِنْهَاجًا ۚ وَلَوْ شَآءَ ٱللَّهُ لَجَعَلَكُمْ أُمَّةً وَٰحِدَةً وَلَٰكِن لِّيَبْلُوَكُمْ فِى مَآ ءَاتَىٰكُمْ ۖ فَٱسْتَبِقُوا۟ ٱلْخَيْرَٰتِ",
+        "text": "To each of you We prescribed a law and a method. Had Allah willed, He would have made you one nation, but He intended to test you in what He has given you; so race to all that is good.",
+        "ref": "Al-Ma'idah 5:48"
+      }
+    },
+    {
+      "h2": "Four trustworthy roads",
+      "paras": [
+        "Over the early centuries, four great scholars and the students who refined their work became the four enduring schools of Sunni law, each named after its founder: the Hanafi (after Abu Hanifa, in Iraq), the Maliki (after Malik ibn Anas, in Madinah), the Shafi'i (after Muhammad ibn Idris al-Shafi'i), and the Hanbali (after Ahmad ibn Hanbal). Whole regions of the Muslim world follow one or another to this day.",
+        "Hear this clearly: all four are valid, all four are Sunni, and all four are sincere, rigorous efforts to follow the same Qur'an and the same Prophet ﷺ. Choosing to learn within one of them is not joining a faction. It is choosing a trustworthy, complete road that a billion people have walked safely."
+      ]
+    },
+    {
+      "h2": "The small differences, and why they exist",
+      "paras": [
+        "The differences between the schools are real but small, and they cluster around fine points: exactly where the hands rest in standing, whether ameen is said aloud or silently, when the hands are raised, the wording of a supplication, the details of what breaks wudu. None of them is a difference about who God is or what the prayer is for.",
+        "And the Prophet ﷺ told us how Allah views a sincere scholar who weighs the evidence and still lands on a different detail. There is reward even in an honest mistake:"
+      ],
+      "hadith": {
+        "text": "When a judge gives a ruling, having tried his best to decide correctly, and is right, he has two rewards; and if he gives a ruling having tried his best and is mistaken, he has one reward.",
+        "source": "Sahih al-Bukhari 7352; Sahih Muslim 1716",
+        "grade": "sahih"
+      }
+    },
+    {
+      "h2": "So what should you actually do?",
+      "paras": [
+        "Do not try to choose a school in a panic, and do not try to mix all four at once. The simplest, wisest path for a new Muslim is this: pray the way your local mosque and a trusted local teacher pray. Over time, you will likely settle naturally into the school of your community, and learning one school well, rather than a confused little of each, is a strength, not a limitation.",
+        "And never, ever let these differences become a weapon. The moment someone uses the madhhabs to look down on another Muslim, they have misunderstood the whole point. The schools are four windows into one house. The people inside are family. This lesson is an overview; the precise position of each school on each point is exactly the kind of detail to learn, in person, from a qualified teacher."
+      ]
+    }
+  ],
+  "dua": {
+    "arabic": "ٱهْدِنَا ٱلصِّرَٰطَ ٱلْمُسْتَقِيمَ",
+    "translit": "Ihdina-s-sirata-l-mustaqim",
+    "meaning": "Guide us to the straight path. (Al-Fatihah 1:6, which you already say in every prayer)"
+  },
+  "lessons_heading": "Carry this with you",
+  "lessons_intro": "If you remember nothing else from this page, remember that difference here is mercy, not error.",
+  "lessons": [
+    { "bold": "It is one religion, not four.", "text": "The four schools are honest efforts to follow the same Qur'an and Prophet ﷺ. The differences are in fine details, never in the essentials." },
+    { "bold": "All four are valid.", "text": "Hanafi, Maliki, Shafi'i, Hanbali: trustworthy roads that hundreds of millions have walked safely. Choosing one is not joining a faction." },
+    { "bold": "Just pray as your local mosque prays.", "text": "Do not choose in a panic or mix all four. Settle into the school of your community, and learn it well with a teacher." },
+    { "bold": "Never use the differences to fight.", "text": "Four windows into one house. The people inside are family. Looking down on another Muslim over a detail misses the entire point." }
+  ],
+  "faq": [
+    { "q": "What is a madhhab?", "a": "A madhhab is a school of Islamic law: a complete, rigorous method for deriving practice from the Qur'an and Sunnah, developed by a great early scholar and refined by generations after him. The four enduring Sunni schools are the Hanafi, Maliki, Shafi'i, and Hanbali." },
+    { "q": "Why do Muslims pray slightly differently?", "a": "Because on small, genuinely ambiguous points, the early scholars weighed the same evidence in good faith and reached slightly different conclusions. The differences are in details like hand placement or saying ameen aloud, never in the core of the prayer. All are valid." },
+    { "q": "Which school should I follow?", "a": "As a new Muslim, the simplest path is to pray the way your local mosque and a trusted local teacher pray; you will usually settle into your community's school naturally. Learning one school well is wiser than mixing all four at once." },
+    { "q": "Is one school better or more correct than the others?", "a": "No school is 'the' correct one; all four are valid and respected across the Muslim world. They differ only on fine details, and even a sincere scholar who reaches a different conclusion is rewarded. Using the schools to claim superiority over other Muslims misunderstands them entirely." }
+  ],
+  "closing_heading": "A du'a for the straight path",
+  "closing": [
+    "What looked at first like confusion, four Muslims praying four slightly different ways, turns out to be one of the most reassuring things about this religion: it was studied so carefully, by such honest minds, that even the small questions were weighed with reverence. You do not have to resolve any of it today. You only have to stop being afraid of it.",
+    "Tomorrow we step out of the prayer mat and into the room where Muslims pray together: the masjid, the congregation, and the community you are now part of.",
+    "O Allah, You who prescribed for each a way and told us to race toward the good, guide us all to the straight path. Keep my heart humble before scholars who knew more than I ever will, and free me from the arrogance of arguing over what You made room for. Guide us to the straight path. Ameen."
+  ],
+  "source_note": "Qur'an citation (5:48, and the du'a from 1:6) is from the Saheeh International translation, with the Arabic in Uthmani script verified via quran.ai (edition ar-uthmani-minimal). The hadith of the judge's two rewards is in Sahih al-Bukhari 7352 and Sahih Muslim 1716 (sahih). FOR SCHOLAR REVIEW: this lesson concerns the madhhabs and is high-sensitivity. The school-specific examples (hand placement, ameen aloud or silent, raising the hands) are given only as illustrations of the kinds of differences; please verify them and the overall framing, and confirm nothing reads as favouring or disparaging any school, before publication. A future companion lesson is planned giving the schools side by side, by point of difference, which will need madhhab-specific sourcing.",
+  "next": "the-masjid-and-congregation",
+  "bridges_to": null,
+  "related": [
+    {"to": "seerah/why-study-the-seerah", "label": "Why study the Seerah", "note": "the one Prophet the four schools all follow"},
+    {"to": "companions/abdullah-ibn-umar", "label": "Abdullah ibn Umar", "note": "a Companion famed for following the Prophet's practice exactly"}
+  ],
+  "social": {
+    "hook": "One Muslim folds his hands on his chest, another on the navel. One says ameen aloud, another silently. Nobody is doing it wrong. These are the four schools of law: not four religions, but one religion studied so carefully that even the small questions were weighed with reverence.",
+    "caption": "Hanafi, Maliki, Shafi'i, Hanbali: why Muslims pray a little differently, and why it is mercy, not error. A non-sectarian look. Lesson 14 of The New Muslim Path. Buruja."
+  },
+  "email": {
+    "subject": "Why do Muslims pray a little differently?",
+    "preview": "The four schools of law, gently explained, and why all of them are valid. No need to panic."
+  }
+}

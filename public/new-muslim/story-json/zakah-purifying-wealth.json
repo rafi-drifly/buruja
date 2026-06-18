@@ -1,0 +1,173 @@
+{
+  "slug": "zakah-purifying-wealth",
+  "day": 17,
+  "lesson_no": 17,
+  "tier": 2,
+  "kind": "new-muslim",
+  "name": "Zakah",
+  "epithet": "The wealth that purifies",
+  "title": "Zakah: The Third Pillar, the Charity That Purifies",
+  "meta_description": "The third pillar of Islam, gently explained for new Muslims: what zakah is, who actually owes it, where it goes, and how giving a small share of your wealth purifies both it and you.",
+  "keywords": [
+    "what is zakah",
+    "third pillar of Islam",
+    "zakah explained",
+    "how much is zakah",
+    "who pays zakah",
+    "zakah for new Muslims",
+    "charity in Islam"
+  ],
+  "lede": [
+    "The third pillar is the one people most often dread before they understand it. It is zakah, a small, yearly giving from your wealth to those in need. It sounds like a bill. It is closer to a washing.",
+    "Before you worry about numbers, hear the shape of it: zakah is only due on wealth you have held above a certain level for a full year, so if you are new and have little, it may not be due from you at all. What is asked of everyone is the heart behind it, and that you can begin today."
+  ],
+  "do_today": {
+    "label": "Just for today",
+    "text": "Give a small amount to someone in need today, if you can spare it, even the smallest coin. And if money is genuinely tight right now, give something that costs nothing: a sincere smile, a small kindness, clearing something harmful from someone's path. The Prophet ﷺ counted all of these as charity, and any of them loosens money's grip on the heart, which is the heart of the pillar you are learning."
+  },
+  "sections": [
+    {
+      "h2": "A pillar made of giving",
+      "paras": [
+        "Salah and zakah are mentioned together again and again in the Qur'an, prayer and charity, the body's worship and the wallet's. Where the prayer connects you upward to Allah, zakah connects you outward to His servants, and Islam asks for both. Whatever you give, the Qur'an promises, is not lost but stored:"
+      ],
+      "ayah": {
+        "arabic": "وَأَقِيمُوا۟ ٱلصَّلَوٰةَ وَءَاتُوا۟ ٱلزَّكَوٰةَ ۚ وَمَا تُقَدِّمُوا۟ لِأَنفُسِكُم مِّنْ خَيْرٍ تَجِدُوهُ عِندَ ٱللَّهِ ۗ إِنَّ ٱللَّهَ بِمَا تَعْمَلُونَ بَصِيرٌ",
+        "text": "And establish prayer and give zakah, and whatever good you put forward for yourselves, you will find it with Allah. Indeed, Allah, of what you do, is Seeing.",
+        "ref": "Al-Baqarah 2:110"
+      }
+    },
+    {
+      "h2": "Charity that purifies the giver",
+      "paras": [
+        "The very word zakah means purification and growth, and the Qur'an names what it cleans, and it is not only the wealth:"
+      ],
+      "ayah": {
+        "arabic": "خُذْ مِنْ أَمْوَٰلِهِمْ صَدَقَةً تُطَهِّرُهُمْ وَتُزَكِّيهِم بِهَا وَصَلِّ عَلَيْهِمْ ۖ إِنَّ صَلَوٰتَكَ سَكَنٌ لَّهُمْ ۗ وَٱللَّهُ سَمِيعٌ عَلِيمٌ",
+        "text": "Take from their wealth a charity by which you purify them and cause them increase, and invoke Allah's blessings upon them. Indeed, your invocations are reassurance for them. And Allah is Hearing and Knowing.",
+        "ref": "At-Tawbah 9:103"
+      },
+      "tafsir": {
+        "source": "Tafsir as-Sa'di",
+        "text": "As-Sa'di explains the two things this charity does: it purifies the giver, from sins and from the meanness of a clinging heart, and it causes increase, growing his character, his reward, and even his wealth. A person's purification, he notes, is not complete until he gives what is due from his wealth."
+      }
+    },
+    {
+      "h2": "A right, taken from the rich for the poor",
+      "paras": [
+        "Zakah is not a gift the rich graciously hand down. The Qur'an and the Prophet ﷺ frame it as a right the poor already hold in the wealth of those who have. When the Prophet ﷺ sent Mu'adh to Yemen, he told him to teach the people, after faith and prayer:"
+      ],
+      "hadith": {
+        "text": "Allah has obligated upon them a charity (zakah) in their wealth, taken from their rich and given to their poor.",
+        "source": "Sahih al-Bukhari 1395; Sahih Muslim 19",
+        "grade": "sahih"
+      }
+    },
+    {
+      "h2": "How much, and who owes it",
+      "paras": [
+        "For most savings, zakah is a small portion, about one-fortieth, or 2.5 percent, of the wealth you have held for a full lunar year above a minimum threshold called the nisab (its value tracks the price of gold or silver, so a zakah calculator or a teacher gives you the current figure). If your savings sit below that threshold, or you do not keep them a year, zakah is simply not due from you.",
+        "So a new Muslim starting out, with debts or little put by, often owes no zakah at all, and carries no guilt for that. When your situation grows, a trusted local teacher or a reputable zakah calculator can help you work out what, if anything, is due. The principle to hold now is simple: what you own is a trust, and a small, fixed share of it belongs to others by right."
+      ]
+    },
+    {
+      "h2": "Where it goes, and what it does to you",
+      "paras": [
+        "Zakah is not given just anywhere; Allah named exactly who may receive it:"
+      ],
+      "ayah": {
+        "arabic": "إِنَّمَا ٱلصَّدَقَٰتُ لِلْفُقَرَآءِ وَٱلْمَسَٰكِينِ وَٱلْعَٰمِلِينَ عَلَيْهَا وَٱلْمُؤَلَّفَةِ قُلُوبُهُمْ وَفِى ٱلرِّقَابِ وَٱلْغَٰرِمِينَ وَفِى سَبِيلِ ٱللَّهِ وَٱبْنِ ٱلسَّبِيلِ ۖ فَرِيضَةً مِّنَ ٱللَّهِ ۗ وَٱللَّهُ عَلِيمٌ حَكِيمٌ",
+        "text": "Zakah expenditures are only for the poor and for the needy and for those employed to collect it and for bringing hearts together and for freeing captives and for those in debt and for the cause of Allah and for the stranded traveler, an obligation imposed by Allah. And Allah is Knowing and Wise.",
+        "ref": "At-Tawbah 9:60"
+      }
+    },
+    {
+      "h2": "Wealth is not decreased by giving",
+      "paras": [
+        "Everything in you will tell you that giving money away makes you poorer. The Prophet ﷺ said the opposite: no wealth is ever decreased by charity. What you give for Allah's sake is never truly lost; it is kept and multiplied with Him, even in the weeks your own pocket feels it. Zakah loosens the grip that wealth wants to take on the heart, and ties you to the believers who have less.",
+        "So when zakah does become due from you one day, meet it not as a loss but as the third pillar standing up in your life: a yearly proof that you own your wealth, and it does not own you. The One who asks it of you is Himself the Provider of every coin you hold."
+      ]
+    }
+  ],
+  "dua": {
+    "arabic": "اللَّهُمَّ أَعْطِ مُنْفِقًا خَلَفًا",
+    "translit": "Allahumma a'ti munfiqan khalafa",
+    "meaning": "O Allah, give the one who spends in charity a replacement. (part of the du'a an angel makes each morning, Sahih al-Bukhari 1442)"
+  },
+  "lessons_heading": "Carry this with you",
+  "lessons_intro": "If you remember nothing else from this page, remember that zakah is a washing, not a bill.",
+  "lessons": [
+    {
+      "bold": "Zakah purifies, it does not just cost.",
+      "text": "The word means purification and growth. It cleans the wealth, and it cleans the heart that clings to it."
+    },
+    {
+      "bold": "If you have little, you likely owe nothing.",
+      "text": "It is due only on savings held above a threshold for a full year. New and starting out, you carry no guilt here."
+    },
+    {
+      "bold": "It is the poor's right, not your favour.",
+      "text": "Taken from the rich and given to the poor: a fixed share of your wealth already belongs to others."
+    },
+    {
+      "bold": "Giving never makes you poorer.",
+      "text": "The Prophet ﷺ said no wealth is decreased by charity. What leaves your hand for Allah is only moved somewhere safer."
+    }
+  ],
+  "faq": [
+    {
+      "q": "What is zakah?",
+      "a": "Zakah is the third pillar of Islam: an obligatory yearly charity of a small portion of one's accumulated wealth, given to specific categories of people in need. Its name means purification, because it purifies both the wealth and the giver's heart."
+    },
+    {
+      "q": "How much is zakah?",
+      "a": "For most savings it is about 2.5 percent (one-fortieth) of the wealth you have held for a full lunar year above a minimum threshold (nisab). Different types of wealth have different rules, so a local teacher or a reputable zakah calculator can help you work out what is due."
+    },
+    {
+      "q": "Do I have to pay zakah as a new Muslim?",
+      "a": "Only if you have savings above the nisab threshold held for a lunar year. Many people who are new, in debt, or starting out owe no zakah at all, and that is completely fine. The obligation grows with your means."
+    },
+    {
+      "q": "Who can receive zakah?",
+      "a": "The Qur'an names eight categories, including the poor, the needy, those in debt, freeing captives, and the stranded traveler. It is meant for those in genuine need, not given just anywhere; a trustworthy charity or mosque can direct it correctly."
+    },
+    {
+      "q": "What is the difference between zakah and sadaqah?",
+      "a": "Zakah is the obligatory annual charity with fixed rules and recipients. Sadaqah is any voluntary charity, given any time, in any amount, to anyone in need. You can give sadaqah today even if no zakah is due from you."
+    }
+  ],
+  "closing_heading": "A du'a as you learn to give",
+  "closing": [
+    "The pillar that looked like a bill turns out to be a washing. Zakah takes a small, fixed share of what you were given anyway and sends it to those who need it, and in doing so it loosens the quiet hold money tries to take on the heart. You end up lighter, not poorer.",
+    "Tomorrow we meet the fourth pillar, the one most Muslims come to love the most: the fast of Ramadan, a whole month built to bring you near. The giving you learned today and the fasting you learn next are two ways the same heart turns toward the same Lord.",
+    "O Allah, You are the Provider of every coin I will ever hold. Loosen my grip on what You lent me, let me give it gladly and in secret, and replace what I spend for Your sake with what is better. Make me of those whose wealth purifies them, and not of those whom wealth corrupts. Ameen."
+  ],
+  "source_note": "Qur'an citations (2:110, 9:103, 9:60) are from the Saheeh International translation, with the Arabic in Uthmani script verified via quran.ai (edition ar-uthmani-minimal). The 'From the tafsir' note on 9:103 is a faithful condensed rendering of Tafsir as-Sa'di (edition ar-saadi, via quran.ai), not a verbatim quotation. Hadith: the instruction to Mu'adh that zakah is 'taken from their rich and given to their poor,' Sahih al-Bukhari 1395 and Sahih Muslim 19 (sahih); 'no wealth is decreased by charity,' Sahih Muslim 2588 (sahih); the angel's du'a for the one who spends, Sahih al-Bukhari 1442 (sahih). FOR SCHOLAR REVIEW: this lesson contains zakah fiqh. Please confirm the 2.5 percent / nisab figure and framing, the eight categories, the zakah-versus-sadaqah distinction, the hadith references, and the as-Sa'di rendering before publication.",
+  "next": "fasting-and-ramadan",
+  "bridges_to": "asma-ul-husna/ar-razzaq",
+  "related": [
+    {
+      "to": "asma-ul-husna/ar-razzaq",
+      "label": "Ar-Razzaq",
+      "note": "the Provider: the wealth you give was always His provision to you"
+    },
+    {
+      "to": "companions/salman-al-farsi",
+      "label": "Salman al-Farsi",
+      "note": "made governor of a province, he gave his salary away and lived on almost nothing"
+    },
+    {
+      "to": "companions/abu-bakr-part-1",
+      "label": "Abu Bakr",
+      "note": "who gave for the sake of Allah without counting the cost"
+    }
+  ],
+  "social": {
+    "hook": "Zakah feels like a bill. It is closer to a washing. A small, fixed share of your savings, given once a year to those in need, and the Prophet ﷺ said no wealth is ever decreased by charity. You end up lighter, not poorer.",
+    "caption": "The third pillar, gently: what zakah is, who actually owes it (often not the newcomer), and how giving purifies the giver. Lesson 17 of The New Muslim Path. Buruja."
+  },
+  "email": {
+    "subject": "Zakah: the pillar that purifies, not just costs",
+    "preview": "A small yearly share of your wealth, the poor's right, and a washing for the heart that holds it."
+  }
+}

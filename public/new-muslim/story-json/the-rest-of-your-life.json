@@ -1,0 +1,117 @@
+{
+  "slug": "the-rest-of-your-life",
+  "day": 27,
+  "lesson_no": 27,
+  "tier": 3,
+  "kind": "new-muslim",
+  "name": "The Rest of Your Life",
+  "epithet": "Where the path opens out",
+  "title": "The Rest of Your Life: Where the New Muslim Path Leads",
+  "meta_description": "The end of the path, and the beginning of everything. A graduation for new Muslims: look how far you have come, where to go now in the Qur'an, the Names, the Companions and the Seerah, and how to keep it for life.",
+  "keywords": ["new Muslim what next", "how to keep practicing Islam", "staying consistent as a new Muslim", "daily Quran habit", "where to learn after converting", "new Muslim next steps"],
+  "lede": [
+    "You have reached the end of the path. Stop, before you read another word, and look back at the distance. Not long ago you stood at a single page, hands maybe shaking, wondering if any of this could be yours. Now you know who Allah is and who His Messenger ﷺ is, you can pray, you hold the whole shape of the religion, its pillars and its beliefs, and you know how to return when you slip.",
+    "But this is not really an ending. The lessons were only the on-ramp. What opens in front of you now is the open road, the rest of your life with Allah, and it is wider and better than anything a course could hold."
+  ],
+  "do_today": {
+    "label": "Just for today",
+    "text": "Begin the one habit meant to outlast this whole path: read a single verse of the Qur'an, with its meaning, and decide to do it again tomorrow. If you like, let Buruja carry it to you, one ayah a day, at buruja.com. The path you just finished was the on-ramp. One verse today is your first step onto the open road."
+  },
+  "sections": [
+    {
+      "h2": "Look how far you have come",
+      "paras": [
+        "Count it honestly. You said the shahada, or you are close. You learned who Allah is, gentle and near and merciful, and who the Prophet ﷺ is, and why you follow him. You learned to wash and to pray, the shape of it and the words. You took in the whole map: the Five Pillars, the Six Articles of faith, and Ihsan, the spirit that lights them. You learned to give, to fast, to keep clean, to talk to Allah in your own words, and to return to Him every time you fall. And you learned that the point of all of it was a beautiful character.",
+        "The person reading this is not the person who opened the first page. That change, quiet as it may feel, is the work of Allah turning a heart. Do not rush past it. Be grateful for it."
+      ]
+    },
+    {
+      "h2": "The path was the on-ramp, not the destination",
+      "paras": [
+        "These lessons were never the religion itself; they were the doorway in. The destination is not finishing a course. It is a lifelong friendship with Allah and His Book, deepening for as long as you live. And here is the promise that should carry you forward more than any other, because it means your effort is never wasted:"
+      ],
+      "ayah": {
+        "arabic": "وَٱلَّذِينَ جَٰهَدُوا۟ فِينَا لَنَهْدِيَنَّهُمْ سُبُلَنَا ۚ وَإِنَّ ٱللَّهَ لَمَعَ ٱلْمُحْسِنِينَ",
+        "text": "And those who strive for Us, We will surely guide them to Our ways. And indeed, Allah is with the doers of good.",
+        "ref": "Al-Ankabut 29:69"
+      },
+      "tafsir": { "source": "Tafsir as-Sa'di", "text": "As-Sa'di reads this as a law of the whole path: whoever genuinely strives toward Allah, Allah meets that striving by opening the ways to Him, with help and guidance beyond what the person's own effort could ever earn. And the striving need not be dramatic, he notes, even seeking sacred knowledge is a form of it. Take one sincere step toward Him, and He draws you the rest of the way." }
+    },
+    {
+      "h2": "Where the road goes now",
+      "paras": [
+        "So where do you walk from here? Into everything this path was quietly pointing at. A few doors, all open:",
+        "The Qur'an, a verse a day. This is the single most important habit to carry out of here: not a chapter, not a chore, one ayah with its meaning, daily, for life. It is how the Book becomes a friend instead of a mountain. Begin with the short, luminous chapters at the end.",
+        "The names of Allah. You met Him as the Merciful and the Near; there are ninety-nine doors like those, each a new way to know and love Him. Walk through them slowly, over months.",
+        "The Companions, especially the converts. The people who walked your exact road first, who came as strangers and became the most beloved of all: Salman, who crossed the world searching; Bilal, who held the testimony under torture and became the first to call the prayer. You are in the best company that has ever lived.",
+        "And the Seerah, the whole life of the Prophet ﷺ, from the cave to the farewell. You have followed his example in prayer; now meet the man himself, season by season."
+      ]
+    },
+    {
+      "h2": "Small and constant beats big and brief",
+      "paras": [
+        "One warning, because it is where most people stumble after a strong start: do not try to become a scholar and a saint by next week. The energy you feel now will rise and fall, and a faith built on intensity burns out. Build it instead on the smallest steady things, because that is exactly what Allah loves most:"
+      ],
+      "hadith": {
+        "text": "The most beloved of deeds to Allah are the most constant, even if they are few.",
+        "source": "Sahih al-Bukhari 6464; Sahih Muslim 783",
+        "grade": "sahih"
+      }
+    },
+    {
+      "h2": "You were never behind",
+      "paras": [
+        "On your very first day, this path told you the one thing you most needed to hear: you are not behind. Look back now and see that it was true. You were never behind; you were exactly where Allah was bringing you, one small step at a time, and you arrived.",
+        "And the anxious heart that carried you to that first page, the one looking for somewhere to rest, has found its home. It always belonged here:"
+      ],
+      "ayah": {
+        "arabic": "أَلَا بِذِكْرِ ٱللَّهِ تَطْمَئِنُّ ٱلْقُلُوبُ",
+        "text": "Unquestionably, by the remembrance of Allah hearts are assured.",
+        "ref": "Ar-Ra'd 13:28"
+      }
+    }
+  ],
+  "dua": {
+    "arabic": "يَا مُقَلِّبَ الْقُلُوبِ ثَبِّتْ قَلْبِي عَلَىٰ دِينِكَ",
+    "translit": "Ya muqallib al-qulub, thabbit qalbi 'ala dinik",
+    "meaning": "O Turner of hearts, keep my heart firm upon Your religion. (a du'a the Prophet ﷺ said often, Jami at-Tirmidhi 2140)"
+  },
+  "lessons_heading": "Carry this with you",
+  "lessons_intro": "If you remember nothing else from this page, remember where the road leads.",
+  "lessons": [
+    { "bold": "Look how far you came.", "text": "From a trembling first page to praying, knowing your religion, and knowing how to return. That is Allah turning a heart." },
+    { "bold": "This was the on-ramp.", "text": "The lessons end; the lifelong friendship with Allah and His Book begins. Strive a step toward Him, and He guides you the rest of the way." },
+    { "bold": "One verse a day, for life.", "text": "The single habit to carry out of here. Then the Names, the Companions, and the Seerah, slowly, over years." },
+    { "bold": "Small and constant wins.", "text": "Allah loves the steady small deed more than the rare grand one. Build on consistency, not intensity, and you will not burn out." }
+  ],
+  "faq": [
+    { "q": "I have finished the lessons. What now?", "a": "Carry one habit above all: read a verse of the Qur'an with its meaning every day. From there, explore the rest at your own pace, the names of Allah, the lives of the Companions, the Seerah of the Prophet ﷺ. The path was the on-ramp; now you simply keep walking, gently and daily." },
+    { "q": "How do I keep going and not drift away?", "a": "Build on small, steady habits rather than bursts of intensity, because the Prophet ﷺ taught that the deeds most beloved to Allah are the most constant, even if they are few. Stay connected to a community and a teacher, keep your five prayers as the spine of your day, and when you slip, return without despair." },
+    { "q": "Where should I start in the wider library?", "a": "Start with the daily Qur'an, one ayah a day. When you want more, the ninety-nine Names of Allah deepen how you know Him, the stories of the Companions show you people who walked your road first, and the Seerah lays out the whole life of the Prophet ﷺ. There is no wrong order; follow what moves your heart." },
+    { "q": "I still feel like a beginner. Is that a problem?", "a": "Not at all. Every Muslim is a lifelong beginner before Allah; the scholars say the more you learn, the more you see how much remains. Feeling like a beginner is not a failure, it is the honest posture of a heart that keeps growing. Keep taking small steps; Allah is with you." }
+  ],
+  "closing_heading": "A du'a for the road ahead",
+  "closing": [
+    "You came to the first page carrying a fear you could barely name, and you leave it able to pray, to believe, to give, to return, and to begin the Qur'an. The mountain you saw at the start was never yours to climb in a day. You took it one small step at a time, exactly as it was built to be taken, and look: you are standing on the other side of the beginning.",
+    "There is no graduation in this religion, only doors that keep opening. So this is not goodbye. It is the moment the lessons step back and life steps forward, with the daily Qur'an in your hands, the Companions for company, and the Prophet ﷺ a few steps ahead on the road. We were honoured to walk the first stretch with you. Walk the rest with Allah.",
+    "O Turner of hearts, You turned this one toward You before it knew how to ask, and You carried it all this way. Keep it firm on Your religion now that the path opens wide. Make the Qur'an its daily companion, make its small deeds constant, and gather the one reading this, on the Day they meet You, among those who strove toward You and were guided home. You were never behind. Welcome to the rest of your life. Ameen."
+  ],
+  "source_note": "Qur'an citations (29:69, 13:28) are from the Saheeh International translation, with the Arabic in Uthmani script verified via quran.ai (edition ar-uthmani-minimal). The 'From the tafsir' note on 29:69 is a faithful condensed rendering of Tafsir as-Sa'di (edition ar-saadi, via quran.ai), not a verbatim quotation. Hadith: 'the most beloved of deeds to Allah are the most constant, even if few,' Sahih al-Bukhari 6464 and Sahih Muslim 783 (sahih); the du'a 'O Turner of hearts, keep my heart firm upon Your religion' is reported in Jami at-Tirmidhi 2140 (graded hasan/sahih). FOR SCHOLAR REVIEW: confirm the hadith and du'a references and grades, and the framing of the graduation hand-off, before publication.",
+  "next": null,
+  "bridges_to": "juz-amma/an-naba",
+  "related": [
+    {"to": "juz-amma/an-naba", "label": "Surah an-Naba", "note": "the gateway to the short, powerful chapters: a beautiful place to begin reading every day"},
+    {"to": "asma-ul-husna/ar-rahman-ar-rahim", "label": "The 99 Names", "note": "keep meeting Allah, one beautiful name at a time"},
+    {"to": "companions/salman-al-farsi", "label": "Salman al-Farsi", "note": "the convert who crossed the world to find the truth; now his road is yours"},
+    {"to": "companions/bilal-ibn-rabah", "label": "Bilal ibn Rabah", "note": "from a tortured slave to the first voice of the call to prayer"},
+    {"to": "seerah/why-study-the-seerah", "label": "The Seerah", "note": "the whole life of the Prophet ﷺ, waiting for you to walk through it"}
+  ],
+  "social": {
+    "hook": "Look how far you came. Not long ago you stood at a single page, hands shaking, wondering if any of this could be yours. Now you can pray, you know your whole religion, and you know how to return when you fall. The path was only the on-ramp. This is the open road.",
+    "caption": "The end of The New Muslim Path, and the beginning of everything. Where to go now: the daily Qur'an, the Names, the Companions, the Seerah. You were never behind. Lesson 27, the graduation. Buruja."
+  },
+  "email": {
+    "subject": "The rest of your life starts here",
+    "preview": "You finished the path. It was only the on-ramp. Here is the open road, and the one habit to carry for life."
+  }
+}

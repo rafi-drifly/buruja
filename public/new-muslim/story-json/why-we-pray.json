@@ -1,0 +1,107 @@
+{
+  "slug": "why-we-pray",
+  "day": 12,
+  "lesson_no": 12,
+  "tier": 2,
+  "kind": "new-muslim",
+  "name": "Why We Pray, and Why Five",
+  "epithet": "The gift from above the heavens",
+  "title": "Why Muslims Pray Five Times a Day",
+  "meta_description": "You learned how to pray. Here is why, and why five. The story of the Night Journey, the prayer eased from fifty to five, and what salah does to a life. For new Muslims.",
+  "keywords": ["why do Muslims pray five times a day", "why pray salah", "Night Journey salah", "why five prayers", "purpose of prayer in Islam", "Isra and Miraj prayer"],
+  "lede": [
+    "You spent your first week learning how to pray. Now the deeper question, the one that keeps you praying when the alarm goes at dawn: why? And why five, exactly, every single day?",
+    "The answer is one of the most beautiful stories in the whole religion, and once you know it, the five daily prayers stop feeling like a demand and start feeling like what they are: a standing appointment with the One who wanted you near."
+  ],
+  "do_today": {
+    "label": "Just for today",
+    "text": "At your next prayer, before you begin, say quietly to yourself: this is not a chore I owe. This is a gift I was given. Then pray it, even quickly. Just shift the feeling once, from debt to invitation, and notice what changes."
+  },
+  "sections": [
+    {
+      "h2": "The one command given in the heavens",
+      "paras": [
+        "Every other command in Islam came down to the Prophet ﷺ here on earth, brought by the angel. The prayer is the single exception. For the prayer, the Prophet ﷺ was raised up: on the night known as the Isra and Mi'raj, the Night Journey, he was carried from Makkah to Jerusalem and then up through the heavens, and it was there, in the highest place a human being has ever reached, that the five daily prayers were given.",
+        "Think about what that means. Of everything in your religion, the prayer is the gift Allah handed over in person, above the seven heavens. It is the most honoured thing you do. The Qur'an opens the story like this:"
+      ],
+      "ayah": {
+        "arabic": "سُبْحَٰنَ ٱلَّذِىٓ أَسْرَىٰ بِعَبْدِهِۦ لَيْلًا مِّنَ ٱلْمَسْجِدِ ٱلْحَرَامِ إِلَى ٱلْمَسْجِدِ ٱلْأَقْصَا ٱلَّذِى بَٰرَكْنَا حَوْلَهُۥ لِنُرِيَهُۥ مِنْ ءَايَٰتِنَآ ۚ إِنَّهُۥ هُوَ ٱلسَّمِيعُ ٱلْبَصِيرُ",
+        "text": "Exalted is He who took His Servant by night from al-Masjid al-Haram to al-Masjid al-Aqsa, whose surroundings We have blessed, to show him of Our signs. Indeed, He is the Hearing, the Seeing.",
+        "ref": "Al-Isra 17:1"
+      }
+    },
+    {
+      "h2": "Fifty, then five",
+      "paras": [
+        "Here is the part that tells you everything about your Lord. On that night, the prayers were first given as fifty a day. As the Prophet ﷺ descended, the Prophet Musa (Moses), peace be upon him, urged him to go back and ask Allah to lighten it, knowing people could not bear fifty. So he returned, and Allah reduced it, and again, and again, until it was five.",
+        "And then Allah said the thing worth carrying for life: they are five in number, but fifty in reward. He lightened the burden without lightening the gift. The Prophet ﷺ reported His words:"
+      ],
+      "hadith": {
+        "text": "They are five, and they are fifty. The word does not change with Me.",
+        "source": "Sahih al-Bukhari 3887; Sahih Muslim 162",
+        "grade": "sahih"
+      }
+    },
+    {
+      "h2": "What prayer does to a life",
+      "tafsir": {"source": "Tafsir as-Sa'di", "text": "As-Sa'di explains how prayer restrains a person from wrongdoing: the one who prays it fully, completing its pillars and its presence of heart, finds his heart lit and his faith strengthened, so that his desire for good grows and his pull toward evil weakens. This, he says, is among the prayer's greatest fruits."},
+      "paras": [
+        "So why five, spread across the day? Because a human heart drifts. Left alone from morning to night, it forgets, hardens, gets pulled into a hundred small wrongs. Five times, Allah calls you back, washes you, stands you up, and resets you. It is less a tax on your day than a rescue of it, repeated before you can wander too far.",
+        "And it works on you. The Qur'an promises that real prayer reshapes a person from the inside:"
+      ],
+      "ayah": {
+        "arabic": "إِنَّ ٱلصَّلَوٰةَ تَنْهَىٰ عَنِ ٱلْفَحْشَآءِ وَٱلْمُنكَرِ ۗ وَلَذِكْرُ ٱللَّهِ أَكْبَرُ",
+        "text": "Indeed, prayer prohibits immorality and wrongdoing, and the remembrance of Allah is greater.",
+        "ref": "Al-Ankabut 29:45"
+      }
+    },
+    {
+      "h2": "The first thing you will be asked",
+      "paras": [
+        "The Prophet ﷺ taught that the very first thing a person will be asked about on the Day of Judgement is the prayer, and that if it is sound, the rest of the record tends to follow. That is not meant to frighten you. It is meant to tell you where to put your effort: get this one thing standing, and it holds up everything else.",
+        "So when the prayer feels heavy, remember what it actually is. Not a bill that fell due five times today, but the one gift He came down to give and then carried up to the heavens to hand over. You were wanted near. Five times a day, He says so."
+      ]
+    }
+  ],
+  "dua": {
+    "arabic": "رَبَّنَا ٱغْفِرْ لِى وَلِوَٰلِدَىَّ وَلِلْمُؤْمِنِينَ يَوْمَ يَقُومُ ٱلْحِسَابُ",
+    "translit": "Rabbana-ghfir li wa li-walidayya wa lil-mu'minina yawma yaqumu-l-hisab",
+    "meaning": "Our Lord, forgive me and my parents and the believers the Day the account is established. (Ibrahim 14:41)"
+  },
+  "lessons_heading": "Carry this with you",
+  "lessons_intro": "If you remember nothing else from this page, remember what the prayer actually is.",
+  "lessons": [
+    { "bold": "The prayer is the gift given in the heavens.", "text": "Every other command came down to earth. For this one, the Prophet ﷺ was raised up. It is the most honoured thing you do." },
+    { "bold": "Five in number, fifty in reward.", "text": "Allah lightened the burden without lightening the gift. You carry five and are credited with fifty." },
+    { "bold": "It is a rescue, not a tax.", "text": "Five times a day He calls your drifting heart back, washes it, and resets it before you wander too far." },
+    { "bold": "It holds up everything else.", "text": "The first thing you are asked about on the Last Day. Get this standing, and the rest of your life leans on it." }
+  ],
+  "faq": [
+    { "q": "Why do Muslims pray five times a day?", "a": "The five daily prayers were given to the Prophet ﷺ on the Night Journey, above the heavens, originally as fifty and then eased to five while keeping the reward of fifty. Five times a day spaces the remembrance of Allah across the whole day, calling the heart back before it drifts too far." },
+    { "q": "Why was the prayer reduced from fifty to five?", "a": "On the Night Journey the Prophet ﷺ, urged by Musa (Moses), returned to Allah repeatedly to ask for it to be lightened, out of mercy for people. Allah reduced it to five but declared they would still carry the reward of fifty: the burden eased, the gift kept." },
+    { "q": "What is the point of prayer if Allah does not need it?", "a": "Allah needs nothing; the prayer is for us. The Qur'an says real prayer restrains a person from wrongdoing and keeps the heart in remembrance of Allah. It resets and protects the one who prays, five times a day." },
+    { "q": "What happens if I do not pray?", "a": "Prayer is the first thing a person is asked about on the Day of Judgement, so it matters greatly, but the door is always open. If you have missed prayers, you are not shut out; you begin again from now. A later lesson covers exactly what to do when life has gotten in the way." }
+  ],
+  "closing_heading": "A du'a for the gift of prayer",
+  "closing": [
+    "You learned the shape and the words of prayer in your first week. Now you know what you are actually holding: the one gift Allah gave in person, above the heavens, eased to five out of mercy and still weighed as fifty out of love. A standing appointment with the One who wanted you close enough to call you five times a day.",
+    "Tomorrow we go deeper still, into the heart of the prayer: how to actually be present in it, when your mind keeps wandering off. You know why you pray. Next, how to be there while you do.",
+    "O Allah, You gave the prayer as a gift and carried it down from the heavens for us. Let me never treat it as a burden. Make it the rest of my day and the steadying of my heart, five times over, until the Day the account is established. Ameen."
+  ],
+  "source_note": "Qur'an citations (17:1, 29:45, and the du'a from 14:41) are from the Saheeh International translation, with the Arabic in Uthmani script verified via quran.ai (edition ar-uthmani-minimal). The Night Journey and the prayers eased from fifty to five, including 'they are five and they are fifty, the word does not change with Me,' are recorded in Sahih al-Bukhari 3887 (and 349) and Sahih Muslim 162 (sahih); the hadith that prayer is the first deed accounted for on the Day of Judgement is in Sunan al-Tirmidhi 413 and Sunan al-Nasa'i (graded sahih by many). FOR SCHOLAR REVIEW: confirm the Night Journey narrative summary, the 'fifty to five' wording, and the hadith references before publication. The 'From the tafsir' note is a faithful condensed rendering of Tafsir as-Sa'di (edition ar-saadi, via quran.ai), not a verbatim quotation; FOR SCHOLAR REVIEW: confirm it reflects as-Sa'di accurately.",
+  "next": "praying-with-presence",
+  "bridges_to": "seerah/the-night-journey-1",
+  "related": [
+    {"to": "seerah/the-night-journey-1", "label": "The Night Journey (part 1)", "note": "where the five prayers were given, above the heavens"},
+    {"to": "seerah/the-night-journey-2", "label": "The Night Journey (part 2)", "note": "the journey continues"},
+    {"to": "asma-ul-husna/al-qarib-al-mujib", "label": "Al-Qarib, Al-Mujib", "note": "the One who is near and answers, five times a day"}
+  ],
+  "social": {
+    "hook": "Every command in Islam came down to earth. The prayer is the one exception: for it, the Prophet ﷺ was raised above the heavens. It was given as fifty a day, then eased to five, kept at fifty in reward. The burden lightened, the gift untouched.",
+    "caption": "Why we pray, and why five. The Night Journey, and the most merciful exchange in the whole religion. Lesson 12 of The New Muslim Path. Buruja."
+  },
+  "email": {
+    "subject": "Why five prayers a day? The answer is a journey",
+    "preview": "The one command given above the heavens, eased from fifty to five, and still weighed as fifty."
+  }
+}

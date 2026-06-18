@@ -1,0 +1,174 @@
+{
+  "slug": "start-here",
+  "day": 0,
+  "lesson_no": 0,
+  "tier": 0,
+  "kind": "new-muslim",
+  "name": "Start Here",
+  "epithet": "You are not behind",
+  "title": "Start Here: You Just Became Muslim (or You Want To)",
+  "meta_description": "If you just took your shahada, or you are thinking about it, start here. What it means, how to say it, and the one gentle thing to do today. No judgment, no rush.",
+  "keywords": [
+    "how to become Muslim",
+    "I just took my shahada now what",
+    "convert to Islam",
+    "shahada words",
+    "new Muslim where to start",
+    "revert to Islam"
+  ],
+  "lede": [
+    "Maybe you said the words an hour ago and your hands are still shaking. Maybe you have not said them yet, and you are sitting with the question, turning it over, afraid of how big it feels. Either way, breathe. You are in the right place, and you are not too late.",
+    "There is a whole religion in front of you, and it can look like a mountain from here. Forget the mountain for a moment. Today there is only one step, and it is a small one. We will take it together."
+  ],
+  "do_today": {
+    "label": "Just for today",
+    "text": "Say these words, out loud if you can, in Arabic or in your own language, and mean them: 'I bear witness that there is no god but Allah, and I bear witness that Muhammad is the Messenger of Allah.' That is the shahada. If you have already said it, say it again and let it settle. That is the whole task. Nothing else is required of you today."
+  },
+  "sections": [
+    {
+      "h2": "You are not behind",
+      "paras": [
+        "Before anything else, hear this clearly, because no one may have told you. You are not behind. You have not missed your chance. The years before today are not held against you.",
+        "When a person enters Islam, the Prophet ﷺ taught that what came before is wiped clean, as if the page was turned to fresh paper. You do not start in debt. You start at zero, forgiven, with the ink still wet.",
+        "And listen to how Allah speaks to anyone who feels they have ruined too much to return:"
+      ],
+      "ayah": {
+        "arabic": "قُلْ يَٰعِبَادِىَ ٱلَّذِينَ أَسْرَفُوا۟ عَلَىٰٓ أَنفُسِهِمْ لَا تَقْنَطُوا۟ مِن رَّحْمَةِ ٱللَّهِ ۚ إِنَّ ٱللَّهَ يَغْفِرُ ٱلذُّنُوبَ جَمِيعًا ۚ إِنَّهُۥ هُوَ ٱلْغَفُورُ ٱلرَّحِيمُ",
+        "text": "Say, 'O My servants who have transgressed against themselves, do not despair of the mercy of Allah. Indeed, Allah forgives all sins. Indeed, it is He who is the Forgiving, the Merciful.'",
+        "ref": "Az-Zumar 39:53"
+      }
+    },
+    {
+      "h2": "What the shahada actually means",
+      "paras": [
+        "The door into Islam is a single sentence, called the shahada, which means 'the testimony.' It has two halves.",
+        "The first half: there is no god but Allah. It means nothing in this world deserves the weight you have been giving it. Not money, not people's opinion of you, not fear, not your own past. One God made all of it, holds all of it, and is enough. To say this is to set down a hundred smaller masters and answer to One.",
+        "The second half: Muhammad is the Messenger of Allah. It means you are not left to guess what that One God wants from you. He sent a man, peace be upon him, to show it, gently and by example, so the path is walkable by ordinary people. People exactly like you.",
+        "Allah Himself states the first half plainly in the Qur'an, so that the testimony you say is His own words returned to Him:"
+      ],
+      "ayah": {
+        "arabic": "فَٱعْلَمْ أَنَّهُۥ لَآ إِلَٰهَ إِلَّا ٱللَّهُ",
+        "text": "So know that there is no deity except Allah.",
+        "ref": "Muhammad 47:19"
+      }
+    },
+    {
+      "h2": "How to say it",
+      "paras": [
+        "If you have not said it yet and you want to, you do not need a mosque, a witness, or a special day, though having Muslims around you is a beautiful thing if you can. You need only sincerity. Say it slowly. Here it is in Arabic, in sound, and in meaning.",
+        "Arabic: Ash-hadu an la ilaha illa Allah, wa ash-hadu anna Muhammadan rasul Allah.",
+        "Meaning: I bear witness that there is no god but Allah, and I bear witness that Muhammad is the Messenger of Allah.",
+        "Say it in English first if the Arabic is too much today. Allah hears the heart, not the accent. The Arabic will come with time, one word at a time, and we will help you. If you already said it, then it is done: you are Muslim. Welcome home."
+      ]
+    },
+    {
+      "h2": "You do not have to fix everything today",
+      "paras": [
+        "Here is where many new Muslims drown, so we will say it before it happens to you. You are about to learn that there are five daily prayers, and rules about food, and a month of fasting, and a hundred things people will rush to tell you. You cannot do all of it today, and Allah does not ask you to.",
+        "He built this faith for human beings, with human limits, and He said so:"
+      ],
+      "ayah": {
+        "arabic": "لَا يُكَلِّفُ ٱللَّهُ نَفْسًا إِلَّا وُسْعَهَا",
+        "text": "Allah does not charge a soul except with that within its capacity.",
+        "ref": "Al-Baqarah 2:286"
+      }
+    },
+    {
+      "h2": "One step at a time, starting now",
+      "paras": [
+        "So here is the plan, and it is kind. This week, you will learn just enough to pray: who Allah is, who the Prophet ﷺ is, how to wash for prayer, and how to pray. That is the whole first week. Nothing more.",
+        "Then, gently, over a month and then a year, the rest unfolds. You will meet the people who walked this exact road before you, the Companions, including many who converted just like you, who came as strangers and became the most beloved of all. You are not the first to stand where you are standing. You are in the best company that has ever existed.",
+        "And your anxious heart, the one that brought you here, was made for exactly this:"
+      ],
+      "ayah": {
+        "arabic": "أَلَا بِذِكْرِ ٱللَّهِ تَطْمَئِنُّ ٱلْقُلُوبُ",
+        "text": "Unquestionably, by the remembrance of Allah hearts are assured.",
+        "ref": "Ar-Ra'd 13:28"
+      }
+    }
+  ],
+  "dua": {
+    "arabic": "رَبَّنَا لَا تُؤَاخِذْنَآ إِن نَّسِينَآ أَوْ أَخْطَأْنَا",
+    "translit": "Rabbana la tu'akhidhna in nasina aw akhta'na",
+    "meaning": "Our Lord, do not hold us accountable if we forget or make a mistake. (Al-Baqarah 2:286)"
+  },
+  "lessons_heading": "Carry this with you",
+  "lessons_intro": "If you remember nothing else from this page, remember these four things.",
+  "lessons": [
+    {
+      "bold": "You are not behind.",
+      "text": "Entering Islam wipes the slate clean. You begin at zero, forgiven, not in debt. The years before today are not held against you."
+    },
+    {
+      "bold": "The door is one sentence.",
+      "text": "There is no god but Allah, and Muhammad is His Messenger. Said sincerely, in any language, that is all it takes to enter."
+    },
+    {
+      "bold": "You do not have to do everything today.",
+      "text": "Allah does not burden a soul beyond its capacity. One small step a day is not slow, it is exactly the pace He designed."
+    },
+    {
+      "bold": "You are in the best company.",
+      "text": "Many of the most beloved Companions of the Prophet ﷺ were converts who came as strangers. You walk a road they walked first."
+    }
+  ],
+  "faq": [
+    {
+      "q": "What do I have to say to become Muslim?",
+      "a": "The shahada: 'I bear witness that there is no god but Allah, and I bear witness that Muhammad is the Messenger of Allah.' Said sincerely, with belief in its meaning, that is what makes a person Muslim. In Arabic it is: Ash-hadu an la ilaha illa Allah, wa ash-hadu anna Muhammadan rasul Allah."
+    },
+    {
+      "q": "Do I need a mosque, an imam, or witnesses?",
+      "a": "No, they are not required for the shahada to be valid. Sincerity is what counts. That said, saying it in front of Muslims is encouraged and beautiful if you have the chance, and a local mosque can help you with the next steps and community."
+    },
+    {
+      "q": "Do I have to change my name?",
+      "a": "No. There is no requirement to change your name when you become Muslim, unless your name carries a meaning that conflicts with belief in one God. Most converts keep their name, and some choose to take or add a name that is meaningful to them. Either way, it is your choice, not a requirement."
+    },
+    {
+      "q": "What about my non-Muslim family?",
+      "a": "Islam commands kindness and good treatment toward parents and family, including those who are not Muslim. Becoming Muslim does not mean cutting people off. This path has a full lesson on family and the old life, with practical, compassionate guidance."
+    },
+    {
+      "q": "Is it too late for me? I have done a lot wrong.",
+      "a": "No. The Qur'an says Allah forgives all sins, and the Prophet ﷺ taught that entering Islam wipes out what came before it. You start clean. This is the heart of where you begin."
+    },
+    {
+      "q": "I feel overwhelmed. Where do I actually start?",
+      "a": "Right here, with one sentence and nothing more today. This week you will learn only enough to pray. The rest comes slowly, over months, at a pace built for human beings."
+    },
+    {
+      "q": "What if it is not safe for me to be openly Muslim?",
+      "a": "Then go at the pace your safety allows. Your shahada is just as real whispered in private as it is declared in public, and Islam permits discretion when you face genuine danger, at home, at work, or where you live. You are never required to put yourself at risk to prove your faith. Take the next small step quietly; Allah sees it and it counts."
+    }
+  ],
+  "closing_heading": "A du'a for your first day",
+  "closing": [
+    "You came to this page carrying something: a decision, a fear, a hope you could not say out loud. Whatever brought you here, it was Allah turning your heart toward Him, and that is no small thing. Hearts do not turn on their own.",
+    "So today, do the one small step. Say the words, or say them again. Then rest. Tomorrow we learn who it is you have just turned toward, and the day after, how to stand before Him in prayer. One step at a time, and we walk it with you.",
+    "O Allah, You turned this heart toward You before it knew how to ask. Keep it turned. Make this beginning easy, make the next step light, and let the one reading this feel, today, that they are not behind and not alone. Ameen."
+  ],
+  "source_note": "Qur'an citations (39:53, 47:19, 2:286, 13:28) verified against the canonical text (English from Saheeh International; Arabic in Uthmani script, edition ar-uthmani-minimal; via quran.ai). The teaching that entering Islam wipes out previous sins is based on the hadith of 'Amr ibn al-'As (Sahih Muslim 121), 'Islam wipes out what came before it.' FOR SCHOLAR REVIEW: confirm the framing of the shahada validity (no witnesses required), the name-change guidance, and the Sahih Muslim 121 reference before publication.",
+  "next": "who-is-allah",
+  "bridges_to": "companions/salman-al-farsi",
+  "related": [
+    {
+      "to": "companions/salman-al-farsi",
+      "label": "Salman al-Farsi",
+      "note": "the seeker who crossed the world and found his place at the very front"
+    },
+    {
+      "to": "companions/bilal-ibn-rabah",
+      "label": "Bilal ibn Rabah",
+      "note": "tortured for the shahada, he became the voice of the first call to prayer"
+    }
+  ],
+  "social": {
+    "hook": "No one tells new Muslims this: you are not behind. The slate is wiped clean. You begin at zero, forgiven.",
+    "caption": "If you just took your shahada, or you are thinking about it, start here. One sentence, one step, no judgment. Buruja."
+  },
+  "email": {
+    "subject": "You are not behind. Start here.",
+    "preview": "One sentence, one small step, and we walk the rest with you."
+  }
+}

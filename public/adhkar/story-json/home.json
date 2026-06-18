@@ -1,0 +1,97 @@
+{
+  "slug": "home",
+  "kind": "collection",
+  "group": "through-day",
+  "order": 2,
+  "name": "Leaving & Entering the Home",
+  "arabic_name": "أذكار الخروج من المنزل ودخوله",
+  "epithet": "Words for the doorway",
+  "title": "Leaving & Entering the Home: the du'as to say at your door, in Arabic, transliteration and meaning",
+  "meta_description": "The du'as for leaving and entering your home, in Arabic, transliteration and English, each with its source. Step out in Allah's protection and return in His Name.",
+  "keywords": "dua leaving home, dua entering home, dua before leaving house, dua coming home, Bismillah tawakkaltu, home dua, protection dua, Hisn al-Muslim, Buruja",
+  "lede": [
+    "The door of your home is a threshold you cross many times a day, often without noticing. The Prophet ﷺ taught us not to cross it empty-handed: a few words on the way out place the whole journey in Allah's keeping, and a few on the way in shut the door on the devil behind you.",
+    "These are the du'as for leaving and returning. Short enough to say in the time it takes to find your keys, and weighty enough to change how the moment is met."
+  ],
+  "intro_heading": "How to use these",
+  "intro": [
+    "Say the leaving du'a as you step out of your home, and the entering du'a as you come back in. The sunnah adds that you greet those inside with salam as you enter, and that mentioning Allah's Name at the door leaves no place for the devil to lodge for the night."
+  ],
+  "closing_heading": "Guarded coming and going",
+  "closing": [
+    "When you leave with these words, the Prophet ﷺ said it is announced for you: you are guided, sufficed and protected, and the devil turns away from a person so guarded. Few sentences carry that much shelter.",
+    "O Allah, guard our going out and our coming in, and let our homes be houses in which Your Name is remembered."
+  ],
+  "faq": [
+    {
+      "q": "What do I say when I leave my house?",
+      "a": "Say the du'a of leaving, placing your trust in Allah and acknowledging that there is no power except by Him. The Prophet ﷺ taught that whoever says it is told: you are guided, defended and protected, and the devil is turned away from him."
+    },
+    {
+      "q": "What do I say when I come home?",
+      "a": "Say the du'a of entering, mentioning the Name of Allah, and greet those inside with salam. When a person mentions Allah's Name on entering, the devil finds no place to spend the night in that home."
+    },
+    {
+      "q": "Do I need to say these out loud?",
+      "a": "A gentle voice is good, especially the salam to your household, but the heart is what matters. Say them with awareness as you cross the threshold, even quietly, and the sunnah is kept."
+    }
+  ],
+  "email": {
+    "subject": "The words for your doorway, coming and going",
+    "alt_subject": "What to say when you leave and enter your home",
+    "preview": "The du'as for leaving and entering your home, in Arabic, transliteration and meaning.",
+    "body": "Assalamu alaikum,\n\nThe door of your home is a threshold you cross many times a day, usually without a thought. The Prophet ﷺ taught us not to cross it empty-handed: a few words on the way out place the whole journey in Allah's keeping, and a few on the way in shut the door on the devil behind you.\n\nWe have gathered the du'as for leaving and returning, each with its Arabic, a transliteration to help you learn it, the meaning, and its source. They are short enough to say while you find your keys, and weighty enough to change how the moment is met.\n\nLeave in His protection, return in His Name, and greet your household with peace:"
+  },
+  "social": {
+    "hook": "There are words for the moment you walk out your front door.\n\nSay them, and you step out guided, sufficed and protected.",
+    "caption": "The du'as for leaving and entering your home, words for a threshold you cross every single day.\n\nThe Prophet ﷺ said that whoever leaves with the du'a of trust is told: you are guided, defended and protected, and the devil turns away from him. And mentioning Allah's Name as you enter leaves the devil no place to lodge for the night.\n\nSave this, and read the full set with Arabic, transliteration and meaning at buruja.com/adhkar/home\n\n#DuaForLeavingHome #HomeDua #Protection #Dhikr #Dua #HisnAlMuslim #SunnahOfTheProphet #IslamicReminders #Buruja #Islam"
+  },
+  "source_note": "Prophetic adhkar transcribed verbatim from Hisn al-Muslim (Sa'eed al-Qahtani) via sunnah.com; al-Bukhari and Muslim taken as sahih, jayyid/reliable as hasan. Recitation audio: the official Hisn al-Muslim audio (hisnmuslim.com) for the adhkar. Selection follows Hisn al-Muslim, with thanks to lifewithallah.com; framing is Buruja's own. FOR SCHOLAR REVIEW: confirm every Arabic text, reference, repetition count and grading before publication.",
+  "items": [
+    {
+      "source": "hadith",
+      "title": "Leaving the home",
+      "arabic": "بِسْمِ اللهِ ، تَوَكَّلْـتُ عَلى اللهِ وَلا حَوْلَ وَلا قُـوَّةَ إِلاّ بِالله",
+      "translit": "Bismillāhi, tawakkaltu `alallāhi, wa lā ḥawla wa lā quwwata illā billāh.",
+      "en": "In the Name of Allah, I have placed my trust in Allah, there is no might and no power except by Allah.",
+      "repeat": "",
+      "ref": "Abu Dawud 4/325, At-Tirmidhi 5/490",
+      "grade": "sahih",
+      "audio": [
+        "https://www.hisnmuslim.com/audio/ar/16.mp3"
+      ],
+      "note": "The Prophet ﷺ said whoever says this on leaving is told: you are guided, sufficed and protected, and the devil withdraws from him.",
+      "n": 1
+    },
+    {
+      "source": "hadith",
+      "title": "Refuge from misguiding and being wronged",
+      "arabic": "اللّهُـمَّ إِنِّـي أَعـوذُ بِكَ أَنْ أَضِـلَّ أَوْ أُضَـل ، أَوْ أَزِلَّ أَوْ أُزَل ، أَوْ أَظْلِـمَ أَوْ أَُظْلَـم ، أَوْ أَجْهَلَ أَوْ يُـجْهَلَ عَلَـيّ",
+      "translit": "Allāhumma 'innī 'a`ūdhu bika 'an 'aḍilla, 'aw 'uḍalla, 'aw 'azilla, 'aw 'uzalla, 'aw 'aẓlima, 'aw 'uẓlama, 'aw 'ajhala 'aw yujhala `alayya.",
+      "en": "O Allah, I seek refuge in You lest I misguide others, or I am misguided by others, lest I cause others to err or I am caused to err, lest I abuse others or be abused, and lest I behave foolishly or meet with the foolishness of others.",
+      "repeat": "",
+      "ref": "At-Tirmidhi 3/152 and Sahih Ibn Majah 2/336",
+      "grade": "sahih",
+      "audio": [
+        "https://www.hisnmuslim.com/audio/ar/17.mp3"
+      ],
+      "note": "A second du'a for setting out, seeking refuge from straying or being led astray, from wronging or being wronged, and from acting or being treated foolishly.",
+      "n": 2
+    },
+    {
+      "source": "hadith",
+      "title": "Entering the home",
+      "arabic": "بِسْـمِ اللهِ وَلَجْنـا، وَبِسْـمِ اللهِ خَـرَجْنـا، وَعَلـى رَبِّنـا تَوَكّلْـن",
+      "translit": "Bismillāhi walajnā, wa bismillāhi kharajnā, wa `ala Rabbinā tawakkalnā",
+      "en": "In the Name of Allah we enter, in the Name of Allah we leave, and upon our Lord we depend [then say As-Salāmu `Alaykum to those present].",
+      "repeat": "",
+      "ref": "Abu Dawud 4/325",
+      "grade": "sahih",
+      "audio": [
+        "https://www.hisnmuslim.com/audio/ar/18.mp3"
+      ],
+      "note": "Mention Allah's Name on entering and greet your household with salam. When His Name is said at the door, the devil finds no shelter inside for the night.",
+      "n": 3
+    }
+  ]
+}

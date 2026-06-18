@@ -1,0 +1,121 @@
+{
+  "slug": "waking-up",
+  "group": "main",
+  "order": 4,
+  "name": "Waking Up",
+  "arabic_name": "أذكار الاستيقاظ",
+  "epithet": "The first words of the day",
+  "title": "Waking Up: the adhkar to say the moment you open your eyes, in Arabic, transliteration and meaning",
+  "meta_description": "What to say when you wake up (adhkar al-istiyqadh): the praise, the dhikr of the night, and the verses the Prophet ﷺ recited on waking. Arabic, transliteration, meaning, source.",
+  "keywords": "waking up dua, adhkar when waking, dua after sleep, alhamdulillah alladhi ahyana, last ten verses of Aal-Imran, Hisn al-Muslim, Buruja",
+  "lede": [
+    "Before your feet touch the floor, before the phone, there is a breath in which you were just returned to life. Sleep, the Qur'an says, is a lesser death, and waking is a small resurrection. The Prophet ﷺ met it with words.",
+    "These are the first words of the day: gratitude that you were given back your soul, and the verses he would recite as his eyes opened."
+  ],
+  "intro_heading": "How to begin",
+  "intro": [
+    "Say these as you wake, before the day begins. They are short. The point is to make your very first thought a turning toward the One who held your soul through the night and chose to return it.",
+    "Then flow straight into the morning adhkar once you are up. Waking, then morning: the day opens in remembrance."
+  ],
+  "closing_heading": "Why we start here",
+  "closing": [
+    "You did nothing to earn the morning. Your heartbeat, your breath, the light, all of it was returned to you while you slept helpless. To wake with His name on your tongue is to start the day honest about who is holding it.",
+    "O Allah, You gave us back our souls this morning when You could have kept them. Make us grateful for the day, and make our first thought always of You."
+  ],
+  "faq": [
+    {
+      "q": "What is the first thing to say when you wake up?",
+      "a": "The Prophet ﷺ taught the words: Alhamdulillahil-ladhi ahyana ba'da ma amatana wa ilayhin-nushur, 'Praise is to Allah who gave us life after He caused us to die, and to Him is the return.' It is the first dhikr of waking."
+    },
+    {
+      "q": "What did the Prophet ﷺ recite when he woke?",
+      "a": "Among the things he did was to recite the last ten verses of Surah Aal-Imran (3:190-200), the verses on the signs in the heavens and the earth. They are included here with audio."
+    },
+    {
+      "q": "What if I wake in the middle of the night?",
+      "a": "There is a beautiful dhikr for that: declaring Allah's oneness and praising Him. The Prophet ﷺ said whoever says it and then asks Allah will be answered, and whoever then rises to pray, his prayer is accepted."
+    }
+  ],
+  "email": {
+    "subject": "The first words of the day",
+    "alt_subject": "What to say the moment you wake",
+    "preview": "Before the phone, before your feet hit the floor: the adhkar of waking.",
+    "body": "Assalamu alaikum,\n\nSleep, the Qur'an calls a lesser death; and waking, a small resurrection. You did nothing to earn the morning. Your breath and your soul were returned to you while you slept helpless, and the Prophet ﷺ met that moment with words rather than a scroll through the phone.\n\nThe first is simple: 'Praise is to Allah who gave us life after He caused us to die, and to Him is the return.' He would also recite the last ten verses of Surah Aal-Imran as his eyes opened. We have gathered the adhkar of waking here, each with Arabic, transliteration, meaning and recitation, so your very first thought can be a turning toward the One who held you through the night.\n\nThe full set is here:"
+  },
+  "social": {
+    "hook": "Sleep is a lesser death. Waking is a small resurrection.\n\nYou did nothing to earn the morning.",
+    "caption": "The adhkar of waking up.\n\nBefore the phone, before your feet touch the floor: the Prophet ﷺ met the morning with gratitude that his soul had been returned, and with the last ten verses of Surah Aal-Imran.\n\nMake your first thought a turning toward the One who held you through the night.\n\nFull set with Arabic, transliteration, meaning and audio at buruja.com/adhkar/waking-up\n\n#WakingUp #MorningRoutine #Adhkar #Dhikr #SunnahOfTheProphet #IslamicReminders #Buruja #Islam"
+  },
+  "kind": "collection",
+  "source_note": "The Qur'anic adhkar (the last ten verses of Surah Aal-Imran, 3:190-200) are grounded via quran.ai: Arabic in Uthmani script (ar-uthmani-minimal) and the Saheeh International translation. The prophetic adhkar, their transliterations, references and gradings are transcribed verbatim from Hisn al-Muslim (Fortress of the Muslim) by Sa'eed al-Qahtani, via sunnah.com; al-Bukhari and Muslim taken as sahih, jayyid/reliable noted as hasan. Recitation audio: Qur'anic items by Mishary Rashid Alafasy (everyayah.com); prophetic adhkar from the official Hisn al-Muslim audio (hisnmuslim.com), aligned by dua number. Selection and ordering follow Hisn al-Muslim, with thanks to lifewithallah.com. Reflections are Buruja's own. FOR SCHOLAR REVIEW: confirm every Arabic text, reference, repetition count and grading before publication.",
+  "items": [
+    {
+      "n": 1,
+      "title": "Praise for being given life again",
+      "source": "hadith",
+      "arabic": "الحَمْـدُ لِلّهِ الّذي أَحْـيانا بَعْـدَ ما أَماتَـنا وَإليه النُّـشور",
+      "translit": "Alḥamdu lillāhil-ladhī 'aḥyānā ba`da mā 'amātanā wa 'ilayhin-nushūr.",
+      "en": "Praise is to Allah Who gives us life after He has caused us to die and to Him is the return.",
+      "repeat": "",
+      "ref": "Muslim 4/2083",
+      "grade": "sahih",
+      "audio": [
+        "https://www.hisnmuslim.com/audio/ar/1.mp3"
+      ]
+    },
+    {
+      "n": 2,
+      "title": "If you wake in the night",
+      "source": "hadith",
+      "arabic": "لا إلهَ إلاّ اللّهُ وَحْـدَهُ لا شَـريكَ له، لهُ المُلـكُ ولهُ الحَمـد، وهوَ على كلّ شيءٍ قدير، سُـبْحانَ اللهِ، والحمْـدُ لله، ولا إلهَ إلاّ اللهُ واللهُ أكبَر، وَلا حَولَ وَلا قوّة إلاّ باللّهِ العليّ العظيم، رَبِّ اغْفرْ لي",
+      "translit": "Lā 'ilāha 'illallāhu waḥdahu la sharīka lahu, lahul-mulku wa lahul-ḥamdu, wa huwa 'alā kulli shay'in qadīr Subḥānallāhi, walḥamdu lillāhi, wa lā 'ilāha 'illallāhu, wallāhu 'akbar, wa lā ḥaula wa lā quwwata 'illā billāhil-`aliyyil-`aẓīm, rabbighfir lī.",
+      "en": "There is none worthy of worship but Allah alone, Who has no partner, His is the dominion and to Him belongs all praise, and He is able to do all things. Glory is to Allah. Praise is to Allah. There is none worthy of worship but Allah. Allah is the Most Great. There is no might and no power except by Allah's leave, the Exalted, the Mighty. My Lord, forgive me.",
+      "repeat": "",
+      "ref": "Ibn Majah 2/335",
+      "grade": "sahih",
+      "audio": [
+        "https://www.hisnmuslim.com/audio/ar/2.mp3"
+      ],
+      "note": "If you stir in the night and say this, then ask Allah for something, the Prophet ﷺ taught that your du'a is answered; and if you rise to pray, your prayer is accepted."
+    },
+    {
+      "n": 3,
+      "title": "When your soul is returned to you",
+      "source": "hadith",
+      "arabic": "الحمدُ للهِ الذي عافاني في جَسَدي وَرَدّ عَليّ روحي وَأَذِنَ لي بِذِكْرِه",
+      "translit": "Al-ḥamdu lillāhil-ladhī `āfānī fī jasadī, wa radda `alayya rūḥī, wa 'adhina lī bidhikrihi.",
+      "en": "Praise is to Allah Who gave strength to my body and returned my soul to me and permitted me to remember Him.",
+      "repeat": "",
+      "ref": "At-Tirmidhi 5/473",
+      "grade": "sahih",
+      "audio": [
+        "https://www.hisnmuslim.com/audio/ar/3.mp3"
+      ]
+    },
+    {
+      "n": 4,
+      "title": "The last ten verses of Aal-Imran",
+      "source": "quran",
+      "arabic": "إِنَّ فِى خَلْقِ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ وَٱخْتِلَٰفِ ٱلَّيْلِ وَٱلنَّهَارِ لَءَايَٰتٍ لِّأُو۟لِى ٱلْأَلْبَٰبِ",
+      "translit": "",
+      "en": "Indeed, in the creation of the heavens and the earth and the alternation of the night and the day are signs for those of understanding.",
+      "repeat": "1x",
+      "ref": "Aal-Imran 3:190-200",
+      "grade": "Qur'an",
+      "audio": [
+        "https://everyayah.com/data/Alafasy_128kbps/003190.mp3",
+        "https://everyayah.com/data/Alafasy_128kbps/003191.mp3",
+        "https://everyayah.com/data/Alafasy_128kbps/003192.mp3",
+        "https://everyayah.com/data/Alafasy_128kbps/003193.mp3",
+        "https://everyayah.com/data/Alafasy_128kbps/003194.mp3",
+        "https://everyayah.com/data/Alafasy_128kbps/003195.mp3",
+        "https://everyayah.com/data/Alafasy_128kbps/003196.mp3",
+        "https://everyayah.com/data/Alafasy_128kbps/003197.mp3",
+        "https://everyayah.com/data/Alafasy_128kbps/003198.mp3",
+        "https://everyayah.com/data/Alafasy_128kbps/003199.mp3",
+        "https://everyayah.com/data/Alafasy_128kbps/003200.mp3"
+      ],
+      "note": "The Prophet ﷺ would recite these on waking. Recite from here to the end of the surah (3:190-200). Tap play to hear all ten."
+    }
+  ]
+}

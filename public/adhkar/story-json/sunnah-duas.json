@@ -1,0 +1,158 @@
+{
+  "slug": "sunnah-duas",
+  "kind": "collection",
+  "group": "core",
+  "order": 17,
+  "name": "Sunnah Du'as",
+  "arabic_name": "أدعية من السنة",
+  "epithet": "The du'as the Prophet ﷺ carried",
+  "title": "Sunnah Du'as: the comprehensive personal supplications of the Prophet ﷺ in Arabic, transliteration and meaning",
+  "meta_description": "The heart-supplications the Prophet ﷺ carried: for anxiety and grief, after sinning, at wonder and joy, in Arabic, transliteration and English with sources.",
+  "keywords": "sunnah dua, dua for anxiety, dua for grief, Allahumma inni abduka, dua after sin, dua for distress, prophetic supplications, comprehensive dua, Hisn al-Muslim, Buruja",
+  "lede": [
+    "Some du'as belong to a time or a place: a morning, a journey, a meal. These do not. These are the supplications the Prophet ﷺ carried inside himself, reached for when grief closed in, when a sin needed washing away, when joy struck and the heart turned at once to its Maker. They are the words of a heart that lived in conversation with Allah.",
+    "This is a small gathering of those du'as: the famous plea for the one weighed down by anxiety, the refuge from worry and grief, what to do after you have sinned, and the response of wonder and gratitude when good news arrives. Learn them, and you carry a piece of the Prophet's ﷺ own inner life."
+  ],
+  "intro_heading": "How to use these",
+  "intro": [
+    "These are not tied to a clock. Reach for 'O Allah, I am Your slave' when distress and sadness have settled on you; the Prophet ﷺ promised Allah would replace the grief with relief for whoever says it. There is his standing refuge from worry, debt, and being overpowered. And there is what to do when you have fallen into sin: purify yourself, pray two rak'ahs, and seek forgiveness.",
+    "There are also words for the other end of the heart, the moment of awe and joy: 'Subhanallah', 'Allahu Akbar', or for great news, a prostration of gratitude to the One who sent it. Recite the Arabic, lean on the transliteration, and read the meaning so the words are truly yours."
+  ],
+  "closing_heading": "A heart that returns",
+  "closing": [
+    "What these du'as teach is not a set of phrases but a habit of the heart: in grief you turn to Allah, in sin you turn back to Allah, in wonder you turn toward Allah. The Prophet ﷺ met every state of the soul by carrying it straight to its Lord. Take these few into your chest, and let them be the reflex that meets your own highs and lows, so that whatever the day brings, your heart already knows the way home.",
+    "O Allah, make the Qur'an the spring of our hearts and the light of our chests, lift our grief and our worry, accept our return after every fall, and let our first turn in joy and in sorrow always be to You."
+  ],
+  "faq": [
+    {
+      "q": "What is the du'a for anxiety and grief?",
+      "a": "The most comprehensive is 'Allahumma inni abduka', in which you call upon Allah by every Name He has and ask Him to make the Qur'an the spring of your heart and the remover of your sadness and distress. The Prophet ﷺ said Allah will take away the grief of whoever says it and replace it with relief. There is also a shorter, related refuge from worry and grief."
+    },
+    {
+      "q": "What should I do after committing a sin?",
+      "a": "The Prophet ﷺ taught that any servant who sins, then purifies himself well, prays two rak'ahs, and seeks Allah's forgiveness, will be forgiven. The door of return is never closed; the sunnah is to walk through it at once."
+    },
+    {
+      "q": "Is there a sunnah for moments of joy or good news?",
+      "a": "Yes. At a sight or moment of wonder the Prophet ﷺ would say 'Subhanallah' or 'Allahu Akbar', and on receiving news that delighted him he would fall into a prostration of gratitude to Allah (sajdat ash-shukr). Joy, like sorrow, is met by turning to Him."
+    }
+  ],
+  "email": {
+    "subject": "The du'as the Prophet ﷺ carried inside himself",
+    "alt_subject": "Words for grief, for sin, and for joy",
+    "preview": "The heart-supplications beyond a fixed time or place, with Arabic, transliteration and meaning.",
+    "body": "Assalamu alaikum, Some du'as belong to a time or a place: a morning, a journey, a meal. These do not. These are the supplications the Prophet ﷺ carried inside himself, reached for when grief closed in, when a sin needed washing away, when joy struck and the heart turned at once to its Maker. We have gathered a small handful of them, each with its Arabic, a transliteration to help you learn it, the meaning, and its source. The famous plea for the one weighed down by anxiety, the refuge from worry and grief, what to do after you have sinned, and the response of wonder and gratitude when good news arrives. What they teach is not a set of phrases but a habit of the heart: in grief you turn to Allah, in sin you turn back to Allah, in wonder you turn toward Allah. Carry these few, and your heart will already know the way home, whatever the day brings. The full collection, formatted to read or recite, is here:"
+  },
+  "social": {
+    "hook": "Some du'as belong to a time or a place. These the Prophet ﷺ carried inside himself.",
+    "caption": "The du'as the Prophet ﷺ carried. Not tied to a morning or a journey, these are the heart-supplications he reached for in every state of the soul: the famous plea for the one weighed down by anxiety, the refuge from worry and grief, what to do after you've sinned, and the wonder and gratitude that met good news. What they teach isn't a set of phrases but a habit of the heart: in grief you turn to Allah, in sin you turn back to Allah, in wonder you turn toward Allah. Save this, and read or recite the full collection with Arabic, transliteration and meaning at buruja.com/adhkar/sunnah-duas #SunnahDua #DuaForAnxiety #DuaForGrief #Repentance #PropheticDua #Dhikr #IslamicReminders #Buruja #Islam"
+  },
+  "source_note": "Prophetic adhkar transcribed verbatim from Hisn al-Muslim (Sa'eed al-Qahtani) via sunnah.com; al-Bukhari and Muslim taken as sahih, jayyid/reliable as hasan. Recitation audio: the official Hisn al-Muslim audio (hisnmuslim.com) for the adhkar. Selection follows Hisn al-Muslim, with thanks to lifewithallah.com; framing is Buruja's own. FOR SCHOLAR REVIEW: confirm every Arabic text, reference, repetition count and grading before publication.",
+  "items": [
+    {
+      "source": "hadith",
+      "title": "O Allah, I am Your slave",
+      "arabic": "اللّهُـمَّ إِنِّي عَبْـدُكَ ابْنُ عَبْـدِكَ ابْنُ أَمَتِـكَ نَاصِيَتِي بِيَـدِكَ مَاضٍ فِيَّ حُكْمُكَ عَدْلٌ فِيَّ قَضَاؤكَ أَسْأَلُـكَ بِكُلِّ اسْمٍ هُوَ لَكَ سَمَّـيْتَ بِهِ نَفْسَكَ أِوْ أَنْزَلْتَـهُ فِي كِتَابِكَ أَوْ عَلَّمْـتَهُ أَحَداً مِنْ خَلْقِـكَ أَوِ اسْتَـأْثَرْتَ بِهِ فِي عِلْمِ الغَيْـبِ عِنْـدَكَ أَنْ تَجْـعَلَ القُرْآنَ رَبِيـعَ قَلْبِـي وَنورَ صَـدْرِي وجَلَاءَ حُـزْنِي وذَهَابَ هَمِّـي",
+      "translit": "Allāhumma innī `abduk, ibnu `abdik, ibnu amatik, nāsiyatī biyadik, māḍin fiyya ḥukmuk, `adlun fiyya qaḍā'uk, as'aluka bikullis’min huwa lak, sammayta bihi nafsak, aw anzaltahu fī kitābik, aw `allamtahu aḥadan min khalqik, aw‘ista'tharta bihi fī `ilmil-ghaybi `indak, an taj`ala ‘l-Qur'āna rabī`a qalbī, wa nūra ṣadrī, wa jalā'a ḥuznī, wa dhahāba hammī.",
+      "en": "O Allah, I am Your slave, and the son of Your male slave, and the son of your female slave. My forehead is in Your Hand (i.e. you have control over me). Your Judgment upon me is assured, and Your Decree concerning me is just. I ask You by every Name that You have named Yourself with, revealed in Your Book, taught any one of Your creation, or kept unto Yourself in the knowledge of the unseen that is with You, to make the Qur'an the spring of my heart, and the light of my chest, the banisher of my sadness, and the reliever of my distress.",
+      "repeat": "",
+      "ref": "Ahmad 1/391, and Al-Albani graded it authentic",
+      "grade": "sahih",
+      "audio": [
+        "https://www.hisnmuslim.com/audio/ar/120.mp3"
+      ],
+      "note": "The great du'a of anxiety and grief. You call on Allah by every Name He has and ask Him to make the Qur'an the spring of your heart and the remover of your sorrow. The Prophet ﷺ said Allah removes the grief of whoever says it and gives relief in its place.",
+      "n": 1
+    },
+    {
+      "source": "hadith",
+      "title": "Refuge from worry and grief",
+      "arabic": "اللّهُـمَّ إِنِّي أَعْوذُ بِكَ مِنَ الهَـمِّ وَ الْحُـزْنِ، والعًجْـزِ والكَسَلِ والبُخْـلِ والجُـبْنِ، وضَلْـعِ الـدَّيْنِ وغَلَبَـةِ الرِّجال",
+      "translit": "Allāhumma 'innī 'a`ūdhu bika mina ‘l-ḥammi wa ‘l-ḥuzn, wa ‘l-`ajzi wa ‘l-kasal, wa ‘l-bukhli wa ‘l-jubn, wa ḍala`id-dayn, wa ghalabatir-rijāl.",
+      "en": "O Allah, I seek refuge in you from grief and sadness, from weakness and from laziness, from miserliness and from cowardice, from being overcome by debt and overpowered by men (i.e. others).",
+      "repeat": "",
+      "ref": "Al-Bukhari 7/158",
+      "grade": "sahih",
+      "audio": [
+        "https://www.hisnmuslim.com/audio/ar/121.mp3"
+      ],
+      "note": "The Prophet's ﷺ standing refuge from worry and sadness, weakness and laziness, miserliness and cowardice, and from being crushed by debt or overpowered by others.",
+      "n": 2
+    },
+    {
+      "source": "hadith",
+      "title": "After you have sinned",
+      "arabic": "مَا مِنْ عَبْدٍ يُذنِبُ ذَنْباً فَيُحْسِنُ الطُّهُورَ، ثُمَّ يَقُومُ فَيُصَلِّي رَكْعَتَيْنِ، ثُمَّ يَسْتَغْفِرُ اللَّهَ إِلاَّ غَفَرَ اللَّهُ لَهُ",
+      "translit": "",
+      "en": "There is not any slave of Allah who commits a sin, then he perfects his purification and stands to pray two Rak'ahs of prayer, then seeks Allah's forgiveness, except that Allah will forgive him.",
+      "repeat": "",
+      "ref": "Abu Dawud 2/86, At-Tirmidhi 2/257",
+      "grade": "sahih",
+      "audio": [
+        "https://www.hisnmuslim.com/audio/ar/140.mp3"
+      ],
+      "note": "The Prophet ﷺ taught that any servant who sins, then purifies himself well, prays two rak'ahs, and seeks Allah's forgiveness, will be forgiven. The way back, the moment you need it.",
+      "n": 3
+    },
+    {
+      "source": "hadith",
+      "title": "At a sight of wonder: Subhanallah",
+      "arabic": "سُـبْحانَ الله",
+      "translit": "Subḥānallāh!",
+      "en": "(Glory is to Allah).",
+      "repeat": "",
+      "ref": "Muslim 4/1857",
+      "grade": "sahih",
+      "audio": [
+        "https://www.hisnmuslim.com/audio/ar/240.mp3"
+      ],
+      "note": "'Glory is to Allah.' Said at a moment of awe, when something draws the heart upward toward its Maker.",
+      "n": 4
+    },
+    {
+      "source": "hadith",
+      "title": "At a moment of awe: Allahu Akbar",
+      "arabic": "اللهُ أَكْـبَر",
+      "translit": "Allāhu Akbar!",
+      "en": "(Allah is the Most Great)",
+      "repeat": "",
+      "ref": "At-Tirmidhi 2/103, 235, Ahmad 5/218",
+      "grade": "sahih",
+      "audio": [
+        "https://www.hisnmuslim.com/audio/ar/241.mp3"
+      ],
+      "note": "'Allah is the Most Great.' The Prophet ﷺ would magnify Allah at the sight of what was vast or astonishing.",
+      "n": 5
+    },
+    {
+      "source": "hadith",
+      "title": "The prostration of gratitude",
+      "arabic": "كَانَ النَّبيُّ صلى الله عليه وسلم إِذَا أَتَاهُ أَمْرٌ يَسُرُّهُ أَوْ يُسَرُّ بِهِ خَرَّ سَاجِداً شُكْراً لِلَّهِ تَبَارَكَ وَتَعَالَى",
+      "translit": "",
+      "en": "The Prophet (ﷺ), upon receiving news which pleased him or which caused pleasure, would prostrate in gratitude to Allah blessed and exalted.",
+      "repeat": "",
+      "ref": "Ibn Majah 1/233, and 'Irwa'ul-Ghalil 2/226",
+      "grade": "sahih",
+      "audio": [
+        "https://www.hisnmuslim.com/audio/ar/242.mp3"
+      ],
+      "note": "On receiving news that pleased him, the Prophet ﷺ would fall into prostration in thanks to Allah (sajdat ash-shukr). The body's answer to joy: straight to the ground before the One who sent it.",
+      "n": 6
+    },
+    {
+      "source": "hadith",
+      "title": "Guarding the household at nightfall",
+      "arabic": "إِذَا كَانَ جُنْحُ اللَّيْلِ – أَوْ أَمْسَيْتُم – فَـكُفُّوا صِبْيانَـكُم، فَإِنَّ الشَّيَاطِينَ تَنْتَشِرُ حِينَئِذٍ، فَإِذَا ذَهَبَ سَاعَةٌ مِنَ اللَّيلِ فَخَلُّوهُمْ، وَأَغْلِقُوا الأَبْوَابَ وَاذْكُرُوا اسْمَ اللَّهِ؛ فَإِنَّ الشَّيطَانَ لاَ يَفْتَحُ بَاباً مُغلَقاً، وَأَوْكُوا قِرَبَكُمْ، وَاذْكُرُوا اسْمَ اللَّهِ، وَخَمِّرُوا آنِيَتَكُم، وَاذْكُرُوا اسْمَ اللَّهِ، وَلَوْ أَنْ تَعْرُضُوا عَلَيْهَا شَيْئاً، وَأَطْفِئُوا مَصَابِيحَكُمْ",
+      "translit": "",
+      "en": "When night falls, restrain your children (from going out) because at such time the devils spread about. After a period of time has passed, let them be. Shut your doors and mention Allah’s name, for verily the devil does not open a shut door, tie up your water-skins and mention Allah’s name, cover your vessels with anything and mention Allah’s name and put out your lamps.",
+      "repeat": "",
+      "ref": "Al-Bukhari with Al-Fath 10/88 and Muslim 3/1595",
+      "grade": "sahih",
+      "audio": [
+        "https://www.hisnmuslim.com/audio/ar/267.mp3"
+      ],
+      "note": "As night falls the Prophet ﷺ taught us to keep the children in, shut the doors, cover the vessels and tie the water-skins, and put out the lamps, mentioning Allah's name over each, for the shaytan cannot open what is closed in His name.",
+      "n": 7
+    }
+  ]
+}

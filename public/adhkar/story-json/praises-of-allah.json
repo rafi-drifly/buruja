@@ -1,0 +1,226 @@
+{
+  "slug": "praises-of-allah",
+  "name": "Praises of Allah",
+  "arabic_name": "التسبيح والتحميد",
+  "epithet": "The words light on the tongue, heavy on the scale",
+  "title": "Praises of Allah: tasbih, tahmid, tahlil and takbir, the words the Prophet ﷺ loved, with meaning and source",
+  "meta_description": "The praises of Allah (tasbih, tahmid, tahlil, takbir): SubhanAllah wa bihamdihi, La ilaha illallah, the four most beloved words and al-baqiyat as-salihat, with Arabic, meaning, virtue and source.",
+  "keywords": "subhanallah wa bihamdihi, tasbih, tahmid, tahlil, takbir, la hawla wala quwwata illa billah, baqiyat salihat, praises of Allah, dhikr, Buruja",
+  "lede": [
+    "Some words cost nothing to say and weigh more than the world on the Day of Judgement. The Prophet ﷺ kept pointing to them: short, simple phrases of praise that a tired tongue can carry all day and that fill the scale when everything else is light.",
+    "These are the praises of Allah, the dhikr he loved and urged us to repeat: glory, praise, the declaration that there is no god but Him, and His magnification."
+  ],
+  "intro_heading": "How to use these",
+  "intro": [
+    "These are not tied to a time or a place. They are the dhikr you say walking, waiting, working, in the gaps of the day. Where a number is given, that is the count the Prophet ﷺ attached a specific reward to; the rest you simply repeat.",
+    "Each card shows the words to say. The note beneath carries the Prophet's ﷺ own promise about them: sins wiped away like sea foam, a palm tree planted in Paradise, a treasure from from the treasures of Paradise. Say them, and mean them."
+  ],
+  "closing_heading": "Why these are the enduring deeds",
+  "closing": [
+    "The Qur'an calls them al-baqiyat as-salihat, the enduring good deeds: when wealth and children and everything else falls away, these words remain, still counting in your favour. They are the cheapest currency to earn and the heaviest to hold.",
+    "Glory is to Allah, and praise is to Him; there is no god but Allah; Allah is the Most Great; and there is no power except with Allah. Fill your day with them."
+  ],
+  "faq": [
+    {
+      "q": "What is the best dhikr to say?",
+      "a": "The Prophet ﷺ said the dearest words to Allah are four: SubhanAllah (Glory is to Allah), Alhamdulillah (praise is to Allah), La ilaha illallah (there is no god but Allah), and Allahu Akbar (Allah is the Most Great). He also singled out SubhanAllah wa bihamdihi as light on the tongue and heavy on the scale."
+    },
+    {
+      "q": "What does SubhanAllah wa bihamdihi mean and what is its reward?",
+      "a": "It means 'Glory is to Allah and praise is to Him.' The Prophet ﷺ said whoever says it a hundred times a day has their sins wiped away even if they were like the foam of the sea."
+    },
+    {
+      "q": "What are al-baqiyat as-salihat?",
+      "a": "The 'enduring good deeds' mentioned in the Qur'an, explained by the Prophet ﷺ as: SubhanAllah, Alhamdulillah, La ilaha illallah, Allahu Akbar, and La hawla wa la quwwata illa billah. They remain in your record when everything worldly is gone."
+    }
+  ],
+  "email": {
+    "subject": "Words light on the tongue, heavy on the scale",
+    "alt_subject": "The cheapest deeds with the heaviest reward",
+    "preview": "The praises the Prophet ﷺ loved: glory, praise, the oneness of Allah, His magnification.",
+    "body": "Assalamu alaikum, Some words cost nothing to say and outweigh the world on the Day of Judgement. The Prophet ﷺ kept pointing to them: SubhanAllah, Alhamdulillah, La ilaha illallah, Allahu Akbar. Light on the tongue, he said, heavy on the scale, beloved to the Most Merciful. He attached astonishing promises to them: say 'Glory is to Allah and praise is to Him' a hundred times and your sins are wiped away like the foam of the sea; say it and a palm tree is planted for you in Paradise. The Qur'an calls them the enduring good deeds, the ones still counting in your favour when everything else has fallen away. We have gathered them here with Arabic, meaning, virtue and audio, so you can fill the gaps of your day with the cheapest currency that buys the most:"
+  },
+  "social": {
+    "hook": "Some words cost nothing to say. And they outweigh the world on the Day of Judgement.",
+    "caption": "The praises of Allah. Light on the tongue, heavy on the scale, beloved to the Most Merciful: SubhanAllah, Alhamdulillah, La ilaha illallah, Allahu Akbar. Say 'Glory is to Allah and praise is to Him' a hundred times: sins wiped away like sea foam. Say it once: a palm tree planted in Paradise. The Qur'an calls them the enduring good deeds, the ones that remain when everything else is gone. Full set with Arabic, meaning, virtue and audio at buruja.com/adhkar/praises-of-allah #Tasbih #SubhanAllah #Dhikr #PraisesOfAllah #IslamicReminders #BaqiyatSalihat #Buruja #Islam"
+  },
+  "source_note": "The dhikr in each card is extracted from the verbatim Hisn al-Muslim text (Sa'eed al-Qahtani, via sunnah.com), where this chapter is narrated as virtue-hadiths with the dhikr given in parentheses; the surrounding hadith narration is kept as the virtue. al-Bukhari and Muslim taken as sahih. Recitation audio is the official Hisn al-Muslim audio (hisnmuslim.com), aligned by dua number. Selection follows Hisn al-Muslim, with thanks to lifewithallah.com. Reflections are Buruja's own. FOR SCHOLAR REVIEW: confirm every Arabic text, reference, repetition count and grading before publication.",
+  "kind": "collection",
+  "group": "core",
+  "order": 8,
+  "items": [
+    {
+      "source": "hadith",
+      "arabic": "سُبْحَانَ اللَّهِ وَبِحَمْدِهِ",
+      "translit": "",
+      "en": "Allah's Messenger (ﷺ) said: Whoever says: Glorified is Allah and praised is He. one hundred times a day, will have his sins forgiven even if they are like the foam of the sea.",
+      "repeat": "100x",
+      "ref": "Al-Bukhari 7/168",
+      "grade": "sahih",
+      "audio": [
+        "https://www.hisnmuslim.com/audio/ar/254.mp3"
+      ],
+      "title": "Glory and praise, a hundred times",
+      "n": 1
+    },
+    {
+      "source": "hadith",
+      "arabic": "لاَ إِلَهَ إِلاَّ اللَّهُ وَحْدَهُ لاَ شَرِيكَ لَهُ، لَهُ الْمُلْكُ، وَلَهُ الْحَمْدُ، وَهُوَ عَلَى كُلِّ شَيْءٍ قَدِيرٌ",
+      "translit": "",
+      "en": "Allah's Messenger (ﷺ) said: Whoever says: None has the right to be worshipped but Allah alone, Who has no partner. His is the dominion and His is the praise, and He is Able to do all things. ten times, will have the reward for freeing four slaves from the Children of Isma'il.",
+      "repeat": "10x",
+      "ref": "At-Tirmidhi 5/515",
+      "grade": "sahih",
+      "audio": [
+        "https://www.hisnmuslim.com/audio/ar/255.mp3"
+      ],
+      "title": "There is no god but Allah (ten times)",
+      "n": 2
+    },
+    {
+      "source": "hadith",
+      "arabic": "سُبْحَانَ اللَّهِ وَبِحَمْدِهِ ، سُبْحانَ اللَّهِ الْعَظِيمِ",
+      "translit": "",
+      "en": "Allah's Messenger (ﷺ) said: Two words are light on the tongue, weigh heavily in the balance, and are loved by the Most Merciful One: Glorified is Allah and praised is He, Glorified is Allah the Most Great.",
+      "repeat": "",
+      "ref": "Al-Bukhari 7/168, Muslim 4/2072",
+      "grade": "sahih",
+      "audio": [
+        "https://www.hisnmuslim.com/audio/ar/256.mp3"
+      ],
+      "title": "Two words light on the tongue",
+      "note": "Light on the tongue, heavy on the scale, beloved to the Most Merciful: the Prophet ﷺ singled these two out.",
+      "n": 3
+    },
+    {
+      "source": "hadith",
+      "arabic": "سُبْحَانَ اللَّهِ، وَالْحَمْدُ لِلَّهِ، وَلاَ إِلَهَ إِلاَّ اللَّهُ، وَاللَّهُ أَكْبَرُ",
+      "translit": "",
+      "en": "Allah's Messenger (ﷺ) said: For me to say: Glory is to Allah, and praise is to Allah, and there is none worthy of worship but Allah, and Allah is the Most Great. is dearer to me than all that the sun rises upon (i.e. the whole world).",
+      "repeat": "",
+      "ref": "Muslim 4/2072",
+      "grade": "sahih",
+      "audio": [
+        "https://www.hisnmuslim.com/audio/ar/257.mp3"
+      ],
+      "title": "Dearer to the Prophet ﷺ than all the world",
+      "n": 4
+    },
+    {
+      "source": "hadith",
+      "arabic": "وَقَالَ صلى الله عليه وسلم: أَيَعْجِزُ أَحَدُكُم أَنْ يَكْسِبَ كُلَّ يَوْمٍ أَلْفَ حَسَنَةٍ؟ فَسَأَلَهُ سَائِلٌ مِنْ جُلَسَائِهِ كَيْفَ يَكْسِبُ أَحَدُنَا أَلْفَ حَسَنَةٍ؟ قَالَ: يُسَبِّحُ مِائَةَ تَسْبِيحَةٍ، فَيُكتَبُ لَهُ أَلْفُ حَسَنَةٍ أَوْ يُحَطُّ عَنْهُ أَلْفُ خَطِيئَةٍ",
+      "translit": "",
+      "en": "Glory is to Allah and praise is to Him.",
+      "repeat": "",
+      "ref": "Muslim 4/2073",
+      "grade": "sahih",
+      "audio": [
+        "https://www.hisnmuslim.com/audio/ar/258.mp3"
+      ],
+      "title": "A hundred tasbih, a thousand good deeds",
+      "n": 5,
+      "note": "The Prophet ﷺ said: whoever says it a hundred times in a day has a thousand good deeds written for him, or a thousand of his sins wiped away."
+    },
+    {
+      "source": "hadith",
+      "arabic": "سُبْحَانَ اللَّهِ الْعَظِيمِ وَبِحَمْدِهِ",
+      "translit": "",
+      "en": "Whoever says: Glorified is Allah the Most Great and praised is He. will have a date palm planted for him in Paradise.",
+      "repeat": "",
+      "ref": "At-Tirmidhi 5/511, and Al-Hakim who graded it authentic and Ath-Thahabi agreed 1/501",
+      "grade": "sahih",
+      "audio": [
+        "https://www.hisnmuslim.com/audio/ar/259.mp3"
+      ],
+      "title": "A palm tree planted in Paradise",
+      "n": 6
+    },
+    {
+      "source": "hadith",
+      "arabic": "لاَ حَوْلَ وَلاَ قُوَّةَ إِلاَّ بِاللَّهِ",
+      "translit": "",
+      "en": "Allah's Messenger (ﷺ) said: \"O Abdullah bin Qais, should I not point you to one of the treasures of Paradise?\" I said, \"Yes, O Messenger of Allah.\" So he told me to say: There is no power and no might except by Allah.",
+      "repeat": "",
+      "ref": "Muslim 4/2076",
+      "grade": "sahih",
+      "audio": [
+        "https://www.hisnmuslim.com/audio/ar/260.mp3"
+      ],
+      "title": "A treasure from the treasures of Paradise",
+      "note": "La hawla wa la quwwata illa billah: the Prophet ﷺ called it a treasure from the treasures of Paradise.",
+      "n": 7
+    },
+    {
+      "source": "hadith",
+      "arabic": "سُبْحَانَ اللَّهِ ، الْحَمْدُ لِلَّهِ ، لاَ إِلَهَ إِلاَّ اللَّهُ ، اللَّهُ أَكْبَرُ",
+      "translit": "",
+      "en": "Allah's Messenger (ﷺ) said: The most beloved words to Allah are four: Glorified is Allah, and The praise is for Allah, and There is none worthy of worship but Allah, and Allah is the Most Great.",
+      "repeat": "",
+      "ref": "Muslim 3/1685",
+      "grade": "sahih",
+      "audio": [
+        "https://www.hisnmuslim.com/audio/ar/261.mp3"
+      ],
+      "title": "The four most beloved words",
+      "note": "SubhanAllah, Alhamdulillah, La ilaha illallah, Allahu Akbar: begin with whichever you like.",
+      "n": 8
+    },
+    {
+      "source": "hadith",
+      "arabic": "لاَ إِلَهَ إِلاَّ اللَّهُ وَحْدَهُ لاَ شَرِيكَ لَهُ، اللَّهُ أَكْبَرُ كَبِيراً، وَالْحَمْدُ لِلَّهِ كَثِيراً، سُبْحَانَ اللَّهِ رَبِّ العَالَمِينَ، لاَ حَوْلَ وَلاَ قُوَّةَ إِلاَّ بِاللَّهِ الْعَزِيزِ الْحَكِيمِ ، اللَّهُمَّ اغْفِرْ لِي، وَارْحَمْنِي، وَاهْدِنِي، وَارْزُقْنِي",
+      "translit": "",
+      "en": "A desert Arab came to Allah's Messenger (ﷺ) and said, \"Teach me a word that I can say. \" The Prophet told him to say: There is none worthy of worship but Allah, Who has no partner, Allah is the Great, the Most Great, and praise is to Allah in abundance, glory is to Allah, Lord of the worlds. There is no power and no might but by Allah the Mighty, the Wise. He said, \"That is for my Lord, but what about me?\" The Prophet (ﷺ) told him to say: O Allah forgive me, and have mercy on me and guide me, and provide for me.",
+      "repeat": "",
+      "ref": "Muslim 4/2072, Abu Dawud reports the same Hadith with the addition: and when the Arab left, the Prophet (ﷺ) said: \"He has filled his hands with goodness",
+      "grade": "sahih",
+      "audio": [
+        "https://www.hisnmuslim.com/audio/ar/262.mp3"
+      ],
+      "title": "A word to hold onto",
+      "n": 9
+    },
+    {
+      "source": "hadith",
+      "arabic": "اللَّهُمَّ اغْفِرِ لِي، وَارْحَمْنِي، وَاهْدِنِي، وَعَافِنِي وَارْزُقْنِي",
+      "translit": "",
+      "en": "Whenever anyone accepted Islam, the Prophet (ﷺ) used to teach him how to pray then he would instruct him to invoke Allah with the following words: O Allah forgive me, and have mercy on me and guide me and give me good health and provide for me.",
+      "repeat": "",
+      "ref": "Muslim 4/2073, and in one of Muslim's reports there is the addition: 'For these words combine [the goodness of] this world and the next",
+      "grade": "sahih",
+      "audio": [
+        "https://www.hisnmuslim.com/audio/ar/263.mp3"
+      ],
+      "title": "What the Prophet ﷺ taught a new Muslim",
+      "n": 10
+    },
+    {
+      "source": "hadith",
+      "arabic": "الْحَمْدُ لِلَّهِ ، لاَ إِلَهَ إِلاَّ اللَّهُ",
+      "translit": "",
+      "en": "The most excellent invocation is: Praise is for Allah. and the most excellent words of remembrance are: There is none worthy of worship but Allah.",
+      "repeat": "",
+      "ref": "At-Tirmidhi 5/462, Ibn Majah 2/1249, and Al-Hakim who graded it authentic and Ath-Tbahabi agreed 1/503",
+      "grade": "sahih",
+      "audio": [
+        "https://www.hisnmuslim.com/audio/ar/264.mp3"
+      ],
+      "title": "The best remembrance, the best praise",
+      "n": 11
+    },
+    {
+      "source": "hadith",
+      "arabic": "سبحان الله ، الحمد لله ، لا إله إلا الله ، الله أكبر ، لا حول ولا قوة إلا بالله",
+      "translit": "",
+      "en": "The good deeds which endure are: Glorified is Allah, and The praise is for Allah, and There is none worthy of worship but Allah, and Allah is the Most Great, and There is no power and no might except by Allah.",
+      "repeat": "",
+      "ref": "Ahmad (Ahmad Shakir, ed.) and its chain of narration is authentic",
+      "grade": "sahih",
+      "audio": [
+        "https://www.hisnmuslim.com/audio/ar/265.mp3"
+      ],
+      "title": "The enduring good deeds (al-baqiyat as-salihat)",
+      "note": "The deeds that outlast the world: glory, praise, the declaration of oneness, magnification, and there is no power except with Allah.",
+      "n": 12
+    }
+  ]
+}

@@ -1,0 +1,259 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Buruja: a verse a day, for the sake of Allah</title>
+<meta name="description" content="One verse of the Qur'an a day with tafsir, in Arabic, English, and Swedish, delivered to your calendar. Free forever, as sadaqah jariyah.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,400;0,500;0,600;1,400;1,500&family=Inter:wght@400;500;600&family=Amiri:wght@400;700&display=swap" rel="stylesheet">
+<style>
+  /* Tokens mirror ../brand/brand.css  (identity: Ink & Parchment) */
+  :root{
+    --parchment:#F1E8D5; --surface:#FBF6EA; --ink:#211F1A; --muted:#736A58;
+    --teal:#1C6E68; --teal-strong:#155551; --sepia:#5A4632; --hairline:#E0D4BB; --wash:#E7EFEB;
+    --font-display:'Cormorant Garamond',Georgia,serif; --font-body:'Inter',system-ui,sans-serif;
+    --font-arabic:'Amiri',serif; --radius:16px;
+  }
+  @media (prefers-color-scheme: dark){
+    :root{ --parchment:#0F1A18; --surface:#16201E; --ink:#ECE6D9; --muted:#9A9486;
+      --teal:#5BB5AD; --teal-strong:#7FCCC4; --sepia:#C9B79A; --hairline:#26332F; --wash:#14241F; }
+  }
+  /* explicit themes set by the toggle; these win over the OS media query */
+  [data-theme="light"]{ --parchment:#F1E8D5; --surface:#FBF6EA; --ink:#211F1A; --muted:#736A58; --teal:#1C6E68; --teal-strong:#155551; --sepia:#5A4632; --hairline:#E0D4BB; --wash:#E7EFEB; }
+  [data-theme="dark"]{ --parchment:#0F1A18; --surface:#16201E; --ink:#ECE6D9; --muted:#9A9486; --teal:#5BB5AD; --teal-strong:#7FCCC4; --sepia:#C9B79A; --hairline:#26332F; --wash:#14241F; }
+  *{box-sizing:border-box;}
+  html{scroll-behavior:smooth;}
+  body{margin:0; background:var(--parchment); color:var(--ink); font-family:var(--font-body); line-height:1.6; -webkit-font-smoothing:antialiased;}
+  .wrap{max-width:1040px; margin:0 auto; padding:0 24px;}
+  a{color:var(--teal); text-decoration:none;} a:hover{color:var(--teal-strong);}
+  h1,h2,h3{font-family:var(--font-display); font-weight:600; line-height:1.1; margin:0;}
+  .kicker{font-size:12px; letter-spacing:.22em; text-transform:uppercase; color:var(--teal); font-weight:600;}
+
+  /* header */
+  header{position:sticky; top:0; z-index:10; background:color-mix(in srgb, var(--parchment) 88%, transparent); backdrop-filter:blur(8px); border-bottom:1px solid var(--hairline);}
+  .bar{display:flex; align-items:center; justify-content:space-between; height:66px;}
+  .wordmark{font-family:var(--font-display); font-size:23px; font-weight:600;}
+  .wordmark i{color:var(--teal); font-weight:500;}
+  nav a{color:var(--ink); margin-left:26px; font-size:14px;}
+  nav a:hover{color:var(--teal);}
+  .bar-right{display:flex; align-items:center; gap:16px;}
+  .theme-btn{background:transparent; border:1px solid var(--hairline); border-radius:999px; padding:7px 14px; font-size:13px; font-weight:500; color:var(--ink); cursor:pointer; font-family:var(--font-body);}
+  .theme-btn:hover{border-color:var(--teal); color:var(--teal);}
+  @media(max-width:680px){ nav{display:none;} }
+
+  /* hero */
+  .hero{display:grid; grid-template-columns:1.05fr .95fr; gap:48px; align-items:center; padding:72px 0 64px;}
+  .hero h1{font-size:54px; letter-spacing:-.01em; margin:14px 0 18px;}
+  .hero p.lead{font-size:18px; color:var(--muted); max-width:46ch; margin:0 0 28px;}
+  @media(max-width:860px){ .hero{grid-template-columns:1fr; padding:48px 0;} .hero h1{font-size:42px;} }
+
+  .signup{display:flex; gap:10px; max-width:430px; flex-wrap:wrap;}
+  .signup input{flex:1; min-width:200px; padding:14px 16px; border:1px solid var(--hairline); border-radius:12px; background:var(--surface); color:var(--ink); font-size:15px; font-family:var(--font-body);}
+  .signup input::placeholder{color:var(--muted);}
+  .btn{background:var(--teal); color:#FBF6EA; border:0; border-radius:12px; padding:14px 22px; font-size:15px; font-weight:600; cursor:pointer; font-family:var(--font-body);}
+  .btn:hover{background:var(--teal-strong);}
+  .fineprint{font-size:13px; color:var(--muted); margin:12px 0 0;}
+
+  /* verse card */
+  .card{background:var(--surface); border:1px solid var(--hairline); border-radius:var(--radius); padding:30px 32px; box-shadow:0 24px 50px -32px rgba(0,0,0,.4);}
+  .card-top{display:flex; justify-content:space-between; align-items:center; margin-bottom:20px;}
+  .badge{font-size:11px; letter-spacing:.18em; text-transform:uppercase; color:var(--teal); font-weight:600;}
+  .ref{font-family:var(--font-display); font-size:16px; color:var(--muted);}
+  .ar{font-family:var(--font-arabic); font-size:30px; line-height:2; text-align:right; direction:rtl; color:var(--sepia); margin:0 0 20px;}
+  .rule{height:1px; background:var(--hairline); border:0; margin:20px 0;}
+  .en{font-family:var(--font-display); font-size:21px; line-height:1.5; margin:0 0 12px;}
+  .sv{font-size:14px; font-style:italic; color:var(--muted); margin:0;}
+  .card-foot{margin-top:22px; display:flex; align-items:center; gap:9px; font-size:12px; letter-spacing:.04em; color:var(--muted);}
+  .dot{width:7px; height:7px; border-radius:50%; background:var(--teal);}
+
+  /* sections */
+  section.block{padding:64px 0; border-top:1px solid var(--hairline);}
+  .block h2{font-size:34px; margin-bottom:8px;}
+  .block .sub{color:var(--muted); margin:0 0 36px; max-width:54ch;}
+  .grid{display:grid; grid-template-columns:repeat(2,1fr); gap:20px;}
+  @media(max-width:760px){ .grid{grid-template-columns:1fr;} }
+  .feature{background:var(--surface); border:1px solid var(--hairline); border-radius:var(--radius); padding:26px;}
+  .feature h3{font-size:22px; margin-bottom:8px;}
+  .feature h3 .n{font-family:var(--font-body); font-size:12px; color:var(--teal); font-weight:600; letter-spacing:.1em; display:block; margin-bottom:6px;}
+  .feature p{margin:0; color:var(--muted); font-size:15px;}
+
+  .steps{display:grid; grid-template-columns:repeat(3,1fr); gap:22px;}
+  @media(max-width:760px){ .steps{grid-template-columns:1fr;} }
+  .step .num{font-family:var(--font-display); font-size:40px; color:var(--teal); line-height:1;}
+  .step h3{font-size:20px; margin:10px 0 6px;}
+  .step p{margin:0; color:var(--muted); font-size:15px;}
+
+  .why{background:var(--wash); border:1px solid var(--hairline); border-radius:var(--radius); padding:44px; text-align:center;}
+  .why h2{font-size:30px; margin-bottom:14px;}
+  .why p{max-width:60ch; margin:0 auto; color:var(--ink);}
+
+  .cta{text-align:center; padding:72px 0;}
+  .cta h2{font-size:38px; margin-bottom:10px;}
+  .cta .signup{margin:24px auto 0; justify-content:center;}
+
+  footer{border-top:1px solid var(--hairline); padding:40px 0 56px; color:var(--muted); font-size:14px;}
+  .foot-top{display:flex; justify-content:space-between; gap:24px; flex-wrap:wrap; margin-bottom:24px;}
+  footer a{color:var(--muted);} footer a:hover{color:var(--teal);}
+  .foot-links a{margin-left:20px;}
+  .grounding{font-size:12px; color:var(--muted); border-top:1px solid var(--hairline); padding-top:18px;}
+  code{font-family:ui-monospace,monospace; font-size:11px;}
+</style>
+</head>
+<body>
+
+<header>
+  <div class="wrap bar">
+    <div class="wordmark">Buruja</div>
+    <div class="bar-right">
+      <nav>
+        <a href="#tracks">What you get</a>
+        <a href="#how">How it works</a>
+        <a href="#why">Why it's free</a>
+        <a href="/companions/">Companions</a>
+        <a href="/seerah/">Seerah</a>
+        <a href="/adhkar/">Dhikr &amp; Du'a</a>
+        <a href="#join">Join</a>
+      </nav>
+      <button id="themeToggle" class="theme-btn" type="button" aria-label="Toggle light or dark">Night</button>
+    </div>
+  </div>
+</header>
+
+<main class="wrap">
+
+  <!-- HERO -->
+  <section class="hero">
+    <div>
+      <span class="kicker">Free forever · sadaqah jariyah</span>
+      <h1>Let the Qur'an find you every morning.</h1>
+      <p class="lead">A verse a day with tafsir, in Arabic, English, and Swedish, delivered straight to your calendar. One ayah at a time, from the first of the Book to the last, over the next seventeen years.</p>
+      <form class="signup" id="join" onsubmit="return false;">
+        <input type="email" placeholder="you@email.com" aria-label="Email address">
+        <button class="btn" type="submit">Join the waitlist</button>
+      </form>
+      <p class="fineprint">Launching 31 August 2026. No ads, no selling, ever.</p>
+    </div>
+
+    <div class="card">
+      <div class="card-top"><span class="badge">Today</span><span class="ref">Sūrat ar-Raʿd · 13:28</span></div>
+      <p class="ar">الَّذِينَ آمَنُوا وَتَطْمَئِنُّ قُلُوبُهُم بِذِكْرِ اللَّهِ ۗ أَلَا بِذِكْرِ اللَّهِ تَطْمَئِنُّ الْقُلُوبُ</p>
+      <hr class="rule">
+      <p class="en">“Those who have believed and whose hearts are assured by the remembrance of Allāh. Unquestionably, by the remembrance of Allāh hearts are assured.”</p>
+      <p class="sv">de som tror och vars hjärtan blir stilla när Guds namn nämns - är det inte så att då Guds namn nämns blir människohjärtat stilla</p>
+      <div class="card-foot"><span class="dot"></span> A daily portion of remembrance</div>
+    </div>
+  </section>
+
+  <!-- TRACKS -->
+  <section class="block" id="tracks">
+    <h2>What lands in your day</h2>
+    <p class="sub">Six streams of the same intention: to keep your heart connected, one day at a time.</p>
+    <div class="grid">
+      <div class="feature">
+        <h3><span class="n">DAILY QUR'AN</span>All 6,236 verses</h3>
+        <p>One ayah each morning, every one carrying Ibn Kathir's tafsir and the story behind it. A complete reading of the Book from 2026 to 2043.</p>
+      </div>
+      <div class="feature">
+        <h3><span class="n">THE 365</span>Verse, heart, and Sunnah</h3>
+        <p>Three parallel years: a Verse to recite, a Tazkiyah (a disease of the heart and its cure), and a Sunnah to live, for every day.</p>
+      </div>
+      <div class="feature">
+        <h3><span class="n">THE COMPANIONS</span>183 of the Sahaba</h3>
+        <p>One life at a time. Their courage, their sacrifice, and their love for the Prophet (peace be upon him), retold to move the heart, not just inform it.</p>
+      </div>
+      <div class="feature">
+        <h3><span class="n">THE SEERAH</span>104 days with the Prophet</h3>
+        <p>The whole life of the Prophet Muhammad (peace be upon him) in 104 daily readings, from before his birth to his passing, retold from Dr. Yasir Qadhi's landmark series with every verse verified.</p>
+      </div>
+      <div class="feature">
+        <h3><span class="n">DHIKR &amp; DU'A</span>The believer's daily wird</h3>
+        <p>Morning and evening adhkar, the words before sleep, and the supplications of the Qur'an and the Prophet (peace be upon him), each with Arabic, meaning, and recitation to listen and learn. 26 collections, 229 in all.</p>
+      </div>
+      <div class="feature">
+        <h3><span class="n">PRAYER TIMES · SALATTID</span>Never miss a salah</h3>
+        <p>Accurate Nordic prayer times in your calendar through SalatTid.se, the Swedish home of Buruja.</p>
+      </div>
+    </div>
+  </section>
+
+  <!-- HOW -->
+  <section class="block" id="how">
+    <h2>How it works</h2>
+    <p class="sub">No new app to open. It lives where you already look ten times a day: your calendar.</p>
+    <div class="steps">
+      <div class="step">
+        <div class="num">1</div>
+        <h3>Subscribe once</h3>
+        <p>Add the calendar with a single tap. Apple, Google, and Outlook all welcome.</p>
+      </div>
+      <div class="step">
+        <div class="num">2</div>
+        <h3>Wake to a verse</h3>
+        <p>Each morning the day's ayah is already waiting: Arabic, translation, and tafsir.</p>
+      </div>
+      <div class="step">
+        <div class="num">3</div>
+        <h3>Carry it with you</h3>
+        <p>Read it, sit with it, and let it shape the hours that follow. Tomorrow, the next.</p>
+      </div>
+    </div>
+  </section>
+
+  <!-- WHY -->
+  <section class="block" id="why">
+    <div class="why">
+      <h2>Why it's free</h2>
+      <p>This is not a product. Every verse you read, and every soul you pass it to, is sadaqah jariyah, a charity that keeps giving. No ads. No upsells. Nothing sold, including your data. It is built to keep benefiting the ummah long after we are gone. If it moves you, share it. That is the only ask.</p>
+    </div>
+  </section>
+
+  <!-- CTA -->
+  <section class="cta">
+    <span class="kicker">31 August 2026</span>
+    <h2>Be there for the first verse.</h2>
+    <p class="lead" style="color:var(--muted); margin:0 auto;">Leave your email and the very first wird will reach you on launch morning.</p>
+    <form class="signup" onsubmit="return false;">
+      <input type="email" placeholder="you@email.com" aria-label="Email address">
+      <button class="btn" type="submit">Join the waitlist</button>
+    </form>
+  </section>
+
+</main>
+
+<footer>
+  <div class="wrap">
+    <div class="foot-top">
+      <div class="wordmark" style="font-size:20px;">Buruja</div>
+      <div class="foot-links">
+        <a href="#tracks">What you get</a>
+        <a href="#how">How it works</a>
+        <a href="#why">Why it's free</a>
+        <a href="/companions/">Companions</a>
+        <a href="/seerah/">Seerah</a>
+        <a href="/adhkar/">Dhikr &amp; Du'a</a>
+        <a href="#join">Join</a>
+      </div>
+    </div>
+    <p>Made for the sake of Allah. buruja.com</p>
+    <p class="grounding">
+      Verse shown is verified, not generated.
+      <code>Grounded with quran.ai: fetch_quran(13:28, ar-simple-clean), fetch_translation(13:28, en-sahih-international &amp; sv-knut)</code>.
+      Arabic: Tanzil. English: Saheeh International. Swedish: Mohammed Knut Bernström, Koranens budskap.
+    </p>
+  </div>
+</footer>
+
+<script>
+(function(){
+  var root = document.documentElement, btn = document.getElementById('themeToggle');
+  function set(t){ root.setAttribute('data-theme', t); if(btn){ btn.textContent = (t === 'dark' ? 'Day' : 'Night'); } try{ localStorage.setItem('wird-theme', t); }catch(e){} }
+  var saved; try{ saved = localStorage.getItem('wird-theme'); }catch(e){}
+  set(saved || 'light');
+  if(btn){ btn.addEventListener('click', function(){ set(root.getAttribute('data-theme') === 'dark' ? 'light' : 'dark'); }); }
+})();
+</script>
+
+</body>
+</html>

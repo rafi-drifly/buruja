@@ -1,0 +1,168 @@
+{
+  "slug": "halal-and-haram",
+  "day": 20,
+  "lesson_no": 20,
+  "tier": 2,
+  "kind": "new-muslim",
+  "name": "Halal and Haram",
+  "epithet": "The good things, and the few that harm",
+  "title": "Halal and Haram: Food, Drink, and the Basics, for New Muslims",
+  "meta_description": "A gentle, non-overwhelming guide to halal and haram for new Muslims: why the default is permission, the short list of forbidden foods, intoxicants, and how to navigate it without drowning in anxiety.",
+  "keywords": [
+    "halal and haram",
+    "what is haram",
+    "forbidden foods in Islam",
+    "is alcohol haram",
+    "halal food for new Muslims",
+    "what can Muslims eat",
+    "halal meaning"
+  ],
+  "lede": [
+    "Few things frighten a new Muslim faster than the words halal and haram, lawful and forbidden. It can feel like the whole world suddenly became a minefield of rules. So begin with the truth that calms it: in Islam, the default for the things of this world is permission. The forbidden is a short, named list. Almost everything else is open to you.",
+    "This lesson is the map of that, food, drink, and the principle underneath, kept deliberately simple. You will not learn every ruling today, and you do not need to. You need the shape, and the calm that comes with it."
+  ],
+  "do_today": {
+    "label": "Just for today",
+    "text": "Before your next meal, pause and say 'Bismillah,' in the name of Allah, and after it, 'Alhamdulillah,' all praise is for Allah. That is it. You do not need to audit your whole kitchen today. Just begin turning eating into a small act of gratitude. The rest comes gently."
+  },
+  "sections": [
+    {
+      "h2": "The default is yes",
+      "paras": [
+        "Allah did not make this religion a cage. He spread the earth's good things out for you and told you to enjoy them with a thankful heart; that is the starting point, not the exception:"
+      ],
+      "ayah": {
+        "arabic": "يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ كُلُوا۟ مِن طَيِّبَٰتِ مَا رَزَقْنَٰكُمْ وَٱشْكُرُوا۟ لِلَّهِ إِن كُنتُمْ إِيَّاهُ تَعْبُدُونَ",
+        "text": "O you who have believed, eat from the good things which We have provided for you and be grateful to Allah, if it is Him that you worship.",
+        "ref": "Al-Baqarah 2:172"
+      },
+      "tafsir": {
+        "source": "Tafsir as-Sa'di",
+        "text": "As-Sa'di notes that Allah pairs eating good, lawful provision with gratitude, 'be grateful to Allah,' and that this gratitude is itself a form of worship: it guards the blessings you already have and draws more, while ingratitude drives them away. Lawful food, received thankfully, becomes fuel for obedience."
+      }
+    },
+    {
+      "h2": "What is forbidden, and why",
+      "paras": [
+        "Against that wide permission, the forbidden foods are few and specific. Allah names them in a single verse, and notice the mercy folded into the end of it, for someone with no other choice:"
+      ],
+      "ayah": {
+        "arabic": "إِنَّمَا حَرَّمَ عَلَيْكُمُ ٱلْمَيْتَةَ وَٱلدَّمَ وَلَحْمَ ٱلْخِنزِيرِ وَمَآ أُهِلَّ بِهِۦ لِغَيْرِ ٱللَّهِ ۖ فَمَنِ ٱضْطُرَّ غَيْرَ بَاغٍ وَلَا عَادٍ فَلَآ إِثْمَ عَلَيْهِ ۚ إِنَّ ٱللَّهَ غَفُورٌ رَّحِيمٌ",
+        "text": "He has only forbidden to you dead animals, blood, the flesh of swine, and that which has been dedicated to other than Allah. But whoever is forced by necessity, neither desiring it nor transgressing its limit, there is no sin upon him. Indeed, Allah is Forgiving and Merciful.",
+        "ref": "Al-Baqarah 2:173"
+      }
+    },
+    {
+      "h2": "The principle underneath",
+      "paras": [
+        "Hold this and most of the rest falls into place: Allah permits the good and wholesome (tayyib) and forbids only the harmful and foul (khabith). The rules are not arbitrary hoops; each forbidden thing is forbidden because it harms the body, the mind, the soul, or society. The pig, blood, the animal not slaughtered in Allah's name: these are the named exceptions to a generous yes.",
+        "For meat, Muslims eat what has been slaughtered in a lawful way with Allah's name invoked, which is what 'halal meat' means; fish and the catch of the sea are broadly permitted (the schools differ a little on certain sea creatures); and all the plants, grains, and fruits of the earth are yours. As you settle in, you learn to read a label and ask a question. You do not need to fear your own fridge."
+      ]
+    },
+    {
+      "h2": "Intoxicants",
+      "paras": [
+        "One prohibition deserves its own mention, because it shaped a civilization: intoxicants. Alcohol and other intoxicants are forbidden in Islam, because they cloud the very thing the religion is working to keep clear, the mind and the heart that stand before Allah:"
+      ],
+      "ayah": {
+        "arabic": "يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوٓا۟ إِنَّمَا ٱلْخَمْرُ وَٱلْمَيْسِرُ وَٱلْأَنصَابُ وَٱلْأَزْلَٰمُ رِجْسٌ مِّنْ عَمَلِ ٱلشَّيْطَٰنِ فَٱجْتَنِبُوهُ لَعَلَّكُمْ تُفْلِحُونَ",
+        "text": "O you who have believed, indeed, intoxicants, gambling, sacrificing on stone altars, and divining arrows are but defilement from the work of Satan, so avoid it that you may be successful.",
+        "ref": "Al-Ma'idah 5:90"
+      }
+    },
+    {
+      "h2": "Clear, unclear, and not drowning",
+      "paras": [
+        "The Prophet ﷺ gave the calmest possible framework for all of it:"
+      ],
+      "hadith": {
+        "text": "The lawful is clear and the unlawful is clear, and between the two are doubtful matters that many people do not know. Whoever avoids the doubtful keeps his faith and honour safe.",
+        "source": "Sahih al-Bukhari 52; Sahih Muslim 1599",
+        "grade": "sahih"
+      }
+    },
+    {
+      "h2": "A word against the whisper",
+      "paras": [
+        "So here is how to walk this without losing your peace. The clearly lawful, enjoy with thanks. The clearly forbidden, leave. The genuinely doubtful, lean away from, and ask someone who knows. But do not turn this into torment: chasing every faint 'what if' until you cannot eat or pray is not piety, it is a whisper from Shaytan called waswasa, and it is not what Allah wants from you. And if those doubts become relentless and tormenting, fixating on whether your food or your washing is 'really' clean, that can be a recognized condition, a form of religious OCD, not a flaw in your faith, and a knowledgeable teacher and a mental-health professional can both help.",
+        "Transitioning your kitchen, your habits, your nights out, takes time, and Allah knows that. Change what you can, when you can, with intention, and trust that He sees a sincere heart moving toward Him. The goal of all these rulings is not anxiety. It is taqwa: a life kept clean for the One you love."
+      ]
+    }
+  ],
+  "dua": {
+    "arabic": "اللَّهُمَّ اكْفِنِي بِحَلَالِكَ عَنْ حَرَامِكَ، وَأَغْنِنِي بِفَضْلِكَ عَمَّنْ سِوَاكَ",
+    "translit": "Allahumma-kfini bi-halalika 'an haramik, wa aghnini bi-fadlika 'amman siwak",
+    "meaning": "O Allah, suffice me with what You have made lawful so I have no need of what You have forbidden, and enrich me by Your grace so I need none besides You. (Jami at-Tirmidhi 3563)"
+  },
+  "lessons_heading": "Carry this with you",
+  "lessons_intro": "If you remember nothing else from this page, remember that the yes is wide and the no is short.",
+  "lessons": [
+    {
+      "bold": "The default is permission.",
+      "text": "Allah spread out the good things and said enjoy them with thanks. The forbidden is a short, named list, not a minefield."
+    },
+    {
+      "bold": "Only the harmful is forbidden.",
+      "text": "Pork, blood, carrion, meat not slaughtered in Allah's name, and intoxicants. Each is forbidden because it harms, never arbitrarily."
+    },
+    {
+      "bold": "Clear, clear, and doubtful.",
+      "text": "Enjoy the clearly lawful, leave the clearly forbidden, lean away from the doubtful, and ask someone who knows."
+    },
+    {
+      "bold": "Do not let it become a whisper.",
+      "text": "Obsessive 'what ifs' are waswasa, not piety. Change what you can, when you can. The goal is taqwa, not anxiety."
+    }
+  ],
+  "faq": [
+    {
+      "q": "What does halal and haram mean?",
+      "a": "Halal means lawful or permitted, and haram means forbidden. In Islam the default for worldly things, including most foods, is that they are halal; haram is a limited, specified category. The aim is to enjoy the good and avoid only what genuinely harms."
+    },
+    {
+      "q": "What foods are forbidden in Islam?",
+      "a": "The Qur'an names dead animals (carrion), blood, the flesh of swine (pork), and anything slaughtered in the name of other than Allah. Intoxicants are also forbidden. Beyond these, the wide majority of foods, plants, grains, fruits, and seafood, are permitted."
+    },
+    {
+      "q": "Is alcohol haram?",
+      "a": "Yes. The Qur'an describes intoxicants as a defilement from the work of Satan and commands believers to avoid them, because they cloud the mind and heart. This includes alcohol and other intoxicating substances."
+    },
+    {
+      "q": "What is halal meat?",
+      "a": "Halal meat comes from a permitted animal slaughtered in a prescribed way with the name of Allah invoked. The Qur'an also permits the food of the People of the Book (5:5), which scholars apply with differing conditions; a trusted teacher can guide you on what that means for the meat where you live."
+    },
+    {
+      "q": "I am overwhelmed by all the rules. What do I do?",
+      "a": "Breathe, and go gently. Enjoy the clearly lawful, leave the clearly forbidden, and lean away from the doubtful. Do not chase every faint doubt; that obsessive worry (waswasa) is not piety. Change your habits over time, with intention, and trust that Allah sees a sincere heart moving toward Him."
+    }
+  ],
+  "closing_heading": "A du'a for a lawful life",
+  "closing": [
+    "What looked like a minefield turns out to be a wide, green field with a few clearly marked fences. Allah gave you the good things of the world and asked only that you leave the handful that harm you and thank Him for the rest. That is not restriction. That is a Father keeping His child away from poison and pointing at the feast.",
+    "Tomorrow we return to purity, the fuller washing called ghusl, so that your body, like your food and your heart, stays ready to stand before Him. Cleanliness of what you eat, and cleanliness of how you come to prayer, are two halves of the same care.",
+    "O Allah, suffice me with Your lawful so I never need Your forbidden, and enrich me by Your grace so I need no one besides You. Keep my food clean, my heart calm, and my life free of both the haram and the whispering that turns Your mercy into fear. Ameen."
+  ],
+  "source_note": "Qur'an citations (2:172, 2:173, 5:90) are from the Saheeh International translation, with the Arabic in Uthmani script verified via quran.ai (edition ar-uthmani-minimal). The 'From the tafsir' note on 2:172 is a faithful condensed rendering of Tafsir as-Sa'di (edition ar-saadi, via quran.ai), not a verbatim quotation. Hadith: 'the lawful is clear and the unlawful is clear...,' Sahih al-Bukhari 52 and Sahih Muslim 1599 (sahih); the du'a for lawful sufficiency, Jami at-Tirmidhi 3563 (graded hasan). The principle that Allah permits the good (tayyibat) and forbids the foul (khaba'ith) is drawn from al-A'raf 7:157. FOR SCHOLAR REVIEW: this lesson is fiqh of food and drink. Please confirm the forbidden-foods list, the halal-meat and People-of-the-Book framing, the intoxicants ruling, the waswasa caution, the hadith and du'a references and grades, and the as-Sa'di rendering before publication.",
+  "next": "ghusl-and-purity",
+  "bridges_to": "asma-ul-husna/ar-razzaq",
+  "related": [
+    {
+      "to": "asma-ul-husna/ar-razzaq",
+      "label": "Ar-Razzaq",
+      "note": "the Provider who spread the good things of the earth out for you"
+    },
+    {
+      "to": "asma-ul-husna/al-aziz-al-hakim",
+      "label": "Al-Aziz, Al-Hakim",
+      "note": "the Wise: His rulings are wisdom, never arbitrary, forbidding only what harms"
+    }
+  ],
+  "social": {
+    "hook": "Halal and haram sounds like a minefield. It is closer to a wide green field with a few clearly marked fences. In Islam the default is permission; the forbidden is a short, named list. Almost everything good is open to you.",
+    "caption": "Halal and haram, kept simple: why the default is yes, the short list that is forbidden, and how to navigate it without drowning in anxiety. Lesson 20 of The New Muslim Path. Buruja."
+  },
+  "email": {
+    "subject": "Halal and haram, without the overwhelm",
+    "preview": "The default is permission. The forbidden is short and named. Here is the map, and the calm."
+  }
+}

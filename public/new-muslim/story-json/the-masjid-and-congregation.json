@@ -1,0 +1,166 @@
+{
+  "slug": "the-masjid-and-congregation",
+  "day": 15,
+  "lesson_no": 15,
+  "tier": 2,
+  "kind": "new-muslim",
+  "name": "The Masjid and Praying Together",
+  "epithet": "You were not made to worship alone",
+  "title": "The Mosque and Praying in Congregation, for New Muslims",
+  "meta_description": "A gentle introduction to the masjid and praying together for new Muslims: the reward of congregation, the Friday prayer, women in the mosque, and what to do if you cannot get to one.",
+  "keywords": [
+    "praying in congregation Islam",
+    "do men have to pray in the masjid",
+    "Jumu'ah Friday prayer",
+    "women in the mosque Islam",
+    "can I pray at home",
+    "reward of congregation prayer"
+  ],
+  "lede": [
+    "So far your prayer has likely been a private thing, alone in a room. That is real and complete and beloved. But Islam also pulls you, gently, toward something you cannot do by yourself: praying shoulder to shoulder with others, in the house built for it, the masjid.",
+    "This lesson is about that gathering, and about the questions a new Muslim quietly carries: do I have to go to the mosque? What is Friday? Are women included? And what if there is no masjid near me at all? Honest answers, with no pressure."
+  ],
+  "do_today": {
+    "label": "Just for today",
+    "text": "Look up the nearest mosque to you, just look. You do not have to go today. Find its name, see where it is, maybe note its Friday prayer time. Knowing it is there, that there is a door with your name on it, is the whole task for today."
+  },
+  "sections": [
+    {
+      "h2": "A faith with a gathering place",
+      "paras": [
+        "Islam is deeply personal, but it is not private. From the very first days in Madinah, the Prophet ﷺ built a mosque as the heart of the community, a place not only to pray but to learn, to meet, to belong. The masjid is meant to be a home, and as a new Muslim, it is meant to be your home too, however shy you feel walking in the first time.",
+        "The Qur'an describes who truly fills these houses, and it is not the most knowledgeable or the most polished. It is simply the believer who shows up:"
+      ],
+      "ayah": {
+        "arabic": "إِنَّمَا يَعْمُرُ مَسَٰجِدَ ٱللَّهِ مَنْ ءَامَنَ بِٱللَّهِ وَٱلْيَوْمِ ٱلْءَاخِرِ وَأَقَامَ ٱلصَّلَوٰةَ وَءَاتَى ٱلزَّكَوٰةَ وَلَمْ يَخْشَ إِلَّا ٱللَّهَ ۖ فَعَسَىٰٓ أُو۟لَٰٓئِكَ أَن يَكُونُوا۟ مِنَ ٱلْمُهْتَدِينَ",
+        "text": "The mosques of Allah are only to be maintained by those who believe in Allah and the Last Day and establish prayer and give zakah and do not fear except Allah, for it is expected that those will be of the rightly guided.",
+        "ref": "At-Tawbah 9:18"
+      }
+    },
+    {
+      "h2": "The reward of praying together",
+      "paras": [
+        "There is something Allah gives to the prayer prayed in a group that He does not give to the prayer prayed alone, and the Prophet ﷺ put a number on it:"
+      ],
+      "hadith": {
+        "text": "Prayer in congregation is twenty-seven times more rewarding than the prayer offered by a person alone.",
+        "source": "Sahih al-Bukhari 645; Sahih Muslim 650",
+        "grade": "sahih"
+      }
+    },
+    {
+      "h2": "What this means for men",
+      "paras": [
+        "For men in particular, the Sunnah strongly urges praying the daily prayers in congregation at the mosque, and the encouragement in the Prophet's ﷺ teaching is weighty. Here the scholars differ on exactly how binding it is: some hold congregation an obligation upon men, others a strongly emphasized recommendation. All of them treat it as something a believing man reaches for, not something he shrugs off.",
+        "So if you are a man, take the mosque as a goal to grow into, not a test you have already failed. Start with one prayer there a week, or the Friday prayer, and let it build. A trusted local teacher can tell you the position your community follows."
+      ]
+    },
+    {
+      "h2": "Friday: the gathering not to miss",
+      "paras": [
+        "One prayer stands above the rest as a gathering: Jumu'ah, the Friday prayer, which replaces the midday prayer once a week and adds a sermon (khutbah). For Muslim men who are able, attending Jumu'ah in congregation is an obligation, not merely encouraged. Women are welcome and rewarded if they attend, but are not obligated to.",
+        "If you can arrange to attend one congregational prayer a week, make it this one. The Qur'an calls you to it directly:"
+      ],
+      "ayah": {
+        "arabic": "يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوٓا۟ إِذَا نُودِىَ لِلصَّلَوٰةِ مِن يَوْمِ ٱلْجُمُعَةِ فَٱسْعَوْا۟ إِلَىٰ ذِكْرِ ٱللَّهِ وَذَرُوا۟ ٱلْبَيْعَ ۚ ذَٰلِكُمْ خَيْرٌ لَّكُمْ إِن كُنتُمْ تَعْلَمُونَ",
+        "text": "O you who have believed, when the call is made for the prayer on the day of Jumu'ah, then proceed to the remembrance of Allah and leave trade. That is better for you, if you only knew.",
+        "ref": "Al-Jumu'ah 62:9"
+      }
+    },
+    {
+      "h2": "Women in the mosque",
+      "paras": [
+        "Let this be clear, because it is often muddled: women are welcome in the mosque, and the Prophet ﷺ forbade anyone from preventing them. The doors of the house of Allah are open to His servants, women and men alike.",
+        "At the same time, Islam honours a woman's choice, and her prayer at home carries its own great reward, so that attending is a door open to her, never a duty laid on her, and never a sign that she is less. A woman is welcomed if she comes and honoured if she prays at home; both are beautiful. The Prophet ﷺ said:"
+      ],
+      "hadith": {
+        "text": "Do not prevent the female servants of Allah from the mosques of Allah.",
+        "source": "Sahih Muslim 442; Sahih al-Bukhari 900",
+        "grade": "sahih"
+      }
+    },
+    {
+      "h2": "If you cannot get to a masjid",
+      "paras": [
+        "And if you cannot? Maybe there is no mosque near you. Maybe you are housebound, or unwell, or in a place where being openly Muslim is not yet safe, or simply too new and nervous to walk in. Hear this with no guilt at all: your prayer at home is fully valid, fully accepted, and deeply beloved to Allah. The congregation is a reward to reach for, not a wall to keep you out.",
+        "Do what you can. Pray where you are. And when a door to community opens, even one kind person, one small gathering, one Friday, step gently through it. You were not made to worship entirely alone, but Allah meets you exactly where you are, including alone in your room, tonight."
+      ]
+    }
+  ],
+  "dua": {
+    "arabic": "اللَّهُمَّ افْتَحْ لِي أَبْوَابَ رَحْمَتِكَ",
+    "translit": "Allahumma-ftah li abwaba rahmatik",
+    "meaning": "O Allah, open for me the doors of Your mercy. (the du'a the Prophet ﷺ taught for entering the mosque, Sahih Muslim 713)"
+  },
+  "lessons_heading": "Carry this with you",
+  "lessons_intro": "If you remember nothing else from this page, remember that the door is open and the pace is yours.",
+  "lessons": [
+    {
+      "bold": "The masjid is meant to be your home.",
+      "text": "Not only a place to pray, but to learn and belong. However shy you feel, there is a door there with your name on it."
+    },
+    {
+      "bold": "Praying together multiplies the reward.",
+      "text": "Twenty-seven times the prayer alone. For men especially, the mosque is something to grow toward, not a test already failed."
+    },
+    {
+      "bold": "Friday is the one to aim for.",
+      "text": "Jumu'ah is obligatory on men who are able, and open to women. If you manage one congregation a week, make it this."
+    },
+    {
+      "bold": "Cannot get there? Your prayer still counts.",
+      "text": "At home, unwell, isolated, or just too new: your prayer is fully valid and beloved. Community is a reward to reach for, never a wall."
+    }
+  ],
+  "faq": [
+    {
+      "q": "Do men have to pray in the mosque?",
+      "a": "The Sunnah strongly urges men to pray the daily prayers in congregation, and the scholars range from considering it an obligation to a strongly emphasized recommendation. Either way it is something a believing man reaches for. The Friday prayer specifically is an obligation on men who are able. Ask a local teacher about your community's position."
+    },
+    {
+      "q": "Can I pray at home instead of the mosque?",
+      "a": "Yes, your prayer at home is fully valid and accepted. Congregation in the mosque carries extra reward and, for men, is strongly emphasized, but if you cannot get to a masjid because of distance, health, safety, or simply being new, you pray where you are, and Allah accepts it."
+    },
+    {
+      "q": "Are women allowed in the mosque?",
+      "a": "Yes. The Prophet ﷺ forbade preventing women from the mosques of Allah. Women are welcome and rewarded if they attend. A woman's prayer at home also carries great reward, so attending is a door open to her, never a duty placed on her, and never a sign of being less."
+    },
+    {
+      "q": "What is Jumu'ah?",
+      "a": "Jumu'ah is the Friday congregational prayer, which replaces the midday prayer once a week and includes a sermon. For Muslim men who are able, attending is obligatory; women are welcome and rewarded but not obligated. It is the gathering to aim for if you can manage only one a week."
+    },
+    {
+      "q": "What if the mosque feels cold or unwelcoming?",
+      "a": "It happens, and it is rarely about you. People can be busy, shy, or simply unused to newcomers, and some communities cluster by language or culture without meaning to exclude anyone. A cold welcome is about that room, not about you and not about Islam. Greet someone first, come back another time, or try a different mosque; they each have their own personality, and you are looking for a home, not just a building."
+    }
+  ],
+  "closing_heading": "A du'a as you find your community",
+  "closing": [
+    "You came into this religion alone, perhaps, in a quiet room with a few whispered words. But you were never meant to stay alone in it. There is a house built for people like you, with rows of shoulders to stand between and a door that the Prophet ﷺ insisted be kept open. Walk toward it at your own pace. It is waiting.",
+    "Tomorrow we deal with the real world honestly: the days you miss a prayer, the travel and illness and the seasons of life when keeping it all up feels impossible. Because this religion was built for actual human beings, and it has mercy ready for every one of those days.",
+    "O Allah, open for me the doors of Your mercy, and the doors of Your houses, and the hearts of Your people toward me. Make me one who fills Your mosques with faith, and where I cannot reach them, meet me where I am. You are never far. Ameen."
+  ],
+  "source_note": "Qur'an citations (9:18, 62:9) are from the Saheeh International translation, with the Arabic in Uthmani script verified via quran.ai (edition ar-uthmani-minimal). Hadith: prayer in congregation twenty-seven times more rewarding, Sahih al-Bukhari 645 and Sahih Muslim 650 (sahih); 'do not prevent the female servants of Allah from the mosques,' Sahih Muslim 442 and Sahih al-Bukhari 900 (sahih); the du'a for entering the mosque, Sahih Muslim 713 (sahih). FOR SCHOLAR REVIEW: this lesson is high-sensitivity. Please confirm the framing of the ruling on congregation for men (the obligation-versus-emphasized-sunnah range), the obligation of Jumu'ah on men, and especially the treatment of women in the mosque, ensuring it is accurate, respectful, and reads as welcoming rather than excluding, before publication.",
+  "next": "when-life-gets-in-the-way",
+  "bridges_to": "seerah/the-first-mosques",
+  "related": [
+    {
+      "to": "seerah/the-first-mosques",
+      "label": "The first mosques",
+      "note": "how the Prophet made the masjid the heart of the community"
+    },
+    {
+      "to": "companions/bilal-ibn-rabah",
+      "label": "Bilal ibn Rabah",
+      "note": "the first to call the adhan from the mosque"
+    }
+  ],
+  "social": {
+    "hook": "You came into Islam alone, maybe in a quiet room. But you were never meant to stay alone in it. There is a house built for you, with rows of shoulders to stand between, and a door the Prophet ﷺ insisted be kept open, for women and men alike.",
+    "caption": "The masjid, the Friday prayer, women in the mosque, and what to do if you cannot get to one. Honest answers, no pressure. Lesson 15 of The New Muslim Path. Buruja."
+  },
+  "email": {
+    "subject": "You were not made to worship alone",
+    "preview": "The mosque, the Friday prayer, and what to do if you cannot get to one. The door is open, the pace is yours."
+  }
+}

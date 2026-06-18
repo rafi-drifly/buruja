@@ -1,0 +1,124 @@
+{
+  "slug": "who-is-muhammad",
+  "day": 2,
+  "lesson_no": 2,
+  "tier": 1,
+  "kind": "new-muslim",
+  "name": "Who Is Muhammad ﷺ",
+  "epithet": "The mercy you follow",
+  "title": "Who Is Muhammad ﷺ? Why Muslims Follow Him",
+  "meta_description": "The second half of the shahada is about a man. A gentle introduction to the Prophet Muhammad ﷺ for new Muslims: who he was, why we follow him and do not worship him, and how love for him grows.",
+  "keywords": ["who is Muhammad", "why do Muslims follow Muhammad", "do Muslims worship Muhammad", "Prophet Muhammad for beginners", "what is the Sunnah", "new Muslim who is the Prophet"],
+  "lede": [
+    "You did not only turn toward Allah. In the same breath, you said something about a man: that Muhammad is His Messenger. Half of the doorway you walked through is about him. So today, meet him.",
+    "He lived a real life, in a real place, fourteen centuries ago, in the deserts of Arabia. We know him better than almost anyone from that age, because the people who loved him remembered everything: how he spoke, how he ate, how he treated the weakest person in the room. This is a first look at why so many people, every day, try to be a little more like him."
+  ],
+  "do_today": {
+    "label": "Just for today",
+    "text": "When his name comes up today, add four small words: 'peace be upon him.' Muslims say them every time, out of love, and in writing you will see them as the symbol ﷺ. Say them once now, slowly, for the man who was sent as a mercy to you."
+  },
+  "sections": [
+    {
+      "h2": "Sent as a mercy",
+      "tafsir": {"source": "Tafsir as-Sa'di", "text": "As-Sa'di explains that the Prophet is himself Allah's mercy, a gift handed to His servants: those who believe in him receive that mercy, are grateful for it, and live by it, while those who turn away refuse the very gift that was sent to save them."},
+      "paras": [
+        "His name was Muhammad, son of Abdullah. He was born in the city of Makkah, in Arabia, and orphaned young: his father died before his birth, his mother when he was six. He grew up knowing loss, knowing what it is to be the one without parents. Anyone who feels they began life a step behind has a friend in him.",
+        "Before he ever spoke of God, his people called him Al-Amin, the trustworthy one, because in a city full of liars he did not lie, and they left their valuables with him for safekeeping. At the age of forty, in a cave where he used to sit alone, the angel Jibril (Gabriel) came to him with the first words of the Qur'an, and his quiet life became a mission that did not end until the message was complete.",
+        "Allah says, in one short line, why he was sent at all:"
+      ],
+      "ayah": {
+        "arabic": "وَمَآ أَرْسَلْنَٰكَ إِلَّا رَحْمَةً لِّلْعَٰلَمِينَ",
+        "text": "And We have not sent you except as a mercy to the worlds.",
+        "ref": "Al-Anbya 21:107"
+      }
+    },
+    {
+      "h2": "The best of character",
+      "paras": [
+        "Allah praised many things, but of His Prophet ﷺ He praised one thing above all, his character:"
+      ],
+      "ayah": {
+        "arabic": "وَإِنَّكَ لَعَلَىٰ خُلُقٍ عَظِيمٍ",
+        "text": "And indeed, you are of a great moral character.",
+        "ref": "Al-Qalam 68:4"
+      }
+    },
+    {
+      "h2": "His character was the Qur'an",
+      "paras": [
+        "Years later, someone asked his wife Aisha (may Allah be pleased with her), who knew him at home better than anyone, what he was actually like. Her answer was not a list of virtues. It was one sentence:"
+      ],
+      "hadith": {
+        "text": "His character was the Qur'an.",
+        "source": "Sahih Muslim 746",
+        "grade": "sahih"
+      }
+    },
+    {
+      "h2": "Why we follow him, and do not worship him",
+      "paras": [
+        "She meant that everything the Qur'an asks a person to be, he simply was. He was gentle with children and patient with the rude. He mended his own clothes, helped in his home, and never struck a servant. When a man came shouting at him, he answered softly. The most influential man in Arabia was also the most approachable.",
+        "Be clear on this, because it matters: Muslims do not worship Muhammad ﷺ. Worship belongs to Allah alone. The Prophet ﷺ was a human being, who was born and who died, who ate and slept and grieved. What sets him apart is that Allah chose him to carry the message and to live it out in front of people, so that faith would not stay an idea but become a life we could see and copy.",
+        "The way he lived, the things he did and said and approved, is called the Sunnah, and it is the second source of guidance after the Qur'an, preserved in reports called hadith. When you learn to pray in the coming days, you are not inventing anything. You are copying him. Allah tied the two together:"
+      ],
+      "ayah": {
+        "arabic": "لَّقَدْ كَانَ لَكُمْ فِى رَسُولِ ٱللَّهِ أُسْوَةٌ حَسَنَةٌ لِّمَن كَانَ يَرْجُوا۟ ٱللَّهَ وَٱلْيَوْمَ ٱلْءَاخِرَ وَذَكَرَ ٱللَّهَ كَثِيرًا",
+        "text": "There has certainly been for you in the Messenger of Allah an excellent pattern for anyone whose hope is in Allah and the Last Day and who remembers Allah often.",
+        "ref": "Al-Ahzab 33:21"
+      }
+    },
+    {
+      "h2": "Learning to love him",
+      "paras": [
+        "And following the Prophet ﷺ is the very path to being loved by God. This is the promise underneath it all:"
+      ],
+      "ayah": {
+        "arabic": "قُلْ إِن كُنتُمْ تُحِبُّونَ ٱللَّهَ فَٱتَّبِعُونِى يُحْبِبْكُمُ ٱللَّهُ وَيَغْفِرْ لَكُمْ ذُنُوبَكُمْ ۗ وَٱللَّهُ غَفُورٌ رَّحِيمٌ",
+        "text": "Say, 'If you should love Allah, then follow me, so Allah will love you and forgive you your sins. And Allah is Forgiving and Merciful.'",
+        "ref": "Aal 'Imran 3:31"
+      }
+    }
+  ],
+  "dua": {
+    "arabic": "اللَّهُمَّ صَلِّ عَلَىٰ مُحَمَّدٍ وَعَلَىٰ آلِ مُحَمَّدٍ",
+    "translit": "Allahumma salli 'ala Muhammadin wa 'ala ali Muhammad",
+    "meaning": "O Allah, send Your blessings upon Muhammad and upon the family of Muhammad. (the form the Prophet ﷺ taught for sending blessings upon him)"
+  },
+  "lessons_heading": "Carry this with you",
+  "lessons_intro": "If you remember nothing else from this page, remember these four things about the one you said you follow.",
+  "lessons": [
+    { "bold": "He was a man, not a god.", "text": "We do not worship him. We worship Allah alone. Muhammad ﷺ is the Messenger who showed us how." },
+    { "bold": "His character was the Qur'an.", "text": "Gentle, honest, patient, humble. Everything the Book asks us to be, he simply was." },
+    { "bold": "We follow him to reach Allah.", "text": "The way he lived is the Sunnah. Copying it is not a burden, it is the path to being loved by God." },
+    { "bold": "Love comes from knowing.", "text": "He may be only a name to you today. Learn his life, and the love arrives on its own." }
+  ],
+  "faq": [
+    { "q": "Do Muslims worship Muhammad?", "a": "No. Muslims worship Allah alone. Muhammad ﷺ is His Messenger, a human being chosen to deliver and demonstrate the message. The old label 'Muhammadans' is a mistake, because worship is for God only, never for the Prophet." },
+    { "q": "Why do Muslims say 'peace be upon him' after his name?", "a": "It is a short prayer of love and respect, encouraged in the Qur'an itself, said each time his name is mentioned. In writing it appears as the symbol ﷺ. Saying it is a gentle habit you can pick up slowly, with no pressure." },
+    { "q": "What is the Sunnah?", "a": "The Sunnah is the example of the Prophet ﷺ: what he did, said, and approved of. Preserved in reports called hadith, it is the second source of Islam after the Qur'an, and it is how Muslims learn the details of how to pray and live." },
+    { "q": "What is a hadith?", "a": "A hadith is a recorded report of something the Prophet ﷺ said or did, passed down through chains of narrators and graded by scholars for reliability. The most trusted collections include Sahih al-Bukhari and Sahih Muslim." },
+    { "q": "Do I have to love the Prophet right away?", "a": "No feeling is forced on you. Love grows from knowing him, and you have only just begun. Learn a little of his life, send blessings upon him when you can, and let the love arrive in its own time." }
+  ],
+  "closing_heading": "A du'a of love for the Prophet ﷺ",
+  "closing": [
+    "Today you met him: an orphan who became a mercy, the trustworthy one, the man whose character was the Qur'an itself. You said you follow him when you took the shahada. Now you have begun to see who it is you are following.",
+    "Tomorrow we return to the words you said at the door, the shahada, and look at them more closely, because they hold more than you think. For now, send your peace upon the one who was sent for you.",
+    "O Allah, send Your peace and blessings upon Muhammad ﷺ. Place his love in my heart, let me walk a few steps behind him, and gather me one day among those who followed him. He was sent as a mercy. Let me live as one of the ones he was sent for. Ameen."
+  ],
+  "source_note": "Qur'an citations (21:107, 68:4, 33:21, 3:31) are from the Saheeh International translation, verified against the canonical Arabic text via quran.ai (Arabic in Uthmani script, edition ar-uthmani-minimal). Hadith: 'His character was the Qur'an' (Aisha RA), Sahih Muslim 746 (sahih); 'None of you truly believes until I am more beloved to him than his father, his child, and all people,' Sahih al-Bukhari 15 and Sahih Muslim 44 (sahih); the form of sending blessings is from Sahih al-Bukhari 3370 and Sahih Muslim 406. FOR SCHOLAR REVIEW: confirm the hadith wordings and attributions, and the explanation of Sunnah and hadith, before publication. The 'From the tafsir' note is a faithful condensed rendering of Tafsir as-Sa'di (edition ar-saadi, via quran.ai), not a verbatim quotation; FOR SCHOLAR REVIEW: confirm it reflects as-Sa'di accurately.",
+  "next": "the-shahada",
+  "bridges_to": "seerah/why-study-the-seerah",
+  "related": [
+    {"to": "seerah/why-study-the-seerah", "label": "Why study the Seerah", "note": "why his life is worth knowing, not only his name"},
+    {"to": "seerah/the-world-before-islam", "label": "The world before Islam", "note": "the darkness he was sent into"},
+    {"to": "companions/abu-bakr-part-1", "label": "Abu Bakr", "note": "the friend who believed in him without hesitation"}
+  ],
+  "social": {
+    "hook": "Muslims do not worship Muhammad ﷺ. They follow him. He was an orphan, the trustworthy one, and when his wife was asked what he was really like, she said: his character was the Qur'an.",
+    "caption": "The second half of the shahada is about a man. Meet the Prophet ﷺ, gently, and learn why we follow him and do not worship him. Lesson 2 of The New Muslim Path. Buruja."
+  },
+  "email": {
+    "subject": "Who is Muhammad ﷺ, and why we follow him",
+    "preview": "An orphan, the trustworthy one, the man whose character was the Qur'an itself."
+  }
+}

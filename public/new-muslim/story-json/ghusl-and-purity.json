@@ -1,0 +1,111 @@
+{
+  "slug": "ghusl-and-purity",
+  "day": 21,
+  "lesson_no": 21,
+  "tier": 2,
+  "kind": "new-muslim",
+  "name": "Ghusl and Purity",
+  "epithet": "Clean enough to stand before Him",
+  "title": "Ghusl and Purity in Islam: The Full Washing, for New Muslims",
+  "meta_description": "A gentle, dignified guide to ghusl and purity for new Muslims: the two states of impurity, when the full-body wash is needed, how to do it simply, and why purity is care, not shame.",
+  "keywords": ["what is ghusl", "how to do ghusl", "when is ghusl required", "major and minor impurity Islam", "purity in Islam", "ghusl for new Muslims"],
+  "lede": [
+    "You already know wudu, the light washing before prayer. There is a second, fuller washing called ghusl, a wash of the whole body, needed in certain situations before you can pray again. It sounds intimate, and it is, so we will speak about it plainly and with dignity, the way a good teacher would, because no one else may have told you kindly.",
+    "This is not about being dirty. It is about readiness: keeping the body, like the heart, prepared to stand before Allah. Once you understand when and how, it becomes a simple, private, ordinary part of a Muslim's life."
+  ],
+  "do_today": {
+    "label": "Just for today",
+    "text": "Nothing to perform today, just one idea to hold: in Islam, cleanliness of the body and readiness of the heart belong together. Notice your next shower differently, as something that can also be worship when you intend it for Allah. That shift of intention is the whole lesson for today."
+  },
+  "sections": [
+    {
+      "h2": "Two kinds of washing",
+      "paras": [
+        "Islam recognises two states that lift you out of readiness for prayer, and two washings that restore it. The minor state comes from ordinary things (using the bathroom, passing wind, deep sleep) and is lifted by wudu, which you already learned. The major state, called janabah, comes from sexual activity and a few related causes, and it is lifted only by ghusl, the full-body wash.",
+        "So the rule is simple: when you are in the major state, wudu alone is not enough; you make ghusl, and only then do you pray. Knowing which washing a situation calls for is most of what there is to know."
+      ]
+    },
+    {
+      "h2": "When ghusl is needed",
+      "paras": [
+        "Ghusl becomes obligatory after sexual intimacy or any release of sexual fluid, and for women at the end of the monthly period and at the end of post-childbirth bleeding. It is also recommended (not obligatory) at certain good times, such as before the Friday prayer. The Qur'an names the first cause directly, in the same verse that taught you wudu:"
+      ],
+      "ayah": {
+        "arabic": "وَإِن كُنتُمْ جُنُبًا فَٱطَّهَّرُوا۟",
+        "text": "And if you are in a state of janabah, then purify yourselves.",
+        "ref": "Al-Ma'idah 5:6"
+      }
+    },
+    {
+      "h2": "How to do ghusl, simply",
+      "paras": [
+        "The heart of ghusl is easy: with the intention to purify yourself for Allah, you wash your entire body so that water reaches every part of it, including rinsing the mouth and nose and letting water run to the roots of the hair and over all the skin. Nothing on the body should block the water from reaching it.",
+        "The Prophet ﷺ did it in a beautiful order that many Muslims follow, and Aisha (may Allah be pleased with her) described it:"
+      ],
+      "hadith": {
+        "text": "When the Prophet ﷺ bathed from janabah, he would wash his hands, then perform wudu as he would for prayer, then run his fingers through his hair, then pour water over his head three times, and then over the rest of his body.",
+        "source": "Sahih al-Bukhari 248; Sahih Muslim 316",
+        "grade": "sahih"
+      }
+    },
+    {
+      "h2": "The details, and a teacher",
+      "paras": [
+        "Once you have washed the whole body with that intention, you are pure and ready to pray; in most views the wudu you did within the ghusl counts, so you need not repeat it. The schools differ on small points, what exactly is obligatory versus recommended, how the order runs, and a trusted local teacher can settle those for you in a minute.",
+        "What matters now is that you are not left guessing or ashamed. This is a normal, private part of life that married and unmarried, men and women, have always navigated quietly. Ask your questions to someone you trust; there is nothing embarrassing in learning how to be clean for your Lord."
+      ]
+    },
+    {
+      "h2": "Purity is care, not shame",
+      "paras": [
+        "Do not carry this as a burden of impurity hanging over you. Carry it as Allah frames it, as something He loves in His servants:"
+      ],
+      "ayah": {
+        "arabic": "إِنَّ ٱللَّهَ يُحِبُّ ٱلتَّوَّٰبِينَ وَيُحِبُّ ٱلْمُتَطَهِّرِينَ",
+        "text": "Indeed, Allah loves those who are constantly repentant and loves those who purify themselves.",
+        "ref": "Al-Baqarah 2:222"
+      }
+    }
+  ],
+  "dua": {
+    "arabic": "أَشْهَدُ أَنْ لَا إِلَٰهَ إِلَّا اللَّهُ وَحْدَهُ لَا شَرِيكَ لَهُ، وَأَشْهَدُ أَنَّ مُحَمَّدًا عَبْدُهُ وَرَسُولُهُ",
+    "translit": "Ash-hadu an la ilaha illa Allahu wahdahu la sharika lah, wa ash-hadu anna Muhammadan 'abduhu wa rasuluh",
+    "meaning": "I bear witness that there is no god but Allah alone, with no partner, and that Muhammad is His servant and Messenger. (the testimony the Prophet ﷺ taught after purifying; ghusl includes the wudu it is said after, Sahih Muslim 234)"
+  },
+  "lessons_heading": "Carry this with you",
+  "lessons_intro": "If you remember nothing else from this page, remember that purity is readiness, not shame.",
+  "lessons": [
+    { "bold": "Two states, two washings.", "text": "Minor impurity is lifted by wudu; the major state (janabah) is lifted by ghusl, the full-body wash. Then you pray." },
+    { "bold": "When ghusl is due.", "text": "After intimacy or sexual discharge, and for women at the end of the period and of post-childbirth bleeding. Recommended before Jumu'ah." },
+    { "bold": "The method is simple.", "text": "With intention, wash the whole body so water reaches everywhere. The Prophet's ﷺ order is beautiful, and a teacher can refine the details." },
+    { "bold": "It is care, not shame.", "text": "Allah loves those who purify themselves. This is an ordinary, private part of a believer's life, nothing to be embarrassed about." }
+  ],
+  "faq": [
+    { "q": "What is ghusl?", "a": "Ghusl is the full-body ritual washing that restores purity after the major state of impurity (janabah). Where wudu is the light washing for minor impurity, ghusl washes the entire body and is required before prayer in specific situations." },
+    { "q": "When is ghusl required?", "a": "After sexual intimacy or any release of sexual fluid, and for women at the end of the monthly period and at the end of post-childbirth bleeding. It is also recommended at certain times, such as before the Friday prayer, though not obligatory then." },
+    { "q": "How do I perform ghusl?", "a": "With the intention to purify yourself for Allah, wash your whole body so water reaches every part, including rinsing the mouth and nose and wetting the roots of the hair. Many follow the Prophet's ﷺ order: wash the hands, perform wudu, then pour water over the head and the rest of the body. A local teacher can confirm the details of your school." },
+    { "q": "Do I need to do wudu after ghusl?", "a": "In most views, the wudu performed within the ghusl is sufficient, so you do not need to repeat it before praying, as long as nothing has since broken your wudu. This is a point the schools discuss in detail; ask a trusted teacher if unsure." },
+    { "q": "I find this topic embarrassing. Is that normal?", "a": "Completely normal, and there is no shame in it. Purity is a private, ordinary part of every Muslim's life, and learning it is part of learning the faith. Direct your questions to someone you trust, a teacher or knowledgeable friend of the same gender if that is easier." }
+  ],
+  "closing_heading": "A du'a for purity of body and heart",
+  "closing": [
+    "You learned today that the body has its readiness just as the heart does, and that Allah gave a simple washing to restore it whenever life unsettles it. There is nothing shameful here, only care: the quiet, dignified upkeep of a person who wants to come to their Lord clean.",
+    "Tomorrow we turn from the washing of the body to the opening of the heart: du'a, simply talking to Allah, in your own words, in any language, at any time. You have learned how to be ready for Him. Next, how to speak to Him.",
+    "O Allah, make me of those who purify themselves and of those who turn back to You, clean in body and clean in heart. Let me never carry shame where You placed only care, and let every washing prepare me to stand before You as one You love. Ameen."
+  ],
+  "source_note": "Qur'an citations (5:6, 2:222) are from the Saheeh International translation, with the Arabic in Uthmani script verified via quran.ai (edition ar-uthmani-minimal). Hadith: Aisha's (RA) description of the Prophet's ﷺ ghusl, Sahih al-Bukhari 248 and Sahih Muslim 316 (sahih); the testimony said after purifying is Sahih Muslim 234 (sahih); an earlier, weaker du'a addition has been removed. FOR SCHOLAR REVIEW: this lesson is purity fiqh. Please confirm the causes that obligate ghusl, the method and its obligatory-versus-recommended elements, the ruling that ghusl suffices for wudu, the Jumu'ah-ghusl point, and the hadith and du'a references and grades before publication.",
+  "next": "dua-talking-to-allah",
+  "bridges_to": "asma-ul-husna/al-quddus-as-salam",
+  "related": [
+    {"to": "asma-ul-husna/al-quddus-as-salam", "label": "Al-Quddus, As-Salam", "note": "the Most Pure: purity is one of His names before it is ever your task"},
+    {"to": "asma-ul-husna/al-ghaffar", "label": "Al-Ghaffar", "note": "the Ever-Forgiving, who loves to see His servants come to Him clean"}
+  ],
+  "social": {
+    "hook": "This is not about being dirty. Ghusl, the full washing, is about readiness, keeping the body, like the heart, prepared to stand before Allah. And the Qur'an frames purity not as shame but as something He loves: 'Allah loves those who purify themselves.'",
+    "caption": "Ghusl and purity, spoken about plainly and with dignity: the two washings, when the full one is needed, and why purity is care, not shame. Lesson 21 of The New Muslim Path. Buruja."
+  },
+  "email": {
+    "subject": "Ghusl: purity as care, not shame",
+    "preview": "The fuller washing, when it is needed and how, spoken about plainly and with dignity."
+  }
+}

@@ -1,0 +1,104 @@
+{
+  "slug": "the-hadith-of-jibril",
+  "day": 8,
+  "lesson_no": 8,
+  "tier": 2,
+  "kind": "new-muslim",
+  "name": "The Hadith of Jibril",
+  "epithet": "The map of your whole religion",
+  "title": "The Hadith of Jibril: Islam, Iman, and Ihsan",
+  "meta_description": "Before you learn the pillars one by one, here is the single moment that maps the whole religion: Islam (what you do), Iman (what you believe), and Ihsan (how you do both). A gentle overview for new Muslims.",
+  "keywords": ["hadith of Jibril", "Islam Iman Ihsan", "three levels of religion Islam", "Gabriel hadith", "what is Ihsan", "dimensions of Islam"],
+  "lede": [
+    "You have learned to pray, and now a hundred new words are flying at you: pillars, articles, halal, sunnah. Before you learn them one at a time, here is a gift. A single moment from the Prophet's ﷺ life holds the whole religion in one frame. Learn this, and everything else has a place to land.",
+    "One day a stranger walked in and questioned the Prophet ﷺ in front of his Companions, and his answers became the map Muslims have used ever since. The religion came out in three layers: what you do, what you believe, and how you do both."
+  ],
+  "do_today": {
+    "label": "Just for today",
+    "text": "Learn three words. Islam is what you do. Iman is what you believe. Ihsan is doing both as if you could see Allah. That is the shape of everything ahead of you. You do not need the details today, only the three rooms of the house."
+  },
+  "sections": [
+    {
+      "h2": "A teacher in disguise",
+      "paras": [
+        "The Companions were sitting with the Prophet ﷺ when a man appeared in pure white clothes, with jet-black hair, showing no sign of travel, and no one knew him. He sat down knee to knee with the Prophet ﷺ, rested his hands on his thighs, and began to ask questions, as a student asks a teacher.",
+        "What he was really doing was laying out the whole of the faith for everyone listening, and for you. And notice what the Qur'an asks of the one who enters this religion: not a piece of it, but the whole, gently and over time:"
+      ],
+      "ayah": {
+        "arabic": "يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ ٱدْخُلُوا۟ فِى ٱلسِّلْمِ كَآفَّةً وَلَا تَتَّبِعُوا۟ خُطُوَٰتِ ٱلشَّيْطَٰنِ ۚ إِنَّهُۥ لَكُمْ عَدُوٌّ مُّبِينٌ",
+        "text": "O you who have believed, enter into Islam completely and do not follow the footsteps of Satan. Indeed, he is to you a clear enemy.",
+        "ref": "Al-Baqarah 2:208"
+      }
+    },
+    {
+      "h2": "The three layers",
+      "paras": [
+        "First the stranger asked: what is Islam? The Prophet ﷺ answered with the Five Pillars, the things a Muslim does: the testimony of faith, the prayer, the zakah (a yearly charity), the fast of Ramadan, and the pilgrimage to Makkah. This is the outward religion, the body of it. You already do the first two.",
+        "Then he asked: what is Iman, faith? The Prophet ﷺ answered with six things a Muslim believes in the heart: Allah, His angels, His books, His messengers, the Last Day, and the divine decree. This is the inward religion, the belief that the actions rest upon.",
+        "Then he asked the deepest question: what is Ihsan, excellence? And the answer was the jewel of the three: to worship Allah as though you see Him, and though you do not see Him, to know that He sees you. This is the spirit, the quality that turns motions into meaning. We give each of these its own lesson in the coming days."
+      ]
+    },
+    {
+      "h2": "Then he vanished",
+      "paras": [
+        "Finally the man asked about the Hour, the end of the world, and the Prophet ﷺ said the one being asked knew no more than the one asking. Some things belong to Allah alone:"
+      ],
+      "ayah": {
+        "arabic": "إِنَّ ٱللَّهَ عِندَهُۥ عِلْمُ ٱلسَّاعَةِ",
+        "text": "Indeed, with Allah is knowledge of the Hour.",
+        "ref": "Luqman 31:34"
+      }
+    },
+    {
+      "h2": "Your religion, taught by an angel",
+      "paras": [
+        "The man left, and the Prophet ﷺ asked his Companions if they knew who he was. They did not. He told them:"
+      ],
+      "hadith": {
+        "text": "That was Gabriel. He came to teach you your religion.",
+        "source": "Sahih Muslim 8",
+        "grade": "sahih"
+      }
+    }
+  ],
+  "dua": {
+    "arabic": "سَمِعْنَا وَأَطَعْنَا ۖ غُفْرَانَكَ رَبَّنَا وَإِلَيْكَ ٱلْمَصِيرُ",
+    "translit": "Sami'na wa ata'na, ghufranaka Rabbana wa ilayka-l-masir",
+    "meaning": "We hear and we obey. Your forgiveness, our Lord, and to You is the destination. (Al-Baqarah 2:285)"
+  },
+  "lessons_heading": "Carry this with you",
+  "lessons_intro": "If you remember nothing else from this page, remember the shape of the house you have entered.",
+  "lessons": [
+    { "bold": "Islam is what you do.", "text": "The Five Pillars: the testimony, prayer, zakah, fasting, and pilgrimage. The body of the religion." },
+    { "bold": "Iman is what you believe.", "text": "The Six Articles: Allah, His angels, His books, His messengers, the Last Day, and the decree. The heart of it." },
+    { "bold": "Ihsan is how you do both.", "text": "To worship Allah as though you see Him, knowing that He sees you. The spirit that makes it real." },
+    { "bold": "It is one religion, learned slowly.", "text": "You enter Islam completely, but not all at once. Each pillar and article gets its own day." }
+  ],
+  "faq": [
+    { "q": "What is the Hadith of Jibril?", "a": "It is a famous report in which the angel Jibril (Gabriel) came to the Prophet ﷺ in the form of a man and questioned him about Islam, Iman, and Ihsan, then left. The Prophet ﷺ said it was Gabriel come to teach the religion. It is recorded in Sahih Muslim and is often called the summary of the whole faith." },
+    { "q": "What is the difference between Islam and Iman?", "a": "Islam is the outward practice, the things a Muslim does, summed up in the Five Pillars. Iman is the inward belief, the things a Muslim believes in the heart, summed up in the Six Articles of Faith. The actions and the belief support one another." },
+    { "q": "What does Ihsan mean?", "a": "Ihsan means excellence or doing something beautifully. In worship it means to worship Allah as though you can see Him, and to remember that even when you cannot, He sees you. It is the quality that gives the prayer and the whole religion its life." },
+    { "q": "Do I need to understand all of this before I can be a good Muslim?", "a": "No. You already entered Islam with the shahada, and you can already pray. This lesson is just the map, so the things you learn next have somewhere to belong. Take it one room at a time." }
+  ],
+  "closing_heading": "A du'a as you see the whole map",
+  "closing": [
+    "A stranger sat down one day and, with three questions, drew the map of an entire religion: what you do, what you believe, and how you do both with your whole heart. Then he stood and was gone, and the Prophet ﷺ named him: the angel of revelation, come to teach.",
+    "You hold that map now. Everything ahead, the pillars, the articles of faith, the etiquette of prayer, is just a closer look at one corner of it. You are not learning a hundred random things. You are furnishing one house, room by room.",
+    "O Allah, You who sent an angel to teach this religion plainly, make it plain to me too. Let me enter it completely, and let what I do, what I believe, and how I worship all become one whole, turned toward You. We hear, and we obey. Ameen."
+  ],
+  "source_note": "Qur'an citations (2:208, 31:34, and the du'a from 2:285) are from the Saheeh International translation, with the Arabic in Uthmani script verified via quran.ai (edition ar-uthmani-minimal). The Hadith of Jibril, including the definitions of Islam, Iman, and Ihsan and the closing line 'That was Gabriel,' is recorded in Sahih Muslim 8 (also Sahih al-Bukhari 50), graded sahih. FOR SCHOLAR REVIEW: confirm the summary of the five pillars and six articles as listed in the hadith, the rendering of the Ihsan definition, and the hadith reference before publication.",
+  "next": "the-five-pillars-of-islam",
+  "bridges_to": null,
+  "related": [
+    {"to": "seerah/why-study-the-seerah", "label": "Why study the Seerah", "note": "the life of the teacher the angel came to instruct you through"},
+    {"to": "asma-ul-husna/al-mumin", "label": "Al-Mumin", "note": "the Granter of faith, the heart of Iman"}
+  ],
+  "social": {
+    "hook": "A stranger in white sat knee to knee with the Prophet ﷺ and asked three questions. The answers became the map of the entire religion: Islam (what you do), Iman (what you believe), Ihsan (how). Then he vanished. It was the angel Jibril.",
+    "caption": "Before the pillars and the articles of faith, here is the one moment that holds the whole religion in a single frame. Lesson 8 of The New Muslim Path. Buruja."
+  },
+  "email": {
+    "subject": "The whole religion, in one conversation",
+    "preview": "Islam, Iman, Ihsan: a stranger's three questions became the map we still use. Here it is."
+  }
+}

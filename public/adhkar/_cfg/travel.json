@@ -1,0 +1,93 @@
+{
+  "name": "Travel",
+  "arabic_name": "أذكار السفر",
+  "epithet": "The remembrances of the road",
+  "title": "Travel Du'as: the supplications for setting out, the journey and returning, in Arabic, transliteration and meaning",
+  "meta_description": "The sunnah du'as of travel: mounting your transport, setting out, entering a town, bidding farewell, and returning home. Arabic, transliteration, meaning and source, verified.",
+  "keywords": "travel dua, dua for journey, dua when boarding transport, dua entering a town, dua for the traveller, dua returning from journey, dua al-safar, Hisn al-Muslim, Buruja",
+  "lede": [
+    "A journey is a stretch of road you cannot see the end of, in the care of hands that are not your own. The Prophet ﷺ did not set out without acknowledging that. As he took his seat to travel he would glorify the One who tamed the journey for him, recite the verse, 'Glory to Him who subjected this to us, when we could never have brought it under control, and to our Lord we are surely returning,' and ask Allah for ease, company and a safe return.",
+    "These are the words of the road: for mounting your transport, setting out, arriving somewhere new, parting from those you love, and coming home."
+  ],
+  "intro_heading": "How to use these",
+  "intro": [
+    "Say the riding du'a as you settle into your seat, whatever carries you, and the travel du'a as you set out. There are words for entering a town, for the rise and fall of the road, and for the moment you stop to rest. When you part from someone, leave them in Allah's keeping, and say the words of return when you are on your way home.",
+    "You do not need all of them for a short trip. The riding du'a and the prayer for the journey are the heart of it. Recite the Arabic, lean on the transliteration while you learn, and let the meaning travel with you."
+  ],
+  "closing_heading": "Why we say these",
+  "closing": [
+    "Travel strips away the illusion that you are in charge. You do not hold the road, the weather, the engine, or the hour of your return; He does. To set out with these words is to admit it gladly, to hand the journey to the only One who can see its end, and to remember that every road, in the end, is a road back to Him.",
+    "O Allah, be our Companion on the road and the Guardian of those we leave behind. Lighten our journey, fold up its distance, and bring us home in safety and faith."
+  ],
+  "faq": [
+    {
+      "q": "What do you say when you start a journey?",
+      "a": "As you take your seat on whatever carries you, say the riding du'a: Bismillah, then the praise, then the verse 'Glory to Him who subjected this to us...' (Surah az-Zukhruf 43:13-14). The Prophet ﷺ would follow it with the fuller travel du'a, asking Allah for goodness and piety on the journey, for ease, and for protection."
+    },
+    {
+      "q": "Why does the travel du'a quote the Qur'an?",
+      "a": "The riding and travel du'as both recite Surah az-Zukhruf 43:13-14, the verse on Allah subjecting the means of travel to us. It is a reminder, said at the very moment you depend on that transport, that you could never have tamed it yourself, and that the journey ends with returning to your Lord."
+    },
+    {
+      "q": "What do you say when leaving someone or being left behind?",
+      "a": "The one traveling says to those who stay, 'I place you in the trust of Allah, whose trust is never misplaced.' Those staying behind bid the traveller, 'I leave your religion in the care of Allah, as well as your safety, and the last of your deeds,' and ask Allah to give them piety as provision and make goodness easy for them."
+    },
+    {
+      "q": "What do you say when you come back from a journey?",
+      "a": "On returning, the Prophet ﷺ would say Allahu Akbar three times from every elevated point, then declare Allah's oneness and add: 'We return repentant to our Lord, worshipping our Lord, and praising our Lord. He fulfilled His promise, He aided His slave, and He alone defeated the Confederates.'"
+    }
+  ],
+  "email": {
+    "subject": "Words for the road",
+    "alt_subject": "What the Prophet ﷺ said when he set out",
+    "preview": "The du'as of travel: setting out, the journey, parting, and coming home.",
+    "body": "Assalamu alaikum,\n\nA journey is a stretch of road you cannot see the end of, in the care of hands that are not your own. The Prophet ﷺ did not set out without acknowledging that. As he took his seat he would glorify the One who tamed the journey for him, recite 'Glory to Him who subjected this to us, when we could never have brought it under control, and to our Lord we are surely returning,' and ask Allah for ease, company and a safe return.\n\nWe have gathered the du'as of travel, each with Arabic, a transliteration to help you learn it, the meaning and its source: for mounting your transport, setting out, entering a town, parting from those you love, and coming home. You do not need all of them for a short trip; the riding du'a and the prayer for the journey are the heart of it.\n\nTravel strips away the illusion that you are in charge. You do not hold the road, the weather, or the hour of your return; He does. To set out with these words is to hand the journey to the only One who can see its end, and to remember that every road, in the end, is a road back to Him.\n\nThe full set, formatted to read or recite, is here:"
+  },
+  "social": {
+    "hook": "A journey is a road you cannot see the end of, in hands that are not your own.\n\nThe Prophet ﷺ never set out without a word.",
+    "caption": "The du'as of travel.\n\nFor the moment you take your seat, for setting out, for entering a new place, for parting from those you love, and for coming home. The riding du'a recites the verse: 'Glory to Him who subjected this to us, when we could never have brought it under control.'\n\nTravel strips away the illusion that you are in charge. To set out with these words is to hand the journey to the One who can see its end.\n\nSave this, and read the full set with Arabic, transliteration and meaning at buruja.com/adhkar/travel\n\n#TravelDua #DuaForJourney #DuaAlSafar #SunnahOfTheProphet #Dhikr #Dua #IslamicReminders #Buruja #Islam"
+  },
+  "items": {
+    "206": {
+      "title": "The du'a for mounting your transport",
+      "note": "Said as you settle into whatever carries you. It recites the verse of Surah az-Zukhruf, 'Glory to Him who subjected this to us, when we could never have brought it under control,' then praises Allah, declares His greatness, and asks His forgiveness."
+    },
+    "207": {
+      "title": "The full du'a for travel",
+      "note": "The fuller supplication of setting out: after the az-Zukhruf verse, you ask Allah for goodness, piety and pleasing deeds on the journey, for the distance to be made easy, for His company on the road and His care over your family, and for refuge from the journey's hardships. On returning you say it again, adding the words of the homecomer."
+    },
+    "208": {
+      "title": "Entering a town or village"
+    },
+    "210": {
+      "title": "When your transport stumbles",
+      "note": "If your mount, or whatever carries you, stumbles or falters, the word is simply Bismillah, the Name of Allah, rather than cursing the moment."
+    },
+    "211": {
+      "title": "The traveller's du'a for those left behind",
+      "note": "As you depart, you place those who stay in Allah's keeping: His trust, the Prophet ﷺ taught, is never lost or misplaced."
+    },
+    "212": {
+      "title": "Bidding farewell to a traveller",
+      "note": "What those staying behind say to the one setting out, entrusting to Allah's care the three things that matter most: their religion, their safety, and the final deeds of their life."
+    },
+    "213": {
+      "title": "A blessing for the one departing"
+    },
+    "214": {
+      "title": "Going up and coming down",
+      "note": "Jabir reported that as they climbed they would say Allahu Akbar, and as they descended they would say Subhanallah, marking the rise and fall of the road with remembrance."
+    },
+    "215": {
+      "title": "A du'a on the journey at dawn"
+    },
+    "216": {
+      "title": "When you stop to rest",
+      "note": "On alighting at any place along the way, seek refuge in the Perfect Words of Allah from the evil of what He has created. The Prophet ﷺ taught that whoever says it, nothing will harm him until he leaves that stop."
+    },
+    "217": {
+      "title": "Returning home from a journey",
+      "note": "The homecoming du'a: Allahu Akbar three times from every high point, then declaring Allah's oneness and adding the words of the returning believer, repentant, worshipping and praising, affirming that Allah kept His promise and aided His servant."
+    }
+  }
+}

@@ -1,0 +1,242 @@
+{
+  "slug": "quranic-duas",
+  "name": "Qur'anic Du'as",
+  "arabic_name": "أدعية قرآنية",
+  "epithet": "The supplications Allah taught in His Book",
+  "title": "Qur'anic Du'as: the Rabbana supplications of the Qur'an, in Arabic, transliteration and meaning",
+  "meta_description": "The du'as of the Qur'an (the Rabbana supplications): for good in both worlds, steadfast prayer, a righteous family, forgiveness and more. Arabic and Saheeh International, verified via quran.ai.",
+  "keywords": "quranic duas, rabbana dua, rabbana atina, dua of yunus, dua of musa, dua of adam, supplications in the quran, rabbana hab lana, Buruja",
+  "lede": [
+    "When Allah wanted to teach us how to ask, He put the words in His own Book. The Qur'an is full of du'as: the cry of Adam after he slipped, of Yunus from inside the whale, of Ibrahim for his children, of ordinary believers asking for good in both worlds.",
+    "To make these du'as is to ask Allah in the very words He chose. There is no safer way to speak to Him than with the speech He revealed."
+  ],
+  "intro_heading": "How to use these",
+  "intro": [
+    "These are not tied to a time. Reach for them in sujood, after prayer, in the last third of the night, or whenever your heart needs words. Many begin with 'Rabbana' (Our Lord) or 'Rabbi' (My Lord), the gentle, intimate way the Qur'an teaches us to open.",
+    "Each card shows the supplication from its verse, with the meaning and the reference. The recitation plays the full ayah. Learn a few by heart; they will come to you exactly when you need them."
+  ],
+  "closing_heading": "Why we ask in His words",
+  "closing": [
+    "Every one of these du'as was answered. Adam was forgiven, Yunus was lifted from the dark, Musa was given work and a home and a family within days of his prayer. When you borrow their words, you join a line of the answered stretching back to the first human being.",
+    "Our Lord, give us good in this world and good in the next, and protect us from the Fire. Our Lord, accept it from us; indeed You are the Hearing, the Knowing."
+  ],
+  "faq": [
+    {
+      "q": "What are the Qur'anic du'as?",
+      "a": "They are the supplications that appear in the Qur'an itself, many beginning with 'Rabbana' (Our Lord). They include the du'a of Adam, of Yunus in the whale, of Ibrahim, of Musa, and the prayers of the believers for good in both worlds, for steadfastness, for a righteous family and for forgiveness."
+    },
+    {
+      "q": "Why make du'a in the words of the Qur'an?",
+      "a": "Because they are the words Allah Himself chose and praised. Asking with them is asking in speech that is guaranteed to be pure, complete and beloved to Him. They are also easy to memorise and stay with you for life."
+    },
+    {
+      "q": "What is the most comprehensive du'a in the Qur'an?",
+      "a": "Many scholars point to 'Rabbana atina fid-dunya hasanah wa fil-akhirati hasanah wa qina adhab an-nar' (2:201), 'Our Lord, give us good in this world and good in the Hereafter and protect us from the Fire.' The Prophet ﷺ made this du'a more than any other."
+    }
+  ],
+  "email": {
+    "subject": "Ask Allah in His own words",
+    "alt_subject": "The du'as of the Qur'an",
+    "preview": "The Rabbana supplications: Adam, Yunus, Ibrahim, Musa, and the believers.",
+    "body": "Assalamu alaikum,\n\nWhen Allah wanted to teach us how to ask, He put the words in His own Book. The Qur'an is full of du'as: the cry of Adam after he slipped, of Yunus from inside the whale, of Ibrahim for his children, of ordinary believers asking for good in both worlds.\n\nEvery one of them was answered. Adam was forgiven. Yunus was lifted from the dark. Musa, who prayed alone and broke with nothing, had work and a home and a wife within days. To borrow their words is to join a line of the answered stretching back to the first human being.\n\nWe have gathered the Rabbana supplications here, each with Arabic, meaning, reference and recitation. Learn a few; they will come to you exactly when you need them:"
+  },
+  "social": {
+    "hook": "When Allah wanted to teach us how to ask...\n\nHe put the words in His own Book.",
+    "caption": "The du'as of the Qur'an.\n\nThe cry of Adam after he slipped. Of Yunus from inside the whale. Of Ibrahim for his children. Of Musa, who prayed alone and broke, and had a home within days.\n\nEvery one was answered. To ask Allah in His own words is the safest way there is to speak to Him.\n\nFull set with Arabic, meaning and recitation at buruja.com/adhkar/quranic-duas\n\n#QuranicDuas #Rabbana #Dua #Quran #IslamicReminders #Buruja #Islam"
+  },
+  "source_note": "Every supplication is grounded via quran.ai: Arabic in Uthmani script (ar-uthmani-minimal) and the Saheeh International translation. The recitable supplication shown on each card is selected from its verse (the supplication clause to the end of the ayah); this is a verified substring of the fetched ayah, never a rewrite, and the recitation audio (Mishary Rashid Alafasy, everyayah.com) plays the full ayah. With thanks to lifewithallah.com; framing is Buruja's own. FOR SCHOLAR REVIEW: confirm each verse selection before publication.",
+  "kind": "collection",
+  "group": "core",
+  "order": 9,
+  "items": [
+    {
+      "source": "quran",
+      "title": "Good in this world and the next",
+      "arabic": "رَبَّنَآ ءَاتِنَا فِى ٱلدُّنْيَا حَسَنَةً وَفِى ٱلْءَاخِرَةِ حَسَنَةً وَقِنَا عَذَابَ ٱلنَّارِ",
+      "translit": "",
+      "en": "Our Lord, give us in this world [that which is] good and in the Hereafter [that which is] good and protect us from the punishment of the Fire.",
+      "repeat": "",
+      "ref": "Al-Baqarah 2:201",
+      "grade": "Qur'an",
+      "audio": [
+        "https://everyayah.com/data/Alafasy_128kbps/002201.mp3"
+      ],
+      "note": "The du'a the Prophet ﷺ made more than any other.",
+      "n": 1
+    },
+    {
+      "source": "quran",
+      "title": "Patience and steadfastness",
+      "arabic": "رَبَّنَآ أَفْرِغْ عَلَيْنَا صَبْرًا وَثَبِّتْ أَقْدَامَنَا وَٱنصُرْنَا عَلَى ٱلْقَوْمِ ٱلْكَٰفِرِينَ",
+      "translit": "",
+      "en": "Our Lord, pour upon us patience and plant firmly our feet and give us victory over the disbelieving people.",
+      "repeat": "",
+      "ref": "Al-Baqarah 2:250",
+      "grade": "Qur'an",
+      "audio": [
+        "https://everyayah.com/data/Alafasy_128kbps/002250.mp3"
+      ],
+      "n": 2
+    },
+    {
+      "source": "quran",
+      "title": "Keep my heart from going astray",
+      "arabic": "رَبَّنَا لَا تُزِغْ قُلُوبَنَا بَعْدَ إِذْ هَدَيْتَنَا وَهَبْ لَنَا مِن لَّدُنكَ رَحْمَةً ۚ إِنَّكَ أَنتَ ٱلْوَهَّابُ",
+      "translit": "",
+      "en": "Our Lord, let not our hearts deviate after You have guided us and grant us from Yourself mercy. Indeed, You are the Bestower.",
+      "repeat": "",
+      "ref": "Aal-Imran 3:8",
+      "grade": "Qur'an",
+      "audio": [
+        "https://everyayah.com/data/Alafasy_128kbps/003008.mp3"
+      ],
+      "note": "A du'a for the gift you can lose: guidance itself.",
+      "n": 3
+    },
+    {
+      "source": "quran",
+      "title": "We have believed, so forgive us",
+      "arabic": "رَبَّنَآ إِنَّنَآ ءَامَنَّا فَٱغْفِرْ لَنَا ذُنُوبَنَا وَقِنَا عَذَابَ ٱلنَّارِ",
+      "translit": "",
+      "en": "Those who say, 'Our Lord, indeed we have believed, so forgive us our sins and protect us from the punishment of the Fire,'",
+      "repeat": "",
+      "ref": "Aal-Imran 3:16",
+      "grade": "Qur'an",
+      "audio": [
+        "https://everyayah.com/data/Alafasy_128kbps/003016.mp3"
+      ],
+      "n": 4
+    },
+    {
+      "source": "quran",
+      "title": "The du'a of Adam, turning back after sin",
+      "arabic": "رَبَّنَا ظَلَمْنَآ أَنفُسَنَا وَإِن لَّمْ تَغْفِرْ لَنَا وَتَرْحَمْنَا لَنَكُونَنَّ مِنَ ٱلْخَٰسِرِينَ",
+      "translit": "",
+      "en": "Our Lord, we have wronged ourselves, and if You do not forgive us and have mercy upon us, we will surely be among the losers.",
+      "repeat": "",
+      "ref": "Al-A'raf 7:23",
+      "grade": "Qur'an",
+      "audio": [
+        "https://everyayah.com/data/Alafasy_128kbps/007023.mp3"
+      ],
+      "note": "The words Adam said after he slipped. Carry them when you fall.",
+      "n": 5
+    },
+    {
+      "source": "quran",
+      "title": "Make me steadfast in prayer, the du'a of Ibrahim",
+      "arabic": "رَبِّ ٱجْعَلْنِى مُقِيمَ ٱلصَّلَوٰةِ وَمِن ذُرِّيَّتِى ۚ رَبَّنَا وَتَقَبَّلْ دُعَآءِ رَبَّنَا ٱغْفِرْ لِى وَلِوَٰلِدَىَّ وَلِلْمُؤْمِنِينَ يَوْمَ يَقُومُ ٱلْحِسَابُ",
+      "translit": "",
+      "en": "My Lord, make me an establisher of prayer, and [many] from my descendants. Our Lord, and accept my supplication. Our Lord, forgive me and my parents and the believers the Day the account is established.",
+      "repeat": "",
+      "ref": "Ibrahim 14:40-41",
+      "grade": "Qur'an",
+      "audio": [
+        "https://everyayah.com/data/Alafasy_128kbps/014040.mp3",
+        "https://everyayah.com/data/Alafasy_128kbps/014041.mp3"
+      ],
+      "n": 6
+    },
+    {
+      "source": "quran",
+      "title": "Increase me in knowledge",
+      "arabic": "رَّبِّ زِدْنِى عِلْمًا",
+      "translit": "",
+      "en": "My Lord, increase me in knowledge.",
+      "repeat": "",
+      "ref": "Ta-Ha 20:114",
+      "grade": "Qur'an",
+      "audio": [
+        "https://everyayah.com/data/Alafasy_128kbps/020114.mp3"
+      ],
+      "note": "The only thing Allah told His Prophet ﷺ to ask for more of.",
+      "n": 7
+    },
+    {
+      "source": "quran",
+      "title": "The du'a of Yunus, from the depths",
+      "arabic": "لَّآ إِلَٰهَ إِلَّآ أَنتَ سُبْحَٰنَكَ إِنِّى كُنتُ مِنَ ٱلظَّٰلِمِينَ",
+      "translit": "",
+      "en": "There is no deity except You; exalted are You. Indeed, I have been of the wrongdoers.",
+      "repeat": "",
+      "ref": "Al-Anbiya 21:87",
+      "grade": "Qur'an",
+      "audio": [
+        "https://everyayah.com/data/Alafasy_128kbps/021087.mp3"
+      ],
+      "note": "The Prophet ﷺ said no Muslim ever supplicates with it for anything but that Allah answers him.",
+      "n": 8
+    },
+    {
+      "source": "quran",
+      "title": "Forgive us and have mercy",
+      "arabic": "رَبَّنَآ ءَامَنَّا فَٱغْفِرْ لَنَا وَٱرْحَمْنَا وَأَنتَ خَيْرُ ٱلرَّٰحِمِينَ",
+      "translit": "",
+      "en": "Indeed, there was a party of My servants who said, 'Our Lord, we have believed, so forgive us and have mercy upon us, and You are the best of the merciful.'",
+      "repeat": "",
+      "ref": "Al-Mu'minun 23:109",
+      "grade": "Qur'an",
+      "audio": [
+        "https://everyayah.com/data/Alafasy_128kbps/023109.mp3"
+      ],
+      "n": 9
+    },
+    {
+      "source": "quran",
+      "title": "Coolness of the eyes, for spouse and children",
+      "arabic": "رَبَّنَا هَبْ لَنَا مِنْ أَزْوَٰجِنَا وَذُرِّيَّٰتِنَا قُرَّةَ أَعْيُنٍ وَٱجْعَلْنَا لِلْمُتَّقِينَ إِمَامًا",
+      "translit": "",
+      "en": "Our Lord, grant us from among our wives and offspring comfort to our eyes and make us a leader for the righteous.",
+      "repeat": "",
+      "ref": "Al-Furqan 25:74",
+      "grade": "Qur'an",
+      "audio": [
+        "https://everyayah.com/data/Alafasy_128kbps/025074.mp3"
+      ],
+      "n": 10
+    },
+    {
+      "source": "quran",
+      "title": "In need of whatever good You send, the du'a of Musa",
+      "arabic": "رَبِّ إِنِّى لِمَآ أَنزَلْتَ إِلَىَّ مِنْ خَيْرٍ فَقِيرٌ",
+      "translit": "",
+      "en": "My Lord, indeed I am, for whatever good You would send down to me, in need.",
+      "repeat": "",
+      "ref": "Al-Qasas 28:24",
+      "grade": "Qur'an",
+      "audio": [
+        "https://everyayah.com/data/Alafasy_128kbps/028024.mp3"
+      ],
+      "note": "Musa said it alone, broke, and a stranger with nothing. Days later he had work, a home and a wife.",
+      "n": 11
+    },
+    {
+      "source": "quran",
+      "title": "For those who came before us in faith",
+      "arabic": "رَبَّنَا ٱغْفِرْ لَنَا وَلِإِخْوَٰنِنَا ٱلَّذِينَ سَبَقُونَا بِٱلْإِيمَٰنِ وَلَا تَجْعَلْ فِى قُلُوبِنَا غِلًّا لِّلَّذِينَ ءَامَنُوا۟ رَبَّنَآ إِنَّكَ رَءُوفٌ رَّحِيمٌ",
+      "translit": "",
+      "en": "Our Lord, forgive us and our brothers who preceded us in faith and put not in our hearts [any] resentment toward those who have believed. Our Lord, indeed You are Kind and Merciful.",
+      "repeat": "",
+      "ref": "Al-Hashr 59:10",
+      "grade": "Qur'an",
+      "audio": [
+        "https://everyayah.com/data/Alafasy_128kbps/059010.mp3"
+      ],
+      "n": 12
+    },
+    {
+      "source": "quran",
+      "title": "Complete our light",
+      "arabic": "رَبَّنَآ أَتْمِمْ لَنَا نُورَنَا وَٱغْفِرْ لَنَآ ۖ إِنَّكَ عَلَىٰ كُلِّ شَىْءٍ قَدِيرٌ",
+      "translit": "",
+      "en": "Our Lord, perfect for us our light and forgive us. Indeed, You are over all things competent.",
+      "repeat": "",
+      "ref": "At-Tahrim 66:8",
+      "grade": "Qur'an",
+      "audio": [
+        "https://everyayah.com/data/Alafasy_128kbps/066008.mp3"
+      ],
+      "n": 13
+    }
+  ]
+}

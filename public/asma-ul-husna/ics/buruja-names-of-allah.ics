@@ -1,0 +1,415 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Buruja//Names of Allah//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Buruja · The Names of Allah
+X-WR-CALDESC:A name of Allah each day, with Ustadh Hisham Abu Yusuf's lesso
+ n. Buruja.
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:names-allah@buruja.com
+DTSTAMP:20260611T000000Z
+DTSTART;VALUE=DATE:20260615
+DTEND;VALUE=DATE:20260616
+SUMMARY:Allah
+DESCRIPTION:The proper Name of God\; the One most intensely loved.\n\nWatch
+  the lesson with Ustadh Hisham Abu Yusuf: https://www.youtube.com/watch?v=
+ 7LyoBs9SCYc\n\nRead: https://buruja.com/names/allah
+URL:https://buruja.com/names/allah
+TRANSP:TRANSPARENT
+CATEGORIES:Buruja,Names of Allah
+END:VEVENT
+BEGIN:VEVENT
+UID:names-ar-rabb@buruja.com
+DTSTAMP:20260611T000000Z
+DTSTART;VALUE=DATE:20260616
+DTEND;VALUE=DATE:20260617
+SUMMARY:Ar-Rabb
+DESCRIPTION:The Lord: Master\, Nurturer and Sustainer.\n\nWatch the lesson 
+ with Ustadh Hisham Abu Yusuf: https://www.youtube.com/watch?v=ppmkzGH3aNY\
+ n\nRead: https://buruja.com/names/ar-rabb
+URL:https://buruja.com/names/ar-rabb
+TRANSP:TRANSPARENT
+CATEGORIES:Buruja,Names of Allah
+END:VEVENT
+BEGIN:VEVENT
+UID:names-al-hayy-al-qayyum@buruja.com
+DTSTAMP:20260611T000000Z
+DTSTART;VALUE=DATE:20260617
+DTEND;VALUE=DATE:20260618
+SUMMARY:Al-Hayy & Al-Qayyum
+DESCRIPTION:The Ever-Living\; The Self-Subsisting\, Sustainer of all.\n\nWa
+ tch the lesson with Ustadh Hisham Abu Yusuf: https://www.youtube.com/watch
+ ?v=4L17YYmufCA\n\nRead: https://buruja.com/names/al-hayy-al-qayyum
+URL:https://buruja.com/names/al-hayy-al-qayyum
+TRANSP:TRANSPARENT
+CATEGORIES:Buruja,Names of Allah
+END:VEVENT
+BEGIN:VEVENT
+UID:names-ar-rahman-ar-rahim@buruja.com
+DTSTAMP:20260611T000000Z
+DTSTART;VALUE=DATE:20260618
+DTEND;VALUE=DATE:20260619
+SUMMARY:Ar-Rahman & Ar-Raheem
+DESCRIPTION:The Most Compassionate\; The Most Merciful.\n\nWatch the lesson
+  with Ustadh Hisham Abu Yusuf: https://www.youtube.com/watch?v=Q0JxpvhMPas
+ \n\nRead: https://buruja.com/names/ar-rahman-ar-rahim
+URL:https://buruja.com/names/ar-rahman-ar-rahim
+TRANSP:TRANSPARENT
+CATEGORIES:Buruja,Names of Allah
+END:VEVENT
+BEGIN:VEVENT
+UID:names-al-ghaffar@buruja.com
+DTSTAMP:20260611T000000Z
+DTSTART;VALUE=DATE:20260619
+DTEND;VALUE=DATE:20260620
+SUMMARY:Al-Ghaffar & Al-Ghafur
+DESCRIPTION:The Ever-Forgiving\; The Most Forgiving.\n\nWatch the lesson wi
+ th Ustadh Hisham Abu Yusuf: https://www.youtube.com/watch?v=k3pHcxYqQpA\n\
+ nRead: https://buruja.com/names/al-ghaffar
+URL:https://buruja.com/names/al-ghaffar
+TRANSP:TRANSPARENT
+CATEGORIES:Buruja,Names of Allah
+END:VEVENT
+BEGIN:VEVENT
+UID:names-al-malik@buruja.com
+DTSTAMP:20260611T000000Z
+DTSTART;VALUE=DATE:20260620
+DTEND;VALUE=DATE:20260621
+SUMMARY:Al-Malik & Malik al-Mulk
+DESCRIPTION:The King\, The Sovereign\; Master of all dominion.\n\nWatch the
+  lesson with Ustadh Hisham Abu Yusuf: https://www.youtube.com/watch?v=sVxq
+ 43U9n1g\n\nRead: https://buruja.com/names/al-malik
+URL:https://buruja.com/names/al-malik
+TRANSP:TRANSPARENT
+CATEGORIES:Buruja,Names of Allah
+END:VEVENT
+BEGIN:VEVENT
+UID:names-al-alim@buruja.com
+DTSTAMP:20260611T000000Z
+DTSTART;VALUE=DATE:20260621
+DTEND;VALUE=DATE:20260622
+SUMMARY:Al-Aleem
+DESCRIPTION:The All-Knowing.\n\nWatch the lesson with Ustadh Hisham Abu Yus
+ uf: https://www.youtube.com/watch?v=2ZQT8HGEPu0\n\nRead: https://buruja.co
+ m/names/al-alim
+URL:https://buruja.com/names/al-alim
+TRANSP:TRANSPARENT
+CATEGORIES:Buruja,Names of Allah
+END:VEVENT
+BEGIN:VEVENT
+UID:names-ar-raqib@buruja.com
+DTSTAMP:20260611T000000Z
+DTSTART;VALUE=DATE:20260622
+DTEND;VALUE=DATE:20260623
+SUMMARY:Ar-Raqib
+DESCRIPTION:The Ever-Watchful.\n\nWatch the lesson with Ustadh Hisham Abu Y
+ usuf: https://www.youtube.com/watch?v=GqcyMdMM71E\n\nRead: https://buruja.
+ com/names/ar-raqib
+URL:https://buruja.com/names/ar-raqib
+TRANSP:TRANSPARENT
+CATEGORIES:Buruja,Names of Allah
+END:VEVENT
+BEGIN:VEVENT
+UID:names-al-qadir@buruja.com
+DTSTAMP:20260611T000000Z
+DTSTART;VALUE=DATE:20260623
+DTEND;VALUE=DATE:20260624
+SUMMARY:Al-Qadeer
+DESCRIPTION:The All-Powerful\, The Able.\n\nWatch the lesson with Ustadh Hi
+ sham Abu Yusuf: https://www.youtube.com/watch?v=178ucuKIAnw\n\nRead: https
+ ://buruja.com/names/al-qadir
+URL:https://buruja.com/names/al-qadir
+TRANSP:TRANSPARENT
+CATEGORIES:Buruja,Names of Allah
+END:VEVENT
+BEGIN:VEVENT
+UID:names-al-wali-an-nasir@buruja.com
+DTSTAMP:20260611T000000Z
+DTSTART;VALUE=DATE:20260624
+DTEND;VALUE=DATE:20260625
+SUMMARY:Al-Wali & An-Naseer
+DESCRIPTION:The Protecting Guardian\, the close Ally\; The Helper.\n\nWatch
+  the lesson with Ustadh Hisham Abu Yusuf: https://www.youtube.com/watch?v=
+ Xry5B7lWq3Q\n\nRead: https://buruja.com/names/al-wali-an-nasir
+URL:https://buruja.com/names/al-wali-an-nasir
+TRANSP:TRANSPARENT
+CATEGORIES:Buruja,Names of Allah
+END:VEVENT
+BEGIN:VEVENT
+UID:names-al-khaliq-al-bari@buruja.com
+DTSTAMP:20260611T000000Z
+DTSTART;VALUE=DATE:20260625
+DTEND;VALUE=DATE:20260626
+SUMMARY:Al-Khaliq & Al-Bari
+DESCRIPTION:The Creator\; The Originator\, The Maker.\n\nWatch the lesson w
+ ith Ustadh Hisham Abu Yusuf: https://www.youtube.com/watch?v=YKOAqJNKANw\n
+ \nRead: https://buruja.com/names/al-khaliq-al-bari
+URL:https://buruja.com/names/al-khaliq-al-bari
+TRANSP:TRANSPARENT
+CATEGORIES:Buruja,Names of Allah
+END:VEVENT
+BEGIN:VEVENT
+UID:names-al-ghani@buruja.com
+DTSTAMP:20260611T000000Z
+DTSTART;VALUE=DATE:20260626
+DTEND;VALUE=DATE:20260627
+SUMMARY:Al-Ghani & Al-Hamid & As-Samad
+DESCRIPTION:The Self-Sufficient\, free of need\; The Praiseworthy\; The Ete
+ rnal Refuge.\n\nWatch the lesson with Ustadh Hisham Abu Yusuf: https://www
+ .youtube.com/watch?v=z7bubS0x8Zc\n\nRead: https://buruja.com/names/al-ghan
+ i
+URL:https://buruja.com/names/al-ghani
+TRANSP:TRANSPARENT
+CATEGORIES:Buruja,Names of Allah
+END:VEVENT
+BEGIN:VEVENT
+UID:names-al-aziz-al-hakim@buruja.com
+DTSTAMP:20260611T000000Z
+DTSTART;VALUE=DATE:20260627
+DTEND;VALUE=DATE:20260628
+SUMMARY:Al-Azeez & Al-Hakeem
+DESCRIPTION:The Almighty\, The Undefeatable\; The All-Wise.\n\nWatch the le
+ sson with Ustadh Hisham Abu Yusuf: https://www.youtube.com/watch?v=px75SrI
+ 9V04\n\nRead: https://buruja.com/names/al-aziz-al-hakim
+URL:https://buruja.com/names/al-aziz-al-hakim
+TRANSP:TRANSPARENT
+CATEGORIES:Buruja,Names of Allah
+END:VEVENT
+BEGIN:VEVENT
+UID:names-ar-razzaq@buruja.com
+DTSTAMP:20260611T000000Z
+DTSTART;VALUE=DATE:20260628
+DTEND;VALUE=DATE:20260629
+SUMMARY:Ar-Razzaq
+DESCRIPTION:The Ultimate Provider.\n\nWatch the lesson with Ustadh Hisham A
+ bu Yusuf: https://www.youtube.com/watch?v=s4cHfJDjafs\n\nRead: https://bur
+ uja.com/names/ar-razzaq
+URL:https://buruja.com/names/ar-razzaq
+TRANSP:TRANSPARENT
+CATEGORIES:Buruja,Names of Allah
+END:VEVENT
+BEGIN:VEVENT
+UID:names-al-latif-al-khabir@buruja.com
+DTSTAMP:20260611T000000Z
+DTSTART;VALUE=DATE:20260629
+DTEND;VALUE=DATE:20260630
+SUMMARY:Al-Lateef & Al-Khabeer
+DESCRIPTION:The Subtle\, The Most Gentle\; The All-Aware.\n\nWatch the less
+ on with Ustadh Hisham Abu Yusuf: https://www.youtube.com/watch?v=Vk5l1iGT0
+ ik\n\nRead: https://buruja.com/names/al-latif-al-khabir
+URL:https://buruja.com/names/al-latif-al-khabir
+TRANSP:TRANSPARENT
+CATEGORIES:Buruja,Names of Allah
+END:VEVENT
+BEGIN:VEVENT
+UID:names-al-qawiyy-al-matin@buruja.com
+DTSTAMP:20260611T000000Z
+DTSTART;VALUE=DATE:20260630
+DTEND;VALUE=DATE:20260701
+SUMMARY:Al-Qawiyy & Al-Mateen
+DESCRIPTION:The All-Strong\; The Firm\, The Steadfast.\n\nWatch the lesson 
+ with Ustadh Hisham Abu Yusuf: https://www.youtube.com/watch?v=c5KjwJxYx1k\
+ n\nRead: https://buruja.com/names/al-qawiyy-al-matin
+URL:https://buruja.com/names/al-qawiyy-al-matin
+TRANSP:TRANSPARENT
+CATEGORIES:Buruja,Names of Allah
+END:VEVENT
+BEGIN:VEVENT
+UID:names-al-haqq@buruja.com
+DTSTAMP:20260611T000000Z
+DTSTART;VALUE=DATE:20260701
+DTEND;VALUE=DATE:20260702
+SUMMARY:Al-Haqq
+DESCRIPTION:The Truth\, The Real.\n\nWatch the lesson with Ustadh Hisham Ab
+ u Yusuf: https://www.youtube.com/watch?v=WbJdApGJT7k\n\nRead: https://buru
+ ja.com/names/al-haqq
+URL:https://buruja.com/names/al-haqq
+TRANSP:TRANSPARENT
+CATEGORIES:Buruja,Names of Allah
+END:VEVENT
+BEGIN:VEVENT
+UID:names-al-qarib-al-mujib@buruja.com
+DTSTAMP:20260611T000000Z
+DTSTART;VALUE=DATE:20260702
+DTEND;VALUE=DATE:20260703
+SUMMARY:Al-Qareeb & Al-Mujeeb
+DESCRIPTION:The Ever-Near\; The Responsive\, The Answerer.\n\nWatch the les
+ son with Ustadh Hisham Abu Yusuf: https://www.youtube.com/watch?v=MbaVjlVc
+ vzE\n\nRead: https://buruja.com/names/al-qarib-al-mujib
+URL:https://buruja.com/names/al-qarib-al-mujib
+TRANSP:TRANSPARENT
+CATEGORIES:Buruja,Names of Allah
+END:VEVENT
+BEGIN:VEVENT
+UID:names-al-hadi@buruja.com
+DTSTAMP:20260611T000000Z
+DTSTART;VALUE=DATE:20260703
+DTEND;VALUE=DATE:20260704
+SUMMARY:Al-Hadi
+DESCRIPTION:The Guide.\n\nWatch the lesson with Ustadh Hisham Abu Yusuf: ht
+ tps://www.youtube.com/watch?v=jf07u1nXfxw\n\nRead: https://buruja.com/name
+ s/al-hadi
+URL:https://buruja.com/names/al-hadi
+TRANSP:TRANSPARENT
+CATEGORIES:Buruja,Names of Allah
+END:VEVENT
+BEGIN:VEVENT
+UID:names-ash-shakur-al-halim@buruja.com
+DTSTAMP:20260611T000000Z
+DTSTART;VALUE=DATE:20260704
+DTEND;VALUE=DATE:20260705
+SUMMARY:Ash-Shakoor & Al-Haleem
+DESCRIPTION:The Most Appreciative\; The Forbearing\, The Tolerant.\n\nWatch
+  the lesson with Ustadh Hisham Abu Yusuf: https://www.youtube.com/watch?v=
+ RXqyDJ6C5dI\n\nRead: https://buruja.com/names/ash-shakur-al-halim
+URL:https://buruja.com/names/ash-shakur-al-halim
+TRANSP:TRANSPARENT
+CATEGORIES:Buruja,Names of Allah
+END:VEVENT
+BEGIN:VEVENT
+UID:names-al-wahhab-al-fattah@buruja.com
+DTSTAMP:20260611T000000Z
+DTSTART;VALUE=DATE:20260705
+DTEND;VALUE=DATE:20260706
+SUMMARY:Al-Wahhab & Al-Fattah
+DESCRIPTION:The Bestower\, The Gift-Giver\; The Opener\, The Judge.\n\nWatc
+ h the lesson with Ustadh Hisham Abu Yusuf: https://www.youtube.com/watch?v
+ =VLMdZm-X014\n\nRead: https://buruja.com/names/al-wahhab-al-fattah
+URL:https://buruja.com/names/al-wahhab-al-fattah
+TRANSP:TRANSPARENT
+CATEGORIES:Buruja,Names of Allah
+END:VEVENT
+BEGIN:VEVENT
+UID:names-al-wasi@buruja.com
+DTSTAMP:20260611T000000Z
+DTSTART;VALUE=DATE:20260706
+DTEND;VALUE=DATE:20260707
+SUMMARY:Al-Wasi & Dhul-Fadl al-Adheem
+DESCRIPTION:The All-Encompassing\, Limitless in giving\; The Possessor of G
+ reat Bounty.\n\nWatch the lesson with Ustadh Hisham Abu Yusuf: https://www
+ .youtube.com/watch?v=ZWYrPWahPx0\n\nRead: https://buruja.com/names/al-wasi
+URL:https://buruja.com/names/al-wasi
+TRANSP:TRANSPARENT
+CATEGORIES:Buruja,Names of Allah
+END:VEVENT
+BEGIN:VEVENT
+UID:names-al-quddus-as-salam@buruja.com
+DTSTAMP:20260611T000000Z
+DTSTART;VALUE=DATE:20260707
+DTEND;VALUE=DATE:20260708
+SUMMARY:Al-Quddus & As-Salam
+DESCRIPTION:The Most Pure\, The Perfect\; The Source of Peace.\n\nWatch the
+  lesson with Ustadh Hisham Abu Yusuf: https://www.youtube.com/watch?v=w7cN
+ RXMKyC8\n\nRead: https://buruja.com/names/al-quddus-as-salam
+URL:https://buruja.com/names/al-quddus-as-salam
+TRANSP:TRANSPARENT
+CATEGORIES:Buruja,Names of Allah
+END:VEVENT
+BEGIN:VEVENT
+UID:names-al-karim@buruja.com
+DTSTAMP:20260611T000000Z
+DTSTART;VALUE=DATE:20260708
+DTEND;VALUE=DATE:20260709
+SUMMARY:Al-Karim & Dhul-Jalali wal-Ikram
+DESCRIPTION:The Most Generous\; Lord of Majesty and Honour.\n\nWatch the le
+ sson with Ustadh Hisham Abu Yusuf: https://www.youtube.com/watch?v=LVU0FMY
+ OnB4\n\nRead: https://buruja.com/names/al-karim
+URL:https://buruja.com/names/al-karim
+TRANSP:TRANSPARENT
+CATEGORIES:Buruja,Names of Allah
+END:VEVENT
+BEGIN:VEVENT
+UID:names-al-wadud@buruja.com
+DTSTAMP:20260611T000000Z
+DTSTART;VALUE=DATE:20260709
+DTEND;VALUE=DATE:20260710
+SUMMARY:Al-Wadud
+DESCRIPTION:The Most Loving.\n\nWatch the lesson with Ustadh Hisham Abu Yus
+ uf: https://www.youtube.com/watch?v=ECWjt4xwUcY\n\nRead: https://buruja.co
+ m/names/al-wadud
+URL:https://buruja.com/names/al-wadud
+TRANSP:TRANSPARENT
+CATEGORIES:Buruja,Names of Allah
+END:VEVENT
+BEGIN:VEVENT
+UID:names-al-azim@buruja.com
+DTSTAMP:20260611T000000Z
+DTSTART;VALUE=DATE:20260710
+DTEND;VALUE=DATE:20260711
+SUMMARY:Al-Adheem
+DESCRIPTION:The Magnificent\, The Greatest.\n\nWatch the lesson with Ustadh
+  Hisham Abu Yusuf: https://www.youtube.com/watch?v=aOsjzglilS4\n\nRead: ht
+ tps://buruja.com/names/al-azim
+URL:https://buruja.com/names/al-azim
+TRANSP:TRANSPARENT
+CATEGORIES:Buruja,Names of Allah
+END:VEVENT
+BEGIN:VEVENT
+UID:names-al-ali-al-mutaali@buruja.com
+DTSTAMP:20260611T000000Z
+DTSTART;VALUE=DATE:20260711
+DTEND;VALUE=DATE:20260712
+SUMMARY:Al-Aliyy & Al-Mutaali
+DESCRIPTION:The Most High\; The Supremely Exalted.\n\nWatch the lesson with
+  Ustadh Hisham Abu Yusuf: https://www.youtube.com/watch?v=kAanOftzW9s\n\nR
+ ead: https://buruja.com/names/al-ali-al-mutaali
+URL:https://buruja.com/names/al-ali-al-mutaali
+TRANSP:TRANSPARENT
+CATEGORIES:Buruja,Names of Allah
+END:VEVENT
+BEGIN:VEVENT
+UID:names-al-jabbar@buruja.com
+DTSTAMP:20260611T000000Z
+DTSTART;VALUE=DATE:20260712
+DTEND;VALUE=DATE:20260713
+SUMMARY:Al-Jabbar
+DESCRIPTION:The Compeller\, The Restorer.\n\nWatch the lesson with Ustadh H
+ isham Abu Yusuf: https://www.youtube.com/watch?v=ZXFI7VRxYwU\n\nRead: http
+ s://buruja.com/names/al-jabbar
+URL:https://buruja.com/names/al-jabbar
+TRANSP:TRANSPARENT
+CATEGORIES:Buruja,Names of Allah
+END:VEVENT
+BEGIN:VEVENT
+UID:names-al-mumin@buruja.com
+DTSTAMP:20260611T000000Z
+DTSTART;VALUE=DATE:20260713
+DTEND;VALUE=DATE:20260714
+SUMMARY:Al-Mumin
+DESCRIPTION:The Giver of Security and Faith.\n\nWatch the lesson with Ustad
+ h Hisham Abu Yusuf: https://www.youtube.com/watch?v=P6KpYgWAxPc\n\nRead: h
+ ttps://buruja.com/names/al-mumin
+URL:https://buruja.com/names/al-mumin
+TRANSP:TRANSPARENT
+CATEGORIES:Buruja,Names of Allah
+END:VEVENT
+BEGIN:VEVENT
+UID:names-al-awwal-al-akhir@buruja.com
+DTSTAMP:20260611T000000Z
+DTSTART;VALUE=DATE:20260714
+DTEND;VALUE=DATE:20260715
+SUMMARY:Al-Awwal & Al-Akhir & Al-Wahid & Al-Ahad
+DESCRIPTION:The First\; The Last\; The One\; The Only\, The Unique.\n\nWatc
+ h the lesson with Ustadh Hisham Abu Yusuf: https://www.youtube.com/watch?v
+ =73Pp_bHeoVI\n\nRead: https://buruja.com/names/al-awwal-al-akhir
+URL:https://buruja.com/names/al-awwal-al-akhir
+TRANSP:TRANSPARENT
+CATEGORIES:Buruja,Names of Allah
+END:VEVENT
+BEGIN:VEVENT
+UID:names-living-with-allahs-names@buruja.com
+DTSTAMP:20260611T000000Z
+DTSTART;VALUE=DATE:20260715
+DTEND;VALUE=DATE:20260716
+SUMMARY:Finale: Living with Allah's Names
+DESCRIPTION:Finale: Living with Allah's Names.\n\nWatch the lesson with Ust
+ adh Hisham Abu Yusuf: https://www.youtube.com/watch?v=wBFip8eVrBw\n\nRead:
+  https://buruja.com/names/living-with-allahs-names
+URL:https://buruja.com/names/living-with-allahs-names
+TRANSP:TRANSPARENT
+CATEGORIES:Buruja,Names of Allah
+END:VEVENT
+END:VCALENDAR

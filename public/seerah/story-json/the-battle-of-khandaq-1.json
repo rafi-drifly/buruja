@@ -1,0 +1,167 @@
+{
+  "slug": "the-battle-of-khandaq-1",
+  "day": 57,
+  "episode_no": 57,
+  "kind": "episode",
+  "phase": "khandaq",
+  "name": "The Battle of the Trench, part 1",
+  "epithet": "When all of Arabia marched on one city",
+  "era": {
+    "period": "The Battle of the Trench",
+    "place": "Madinah",
+    "anchor": "Shawwal, 5 AH"
+  },
+  "title": "The Battle of the Trench, part 1: the siege begins and a trench is dug",
+  "meta_description": "Day 57 of the seerah: the expelled Banu Nadir gather ten thousand men against Madinah, Salman al-Farisi proposes a trench, and the Prophet ﷺ digs in the dust beside his companions. Retold faithfully from Dr. Yasir Qadhi's seerah series.",
+  "keywords": "seerah, Battle of the Trench, Khandaq, Ahzab, the Confederates, Banu Nadir, Salman al-Farisi, the trench, Hassan ibn Thabit, Safiyyah bint Abdul Muttalib, Yasir Qadhi seerah, life of the Prophet",
+  "video": {
+    "id": "s6CGxZbH4CY",
+    "title": "Seerah of Prophet Muhammad 57 - The Battle of Khandaq/Ahzab - Dr. Yasir Qadhi | 17th April 2013",
+    "url": "https://www.youtube.com/watch?v=s6CGxZbH4CY"
+  },
+  "source_note": "Retold faithfully from Dr. Yasir Qadhi's Seerah of Prophet Muhammad ﷺ, episode 57: the Battle of Khandaq, part 1 (Memphis Islamic Center, 2013). Qur'an: Sahih International, verified via quran.ai. The narration is the Sheikh's, the phrasing is Buruja's.",
+  "lede": [
+    "Khandaq means the trench. Ahzab means the gathered groups, the Confederates, and that one word tells you what is coming. For the first time in the history of Arabia, the tribes stop fighting each other and unite for a single purpose: to wipe Madinah off the map. Almost the whole peninsula gathers under one banner, and a small city of believers gathers under the other.",
+    "This is the showdown the last four years have been building toward. Over the next days we will walk through it with Dr. Yasir Qadhi: how the storm gathered, how a foreign idea saved the city, and how the Prophet ﷺ met an army of ten thousand not with a sword first, but with a shovel."
+  ],
+  "sections": [
+    {
+      "h2": "The expelled come back with an army",
+      "ayah": {
+        "arabic": "أَلَمْ تَرَ إِلَى الَّذِينَ أُوتُوا نَصِيبًا مِّنَ الْكِتَابِ يُؤْمِنُونَ بِالْجِبْتِ وَالطَّاغُوتِ وَيَقُولُونَ لِلَّذِينَ كَفَرُوا هَٰؤُلَاءِ أَهْدَىٰ مِنَ الَّذِينَ آمَنُوا سَبِيلًا",
+        "text": "Have you not seen those who were given a portion of the Scripture, who believe in jibt [superstition] and ṭāghūt [false objects of worship] and say about the disbelievers, \"These are better guided than the believers as to the way\"?",
+        "ref": "Surah an-Nisa 4:51"
+      },
+      "paras": [
+        "It began with a grudge. The tribe of Banu Nadir had been expelled from Madinah after they plotted to murder the Prophet ﷺ, dropping a boulder on him from their fortress wall. They were sent off with their lives and whatever their camels could carry, and they settled in Khaybar, barely two hours up the road. But they had left behind acres of date palms and plains of wealth, and land is worth far more than what fits on a camel. They wanted it back.",
+        "So their noblemen rode to Makkah, a high delegation, and made the Quraysh an offer: join us, attack Muhammad ﷺ together, and we will fund whatever you need. The Quraysh were wary of these people and quietly in awe of them, a tribe with a book and an ancient civilization, but the wound of Badr was still open and the trade route to Syria was destroyed. Then the Quraysh asked the question that exposed everything. Whose religion is closer to yours, they said, ours or his? And the delegation, to win an alliance, told a pagan idol-worshipping people: you are better guided than the believers.",
+        "Dr. Yasir Qadhi points out that Allah quoted that exact betrayal back to them, and we still recite it. They believed in jibt and taghut, superstition and false gods, yet bowed to it to bring down the truth. That is how far a grudge will take a person."
+      ]
+    },
+    {
+      "h2": "Ten thousand under two banners",
+      "ayah": {
+        "arabic": "ضُرِبَتْ عَلَيْهِمُ الذِّلَّةُ أَيْنَ مَا ثُقِفُوا إِلَّا بِحَبْلٍ مِّنَ اللَّهِ وَحَبْلٍ مِّنَ النَّاسِ وَبَاءُوا بِغَضَبٍ مِّنَ اللَّهِ وَضُرِبَتْ عَلَيْهِمُ الْمَسْكَنَةُ ۚ ذَٰلِكَ بِأَنَّهُمْ كَانُوا يَكْفُرُونَ بِآيَاتِ اللَّهِ وَيَقْتُلُونَ الْأَنبِيَاءَ بِغَيْرِ حَقٍّ ۚ ذَٰلِكَ بِمَا عَصَوا وَّكَانُوا يَعْتَدُونَ",
+        "text": "They have been put under humiliation [by Allāh] wherever they are overtaken, except for a rope [i.e., covenant] from Allāh and a rope [i.e., treaty] from the people [i.e., the Muslims]. And they have drawn upon themselves anger from Allāh and have been put under destitution. That is because they disbelieved in [i.e., rejected] the verses of Allāh and killed the prophets without right. That is because they disobeyed and [habitually] transgressed.",
+        "ref": "Surah Aal Imran 3:112"
+      },
+      "paras": [
+        "With the Quraysh on board, the delegation rode north to Ghatafan, the largest and wildest of the desert tribes. Ghatafan had no real stake in this fight, so the Banu Nadir bought them the only way they knew how: half the date harvest of Khaybar for a full year. A fortune, paid to hire mercenaries with no cause but coin. Then the smaller tribes were brought in too, each sending men, weapons, horses, whatever they had, all of them tied to that broken trade route.",
+        "Banu Nadir knew their own weakness. Their entire strength had always been the fortress, a wall to hide behind, and their walls were gone. The Sheikh draws out a pattern the Qur'an names of such people: humiliation follows them wherever they go, and they cannot stand on their own. They survive only by a rope from Allah or a rope from other men, by alliances borrowed and bought. Unable to fight alone, they assembled everyone else to fight for them.",
+        "When the armies converged, the books count around ten thousand. The whole of Madinah could field perhaps three thousand at most. And something was happening that Arabia had never seen: not two tribes against a third, but every tribe gathering under one of two banners, the banner of Islam and the banner of disbelief. In barely a decade, a man who began with a handful of followers had reordered the entire peninsula into a single showdown."
+      ]
+    },
+    {
+      "h2": "A foreign idea that saved the city",
+      "paras": [
+        "You cannot hide ten thousand men. The news reached the Prophet ﷺ, and he did what he always did: he gathered the companions in the masjid, laid the whole situation before them, and asked what they thought should be done. There was not much to say. When an army four times your size is marching on you, your only real question is where to make your stand.",
+        "Then Salman al-Farisi spoke, and this was the first battle he was free to fight in. Salman, who had crossed the world from Persia through monk after monk in search of the final prophet, who had been sold into slavery and bought his way out one date palm at a time, the Prophet ﷺ himself planting every seedling to free him. Salman said: in my homeland, when we feared a stronger enemy, we dug a trench. No Arab army had ever done this. It was a Persian tactic, entirely foreign.",
+        "And the Prophet ﷺ took it. Dr. Yasir Qadhi pauses here on something that runs through the whole tradition: in matters of worship and creed, we take nothing from anyone, we have what Allah gave us. But in the things of this world, in technology, knowledge, what simply works, the believer benefits from every people and does not care where it came from. Wisdom, the saying goes, is the lost property of the believer; he takes it wherever he finds it. The same Prophet ﷺ who sealed his letters in wax because that was how kings of the earth corresponded, now ordered a trench dug across the open face of Madinah, because the open face was the only way an army that size could come."
+      ]
+    },
+    {
+      "h2": "The poet who could not carry a sword",
+      "paras": [
+        "Before the digging, the Prophet ﷺ thought several steps ahead, as he always did. He sent the women and children to al-Fari, the strong fortress of Banu Haritha, because once every man was manning the trench, the city would be hollow, and one tribe still inside it, Banu Qurayzah, had loyalties no one could be sure of. To the fortress went the women, the children, the very old, and one young man: Hassan ibn Thabit.",
+        "Hassan was the poet of the Prophet ﷺ, and the companions tell us plainly, in the harsh word one of them used, that he was not a man of the battlefield; a sword in his hand made him tremble. So he was placed with the families. One night Safiyyah, the aunt of the Prophet ﷺ, heard a man climbing the wall, a scout sent by Banu Qurayzah, who had decided to flip, to test whether the fortress was guarded. She told Hassan to go down and deal with him. He could not. Do not shame me further, he said; this is not my field. So Safiyyah wrapped a man's cloak around herself, took a dagger in her teeth, climbed down into the dark, found the climber, and killed him, throwing his head down to his companion, who fled in terror believing the place was defended.",
+        "Dr. Yasir Qadhi tells this hard story on purpose, and refuses to sand it smooth, because of what comes next. This same Hassan, with this weakness on his record, was the one the Prophet ﷺ stood up and commanded: defend me with your tongue, and Jibril is with you. He had his own pulpit in the masjid for his poetry. When the Quraysh attacked the Prophet ﷺ in verse, the reply that struck them was Hassan's, and no one else's. Abu Bakr could not do it. Umar could not do it. The Sheikh's point lands like a hand on the shoulder: every one of us has a role no one else can fill, and our sins and shortcomings are no excuse to sit out the good we were made for. The believer never forgets his faults, and never lets them stop him from rising when his moment comes."
+      ]
+    },
+    {
+      "h2": "The Prophet ﷺ in the dust",
+      "ayah": {
+        "arabic": "هُوَ الَّذِي أَخْرَجَ الَّذِينَ كَفَرُوا مِنْ أَهْلِ الْكِتَابِ مِن دِيَارِهِمْ لِأَوَّلِ الْحَشْرِ ۚ مَا ظَنَنتُمْ أَن يَخْرُجُوا ۖ وَظَنُّوا أَنَّهُم مَّانِعَتُهُمْ حُصُونُهُم مِّنَ اللَّهِ فَأَتَاهُمُ اللَّهُ مِنْ حَيْثُ لَمْ يَحْتَسِبُوا ۖ وَقَذَفَ فِي قُلُوبِهِمُ الرُّعْبَ ۚ يُخْرِبُونَ بُيُوتَهُم بِأَيْدِيهِمْ وَأَيْدِي الْمُؤْمِنِينَ فَاعْتَبِرُوا يَا أُولِي الْأَبْصَارِ",
+        "text": "It is He who expelled the ones who disbelieved among the People of the Scripture from their homes at the first gathering. You did not think they would leave, and they thought that their fortresses would protect them from Allāh; but [the decree of] Allāh came upon them from where they had not expected, and He cast terror into their hearts [so] they destroyed their houses by their [own] hands and the hands of the believers. So take warning, O people of vision.",
+        "ref": "Surah al-Hashr 59:2"
+      },
+      "paras": [
+        "The trench ran for roughly two kilometers along the one exposed stretch of the city, the rest of Madinah shielded by black volcanic rock and dense date palms an army could not march through. Ten people were assigned to each portion. They had almost no slaves and barely a week, and they dug by hand, day and night, in the freezing cold of winter. And the men remembered, decades later, that the thing which kept them going was the sight of the Prophet ﷺ down in the trench with them.",
+        "He did not stand and supervise. Al-Bara ibn Azib said he saw the Prophet ﷺ carrying dirt until the dust of the trench covered his whole chest. He was hungry as they were hungry, cold as they were cold, and when he saw their exhaustion he made du'a for them: O Allah, there is no good except the good of the next life, so honor the Ansar and the Muhajirun. And they sang it back to him. The believers in those who hid behind walls is exactly the believers the Qur'an had drawn of the expelled: people who trusted their fortresses to save them from Allah, until Allah came at them from where they never expected. Here was the opposite, a Prophet ﷺ with no fortress, sweating in the dirt, and his strength was not in stone but in Allah.",
+        "And as they dug they chanted, all of them lifting the last word together in one voice: by Allah, were it not for You we would not be guided, nor give charity, nor pray, so send tranquility down upon us and make our feet firm if we meet the enemy, for they have transgressed against us, and if they want fitnah, we refuse. Ten thousand were coming. The believers answered with shovels and a song."
+      ]
+    },
+    {
+      "h2": "A wall of trust, and a siege ahead",
+      "paras": [
+        "Understand what the trench really was. It was not a fortress and it was never meant to be a permanent defense. It was a stalling tactic, an act of holy desperation. The city was already short of food before the army even arrived; barley was running out, meat was running out, and now they were sealing themselves in. They could not outlast a siege. All the trench could buy was time, and into that time they poured their trust in Allah, knowing that He does not fail His servants.",
+        "Dr. Yasir Qadhi leaves us here on purpose, with the trench dug and the dust still on the Prophet's ﷺ chest, the women in the fortress, ten thousand massing on the horizon, and one uncertain tribe waiting inside the walls. What happens next, the Sheikh promises, is a string of miracles: the great rock that would not break until the Prophet ﷺ struck it himself, the food that fed an army, the predictions he gave from the bottom of a ditch. And waiting behind it all is the betrayal of Banu Qurayzah, whose scout already lies dead at the foot of a fortress wall."
+      ]
+    }
+  ],
+  "dua": {
+    "translit": "Allahumma la khayra illa khayru al-akhirah, fa-aghfir lil-Ansari wal-Muhajirah",
+    "en": "O Allah, there is no good except the good of the next life, so forgive the Ansar and the Muhajirun."
+  },
+  "lessons_heading": "What this day teaches",
+  "lessons_intro": "The Trench opens with a city outnumbered four to one, and still it hands you a way to stand. These threads run straight out of the Sheikh's telling.",
+  "lessons": [
+    {
+      "bold": "Take wisdom wherever you find it.",
+      "text": "The trench was a foreign idea, and the Prophet ﷺ took it without hesitation. In worship we keep what Allah gave us; in the work of this world, the believer benefits from every people and never asks where a good idea was born."
+    },
+    {
+      "bold": "Your weakness is not your excuse.",
+      "text": "Hassan ibn Thabit could not lift a sword, yet he did what Abu Bakr and Umar could not. Whatever you cannot do, there is something only you can. Do not let a shortcoming, or a sin, keep you from the good you were made for."
+    },
+    {
+      "bold": "Lead from the dust, not the distance.",
+      "text": "The Prophet ﷺ did not point at the trench, he dug in it, dirt to his chest, hungry with the hungry. That sight carried the companions further than any command. The most moving leadership is the kind that gets its hands dirty first."
+    },
+    {
+      "bold": "Walls do not save you, Allah does.",
+      "text": "The expelled trusted their fortresses and Allah came at them from where they never expected. The believers had no fortress at all, only a ditch and their trust. Plan with everything you have, then lean on the only One who decides the outcome."
+    },
+    {
+      "bold": "Do the work, then trust.",
+      "text": "They dug a trench they knew could not hold forever, and poured their trust into the time it bought. Effort and tawakkul are not rivals: you take every means available, and then you hand the result to Allah."
+    }
+  ],
+  "faq": [
+    {
+      "q": "Why is it called the Battle of the Trench, and also the Battle of the Ahzab?",
+      "a": "Khandaq means the trench, after the ditch Salman al-Farisi proposed digging around the exposed side of Madinah. Ahzab means the gathered groups, the Confederates: the many tribes that united into one army for this campaign. Both names describe the same event, one by its defense and one by its attackers."
+    },
+    {
+      "q": "What year did the Battle of the Trench take place?",
+      "a": "Dr. Yasir Qadhi notes a real difference of opinion. An explicit report in Bukhari from Abdullah ibn Umar, who was rejected at Uhud at fourteen and accepted at Khandaq at fifteen, points to the fourth year, and giants like Imam al-Bukhari held this. But the great specialists of seerah, piecing the whole story together, place it in Shawwal of the fifth year of the Hijra, and the Sheikh takes the fifth year as the stronger view."
+    },
+    {
+      "q": "Who proposed digging the trench, and why was that significant?",
+      "a": "Salman al-Farisi, in his first battle as a free man, suggested it from his Persian homeland's tactics. It was an idea entirely foreign to the Arabs. The Prophet ﷺ adopting it shows that Islam welcomes beneficial knowledge and technology from any culture, even as it takes its worship and creed from revelation alone."
+    },
+    {
+      "q": "Why does the Sheikh tell the difficult story of Hassan ibn Thabit?",
+      "a": "Because it shows the humanity of the companions and frees us to relate to them. Hassan was the Prophet's ﷺ poet but could not fight, and the books record it plainly. Dr. Yasir Qadhi tells it not to mock him, which would be a sin, but to teach a lesson: everyone has a unique role, and our weaknesses and even our sins must not stop us from stepping up for the good only we can do."
+    },
+    {
+      "q": "Was the trench meant to win the war?",
+      "a": "No. It was a stalling tactic, not a permanent defense. Madinah was already low on food and could not outlast a long siege. The trench bought time, and the believers filled that time with trust in Allah, who delivered them from where they never expected."
+    }
+  ],
+  "closing_heading": "Why this day stays with you",
+  "closing": [
+    "Day fifty-seven sets the stage for the hardest test Madinah will face. Almost all of Arabia has gathered to end the believers in a single stroke, and the answer to that overwhelming force is a trench dug by hand, a Prophet ﷺ covered in dust, a poet guarding the women because it is the one place he can serve, and a city that has run out of options but not out of trust. The Qur'an will later describe this very moment, when they came upon the believers from above them and from below them, eyes shifting in fear and hearts in the throat. The trench is dug. The siege is about to close.",
+    "So let your du'a be the one they sang from the bottom of the ditch. O Allah, there is no good except the good of the next life, so honor the Ansar and the Muhajirun who dug it; send Your tranquility down upon us when the armies gather and our hearts climb to our throats, make our feet firm, and let us be of those who trust You with the outcome after we have done all we can. And send Your peace upon Your Messenger Muhammad ﷺ, who led us from the dust. Ameen."
+  ],
+  "social": {
+    "slides": [
+      "Day 57 of 104.\n\nFor the first time in history, almost every tribe in Arabia unites for one purpose: to end Madinah.\n\nTen thousand against a city of three.\n\nThe Battle of the Trench begins.",
+      "It started with a grudge.\n\nThe expelled Banu Nadir rode to Makkah and to Ghatafan, buying an army with date harvests and gold.\n\nTo win the pagans over, they told them: idol-worshippers are better guided than the believers.",
+      "Allah quoted their betrayal back to them, and we recite it still.\n\n\"...and say about the disbelievers, these are better guided than the believers as to the way.\"\n\nSurah an-Nisa 4:51",
+      "How do you stop ten thousand men?\n\nSalman al-Farisi, in his first battle as a free man, spoke: in Persia, we dig a trench.\n\nNo Arab army had ever done it. The Prophet ﷺ took the idea at once.\n\nWisdom is the believer's lost property, taken wherever it is found.",
+      "Hassan ibn Thabit, the Prophet's ﷺ poet, could not carry a sword.\n\nSo he was sent to the fortress with the women and children.\n\nThat night, his aunt Safiyyah took a dagger in her teeth and killed the enemy scout herself.",
+      "And yet this same Hassan did what Abu Bakr and Umar could not.\n\nThe Prophet ﷺ: stand and defend me, and Jibril is with you.\n\nEveryone has a role no one else can fill. Your weakness is not your excuse.",
+      "They dug for a week by hand, in the freezing cold.\n\nThe Prophet ﷺ dug with them, dust covering his whole chest, hungry as they were hungry.\n\nThe sight of him in the trench is what kept them going.",
+      "Walls did not save the expelled; Allah came at them from where they never expected.\n\nThe believers had no fortress, only a ditch and their trust.\n\nThe trench is dug. The siege is about to close. To be continued."
+    ],
+    "caption": "Day 57 of 104: the Battle of the Trench begins. Almost all of Arabia unites, ten thousand strong, to wipe out one small city. The answer is a foreign idea, a trench dug by hand, and a Prophet ﷺ covered in dust beside his companions. The opening of a four-part siege. Retold faithfully from Dr. Yasir Qadhi's seerah series (episode embedded on the site), Qur'an verified via quran.ai. A new day of his life ﷺ, every day, at buruja.com. #seerah #ProphetMuhammad #Buruja #YasirQadhi #Khandaq #islam #sunnah",
+    "loading": "Loading day 57"
+  },
+  "email": {
+    "subject": "Ten thousand against one city, and a shovel",
+    "alt_subject": "The Prophet ﷺ met an army with a trench",
+    "preview": "Day 57 of 104: the Battle of the Trench begins, and the answer to an army is a ditch dug by hand.",
+    "body": "Assalamu alaykum,\n\nToday the seerah reaches the hardest test Madinah will ever face: the Battle of the Trench.\n\nFor the first time in the history of Arabia, the tribes stopped fighting each other and united for one purpose. The expelled Banu Nadir, hungry to reclaim the land they lost, rode to Makkah and bought an alliance, then hired the wild tribe of Ghatafan with half the date harvest of Khaybar. To win the pagans over, they told them the idol-worshippers were better guided than the believers, and Allah quoted that betrayal back to them in the Qur'an. Soon ten thousand men were marching on a city that could field perhaps three thousand.\n\nThe Prophet ﷺ gathered the companions and asked what to do. There was little to say against an army four times your size, until Salman al-Farisi spoke: in my homeland, we dig a trench. No Arab had ever done it. It was a foreign Persian tactic, and the Prophet ﷺ took it without hesitation, because in the things of this world the believer benefits from every people and never asks where a good idea was born.\n\nThen they dug, by hand, in the freezing cold, with barely a week and almost no help. And the companions remembered, decades later, that what carried them was the sight of the Prophet ﷺ down in the ditch with them, the dust of the trench covering his whole chest, as hungry and cold as any of them. He did not point at the work. He did it first.\n\nInside today's entry is also the story Dr. Yasir Qadhi tells on purpose and refuses to soften: Hassan ibn Thabit, the Prophet's ﷺ poet, who could not carry a sword and was sent to the fortress with the women, yet who did what Abu Bakr and Umar could not. Everyone has a role no one else can fill, and no weakness, and no past sin, is an excuse to sit out the good you were made for.\n\nThe trench is dug. The siege is about to close, and the miracles are coming. Read day 57, and watch the Sheikh's full episode, at the link below.",
+    "cta": "Read day 57 of the seerah"
+  }
+}

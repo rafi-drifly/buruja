@@ -1,0 +1,622 @@
+{
+  "pillar": "The Names of Allah",
+  "subtitle": "A daily journey through Allah's Names and Attributes",
+  "count": 31,
+  "source": {
+    "teacher": "Ustadh Hisham Abu Yusuf",
+    "centre": "Alfurqan Islamic Centre, Manchester",
+    "series": "Names of Allah and His Attributes",
+    "playlist_id": "PLSFZjjKC3qPYGLinbi1XurRSC3izxodtC",
+    "playlist_url": "https://www.youtube.com/playlist?list=PLSFZjjKC3qPYGLinbi1XurRSC3izxodtC"
+  },
+  "note": "One lesson per day; Ustadh Hisham's video is embedded on every entry. Each lesson is retold faithfully in the brand voice, credited to him, never reproduced verbatim (the same way Juz Amma retells Sheikh Abu Bakr Zoud). The Qur'an is grounded via quran.ai, never from memory. 'names' lists the Name(s) each lesson teaches (transliteration + conventional English); the exact Arabic and the Qur'anic anchor ayah are grounded into each story-json at retell time. Entries flagged confirm_from_transcript have an ambiguous lesson title and must be verified against the lecture before publishing.",
+  "lessons": [
+    {
+      "day": 1,
+      "kind": "intro",
+      "lesson_no": 0,
+      "slug": "allah",
+      "playlist_index": 1,
+      "video_id": "7LyoBs9SCYc",
+      "video_title": "Names Of Allah And His Attributes | Introduction | Allah | Ustadh Hisham Abu Yusuf",
+      "theme_en": "Introduction: Allah",
+      "names": [
+        {
+          "translit": "Allah",
+          "en": "The proper Name of God; the One most intensely loved"
+        }
+      ],
+      "status": "done"
+    },
+    {
+      "day": 2,
+      "kind": "lesson",
+      "lesson_no": 1,
+      "slug": "ar-rabb",
+      "playlist_index": 2,
+      "video_id": "ppmkzGH3aNY",
+      "video_title": "Names Of Allah And His Attributes | Lesson 1 | The Master & Nurturer | Ustadh Hisham Abu Yusuf",
+      "theme_en": "The Master & Nurturer",
+      "names": [
+        {
+          "translit": "Ar-Rabb",
+          "en": "The Lord: Master, Nurturer and Sustainer"
+        }
+      ],
+      "status": "done"
+    },
+    {
+      "day": 3,
+      "kind": "lesson",
+      "lesson_no": 2,
+      "slug": "al-hayy-al-qayyum",
+      "playlist_index": 3,
+      "video_id": "4L17YYmufCA",
+      "video_title": "Names Of Allah And His Attributes | Lesson 2 | The Living, The Maintainer | Ustadh Hisham Abu Yusuf",
+      "theme_en": "The Living, The Maintainer",
+      "names": [
+        {
+          "translit": "Al-Hayy",
+          "en": "The Ever-Living"
+        },
+        {
+          "translit": "Al-Qayyum",
+          "en": "The Self-Subsisting, Sustainer of all"
+        }
+      ],
+      "status": "done"
+    },
+    {
+      "day": 4,
+      "kind": "lesson",
+      "lesson_no": 3,
+      "slug": "ar-rahman-ar-rahim",
+      "playlist_index": 4,
+      "video_id": "Q0JxpvhMPas",
+      "video_title": "Names Of Allah And His Attributes | Lesson 3 | The Most Merciful | Ustadh Hisham Abu Yusuf",
+      "theme_en": "The Most Merciful",
+      "names": [
+        {
+          "translit": "Ar-Rahman",
+          "en": "The Most Compassionate"
+        },
+        {
+          "translit": "Ar-Raheem",
+          "en": "The Most Merciful"
+        }
+      ],
+      "status": "done"
+    },
+    {
+      "day": 5,
+      "kind": "lesson",
+      "lesson_no": 4,
+      "slug": "al-ghaffar",
+      "playlist_index": 5,
+      "video_id": "k3pHcxYqQpA",
+      "video_title": "Names Of Allah And His Attributes | Lesson 4 | The Forgiving | Ustadh Hisham Abu Yusuf",
+      "theme_en": "The Forgiving",
+      "names": [
+        {
+          "translit": "Al-Ghaffar",
+          "en": "The Ever-Forgiving"
+        },
+        {
+          "translit": "Al-Ghafur",
+          "en": "The Most Forgiving"
+        }
+      ],
+      "status": "done"
+    },
+    {
+      "day": 6,
+      "kind": "lesson",
+      "lesson_no": 5,
+      "slug": "al-malik",
+      "playlist_index": 6,
+      "video_id": "sVxq43U9n1g",
+      "video_title": "Names Of Allah And His Attributes | Lesson 5 | The King & The Owner | Ustadh Hisham Abu Yusuf",
+      "theme_en": "The King & The Owner",
+      "names": [
+        {
+          "translit": "Al-Malik",
+          "en": "The King, The Sovereign"
+        },
+        {
+          "translit": "Malik al-Mulk",
+          "en": "Master of all dominion"
+        }
+      ],
+      "status": "done"
+    },
+    {
+      "day": 7,
+      "kind": "lesson",
+      "lesson_no": 6,
+      "slug": "al-alim",
+      "playlist_index": 7,
+      "video_id": "2ZQT8HGEPu0",
+      "video_title": "Names Of Allah And His Attributes | Lesson 6 | The Most Knowledgeable | Ustadh Hisham Abu Yusuf",
+      "theme_en": "The Most Knowledgeable",
+      "names": [
+        {
+          "translit": "Al-Aleem",
+          "en": "The All-Knowing"
+        }
+      ],
+      "status": "done"
+    },
+    {
+      "day": 8,
+      "kind": "lesson",
+      "lesson_no": 7,
+      "slug": "ar-raqib",
+      "playlist_index": 8,
+      "video_id": "GqcyMdMM71E",
+      "video_title": "Names Of Allah And His Attributes | Lesson 7 | The Watchful Protector | Ustadh Hisham Abu Yusuf",
+      "theme_en": "The Watchful Protector",
+      "names": [
+        {
+          "translit": "Ar-Raqib",
+          "en": "The Ever-Watchful"
+        }
+      ],
+      "status": "done"
+    },
+    {
+      "day": 9,
+      "kind": "lesson",
+      "lesson_no": 8,
+      "slug": "al-qadir",
+      "playlist_index": 9,
+      "video_id": "178ucuKIAnw",
+      "video_title": "Names Of Allah And His Attributes | Lesson 8 | All Powerful | Ustadh Hisham Abu Yusuf",
+      "theme_en": "All Powerful",
+      "names": [
+        {
+          "translit": "Al-Qadeer",
+          "en": "The All-Powerful, The Able"
+        }
+      ],
+      "status": "done"
+    },
+    {
+      "day": 10,
+      "kind": "lesson",
+      "lesson_no": 9,
+      "slug": "al-wali-an-nasir",
+      "playlist_index": 10,
+      "video_id": "Xry5B7lWq3Q",
+      "video_title": "Names Of Allah And His Attributes | Lesson 9 | The Protective Guardian | Ustadh Hisham Abu Yusuf",
+      "theme_en": "The Protective Guardian and Helper",
+      "names": [
+        {
+          "translit": "Al-Wali",
+          "en": "The Protecting Guardian, the close Ally"
+        },
+        {
+          "translit": "An-Naseer",
+          "en": "The Helper"
+        }
+      ],
+      "status": "done"
+    },
+    {
+      "day": 11,
+      "kind": "lesson",
+      "lesson_no": 10,
+      "slug": "al-khaliq-al-bari",
+      "playlist_index": 11,
+      "video_id": "YKOAqJNKANw",
+      "video_title": "Names Of Allah And His Attributes | Lesson 10 | The Creator & Originator | Ustadh Hisham Abu Yusuf",
+      "theme_en": "The Creator & Originator",
+      "names": [
+        {
+          "translit": "Al-Khaliq",
+          "en": "The Creator"
+        },
+        {
+          "translit": "Al-Bari",
+          "en": "The Originator, The Maker"
+        }
+      ],
+      "status": "done"
+    },
+    {
+      "day": 12,
+      "kind": "lesson",
+      "lesson_no": 11,
+      "slug": "al-ghani",
+      "playlist_index": 12,
+      "video_id": "z7bubS0x8Zc",
+      "video_title": "Names Of Allah And His Attributes | Lesson 11 | The Independent | Ustadh Hisham Abu Yusuf",
+      "theme_en": "The Independent",
+      "names": [
+        {
+          "translit": "Al-Ghani",
+          "en": "The Self-Sufficient, free of need"
+        },
+        {
+          "translit": "Al-Hamid",
+          "en": "The Praiseworthy"
+        },
+        {
+          "translit": "As-Samad",
+          "en": "The Eternal Refuge"
+        }
+      ],
+      "status": "done"
+    },
+    {
+      "day": 13,
+      "kind": "lesson",
+      "lesson_no": 12,
+      "slug": "al-aziz-al-hakim",
+      "playlist_index": 13,
+      "video_id": "px75SrI9V04",
+      "video_title": "Names Of Allah And His Attributes | Lesson 12 | The Undefeatable & All-Wise | Us. Hisham Abu Yusuf",
+      "theme_en": "The Undefeatable & All-Wise",
+      "names": [
+        {
+          "translit": "Al-Azeez",
+          "en": "The Almighty, The Undefeatable"
+        },
+        {
+          "translit": "Al-Hakeem",
+          "en": "The All-Wise"
+        }
+      ],
+      "status": "done"
+    },
+    {
+      "day": 14,
+      "kind": "lesson",
+      "lesson_no": 13,
+      "slug": "ar-razzaq",
+      "playlist_index": 14,
+      "video_id": "s4cHfJDjafs",
+      "video_title": "Names Of Allah And His Attributes | Lesson 13 | The Ultimate Provider | Ustadh Hisham Abu Yusuf",
+      "theme_en": "The Ultimate Provider",
+      "names": [
+        {
+          "translit": "Ar-Razzaq",
+          "en": "The Ultimate Provider"
+        }
+      ],
+      "status": "done"
+    },
+    {
+      "day": 15,
+      "kind": "lesson",
+      "lesson_no": 14,
+      "slug": "al-latif-al-khabir",
+      "playlist_index": 15,
+      "video_id": "Vk5l1iGT0ik",
+      "video_title": "Names Of Allah And His Attributes | Lesson 14 | The Subtle & All-Aware | Ustadh Hisham Abu Yusuf",
+      "theme_en": "The Subtle & All-Aware",
+      "names": [
+        {
+          "translit": "Al-Lateef",
+          "en": "The Subtle, The Most Gentle"
+        },
+        {
+          "translit": "Al-Khabeer",
+          "en": "The All-Aware"
+        }
+      ],
+      "status": "done"
+    },
+    {
+      "day": 16,
+      "kind": "lesson",
+      "lesson_no": 15,
+      "slug": "al-qawiyy-al-matin",
+      "playlist_index": 16,
+      "video_id": "c5KjwJxYx1k",
+      "video_title": "Names Of Allah And His Attributes | Lesson 15 | The Powerful & Firm | Ustadh Hisham Abu Yusuf",
+      "theme_en": "The Powerful & Firm",
+      "names": [
+        {
+          "translit": "Al-Qawiyy",
+          "en": "The All-Strong"
+        },
+        {
+          "translit": "Al-Mateen",
+          "en": "The Firm, The Steadfast"
+        }
+      ],
+      "status": "done"
+    },
+    {
+      "day": 17,
+      "kind": "lesson",
+      "lesson_no": 16,
+      "slug": "al-haqq",
+      "playlist_index": 17,
+      "video_id": "WbJdApGJT7k",
+      "video_title": "Names Of Allah And His Attributes | Lesson 16 | The Real (Al-Haqq) | Ustadh Hisham Abu Yusuf",
+      "theme_en": "The Real",
+      "names": [
+        {
+          "translit": "Al-Haqq",
+          "en": "The Truth, The Real"
+        }
+      ],
+      "status": "done"
+    },
+    {
+      "day": 18,
+      "kind": "lesson",
+      "lesson_no": 17,
+      "slug": "al-qarib-al-mujib",
+      "playlist_index": 18,
+      "video_id": "MbaVjlVcvzE",
+      "video_title": "Names Of Allah And His Attributes | Lesson 17 |  The Near & Responsive | Ustadh Hisham Abu Yusuf",
+      "theme_en": "The Near & Responsive",
+      "names": [
+        {
+          "translit": "Al-Qareeb",
+          "en": "The Ever-Near"
+        },
+        {
+          "translit": "Al-Mujeeb",
+          "en": "The Responsive, The Answerer"
+        }
+      ],
+      "status": "done"
+    },
+    {
+      "day": 19,
+      "kind": "lesson",
+      "lesson_no": 18,
+      "slug": "al-hadi",
+      "playlist_index": 19,
+      "video_id": "jf07u1nXfxw",
+      "video_title": "Names Of Allah And His Attributes | Lesson 18 | The Guide | Ustadh Hisham Abu Yusuf",
+      "theme_en": "The Guide",
+      "names": [
+        {
+          "translit": "Al-Hadi",
+          "en": "The Guide"
+        }
+      ],
+      "status": "done"
+    },
+    {
+      "day": 20,
+      "kind": "lesson",
+      "lesson_no": 19,
+      "slug": "ash-shakur-al-halim",
+      "playlist_index": 20,
+      "video_id": "RXqyDJ6C5dI",
+      "video_title": "Names Of Allah And His Attributes | Lesson 19 | The Appreciative & Tolerant | Ust Hisham Abu Yusuf",
+      "theme_en": "The Appreciative & Tolerant",
+      "names": [
+        {
+          "translit": "Ash-Shakoor",
+          "en": "The Most Appreciative"
+        },
+        {
+          "translit": "Al-Haleem",
+          "en": "The Forbearing, The Tolerant"
+        }
+      ],
+      "status": "done"
+    },
+    {
+      "day": 21,
+      "kind": "lesson",
+      "lesson_no": 20,
+      "slug": "al-wahhab-al-fattah",
+      "playlist_index": 21,
+      "video_id": "VLMdZm-X014",
+      "video_title": "Names Of Allah And His Attributes | Lesson 20 | The Gift-Giver & Opener | Ust Hisham Abu Yusuf",
+      "theme_en": "The Gift-Giver & Opener",
+      "names": [
+        {
+          "translit": "Al-Wahhab",
+          "en": "The Bestower, The Gift-Giver"
+        },
+        {
+          "translit": "Al-Fattah",
+          "en": "The Opener, The Judge"
+        }
+      ],
+      "status": "done"
+    },
+    {
+      "day": 22,
+      "kind": "lesson",
+      "lesson_no": 21,
+      "slug": "al-wasi",
+      "playlist_index": 22,
+      "video_id": "ZWYrPWahPx0",
+      "video_title": "Names Of Allah And His Attributes | Lesson 21 | The Limitless in Favour | Ust Hisham Abu Yusuf",
+      "theme_en": "The Limitless in Favour",
+      "names": [
+        {
+          "translit": "Al-Wasi",
+          "en": "The All-Encompassing, Limitless in giving"
+        },
+        {
+          "translit": "Dhul-Fadl al-Adheem",
+          "en": "The Possessor of Great Bounty"
+        }
+      ],
+      "status": "done"
+    },
+    {
+      "day": 23,
+      "kind": "lesson",
+      "lesson_no": 22,
+      "slug": "al-quddus-as-salam",
+      "playlist_index": 23,
+      "video_id": "w7cNRXMKyC8",
+      "video_title": "Names Of Allah And His Attributes | Lesson 22 | The Perfect & Source of Peace | Ust Hisham Abu Yusuf",
+      "theme_en": "The Perfect & Source of Peace",
+      "names": [
+        {
+          "translit": "Al-Quddus",
+          "en": "The Most Pure, The Perfect"
+        },
+        {
+          "translit": "As-Salam",
+          "en": "The Source of Peace"
+        }
+      ],
+      "status": "done"
+    },
+    {
+      "day": 24,
+      "kind": "lesson",
+      "lesson_no": 23,
+      "slug": "al-karim",
+      "playlist_index": 24,
+      "video_id": "LVU0FMYOnB4",
+      "video_title": "Names Of Allah And His Attributes | Lesson 23 | The Generous, Honourable and Majestic | Ust Hisham",
+      "theme_en": "The Generous, Honourable and Majestic",
+      "names": [
+        {
+          "translit": "Al-Karim",
+          "en": "The Most Generous"
+        },
+        {
+          "translit": "Dhul-Jalali wal-Ikram",
+          "en": "Lord of Majesty and Honour"
+        }
+      ],
+      "status": "done"
+    },
+    {
+      "day": 25,
+      "kind": "lesson",
+      "lesson_no": 24,
+      "slug": "al-wadud",
+      "playlist_index": 25,
+      "video_id": "ECWjt4xwUcY",
+      "video_title": "Names Of Allah And His Attributes | Lesson 24 | The Loving | Ust Hisham Abu Yusuf",
+      "theme_en": "The Loving",
+      "names": [
+        {
+          "translit": "Al-Wadud",
+          "en": "The Most Loving"
+        }
+      ],
+      "status": "done"
+    },
+    {
+      "day": 26,
+      "kind": "lesson",
+      "lesson_no": 25,
+      "slug": "al-azim",
+      "playlist_index": 26,
+      "video_id": "aOsjzglilS4",
+      "video_title": "Names Of Allah And His Attributes | Lesson 25 | The Greatest | Ust Hisham Abu Yusuf",
+      "theme_en": "The Greatest",
+      "names": [
+        {
+          "translit": "Al-Adheem",
+          "en": "The Magnificent, The Greatest"
+        }
+      ],
+      "status": "done"
+    },
+    {
+      "day": 27,
+      "kind": "lesson",
+      "lesson_no": 26,
+      "slug": "al-ali-al-mutaali",
+      "playlist_index": 27,
+      "video_id": "kAanOftzW9s",
+      "video_title": "Names Of Allah And His Attributes | Lesson 26 | The Majestic & Most High | Ust Hisham Abu Yusuf",
+      "theme_en": "The Majestic & Most High",
+      "names": [
+        {
+          "translit": "Al-Aliyy",
+          "en": "The Most High"
+        },
+        {
+          "translit": "Al-Mutaali",
+          "en": "The Supremely Exalted"
+        }
+      ],
+      "status": "done"
+    },
+    {
+      "day": 28,
+      "kind": "lesson",
+      "lesson_no": 27,
+      "slug": "al-jabbar",
+      "playlist_index": 28,
+      "video_id": "ZXFI7VRxYwU",
+      "video_title": "Names Of Allah And His Attributes | Lesson 27 | The Compeller | Ustadh Hisham Abu Yusuf",
+      "theme_en": "The Compeller",
+      "names": [
+        {
+          "translit": "Al-Jabbar",
+          "en": "The Compeller, The Restorer"
+        }
+      ],
+      "status": "done"
+    },
+    {
+      "day": 29,
+      "kind": "lesson",
+      "lesson_no": 28,
+      "slug": "al-mumin",
+      "playlist_index": 29,
+      "video_id": "P6KpYgWAxPc",
+      "video_title": "Names Of Allah And His Attributes | Lesson 28 | The Giver of Safety | Ustadh Hisham Abu Yusuf",
+      "theme_en": "The Giver of Safety",
+      "names": [
+        {
+          "translit": "Al-Mumin",
+          "en": "The Giver of Security and Faith"
+        }
+      ],
+      "status": "done"
+    },
+    {
+      "day": 30,
+      "kind": "lesson",
+      "lesson_no": 29,
+      "slug": "al-awwal-al-akhir",
+      "playlist_index": 30,
+      "video_id": "73Pp_bHeoVI",
+      "video_title": "Names Of Allah And His Attributes | Lesson 29 | The First, Last, One & Only |Ustadh Hisham Abu Yusuf",
+      "theme_en": "The First, Last, One & Only",
+      "names": [
+        {
+          "translit": "Al-Awwal",
+          "en": "The First"
+        },
+        {
+          "translit": "Al-Akhir",
+          "en": "The Last"
+        },
+        {
+          "translit": "Al-Wahid",
+          "en": "The One"
+        },
+        {
+          "translit": "Al-Ahad",
+          "en": "The Only, The Unique"
+        }
+      ],
+      "status": "done"
+    },
+    {
+      "day": 31,
+      "kind": "finale",
+      "lesson_no": 30,
+      "slug": "living-with-allahs-names",
+      "playlist_index": 31,
+      "video_id": "wBFip8eVrBw",
+      "video_title": "Names Of Allah And His Attributes | Lesson 30 | Finale - Living with Allah's Names | Ustadh Hisham",
+      "theme_en": "Finale: Living with Allah's Names",
+      "names": [],
+      "note": "Closing lesson, not a single Name: how to live with Allah's Names day to day. Render as an epilogue.",
+      "status": "done"
+    }
+  ]
+}

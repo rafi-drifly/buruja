@@ -1,0 +1,236 @@
+[
+  {
+    "slug": "waking-up",
+    "name": "Waking Up",
+    "arabic_name": "أذكار الاستيقاظ",
+    "epithet": "The first words of the day",
+    "group": "main",
+    "count": 4,
+    "meta": "What to say when you wake up (adhkar al-istiyqadh): the praise, the dhikr of the night, and the verses the Prophet ﷺ recited on waking. Arabic, transliteration, meaning, source."
+  },
+  {
+    "slug": "morning-adhkar",
+    "name": "Morning Adhkar",
+    "arabic_name": "أذكار الصباح",
+    "epithet": "The remembrances that open your day",
+    "group": "main",
+    "count": 24,
+    "meta": "The complete morning adhkar (adhkar as-sabah) in Arabic, transliteration and English, each with its source and how many times to recite. Qur'an verified via quran.ai, hadith from Hisn al-Muslim."
+  },
+  {
+    "slug": "after-salah",
+    "name": "After Salah",
+    "arabic_name": "أذكار بعد الصلاة",
+    "epithet": "The dhikr that follows every prayer",
+    "group": "main",
+    "count": 8,
+    "meta": "The adhkar after salah (adhkar ba'd as-salah): istighfar, the tasbih of 33, Ayat al-Kursi and more, each with Arabic, transliteration, meaning, source and count. Qur'an verified via quran.ai."
+  },
+  {
+    "slug": "evening-adhkar",
+    "name": "Evening Adhkar",
+    "arabic_name": "أذكار المساء",
+    "epithet": "The remembrances to close your day",
+    "group": "main",
+    "count": 24,
+    "meta": "The evening adhkar (adhkar al-masa): the same protective remembrances as the morning, recited from after Asr until sunset. Arabic, transliteration, meaning, source and count. Qur'an via quran.ai."
+  },
+  {
+    "slug": "before-sleep",
+    "name": "Before Sleep",
+    "arabic_name": "أذكار النوم",
+    "epithet": "The night's protection",
+    "group": "main",
+    "count": 13,
+    "meta": "The adhkar before sleep (adhkar an-nawm): the three Quls, Ayat al-Kursi, the last verses of al-Baqarah, the tasbih of Fatimah and the last words of the night. Arabic, transliteration, meaning, source."
+  },
+  {
+    "slug": "salawat",
+    "name": "Salawat",
+    "arabic_name": "الصلاة على النبي",
+    "epithet": "Blessings upon the Prophet ﷺ",
+    "group": "main",
+    "count": 2,
+    "meta": "The salawat (durood) the Prophet ﷺ taught: the full Ibrahimi blessing recited in every prayer, in Arabic, transliteration and meaning, with its source. Verified from Hisn al-Muslim."
+  },
+  {
+    "slug": "praises-of-allah",
+    "name": "Praises of Allah",
+    "arabic_name": "التسبيح والتحميد",
+    "epithet": "The words light on the tongue, heavy on the scale",
+    "group": "core",
+    "count": 12,
+    "meta": "The praises of Allah (tasbih, tahmid, tahlil, takbir): SubhanAllah wa bihamdihi, La ilaha illallah, the four most beloved words and al-baqiyat as-salihat, with Arabic, meaning, virtue and source."
+  },
+  {
+    "slug": "istighfar",
+    "name": "Istighfar",
+    "arabic_name": "الاستغفار",
+    "epithet": "Turning back to Allah",
+    "group": "core",
+    "count": 3,
+    "meta": "Istighfar (seeking forgiveness): Sayyid al-Istighfar (the chief of seeking forgiveness), Astaghfirullah wa atubu ilayh, and more, with Arabic, transliteration, meaning and source. From Hisn al-Muslim."
+  },
+  {
+    "slug": "quranic-duas",
+    "name": "Qur'anic Du'as",
+    "arabic_name": "أدعية قرآنية",
+    "epithet": "The supplications Allah taught in His Book",
+    "group": "core",
+    "count": 13,
+    "meta": "The du'as of the Qur'an (the Rabbana supplications): for good in both worlds, steadfast prayer, a righteous family, forgiveness and more. Arabic and Saheeh International, verified via quran.ai."
+  },
+  {
+    "slug": "ruqyah-illness",
+    "name": "Ruqyah & Illness",
+    "arabic_name": "أذكار المرض والرقية",
+    "epithet": "Healing words for the sick, for your own pain, and against the evil eye",
+    "group": "core",
+    "count": 7,
+    "meta": "The ruqyah for illness: al-Fatihah, Ayat al-Kursi and the three Quls, with the prophetic du'as for the sick, for your own pain, and against the evil eye. Arabic, transliteration and meaning."
+  },
+  {
+    "slug": "sunnah-duas",
+    "name": "Sunnah Du'as",
+    "arabic_name": "أدعية من السنة",
+    "epithet": "The du'as the Prophet ﷺ carried",
+    "group": "core",
+    "count": 7,
+    "meta": "The heart-supplications the Prophet ﷺ carried: for anxiety and grief, after sinning, at wonder and joy, in Arabic, transliteration and English with sources."
+  },
+  {
+    "slug": "wudu-bathroom",
+    "name": "Wudu & Bathroom",
+    "arabic_name": "أذكار الوضوء والخلاء",
+    "epithet": "Remembrance at the edge of purity",
+    "group": "through-day",
+    "count": 6,
+    "meta": "Short du'as for entering and leaving the bathroom, and the words to say before and after wudu, in Arabic, transliteration and English, each with its source."
+  },
+  {
+    "slug": "home",
+    "name": "Leaving & Entering the Home",
+    "arabic_name": "أذكار الخروج من المنزل ودخوله",
+    "epithet": "Words for the doorway",
+    "group": "through-day",
+    "count": 3,
+    "meta": "The du'as for leaving and entering your home, in Arabic, transliteration and English, each with its source. Step out in Allah's protection and return in His Name."
+  },
+  {
+    "slug": "masjid-adhan",
+    "name": "The Masjid & the Adhan",
+    "arabic_name": "أذكار المسجد والأذان",
+    "epithet": "Answering the call to the house of Allah",
+    "group": "through-day",
+    "count": 8,
+    "meta": "The du'as for walking to the masjid, entering and leaving it, and what to say with the adhan, in Arabic, transliteration and English, each with its source."
+  },
+  {
+    "slug": "food-drink",
+    "name": "Food & Drink",
+    "arabic_name": "أذكار الطعام والشراب",
+    "epithet": "The remembrances of the table",
+    "group": "through-day",
+    "count": 10,
+    "meta": "The sunnah du'as of food and drink: Bismillah before eating, alhamdulillah after, the du'a for your host, and the words for breaking a fast. Arabic, transliteration, meaning and source."
+  },
+  {
+    "slug": "travel",
+    "name": "Travel",
+    "arabic_name": "أذكار السفر",
+    "epithet": "The remembrances of the road",
+    "group": "through-day",
+    "count": 11,
+    "meta": "The sunnah du'as of travel: mounting your transport, setting out, entering a town, bidding farewell, and returning home. Arabic, transliteration, meaning and source, verified."
+  },
+  {
+    "slug": "istikharah",
+    "name": "The Prayer of Istikharah",
+    "arabic_name": "دعاء الاستخارة",
+    "epithet": "Asking Allah to choose for you when you cannot see which way is best",
+    "group": "through-day",
+    "count": 1,
+    "meta": "How to pray istikharah, the prayer for seeking Allah's guidance in a decision: the two rak'ahs and the full du'a in Arabic, transliteration and English. Via Buruja."
+  },
+  {
+    "slug": "gatherings",
+    "name": "Gatherings",
+    "arabic_name": "أذكار المجلس",
+    "epithet": "What to say while you sit, and the words that seal it",
+    "group": "through-day",
+    "count": 2,
+    "meta": "Authentic du'as for any gathering: the seeking of forgiveness the Prophet ﷺ repeated as he sat, and kaffarat al-majlis, the expiation said before you rise."
+  },
+  {
+    "slug": "distress",
+    "name": "Difficulty & Distress",
+    "arabic_name": "أدعية الكرب والهم",
+    "epithet": "The words the Prophet ﷺ turned to when the weight came down",
+    "group": "through-day",
+    "count": 13,
+    "meta": "Authentic du'as for anxiety, grief, severe distress and hard times, in Arabic, transliteration and English, each with its source. From the sunnah, via Buruja."
+  },
+  {
+    "slug": "nature-weather",
+    "name": "Nature & Weather",
+    "arabic_name": "أذكار المطر والرياح",
+    "epithet": "The remembrances for wind, rain, and the turning sky",
+    "group": "through-day",
+    "count": 10,
+    "meta": "Authentic du'as for wind, thunder, seeking rain, when it rains, after rain, and the new moon, in Arabic, transliteration and English, each with its source."
+  },
+  {
+    "slug": "social",
+    "name": "For Other People",
+    "arabic_name": "أذكار العشرة والصحبة",
+    "epithet": "The words of good companionship",
+    "group": "through-day",
+    "count": 8,
+    "meta": "Authentic du'as to say to and for other people: thanking with jazak Allahu khayran, blessing a host, loving for Allah's sake, and what to say when praised."
+  },
+  {
+    "slug": "protection-iman",
+    "name": "Protecting Your Faith",
+    "arabic_name": "دفع الوسوسة والشيطان",
+    "epithet": "What to do when doubt whispers, and how to drive Shaytan away",
+    "group": "through-day",
+    "count": 9,
+    "meta": "What the Prophet ﷺ taught for whispers of doubt about faith and for repelling Shaytan, in Arabic, transliteration and English. From the sunnah, via Buruja."
+  },
+  {
+    "slug": "hajj-umrah",
+    "name": "Hajj & Umrah",
+    "arabic_name": "أذكار الحج والعمرة",
+    "epithet": "The adhkar of the pilgrim through the rites",
+    "group": "through-day",
+    "count": 7,
+    "meta": "The pilgrim's adhkar through the rites of Hajj and Umrah: talbiyah, tawaf, sa'i, Arafah, Muzdalifah and the jamarat, in Arabic, transliteration and English with sources."
+  },
+  {
+    "slug": "money-shopping",
+    "name": "Money & Shopping",
+    "arabic_name": "أدعية المال والسوق",
+    "epithet": "Keeping Allah in mind where the world is loudest",
+    "group": "through-day",
+    "count": 3,
+    "meta": "Du'as for entering the market, seeking sufficiency through the lawful, and relief from debt, in Arabic, transliteration and English, each with its source and grading."
+  },
+  {
+    "slug": "marriage-children",
+    "name": "Marriage & Children",
+    "arabic_name": "أدعية الزواج والأولاد",
+    "epithet": "The du'as for the home you are building",
+    "group": "through-day",
+    "count": 5,
+    "meta": "Du'as for the newly married, before intimacy, congratulating a newborn, and seeking Allah's protection for your children, in Arabic, transliteration and English with sources."
+  },
+  {
+    "slug": "death-grief",
+    "name": "Death & Grief",
+    "arabic_name": "أذكار الموت والعزاء",
+    "epithet": "What to say when someone is dying, when they pass, and after",
+    "group": "through-day",
+    "count": 16,
+    "meta": "Du'as for death and grief: comforting the dying, what to say when someone passes, the funeral prayer, condolence and visiting graves. Arabic, transliteration and meaning."
+  }
+]

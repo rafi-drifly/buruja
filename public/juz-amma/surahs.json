@@ -1,0 +1,1003 @@
+{
+  "juz": 30,
+  "surahs": [
+    {
+      "surah": 78,
+      "name": "An-Naba",
+      "slug": "an-naba",
+      "ayat": 40,
+      "place": "makkah",
+      "parts": [
+        {
+          "part": 1,
+          "playlist_index": 1,
+          "video_id": "eZlja0Alfbg",
+          "title": "001 Tafseer Surat An-naba Part 1- Abu Bakr Zoud",
+          "shared": false
+        },
+        {
+          "part": 2,
+          "playlist_index": 2,
+          "video_id": "rP2sMnNuK60",
+          "title": "002 An-naba Part 2 - Abu Bakr Zoud",
+          "shared": false
+        },
+        {
+          "part": 3,
+          "playlist_index": 3,
+          "video_id": "USf3dWDWm4I",
+          "title": "003 an naba Final part 3",
+          "shared": false
+        }
+      ]
+    },
+    {
+      "surah": 79,
+      "name": "An-Nazi'at",
+      "slug": "an-naziat",
+      "ayat": 46,
+      "place": "makkah",
+      "parts": [
+        {
+          "part": 1,
+          "playlist_index": 4,
+          "video_id": "yq9-Lku2ugg",
+          "title": "004 an naaziaat part 1",
+          "shared": false
+        },
+        {
+          "part": 2,
+          "playlist_index": 5,
+          "video_id": "JM9i3YQjCRw",
+          "title": "005 an naaziaat part 2",
+          "shared": false
+        },
+        {
+          "part": 3,
+          "playlist_index": 6,
+          "video_id": "ByBQyt-YUrs",
+          "title": "006 an naaziaat part 3",
+          "shared": false
+        }
+      ]
+    },
+    {
+      "surah": 80,
+      "name": "Abasa",
+      "slug": "abasa",
+      "ayat": 42,
+      "place": "makkah",
+      "parts": [
+        {
+          "part": 1,
+          "playlist_index": 7,
+          "video_id": "ixge0rg1f7I",
+          "title": "007 abasa Part 1 - Abu Bakr Zoud",
+          "shared": false
+        },
+        {
+          "part": 2,
+          "playlist_index": 8,
+          "video_id": "kZeb0Vhn4jE",
+          "title": "008 abasa Part 2  Abu Bakr Zoud",
+          "shared": false
+        },
+        {
+          "part": 3,
+          "playlist_index": 9,
+          "video_id": "VpqHVf3PoUo",
+          "title": "009 abasa Part 3 - Abu Bakr Zoud",
+          "shared": false
+        }
+      ]
+    },
+    {
+      "surah": 81,
+      "name": "At-Takwir",
+      "slug": "at-takwir",
+      "ayat": 29,
+      "place": "makkah",
+      "parts": [
+        {
+          "part": 1,
+          "playlist_index": 10,
+          "video_id": "HzP_vfmzKUo",
+          "title": "010 at takweer Part 1  Abu Bakr Zoud",
+          "shared": false
+        },
+        {
+          "part": 2,
+          "playlist_index": 11,
+          "video_id": "GGPLrdPNdvk",
+          "title": "011 at takweer Part 2  Abu Bakr Zoud",
+          "shared": false
+        },
+        {
+          "part": 3,
+          "playlist_index": 12,
+          "video_id": "fRVSpXDMFMU",
+          "title": "012 at takweer Part 3   Abu Bakr Zoud",
+          "shared": false
+        },
+        {
+          "part": 4,
+          "playlist_index": 13,
+          "video_id": "2Z4-TPh40kg",
+          "title": "013 At Takweer Part 4 & Al Infitar Part 1  Abu Bakr Zoud",
+          "shared": true
+        }
+      ]
+    },
+    {
+      "surah": 82,
+      "name": "Al-Infitar",
+      "slug": "al-infitar",
+      "ayat": 19,
+      "place": "makkah",
+      "parts": [
+        {
+          "part": 1,
+          "playlist_index": 13,
+          "video_id": "2Z4-TPh40kg",
+          "title": "013 At Takweer Part 4 & Al Infitar Part 1  Abu Bakr Zoud",
+          "shared": true
+        },
+        {
+          "part": 2,
+          "playlist_index": 14,
+          "video_id": "7WgIqYsb33k",
+          "title": "014 Al Infitaar Part 2 - Abu Bakr Zoud",
+          "shared": false
+        },
+        {
+          "part": 3,
+          "playlist_index": 15,
+          "video_id": "yQNMFVMtUwY",
+          "title": "015 Al Infitaar P3 & Al Mutafifeen P1",
+          "shared": true
+        }
+      ]
+    },
+    {
+      "surah": 83,
+      "name": "Al-Mutaffifin",
+      "slug": "al-mutaffifin",
+      "ayat": 36,
+      "place": "makkah",
+      "parts": [
+        {
+          "part": 1,
+          "playlist_index": 15,
+          "video_id": "yQNMFVMtUwY",
+          "title": "015 Al Infitaar P3 & Al Mutafifeen P1",
+          "shared": true
+        },
+        {
+          "part": 2,
+          "playlist_index": 16,
+          "video_id": "h-F7AVK-0Yk",
+          "title": "016 Al Mutafifeen P2",
+          "shared": false
+        },
+        {
+          "part": 3,
+          "playlist_index": 17,
+          "video_id": "KNf7C2fO5Co",
+          "title": "017 Al Mutafifeen P3",
+          "shared": false
+        },
+        {
+          "part": 4,
+          "playlist_index": 18,
+          "video_id": "yHnYj-RSOZE",
+          "title": "018 AlMutafifeen P4   Abu Bakr Zoud",
+          "shared": false
+        }
+      ]
+    },
+    {
+      "surah": 84,
+      "name": "Al-Inshiqaq",
+      "slug": "al-inshiqaq",
+      "ayat": 25,
+      "place": "makkah",
+      "parts": [
+        {
+          "part": 1,
+          "playlist_index": 19,
+          "video_id": "SwR439pwzOU",
+          "title": "019 Al Inshiqaq P1  Abu Bakr Zoud",
+          "shared": false
+        },
+        {
+          "part": 2,
+          "playlist_index": 20,
+          "video_id": "-MT54aV4pkg",
+          "title": "020 Al Inshiqaq P2   Abu Bakr Zoud",
+          "shared": false
+        },
+        {
+          "part": 3,
+          "playlist_index": 21,
+          "video_id": "WtLlr-Q5WF0",
+          "title": "021 Al Inshiqaq P3   Abu Bakr Zoud",
+          "shared": false
+        }
+      ]
+    },
+    {
+      "surah": 85,
+      "name": "Al-Buruj",
+      "slug": "al-buruj",
+      "ayat": 22,
+      "place": "makkah",
+      "parts": [
+        {
+          "part": 1,
+          "playlist_index": 22,
+          "video_id": "xENQ8nvwGY0",
+          "title": "022   Surat Al Brooj Part 1   Abu bakr Zoud",
+          "shared": false
+        },
+        {
+          "part": 2,
+          "playlist_index": 23,
+          "video_id": "pzWeagAwi4w",
+          "title": "023 Surat Al Brooj Part 2 (THE STORY OF ASHAB AL-OKDOOD) أصحاب الأخدود Abu bakr Zoud",
+          "shared": false
+        },
+        {
+          "part": 3,
+          "playlist_index": 24,
+          "video_id": "PG4TvcgPDmU",
+          "title": "024 Surat Al Brooj Part 3   Abu bakr Zoud",
+          "shared": false
+        },
+        {
+          "part": 4,
+          "playlist_index": 25,
+          "video_id": "vEzImffqDwY",
+          "title": "025 Surat Al Brooj Part 4   Abu bakr Zoud",
+          "shared": false
+        }
+      ]
+    },
+    {
+      "surah": 86,
+      "name": "At-Tariq",
+      "slug": "at-tariq",
+      "ayat": 17,
+      "place": "makkah",
+      "parts": [
+        {
+          "part": 1,
+          "playlist_index": 26,
+          "video_id": "NqDAhVRtAyE",
+          "title": "026 Surat At Tariq Part 1   Abu Bakr Zoud",
+          "shared": false
+        },
+        {
+          "part": 2,
+          "playlist_index": 27,
+          "video_id": "H-1MH4RCkoc",
+          "title": "027 Surat At Tariq Part 2   Abu Bakr Zoud",
+          "shared": false
+        },
+        {
+          "part": 3,
+          "playlist_index": 28,
+          "video_id": "ev0NZiPIfM0",
+          "title": "028 Surat At Tariq Part 3   Abu Bakr Zoud",
+          "shared": false
+        }
+      ]
+    },
+    {
+      "surah": 87,
+      "name": "Al-A'la",
+      "slug": "al-ala",
+      "ayat": 19,
+      "place": "makkah",
+      "parts": [
+        {
+          "part": 1,
+          "playlist_index": 29,
+          "video_id": "BOGOmcFoRNA",
+          "title": "029 Surat Al Aala Part 1   Abu Bakr Zoud",
+          "shared": false
+        },
+        {
+          "part": 2,
+          "playlist_index": 30,
+          "video_id": "QdS55eIOHFs",
+          "title": "030 Surat Al Aala Part 2   Abu Bakr Zoud",
+          "shared": false
+        },
+        {
+          "part": 3,
+          "playlist_index": 31,
+          "video_id": "gHkNQPkZqoA",
+          "title": "031 Surat Al Alaa Part 3   Abu Bakr Zoud",
+          "shared": false
+        },
+        {
+          "part": 4,
+          "playlist_index": 32,
+          "video_id": "MnSm_Q-5G_c",
+          "title": "032 Surat Al Alaa Part 4   Abu Bakr Zoud",
+          "shared": false
+        }
+      ]
+    },
+    {
+      "surah": 88,
+      "name": "Al-Ghashiyah",
+      "slug": "al-ghashiyah",
+      "ayat": 26,
+      "place": "makkah",
+      "parts": [
+        {
+          "part": 1,
+          "playlist_index": 33,
+          "video_id": "sMHIbKnjb28",
+          "title": "033 Surat Al Ghashiyah Part 1   Abu Bakr Zoud",
+          "shared": false
+        },
+        {
+          "part": 2,
+          "playlist_index": 34,
+          "video_id": "EWYEC5zgflg",
+          "title": "034 Surat Al Ghashiyah Part 2   Abu Bakr Zoud",
+          "shared": false
+        },
+        {
+          "part": 3,
+          "playlist_index": 35,
+          "video_id": "H0XgH--r7n0",
+          "title": "035 Surat Al Ghashiyah Part 3   Abu Bakr Zoud",
+          "shared": false
+        }
+      ]
+    },
+    {
+      "surah": 89,
+      "name": "Al-Fajr",
+      "slug": "al-fajr",
+      "ayat": 30,
+      "place": "makkah",
+      "parts": [
+        {
+          "part": 1,
+          "playlist_index": 36,
+          "video_id": "rYPKcXKGKjY",
+          "title": "036 Surat Al Fajr Part 1   Abu Bakr Zoud",
+          "shared": false
+        },
+        {
+          "part": 2,
+          "playlist_index": 37,
+          "video_id": "uluet4FNCmM",
+          "title": "037 Surat Al Fajr Part 2   Abu Bakr Zoud",
+          "shared": false
+        },
+        {
+          "part": 3,
+          "playlist_index": 38,
+          "video_id": "5pA-wJF06cw",
+          "title": "038 Surat Al Fajr Part 3   Abu Bakr Zoud",
+          "shared": false
+        },
+        {
+          "part": 4,
+          "playlist_index": 39,
+          "video_id": "TdM629be0_M",
+          "title": "039 Surat Al Fajr Part 4   Abu Bakr Zoud",
+          "shared": false
+        }
+      ]
+    },
+    {
+      "surah": 90,
+      "name": "Al-Balad",
+      "slug": "al-balad",
+      "ayat": 20,
+      "place": "makkah",
+      "parts": [
+        {
+          "part": 1,
+          "playlist_index": 40,
+          "video_id": "_bXH7G1ipo4",
+          "title": "040 Surat Al Balad Part 1   Abu Bakr Zoud",
+          "shared": false
+        },
+        {
+          "part": 2,
+          "playlist_index": 41,
+          "video_id": "47kwyFA_Ffw",
+          "title": "041 Surat Al Balad Part 2   Abu Bakr Zoud",
+          "shared": false
+        },
+        {
+          "part": 3,
+          "playlist_index": 42,
+          "video_id": "ISmcXYTibSE",
+          "title": "042 Surat Al Balad Part 3   Abu Bakr Zoud",
+          "shared": false
+        },
+        {
+          "part": 4,
+          "playlist_index": 43,
+          "video_id": "2kaS3BoubSQ",
+          "title": "043 Surat Al Balad Part 4   Abu Bakr Zoud",
+          "shared": false
+        }
+      ]
+    },
+    {
+      "surah": 91,
+      "name": "Ash-Shams",
+      "slug": "ash-shams",
+      "ayat": 15,
+      "place": "makkah",
+      "parts": [
+        {
+          "part": 1,
+          "playlist_index": 44,
+          "video_id": "yXC6FRmlS8o",
+          "title": "044 Surat Ash Shams Part 1   Abu Bakr Zoud",
+          "shared": false
+        },
+        {
+          "part": 2,
+          "playlist_index": 45,
+          "video_id": "Nmv8DvofiP8",
+          "title": "045 Surat Ash Shams Part 2  Abu Bakr Zoud",
+          "shared": false
+        },
+        {
+          "part": 3,
+          "playlist_index": 46,
+          "video_id": "CmJmczAbRL8",
+          "title": "046 Surat Ash Shams Part 3   Abu Bakr Zoud",
+          "shared": false
+        },
+        {
+          "part": 4,
+          "playlist_index": 47,
+          "video_id": "PPNAuphrVQI",
+          "title": "047 Tafseer Surat Ash Shams Part 4   Abu Bakr Zoud",
+          "shared": false
+        }
+      ]
+    },
+    {
+      "surah": 92,
+      "name": "Al-Layl",
+      "slug": "al-layl",
+      "ayat": 21,
+      "place": "makkah",
+      "parts": [
+        {
+          "part": 1,
+          "playlist_index": 48,
+          "video_id": "E1fAEWd_3FQ",
+          "title": "048 Tafseer Surat Al Layl Part 1   Abu Bakr Zoud",
+          "shared": false
+        },
+        {
+          "part": 2,
+          "playlist_index": 49,
+          "video_id": "jftUXTv-4_s",
+          "title": "049 Tafseer Surat Al Layl Part 2   Abu Bakr Zoud",
+          "shared": false
+        },
+        {
+          "part": 3,
+          "playlist_index": 50,
+          "video_id": "zlwzYOm6qb4",
+          "title": "050 Tafseer Surat Al Layl Part 3   Abu Bakr Zoud",
+          "shared": false
+        },
+        {
+          "part": 4,
+          "playlist_index": 51,
+          "video_id": "MycgGtZkC6o",
+          "title": "051 Tafseer Surat Al Layl Part 4   Abu Bakr Zoud",
+          "shared": false
+        },
+        {
+          "part": 5,
+          "playlist_index": 52,
+          "video_id": "CQtxpXkFOp0",
+          "title": "052 Tafseer Surat Al Layl Part 5   Abu Bakr Zoud",
+          "shared": false
+        }
+      ]
+    },
+    {
+      "surah": 93,
+      "name": "Ad-Duha",
+      "slug": "ad-duha",
+      "ayat": 11,
+      "place": "makkah",
+      "parts": [
+        {
+          "part": 1,
+          "playlist_index": 53,
+          "video_id": "OnBaA-Cdjjs",
+          "title": "053 Tafseer Surat Ad Duha Part 1   Abu Bakr Zoud",
+          "shared": false
+        },
+        {
+          "part": 2,
+          "playlist_index": 54,
+          "video_id": "8Z8fGODUZNY",
+          "title": "054 Tafseer Surat Ad Duha Part 2   Abu Bakr Zoud",
+          "shared": false
+        }
+      ]
+    },
+    {
+      "surah": 94,
+      "name": "Ash-Sharh",
+      "slug": "ash-sharh",
+      "ayat": 8,
+      "place": "makkah",
+      "parts": [
+        {
+          "part": 1,
+          "playlist_index": 55,
+          "video_id": "WLWmUr-cOJY",
+          "title": "055 Tafseer Surat Ash Sharh Part 1   Abu Bakr Zoud",
+          "shared": false
+        },
+        {
+          "part": 2,
+          "playlist_index": 56,
+          "video_id": "vQ3V-PeX3oI",
+          "title": "056 Tafseer Surat Ash Sharh Part 2   Abu Bakr Zoud",
+          "shared": false
+        },
+        {
+          "part": 3,
+          "playlist_index": 57,
+          "video_id": "S_MHkS5fhuQ",
+          "title": "057 Tafseer Surat Ash Sharh Part 3   Abu Bakr Zoud",
+          "shared": false
+        }
+      ]
+    },
+    {
+      "surah": 95,
+      "name": "At-Tin",
+      "slug": "at-tin",
+      "ayat": 8,
+      "place": "makkah",
+      "parts": [
+        {
+          "part": 1,
+          "playlist_index": 58,
+          "video_id": "uS3JXDl1d88",
+          "title": "058 Tafseer Surat At Teen Part 1   Abu Bakr Zoud",
+          "shared": false
+        },
+        {
+          "part": 2,
+          "playlist_index": 59,
+          "video_id": "ttQv9Ku-nAc",
+          "title": "059 Tafseer Surat At Teen Part 2   Abu Bakr Zoud",
+          "shared": false
+        }
+      ]
+    },
+    {
+      "surah": 96,
+      "name": "Al-Alaq",
+      "slug": "al-alaq",
+      "ayat": 19,
+      "place": "makkah",
+      "parts": [
+        {
+          "part": 1,
+          "playlist_index": 60,
+          "video_id": "lcTzAmzbBM8",
+          "title": "060 Tafseer Surat Al Alaq Part 1   Abu Bakr Zoud",
+          "shared": false
+        },
+        {
+          "part": 2,
+          "playlist_index": 61,
+          "video_id": "pY6h8is6qCo",
+          "title": "061 Tafseer Surat Al Alaq Part 2   Abu Bakr Zoud",
+          "shared": false
+        },
+        {
+          "part": 3,
+          "playlist_index": 62,
+          "video_id": "_dorkVkJJdI",
+          "title": "062 Tafseer Surat Al Alaq Part 3   Abu Bakr Zoud",
+          "shared": false
+        }
+      ]
+    },
+    {
+      "surah": 97,
+      "name": "Al-Qadr",
+      "slug": "al-qadr",
+      "ayat": 5,
+      "place": "makkah",
+      "parts": [
+        {
+          "part": 1,
+          "playlist_index": 63,
+          "video_id": "58tGPvXXQjc",
+          "title": "063 Tafseer Surat Al Qadr Part 1   Abu Bakr Zoud",
+          "shared": false
+        },
+        {
+          "part": 2,
+          "playlist_index": 64,
+          "video_id": "KTKI0Ji13Wc",
+          "title": "064 Tafseer Surat Al Qadr Part 2   Abu Bakr Zoud",
+          "shared": false
+        }
+      ]
+    },
+    {
+      "surah": 98,
+      "name": "Al-Bayyinah",
+      "slug": "al-bayyinah",
+      "ayat": 8,
+      "place": "madinah",
+      "parts": [
+        {
+          "part": 1,
+          "playlist_index": 65,
+          "video_id": "_lH5yTCtP60",
+          "title": "065 Tafseer Surat Al Bayyinah Part 1 of 2 Abu Bakr Zoud",
+          "shared": false
+        },
+        {
+          "part": 2,
+          "playlist_index": 66,
+          "video_id": "v_Koirjf-TU",
+          "title": "066 Tafseer Surat Al Bayyinah Part 2 of 2 Abu Bakr Zoud",
+          "shared": false
+        }
+      ]
+    },
+    {
+      "surah": 99,
+      "name": "Az-Zalzalah",
+      "slug": "az-zalzalah",
+      "ayat": 8,
+      "place": "madinah",
+      "parts": [
+        {
+          "part": 1,
+          "playlist_index": 67,
+          "video_id": "eH-SabvGvwM",
+          "title": "067 Tafseer Surat Az Zalzalah Part 1 of 2  Abu Bakr Zoud",
+          "shared": false
+        },
+        {
+          "part": 2,
+          "playlist_index": 68,
+          "video_id": "2RyBi7h4inM",
+          "title": "068 Tafseer Surat Az Zalzalah Part 2 of 2   Abu Bakr Zoud",
+          "shared": false
+        }
+      ]
+    },
+    {
+      "surah": 100,
+      "name": "Al-Adiyat",
+      "slug": "al-adiyat",
+      "ayat": 11,
+      "place": "makkah",
+      "parts": [
+        {
+          "part": 1,
+          "playlist_index": 69,
+          "video_id": "zMHeNGzTi_M",
+          "title": "069 Tafseer Surat Al Aadiyaat   Abu Bakr Zoud",
+          "shared": false
+        }
+      ]
+    },
+    {
+      "surah": 101,
+      "name": "Al-Qari'ah",
+      "slug": "al-qariah",
+      "ayat": 11,
+      "place": "makkah",
+      "parts": [
+        {
+          "part": 1,
+          "playlist_index": 70,
+          "video_id": "Eg6TwZmiZHs",
+          "title": "070 Tafseer Surat Al Qariah  Abu Bakr Zoud",
+          "shared": false
+        }
+      ]
+    },
+    {
+      "surah": 102,
+      "name": "At-Takathur",
+      "slug": "at-takathur",
+      "ayat": 8,
+      "place": "makkah",
+      "parts": [
+        {
+          "part": 1,
+          "playlist_index": 71,
+          "video_id": "pBB9zeEggn4",
+          "title": "071 Tafseer Surat At Takaathur Part 1 of 2   Abu Bakr Zoud",
+          "shared": false
+        },
+        {
+          "part": 2,
+          "playlist_index": 72,
+          "video_id": "jeERM_Q7ulM",
+          "title": "072 Tafseer Surat At Takaathur Part 2 of 2   Abu Bakr Zoud",
+          "shared": false
+        }
+      ]
+    },
+    {
+      "surah": 103,
+      "name": "Al-Asr",
+      "slug": "al-asr",
+      "ayat": 3,
+      "place": "makkah",
+      "parts": [
+        {
+          "part": 1,
+          "playlist_index": 73,
+          "video_id": "FA-NaGusxrM",
+          "title": "073 Tafseer Surat Al Asr Part 1 of 3 Abu Bakr Zoud",
+          "shared": false
+        },
+        {
+          "part": 2,
+          "playlist_index": 74,
+          "video_id": "MKQS6EraTR0",
+          "title": "074 Tafseer Surat Al Asr Part 2 of 3   Abu Bakr Zoud",
+          "shared": false
+        },
+        {
+          "part": 3,
+          "playlist_index": 75,
+          "video_id": "o5LhAtU_UcU",
+          "title": "075 Tafseer Surat Al Asr Part 3 of 3  Abu Bakr Zoud",
+          "shared": false
+        }
+      ]
+    },
+    {
+      "surah": 104,
+      "name": "Al-Humazah",
+      "slug": "al-humazah",
+      "ayat": 9,
+      "place": "makkah",
+      "parts": [
+        {
+          "part": 1,
+          "playlist_index": 76,
+          "video_id": "DpqpkNlPokE",
+          "title": "076 Tafseer Surat Al Humazah Part 1 of 2   Abu Bakr Zoud",
+          "shared": false
+        },
+        {
+          "part": 2,
+          "playlist_index": 77,
+          "video_id": "TAwCPb8ylfs",
+          "title": "077 Tafseer Surat Al Humazah Part 2 of 2   Abu Bakr Zoud",
+          "shared": false
+        }
+      ]
+    },
+    {
+      "surah": 105,
+      "name": "Al-Fil",
+      "slug": "al-fil",
+      "ayat": 5,
+      "place": "makkah",
+      "parts": [
+        {
+          "part": 1,
+          "playlist_index": 78,
+          "video_id": "Sq5eoQPNRHQ",
+          "title": "078 Tafseer Surat Al Feel - The Story of the Elephant - Part 1 of 2   Abu Bakr Zoud",
+          "shared": false
+        },
+        {
+          "part": 2,
+          "playlist_index": 79,
+          "video_id": "fX_O4rfpKxU",
+          "title": "079 Tafseer Surat Al Feel Part 2 of 2   Sh Abu Bakr Zoud",
+          "shared": false
+        }
+      ]
+    },
+    {
+      "surah": 106,
+      "name": "Quraysh",
+      "slug": "quraysh",
+      "ayat": 4,
+      "place": "makkah",
+      "parts": [
+        {
+          "part": 1,
+          "playlist_index": 80,
+          "video_id": "mZedQT2w6UY",
+          "title": "080 Tafseer Surat Quraysh   Abu Bakr Zoud",
+          "shared": false
+        }
+      ]
+    },
+    {
+      "surah": 107,
+      "name": "Al-Ma'un",
+      "slug": "al-maun",
+      "ayat": 7,
+      "place": "makkah",
+      "parts": [
+        {
+          "part": 1,
+          "playlist_index": 81,
+          "video_id": "xESbI556xYU",
+          "title": "081 Tafseer Surat Al Maooun Part 1 of 2   Abu Bakr Zoud",
+          "shared": false
+        },
+        {
+          "part": 2,
+          "playlist_index": 82,
+          "video_id": "EVjd_dLfATY",
+          "title": "082 Tafseer Surat Al Maooun Part 2 of 2   Abu Bakr Zoud",
+          "shared": false
+        }
+      ]
+    },
+    {
+      "surah": 108,
+      "name": "Al-Kawthar",
+      "slug": "al-kawthar",
+      "ayat": 3,
+      "place": "makkah",
+      "parts": [
+        {
+          "part": 1,
+          "playlist_index": 83,
+          "video_id": "kRemZuWR8yo",
+          "title": "083 Tafseer Surat Al Kawthar Part 1 of 2   Sh Abu Bakr Zoud",
+          "shared": false
+        },
+        {
+          "part": 2,
+          "playlist_index": 84,
+          "video_id": "iVAIdzgK3Q4",
+          "title": "084 Tafseer Surat Al Kawthar Part 2 of 2   Sh Abu Bakr Zoud",
+          "shared": false
+        }
+      ]
+    },
+    {
+      "surah": 109,
+      "name": "Al-Kafirun",
+      "slug": "al-kafirun",
+      "ayat": 6,
+      "place": "makkah",
+      "parts": [
+        {
+          "part": 1,
+          "playlist_index": 85,
+          "video_id": "rtYNJj3IUkc",
+          "title": "085 Tafseer Surat Al Kaafiroon - Sh Abu Bakr Zoud",
+          "shared": false
+        }
+      ]
+    },
+    {
+      "surah": 110,
+      "name": "An-Nasr",
+      "slug": "an-nasr",
+      "ayat": 3,
+      "place": "madinah",
+      "parts": [
+        {
+          "part": 1,
+          "playlist_index": 86,
+          "video_id": "25bfBDantmw",
+          "title": "086 Tafseer Surat An Nasr - Sh Abu Bakr Zoud",
+          "shared": false
+        }
+      ]
+    },
+    {
+      "surah": 111,
+      "name": "Al-Masad",
+      "slug": "al-masad",
+      "ayat": 5,
+      "place": "makkah",
+      "parts": [
+        {
+          "part": 1,
+          "playlist_index": 87,
+          "video_id": "FL_a49Yke4A",
+          "title": "087 - Tafseer Surat Al Masad  - Sh Abu Bakr Zoud",
+          "shared": false
+        }
+      ]
+    },
+    {
+      "surah": 112,
+      "name": "Al-Ikhlas",
+      "slug": "al-ikhlas",
+      "ayat": 4,
+      "place": "makkah",
+      "parts": [
+        {
+          "part": 1,
+          "playlist_index": 88,
+          "video_id": "1tqqLb5rbsA",
+          "title": "088 Tafseer Surat Al-Ikhlaas (Intro to the Surah) - Part 1 of 2  - Sh Abu Bakr Zoud",
+          "shared": false
+        },
+        {
+          "part": 2,
+          "playlist_index": 89,
+          "video_id": "ZmM-rkxesq0",
+          "title": "089 | Tafseer Surat Al Ikhlaas | Part 2 of 2 | Sh Abu Bakr Zoud",
+          "shared": false
+        }
+      ]
+    },
+    {
+      "surah": 113,
+      "name": "Al-Falaq",
+      "slug": "al-falaq",
+      "ayat": 5,
+      "place": "makkah",
+      "parts": [
+        {
+          "part": 1,
+          "playlist_index": 90,
+          "video_id": "Fk6mm33OSxY",
+          "title": "090 | Tafseer Surat Al Falaq (The Daybreak) | Sh Abu Bakr Zoud",
+          "shared": false
+        }
+      ]
+    },
+    {
+      "surah": 114,
+      "name": "An-Nas",
+      "slug": "an-nas",
+      "ayat": 6,
+      "place": "makkah",
+      "parts": [
+        {
+          "part": 1,
+          "playlist_index": 91,
+          "video_id": "fX-D6j1EFFQ",
+          "title": "091 | Tafseer Surat An Naas (Mankind) | Part 1 of 3 | Sh Abu Bakr Zoud",
+          "shared": false
+        },
+        {
+          "part": 2,
+          "playlist_index": 92,
+          "video_id": "vaScNHR5Rpk",
+          "title": "092 | Tafseer Surat An Naas (Mankind) | Part 2 of 3 | Abu Bakr Zoud",
+          "shared": false
+        },
+        {
+          "part": 3,
+          "playlist_index": 93,
+          "video_id": "HGzSJp3Xzgc",
+          "title": "093 | Tafseer Surat An Naas (Mankind) | Part 3 of 3 | Abu Bakr Zoud",
+          "shared": false
+        }
+      ]
+    }
+  ]
+}

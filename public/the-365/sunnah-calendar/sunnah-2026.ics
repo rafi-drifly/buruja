@@ -1,0 +1,2112 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SalatTid.se//Daglig Sunnah-kalender//SV
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALDESC:365 autentiska sunnahs av Profeten ﷺ — en per dag. Källo
+ r: Sahih al-Bukhari\, Sahih Muslim och de fyra Sunan. Sadaqah Jariyah frå
+ n SalatTid.se
+X-WR-CALNAME:Daglig sunnah 2026
+X-PUBLISHED-TTL:P1D
+X-WR-TIMEZONE:Europe/Stockholm
+BEGIN:VEVENT
+SUMMARY:🌙 Dagens sunnah: Läs Surah al-Kahf på fredagen
+DTSTART:20260501T090000
+DTEND:20260501T091500
+DTSTAMP:20260426T221150Z
+UID:sunnah-2026-05-01-surah-al-kahf-pa-fredagen@salattid.se
+CATEGORIES:Sunnah,Daglig påminnelse
+DESCRIPTION:📖 Hadith\n"Den som läser Surah al-Kahf på fredagen\, för
+  honom kommer ett ljus att lysa mellan de två fredagarna."\n— Mustadrak
+  al-Hakim 3392\; Sahih al-Jami 6470 (Albani: sahih)\n\n✨ Att praktisera 
+ idag:\n  • Läs Surah al-Kahf (kapitel 18\, 110 verser) någon gång und
+ er fredagen\n  • Bäst innan jumu'ah-bönen\, men hela dagen räknas\n  
+ • Reflektera över de fyra berättelserna: grottan\, trädgården\, Musa
+  & Khidr\, Dhul-Qarnayn\n\n───────────────
+ ─────\n🇬🇧 English\n"Whoever recites Surah Al-Kahf on Frida
+ y\, a light will shine for him from one Friday to the next."\n— Mustadra
+ k al-Hakim 3392\; Sahih al-Jami 6470 (Albani: sahih)\n\nTo practice today:
+ \n  • Recite Surah Al-Kahf (chapter 18\, 110 verses) sometime on Friday\
+ n  • Best before Jumu'ah prayer\, but anytime during the day counts\n  
+ • Reflect on the four stories: the cave\, the garden\, Musa & Khidr\, Dh
+ ul-Qarnayn\n\n────────────────────
+ \n🕋 العربية (original)\nمَنْ قَرَأَ سُورَةَ ا
+ لْكَهْفِ يَوْمَ الْجُمُعَةِ، أَضَاءَ لَ
+ هُ مِنَ النُّورِ مَا بَيْنَ الْجُمُعَتَ
+ يْنِ\n\n────────────────────\n
+ SalatTid.se — Sadaqah Jariyah\nhttps://salattid.com/sunnah
+TRANSP:TRANSPARENT
+URL:https://salattid.com/sunnah
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Dagens sunnah: Läs Surah al-Kahf på fredagen
+TRIGGER:P0D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌙 Dagens sunnah: Ayyam al-Beed — fasta de vita dagarna
+DTSTART:20260502T090000
+DTEND:20260502T091500
+DTSTAMP:20260426T221150Z
+UID:sunnah-2026-05-02-ayyam-al-beed-vita-dagar@salattid.se
+CATEGORIES:Sunnah,Daglig påminnelse
+DESCRIPTION:📖 Hadith\n"Om du fastar tre dagar i månaden\, fasta då de
+ n 13:e\, 14:e och 15:e (i hijri-månaden)."\n— Jami` at-Tirmidhi 761 (ha
+ san)\; Sunan an-Nasa'i 2424\n\n✨ Att praktisera idag:\n  • Idag är 15
+  Dhul-Qa'dah 1447 — sista vita dagen denna månad\n  • Vita dagar i Dh
+ ul-Hijjah: 14–15 (31 maj – 1 juni). OBS: 13 Dhul-Hijjah är tashreeq-d
+ ag — fasta förbjuden\n  • Sätt nijjah ikväll\, vakna för suhoor\, 
+ bryt vid Maghrib\n  • Källa för datum: Islamiska Förbundet / Sveriges
+  Imamråd (global månsiktning) — kan skifta ±1 dag\n\n─────
+ ───────────────\n🇬🇧 English\n"If you f
+ ast three days of the month\, fast on the 13th\, 14th\, and 15th (of the l
+ unar month)."\n— Jami` at-Tirmidhi 761 (hasan)\; Sunan an-Nasa'i 2424\n\
+ nTo practice today:\n  • Today is 15 Dhul-Qa'dah 1447 — the last white
+  day this month\n  • White days in Dhul-Hijjah: 14–15 (May 31 – June
+  1). NOTE: 13 Dhul-Hijjah is a tashreeq day — fasting forbidden\n  • M
+ ake nijjah tonight\, wake for suhoor\, break at Maghrib\n  • Date source
+ : Islamiska Förbundet / Sveriges Imamråd (global moon sighting) — may 
+ shift ±1 day\n\n───────────────────
+ ─\n🕋 العربية (original)\nإِذَا صُمْتَ مِنَ ال
+ شَّهْرِ ثَلَاثًا فَصُمْ ثَلَاثَ عَشْرَة
+ َ، وَأَرْبَعَ عَشْرَةَ، وَخَمْسَ عَشْرَ
+ ةَ\n\n────────────────────\nSala
+ tTid.se — Sadaqah Jariyah\nhttps://salattid.com/sunnah
+TRANSP:TRANSPARENT
+URL:https://salattid.com/sunnah
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Dagens sunnah: Ayyam al-Beed — fasta de vita dagarna
+TRIGGER:P0D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌙 Dagens sunnah: Använd miswak före bön
+DTSTART:20260503T090000
+DTEND:20260503T091500
+DTSTAMP:20260426T221150Z
+UID:sunnah-2026-05-03-miswak-fore-bon@salattid.se
+CATEGORIES:Sunnah,Daglig påminnelse
+DESCRIPTION:📖 Hadith\n"Hade jag inte tyckt det skulle bli för svårt f
+ ör min ummah\, hade jag befallt dem att använda miswak vid varje bön."\
+ n— Sahih al-Bukhari 887\; Sahih Muslim 252\n\n✨ Att praktisera idag:\n
+   • Köp en miswak (eller använd tandborste som ersättning)\n  • Bor
+ sta tänderna före varje bön — i alla fall före Fajr och Maghrib\n  
+ • Säg "Bismillah" innan du börjar\n\n───────────
+ ─────────\n🇬🇧 English\n"Were it not that I would b
+ e overburdening my Ummah\, I would have ordered them to use the siwak at e
+ very prayer."\n— Sahih al-Bukhari 887\; Sahih Muslim 252\n\nTo practice 
+ today:\n  • Get a miswak (or use a toothbrush as substitute)\n  • Brus
+ h before each prayer — at minimum before Fajr and Maghrib\n  • Say "Bi
+ smillah" before you begin\n\n───────────────
+ ─────\n🕋 العربية (original)\nلَوْلَا أَنْ 
+ أَشُقَّ عَلَى أُمَّتِي لَأَمَرْتُهُمْ ب
+ ِالسِّوَاكِ عِنْدَ كُلِّ صَلَاةٍ\n\n───
+ ─────────────────\nSalatTid.se — Sadaq
+ ah Jariyah\nhttps://salattid.com/sunnah
+TRANSP:TRANSPARENT
+URL:https://salattid.com/sunnah
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Dagens sunnah: Använd miswak före bön
+TRIGGER:P0D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌙 Dagens sunnah: Fasta på måndag och torsdag
+DTSTART:20260504T090000
+DTEND:20260504T091500
+DTSTAMP:20260426T221150Z
+UID:sunnah-2026-05-04-fasta-mandag-torsdag@salattid.se
+CATEGORIES:Sunnah,Daglig påminnelse
+DESCRIPTION:📖 Hadith\n"Handlingarna framläggs (för Allah) på måndag
+ ar och torsdagar\, och jag önskar att mina handlingar framläggs medan ja
+ g fastar."\n— Jami` at-Tirmidhi 747 (hasan)\; Sunan an-Nasa'i 2358\n\n
+ ✨ Att praktisera idag:\n  • Gör nijjah (avsikt) på kvällen innan el
+ ler före Fajr\n  • Vakna för suhoor — även en klunk vatten räknas\
+ n  • Bryt fastan vid Maghrib med dadlar och vatten\n\n──────
+ ──────────────\n🇬🇧 English\n"Deeds are p
+ resented (to Allah) on Mondays and Thursdays\, and I love that my deeds be
+  presented while I am fasting."\n— Jami` at-Tirmidhi 747 (hasan)\; Sunan
+  an-Nasa'i 2358\n\nTo practice today:\n  • Make nijjah (intention) the n
+ ight before or before Fajr\n  • Wake for suhoor — even a sip of water 
+ counts\n  • Break the fast at Maghrib with dates and water\n\n───
+ ─────────────────\n🕋 العربية (
+ original)\nتُعْرَضُ الْأَعْمَالُ يَوْمَ الِا
+ ثْنَيْنِ وَالْخَمِيسِ، فَأُحِبُّ أَنْ ي
+ ُعْرَضَ عَمَلِي وَأَنَا صَائِمٌ\n\n───
+ ─────────────────\nSalatTid.se — Sadaq
+ ah Jariyah\nhttps://salattid.com/sunnah
+TRANSP:TRANSPARENT
+URL:https://salattid.com/sunnah
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Dagens sunnah: Fasta på måndag och torsdag
+TRIGGER:P0D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌙 Dagens sunnah: Sov på höger sida efter wudu
+DTSTART:20260505T090000
+DTEND:20260505T091500
+DTSTAMP:20260426T221150Z
+UID:sunnah-2026-05-05-sov-pa-hoger-sida@salattid.se
+CATEGORIES:Sunnah,Daglig påminnelse
+DESCRIPTION:📖 Hadith\n"När du går till sängs\, gör wudu som du gör
+  för bön\, lägg dig sedan på din högra sida."\n— Sahih al-Bukhari 6
+ 311\; Sahih Muslim 2710\n\n✨ Att praktisera idag:\n  • Gör wudu innan
+  du somnar\n  • Lägg dig på höger sida\n  • Läs sov-duan: "Bismika
+  Allahumma amutu wa ahya"\n\n───────────────
+ ─────\n🇬🇧 English\n"When you go to bed\, perform wudu as y
+ ou would for prayer\, then lie down on your right side."\n— Sahih al-Buk
+ hari 6311\; Sahih Muslim 2710\n\nTo practice today:\n  • Perform wudu be
+ fore sleeping\n  • Lie down on your right side\n  • Recite the sleep d
+ ua: "Bismika Allahumma amutu wa ahya"\n\n───────────
+ ─────────\n🕋 العربية (original)\nإِذَا أ
+ َتَيْتَ مَضْجَعَكَ فَتَوَضَّأْ وُضُوءَ
+ كَ لِلصَّلَاةِ، ثُمَّ اضْطَجِعْ عَلَى ش
+ ِقِّكَ الْأَيْمَنِ\n\n───────────
+ ─────────\nSalatTid.se — Sadaqah Jariyah\nhttps://sala
+ ttid.com/sunnah
+TRANSP:TRANSPARENT
+URL:https://salattid.com/sunnah
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Dagens sunnah: Sov på höger sida efter wudu
+TRIGGER:P0D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌙 Dagens sunnah: Ät och drick med höger hand
+DTSTART:20260506T090000
+DTEND:20260506T091500
+DTSTAMP:20260426T221150Z
+UID:sunnah-2026-05-06-at-med-hoger-hand@salattid.se
+CATEGORIES:Sunnah,Daglig påminnelse
+DESCRIPTION:📖 Hadith\n"När någon av er äter\, låt honom äta med si
+ n högra hand. Och när han dricker\, låt honom dricka med sin högra han
+ d."\n— Sahih Muslim 2020\n\n✨ Att praktisera idag:\n  • Använd hög
+ er hand vid varje måltid idag\n  • Påminn barnen vänligt om samma sak
+ \n  • Säg "Bismillah" innan du börjar äta\n\n────────
+ ────────────\n🇬🇧 English\n"When any of you e
+ ats\, let him eat with his right hand\, and when he drinks\, let him drink
+  with his right hand."\n— Sahih Muslim 2020\n\nTo practice today:\n  •
+  Use your right hand at every meal today\n  • Gently remind the children
+  of the same\n  • Say "Bismillah" before you begin eating\n\n───
+ ─────────────────\n🕋 العربية (
+ original)\nإِذَا أَكَلَ أَحَدُكُمْ فَلْيَأْك
+ ُلْ بِيَمِينِهِ، وَإِذَا شَرِبَ فَلْيَش
+ ْرَبْ بِيَمِينِهِ\n\n────────────
+ ────────\nSalatTid.se — Sadaqah Jariyah\nhttps://salatti
+ d.com/sunnah
+TRANSP:TRANSPARENT
+URL:https://salattid.com/sunnah
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Dagens sunnah: Ät och drick med höger hand
+TRIGGER:P0D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌙 Dagens sunnah: Hälsa med Salam först
+DTSTART:20260507T090000
+DTEND:20260507T091500
+DTSTAMP:20260426T221150Z
+UID:sunnah-2026-05-07-halsa-med-salam-forst@salattid.se
+CATEGORIES:Sunnah,Daglig påminnelse
+DESCRIPTION:📖 Hadith\n"Den yngre hälsar på den äldre\, den som går 
+ hälsar på den som sitter\, och en mindre grupp hälsar på en större."\
+ n— Sahih al-Bukhari 6234\; Sahih Muslim 2160\n\n✨ Att praktisera idag:
+ \n  • Var den första att säga "Assalamu alaikum" idag\n  • Säg det 
+ till alla muslimer du möter — bekanta eller inte\n  • Svara fullstän
+ digt: "Wa alaikumus-salam wa rahmatullahi wa barakatuh"\n\n─────
+ ───────────────\n🇬🇧 English\n"The youn
+ g should greet the old\, the passerby should greet the one sitting\, and t
+ he smaller group should greet the larger."\n— Sahih al-Bukhari 6234\; Sa
+ hih Muslim 2160\n\nTo practice today:\n  • Be the first to say "Assalamu
+  alaikum" today\n  • Say it to every Muslim you meet — known or not\n 
+  • Reply in full: "Wa alaikumus-salam wa rahmatullahi wa barakatuh"\n\n
+ ────────────────────\n🕋 الع
+ ربية (original)\nيُسَلِّمُ الصَّغِيرُ عَلَى ا
+ لْكَبِيرِ، وَالْمَارُّ عَلَى الْقَاعِد
+ ِ، وَالْقَلِيلُ عَلَى الْكَثِيرِ\n\n───
+ ─────────────────\nSalatTid.se — Sadaq
+ ah Jariyah\nhttps://salattid.com/sunnah
+TRANSP:TRANSPARENT
+URL:https://salattid.com/sunnah
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Dagens sunnah: Hälsa med Salam först
+TRIGGER:P0D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌙 Dagens sunnah: Sänd rikligt med salawat på fredagen
+DTSTART:20260508T090000
+DTEND:20260508T091500
+DTSTAMP:20260426T221150Z
+UID:sunnah-2026-05-08-salawat-pa-fredagen@salattid.se
+CATEGORIES:Sunnah,Daglig påminnelse
+DESCRIPTION:📖 Hadith\n"Sänd rikligt med välsignelser (salawat) över 
+ mig på fredagen."\n— Sunan Abi Dawud 1047 (sahih)\n\n✨ Att praktisera
+  idag:\n  • Säg "Allahumma salli `ala Muhammad wa `ala aali Muhammad" m
+ inst 100 gånger\n  • Sätt en räknare i mobilen eller använd tasbih\n
+   • Reflektera: varje salawat = tio välsignelser från Allah över dig\
+ n\n────────────────────\n🇬🇧 
+ English\n"Send abundant blessings upon me on Friday."\n— Sunan Abi Dawud
+  1047 (sahih)\n\nTo practice today:\n  • Say "Allahumma salli `ala Muham
+ mad wa `ala aali Muhammad" at least 100 times\n  • Use a phone counter o
+ r tasbih beads\n  • Reflect: each salawat = ten blessings from Allah upo
+ n you\n\n────────────────────\n
+ 🕋 العربية (original)\nأَكْثِرُوا الصَّلَاةَ 
+ عَلَيَّ يَوْمَ الْجُمُعَةِ\n\n──────
+ ──────────────\nSalatTid.se — Sadaqah Jariya
+ h\nhttps://salattid.com/sunnah
+TRANSP:TRANSPARENT
+URL:https://salattid.com/sunnah
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Dagens sunnah: Sänd rikligt med salawat på fredagen
+TRIGGER:P0D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌙 Dagens sunnah: Säg Bismillah innan du äter
+DTSTART:20260509T090000
+DTEND:20260509T091500
+DTSTAMP:20260426T221150Z
+UID:sunnah-2026-05-09-bismillah-fore-mat@salattid.se
+CATEGORIES:Sunnah,Daglig påminnelse
+DESCRIPTION:📖 Hadith\n"När någon av er äter mat\, låt honom säga "
+ Bismillah" (i Allahs namn)."\n— Sunan Abi Dawud 3767\; Jami` at-Tirmidhi
+  1858 (hasan sahih)\n\n✨ Att praktisera idag:\n  • Säg "Bismillah" h
+ ögt eller tyst innan första tuggan\n  • Glömde du i början? Säg: "B
+ ismillahi awwalahu wa akhirahu"\n  • Avsluta måltiden med "Alhamdulilla
+ h"\n\n────────────────────\n🇬
+ 🇧 English\n"When any of you eats food\, let him say "Bismillah" (In the
+  name of Allah)."\n— Sunan Abi Dawud 3767\; Jami` at-Tirmidhi 1858 (hasa
+ n sahih)\n\nTo practice today:\n  • Say "Bismillah" out loud or silently
+  before the first bite\n  • Forgot at the start? Say: "Bismillahi awwala
+ hu wa akhirahu"\n  • End the meal with "Alhamdulillah"\n\n────
+ ────────────────\n🕋 العربية (ori
+ ginal)\nإِذَا أَكَلَ أَحَدُكُمْ طَعَامًا فَ
+ لْيَقُلْ بِسْمِ اللَّهِ\n\n────────
+ ────────────\nSalatTid.se — Sadaqah Jariyah\nhtt
+ ps://salattid.com/sunnah
+TRANSP:TRANSPARENT
+URL:https://salattid.com/sunnah
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Dagens sunnah: Säg Bismillah innan du äter
+TRIGGER:P0D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌙 Dagens sunnah: Säg Alhamdulillah efter en nysning
+DTSTART:20260510T090000
+DTEND:20260510T091500
+DTSTAMP:20260426T221150Z
+UID:sunnah-2026-05-10-alhamdulillah-efter-nysning@salattid.se
+CATEGORIES:Sunnah,Daglig påminnelse
+DESCRIPTION:📖 Hadith\n"När någon av er nyser\, låt honom säga "Alha
+ mdulillah". Hans broder eller vän svarar då "Yarhamukallah" (må Allah f
+ örbarma sig över dig)."\n— Sahih al-Bukhari 6224\n\n✨ Att praktisera
+  idag:\n  • Säg "Alhamdulillah" när du nyser idag\n  • Svara den som
+  nyser med "Yarhamukallah"\n  • Den som fick svar säger sedan: "Yahdiku
+ mullahu wa yuslihu balakum"\n\n──────────────
+ ──────\n🇬🇧 English\n"When one of you sneezes\, let him s
+ ay "Alhamdulillah". His brother or companion should respond "Yarhamukallah
+ " (May Allah have mercy on you)."\n— Sahih al-Bukhari 6224\n\nTo practic
+ e today:\n  • Say "Alhamdulillah" when you sneeze today\n  • Respond t
+ o a sneezer with "Yarhamukallah"\n  • The sneezer then replies: "Yahdiku
+ mullahu wa yuslihu balakum"\n\n──────────────
+ ──────\n🕋 العربية (original)\nإِذَا عَطَس
+ َ أَحَدُكُمْ فَلْيَقُلِ الْحَمْدُ لِلَّ
+ هِ، وَلْيَقُلْ لَهُ أَخُوهُ أَوْ صَاحِب
+ ُهُ يَرْحَمُكَ اللَّهُ\n\n─────────
+ ───────────\nSalatTid.se — Sadaqah Jariyah\nhttps:
+ //salattid.com/sunnah
+TRANSP:TRANSPARENT
+URL:https://salattid.com/sunnah
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Dagens sunnah: Säg Alhamdulillah efter en nysning
+TRIGGER:P0D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌙 Dagens sunnah: Läs Surah al-Mulk innan du sover
+DTSTART:20260511T090000
+DTEND:20260511T091500
+DTSTAMP:20260426T221150Z
+UID:sunnah-2026-05-11-surah-al-mulk-innan-somn@salattid.se
+CATEGORIES:Sunnah,Daglig påminnelse
+DESCRIPTION:📖 Hadith\n"En surah ur Koranen med trettio verser intercede
+ rade för en man tills han fick förlåtelse — det är Surah Tabarak (al
+ -Mulk)."\n— Jami` at-Tirmidhi 2891 (hasan)\; Sunan Abi Dawud 1400\n\n✨
+  Att praktisera idag:\n  • Läs Surah al-Mulk (kapitel 67\, 30 verser) f
+ öre du sover\n  • Tar ungefär 5–7 minuter — sätt en påminnelse\n
+   • Reflektera över vers 1–2 om Allahs makt över liv och död\n\n─
+ ───────────────────\n🇬🇧 Englis
+ h\n"There is a surah in the Quran of thirty verses which interceded for a 
+ man until he was forgiven — it is Surah Al-Mulk (Tabarak)."\n— Jami` a
+ t-Tirmidhi 2891 (hasan)\; Sunan Abi Dawud 1400\n\nTo practice today:\n  
+ • Recite Surah Al-Mulk (chapter 67\, 30 verses) before sleeping\n  • T
+ akes about 5–7 minutes — set a reminder\n  • Reflect on verses 1–2
+  about Allah's power over life and death\n\n──────────
+ ──────────\n🕋 العربية (original)\nسُورَ
+ ةٌ مِنَ الْقُرْآنِ ثَلَاثُونَ آيَةً شَف
+ َعَتْ لِرَجُلٍ حَتَّى غُفِرَ لَهُ، وَهِ
+ يَ سُورَةُ تَبَارَكَ الَّذِي بِيَدِهِ ا
+ لْمُلْكُ\n\n──────────────────
+ ──\nSalatTid.se — Sadaqah Jariyah\nhttps://salattid.com/sunnah
+TRANSP:TRANSPARENT
+URL:https://salattid.com/sunnah
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Dagens sunnah: Läs Surah al-Mulk innan du sover
+TRIGGER:P0D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌙 Dagens sunnah: Le mot din broder — det är sadaqah
+DTSTART:20260512T090000
+DTEND:20260512T091500
+DTSTAMP:20260426T221150Z
+UID:sunnah-2026-05-12-le-mot-din-broder@salattid.se
+CATEGORIES:Sunnah,Daglig påminnelse
+DESCRIPTION:📖 Hadith\n"Att le mot din broder är en allmosa (sadaqah) f
+ ör dig."\n— Jami` at-Tirmidhi 1956 (hasan)\n\n✨ Att praktisera idag:\
+ n  • Le mot varje muslim du möter idag — även främlingar\n  • Le 
+ innan du börjar prata med någon\n  • Le mot din familj när du kommer 
+ hem\n\n────────────────────\n🇬
+ 🇧 English\n"Smiling at your brother's face is a charity for you."\n— 
+ Jami` at-Tirmidhi 1956 (hasan)\n\nTo practice today:\n  • Smile at every
+  Muslim you meet today — even strangers\n  • Smile before you start ta
+ lking to someone\n  • Smile at your family when you come home\n\n──
+ ──────────────────\n🕋 العربي
+ ة (original)\nتَبَسُّمُكَ فِي وَجْهِ أَخِيكَ 
+ لَكَ صَدَقَةٌ\n\n───────────────
+ ─────\nSalatTid.se — Sadaqah Jariyah\nhttps://salattid.com/sun
+ nah
+TRANSP:TRANSPARENT
+URL:https://salattid.com/sunnah
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Dagens sunnah: Le mot din broder — det är sadaqah
+TRIGGER:P0D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌙 Dagens sunnah: Be Duha — förmiddagsbönen
+DTSTART:20260513T090000
+DTEND:20260513T091500
+DTSTAMP:20260426T221150Z
+UID:sunnah-2026-05-13-duha-bonen@salattid.se
+CATEGORIES:Sunnah,Daglig påminnelse
+DESCRIPTION:📖 Hadith\n"Varje morgon krävs en allmosa för varje led i 
+ er kropp... men två rak'ah av Duha-bönen är tillräckliga för det."\n
+ — Sahih Muslim 720\n\n✨ Att praktisera idag:\n  • Be 2 rak'ah Duha n
+ ågon gång mellan soluppgång och Dhuhr\n  • Bästa tiden: cirka 20 min
+ uter innan Dhuhr\n  • Du kan be 2\, 4\, 6 eller 8 rak'ah — börja med 
+ 2\n\n────────────────────\n🇬
+ 🇧 English\n"Every morning\, charity is due upon every joint of you... b
+ ut two rak'ahs of Duha prayer suffice for that."\n— Sahih Muslim 720\n\n
+ To practice today:\n  • Pray 2 rak'ahs of Duha anytime between sunrise a
+ nd Dhuhr\n  • Best time: about 20 minutes before Dhuhr\n  • You may pr
+ ay 2\, 4\, 6\, or 8 rak'ahs — start with 2\n\n────────
+ ────────────\n🕋 العربية (original)\nيُ
+ صْبِحُ عَلَى كُلِّ سُلَامَى مِنْ أَحَدِ
+ كُمْ صَدَقَةٌ... وَيُجْزِئُ مِنْ ذَلِكَ ر
+ َكْعَتَانِ يَرْكَعُهُمَا مِنَ الضُّحَى\
+ n\n────────────────────\nSalatTid.
+ se — Sadaqah Jariyah\nhttps://salattid.com/sunnah
+TRANSP:TRANSPARENT
+URL:https://salattid.com/sunnah
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Dagens sunnah: Be Duha — förmiddagsbönen
+TRIGGER:P0D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌙 Dagens sunnah: Avsluta natten med Witr
+DTSTART:20260514T090000
+DTEND:20260514T091500
+DTSTAMP:20260426T221150Z
+UID:sunnah-2026-05-14-witr-bonen@salattid.se
+CATEGORIES:Sunnah,Daglig påminnelse
+DESCRIPTION:📖 Hadith\n"Gör Witr till er sista bön på natten."\n— S
+ ahih al-Bukhari 998\; Sahih Muslim 749\n\n✨ Att praktisera idag:\n  • 
+ Be Witr efter Isha — minst 1 rak'ah\, oftast 3\n  • Är du säker på 
+ att du vaknar? Be hellre i sista tredjedelen av natten\n  • Annars: be d
+ irekt efter Isha så du inte missar\n\n───────────
+ ─────────\n🇬🇧 English\n"Make the last of your nigh
+ t prayers Witr."\n— Sahih al-Bukhari 998\; Sahih Muslim 749\n\nTo practi
+ ce today:\n  • Pray Witr after Isha — at least 1 rak'ah\, usually 3\n 
+  • Sure you'll wake up? Pray it in the last third of the night instead\n
+   • Otherwise: pray it right after Isha so you don't miss it\n\n──
+ ──────────────────\n🕋 العربي
+ ة (original)\nاجْعَلُوا آخِرَ صَلَاتِكُمْ بِا
+ للَّيْلِ وِتْرًا\n\n─────────────
+ ───────\nSalatTid.se — Sadaqah Jariyah\nhttps://salattid.c
+ om/sunnah
+TRANSP:TRANSPARENT
+URL:https://salattid.com/sunnah
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Dagens sunnah: Avsluta natten med Witr
+TRIGGER:P0D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌙 Dagens sunnah: Ghusl på fredagen
+DTSTART:20260515T090000
+DTEND:20260515T091500
+DTSTAMP:20260426T221150Z
+UID:sunnah-2026-05-15-ghusl-pa-fredagen@salattid.se
+CATEGORIES:Sunnah,Daglig påminnelse
+DESCRIPTION:📖 Hadith\n"Ghusl på fredagen är (mycket) ålagd för varj
+ e vuxen."\n— Sahih al-Bukhari 879\; Sahih Muslim 846\n\n✨ Att praktise
+ ra idag:\n  • Gör fullständig ghusl före Jumu'ah-bönen (helst nära 
+ bönetid)\n  • Klipp naglar\, putsa\, gör dig ren — fredagen är veck
+ ans Eid\n  • Är du sjuk? Wudu räcker\n\n──────────
+ ──────────\n🇬🇧 English\n"Ghusl on Friday is (str
+ ongly) incumbent upon every adult."\n— Sahih al-Bukhari 879\; Sahih Musl
+ im 846\n\nTo practice today:\n  • Perform full ghusl before Jumu'ah (pre
+ ferably close to prayer time)\n  • Trim nails\, groom\, get clean — Fr
+ iday is the weekly Eid\n  • Sick? Wudu suffices\n\n───────
+ ─────────────\n🕋 العربية (original)\n
+ غُسْلُ يَوْمِ الْجُمُعَةِ وَاجِبٌ عَلَى
+  كُلِّ مُحْتَلِمٍ\n\n────────────
+ ────────\nSalatTid.se — Sadaqah Jariyah\nhttps://salatti
+ d.com/sunnah
+TRANSP:TRANSPARENT
+URL:https://salattid.com/sunnah
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Dagens sunnah: Ghusl på fredagen
+TRIGGER:P0D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌙 Dagens sunnah: Besök den sjuke
+DTSTART:20260516T090000
+DTEND:20260516T091500
+DTSTAMP:20260426T221150Z
+UID:sunnah-2026-05-16-besok-den-sjuke@salattid.se
+CATEGORIES:Sunnah,Daglig påminnelse
+DESCRIPTION:📖 Hadith\n"En muslims rätt över en annan muslim är fem: 
+ att besvara hälsningen\, att besöka den sjuke\, att följa med begravnin
+ gståget\, att svara på inbjudan\, och att svara den som nyser."\n— Sah
+ ih al-Bukhari 1240\; Sahih Muslim 2162\n\n✨ Att praktisera idag:\n  • 
+ Tänk på en sjuk släkting\, granne eller vän — ring eller besök idag
+ \n  • Säg duan: "As'alullahal-`Adheem\, Rabbal-`Arshil-`Adheem an yashf
+ iyak" (sju gånger)\n  • Stanna inte länge — kort besök\, uppriktig 
+ dua\, gå sedan\n\n──────────────────
+ ──\n🇬🇧 English\n"The rights of a Muslim over another Muslim are 
+ five: returning the greeting\, visiting the sick\, attending funerals\, ac
+ cepting invitations\, and responding to the one who sneezes."\n— Sahih a
+ l-Bukhari 1240\; Sahih Muslim 2162\n\nTo practice today:\n  • Think of a
+  sick relative\, neighbor\, or friend — call or visit today\n  • Say t
+ he dua: "As'alullahal-`Adheem\, Rabbal-`Arshil-`Adheem an yashfiyak" (seve
+ n times)\n  • Don't stay long — short visit\, sincere dua\, then leave
+ \n\n────────────────────\n🕋 ا
+ لعربية (original)\nحَقُّ الْمُسْلِمِ عَلَى ال
+ ْمُسْلِمِ خَمْسٌ: رَدُّ السَّلَامِ، وَع
+ ِيَادَةُ الْمَرِيضِ، وَاتِّبَاعُ الْجَ
+ نَائِزِ، وَإِجَابَةُ الدَّعْوَةِ، وَتَ
+ شْمِيتُ الْعَاطِسِ\n\n───────────
+ ─────────\nSalatTid.se — Sadaqah Jariyah\nhttps://sala
+ ttid.com/sunnah
+TRANSP:TRANSPARENT
+URL:https://salattid.com/sunnah
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Dagens sunnah: Besök den sjuke
+TRIGGER:P0D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌙 Dagens sunnah: Säg Salam när du går in i ditt hem
+DTSTART:20260517T090000
+DTEND:20260517T091500
+DTSTAMP:20260426T221150Z
+UID:sunnah-2026-05-17-salam-vid-hemkomst@salattid.se
+CATEGORIES:Sunnah,Daglig påminnelse
+DESCRIPTION:📖 Hadith\n"När du går in till din familj\, hälsa dem med
+  Salam. Det blir en välsignelse över dig och din familj."\n— Jami` at-
+ Tirmidhi 2698 (hasan)\n\n✨ Att praktisera idag:\n  • Säg "Assalamu al
+ aikum" när du går in genom dörren — även om huset är tomt\n  • Ä
+ r huset tomt? Säg: "Assalamu alayna wa `ala `ibadillahis-salihin"\n  • 
+ Lär barnen samma sed\n\n────────────────
+ ────\n🇬🇧 English\n"When you enter upon your family\, give th
+ em Salam. It will be a blessing upon you and upon your household."\n— Ja
+ mi` at-Tirmidhi 2698 (hasan)\n\nTo practice today:\n  • Say "Assalamu al
+ aikum" when you walk in — even if the house is empty\n  • If empty: "A
+ ssalamu alayna wa `ala `ibadillahis-salihin"\n  • Teach the children the
+  same habit\n\n───────────────────
+ ─\n🕋 العربية (original)\nإِذَا دَخَلْتَ عَلَ
+ ى أَهْلِكَ فَسَلِّمْ، يَكُنْ بَرَكَةً ع
+ َلَيْكَ وَعَلَى أَهْلِ بَيْتِكَ\n\n───
+ ─────────────────\nSalatTid.se — Sadaq
+ ah Jariyah\nhttps://salattid.com/sunnah
+TRANSP:TRANSPARENT
+URL:https://salattid.com/sunnah
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Dagens sunnah: Säg Salam när du går in i ditt hem
+TRIGGER:P0D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌙 Dagens sunnah: De första tio dagarna av Dhul-Hijjah börjar 
+ idag
+DTSTART:20260518T090000
+DTEND:20260518T091500
+DTSTAMP:20260426T221150Z
+UID:sunnah-2026-05-18-forsta-tio-dagar-dhul-hijjah@salattid.se
+CATEGORIES:Sunnah,Daglig påminnelse
+DESCRIPTION:📖 Hadith\n"Det finns inga dagar då de goda handlingarna ä
+ r mer älskade av Allah än under dessa tio dagar."\n— Sahih al-Bukhari 
+ 969\n\n✨ Att praktisera idag:\n  • 1 Dhul-Hijjah börjar idag (18 maj)
+  — fram till Eid 27 maj\n  • Öka dhikr: "La ilaha illallah"\, "Allahu
+  Akbar"\, "Alhamdulillah"\n  • Fasta så många av de första nio dagarn
+ a du orkar (ej dag 10)\n  • Höjdpunkt: dagen för Arafah\, 9 Dhul-Hijja
+ h (tisdag 26 maj)\n  • Källa för datum: Islamiska Förbundet / Sverige
+ s Imamråd — kan skifta ±1 dag\n\n────────────
+ ────────\n🇬🇧 English\n"There are no days during whic
+ h righteous deeds are more beloved to Allah than these ten days."\n— Sah
+ ih al-Bukhari 969\n\nTo practice today:\n  • 1 Dhul-Hijjah begins today 
+ (May 18) — through Eid on May 27\n  • Increase dhikr: "La ilaha illall
+ ah"\, "Allahu Akbar"\, "Alhamdulillah"\n  • Fast as many of the first ni
+ ne days as you can (not the 10th)\n  • High point: Day of Arafah\, 9 Dhu
+ l-Hijjah (Tuesday May 26)\n  • Date source: Islamiska Förbundet / Sveri
+ ges Imamråd — may shift ±1 day\n\n────────────
+ ────────\n🕋 العربية (original)\nمَا مِنْ 
+ أَيَّامٍ الْعَمَلُ الصَّالِحُ فِيهَا أَ
+ حَبُّ إِلَى اللَّهِ مِنْ هَذِهِ الْأَيَ
+ ّامِ الْعَشْرِ\n\n──────────────
+ ──────\nSalatTid.se — Sadaqah Jariyah\nhttps://salattid.com/
+ sunnah
+TRANSP:TRANSPARENT
+URL:https://salattid.com/sunnah
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Dagens sunnah: De första tio dagarna av Dhul-Hijjah börjar i
+ dag
+TRIGGER:P0D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌙 Dagens sunnah: Drick i tre andetag
+DTSTART:20260519T090000
+DTEND:20260519T091500
+DTSTAMP:20260426T221150Z
+UID:sunnah-2026-05-19-tre-andetag-vid-drickande@salattid.se
+CATEGORIES:Sunnah,Daglig påminnelse
+DESCRIPTION:📖 Hadith\n"Han ﷺ tog tre andetag medan han drack."\n— S
+ ahih al-Bukhari 5631\; Sahih Muslim 2028\n\n✨ Att praktisera idag:\n  
+ • Drick inte i ett enda långt drag — pausa\, andas\, drick igen\n  
+ • Säg "Bismillah" före\, "Alhamdulillah" efter\n  • Andas inte i gla
+ set (Bukhari 5630)\n\n─────────────────
+ ───\n🇬🇧 English\n"He ﷺ used to take three breaths while drin
+ king."\n— Sahih al-Bukhari 5631\; Sahih Muslim 2028\n\nTo practice today
+ :\n  • Don't drink in one long gulp — pause\, breathe\, drink again\n 
+  • Say "Bismillah" before\, "Alhamdulillah" after\n  • Do not breathe 
+ into the cup (Bukhari 5630)\n\n──────────────
+ ──────\n🕋 العربية (original)\nكَانَ يَتَن
+ َفَّسُ فِي الشَّرَابِ ثَلَاثًا\n\n────
+ ────────────────\nSalatTid.se — Sadaqah 
+ Jariyah\nhttps://salattid.com/sunnah
+TRANSP:TRANSPARENT
+URL:https://salattid.com/sunnah
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Dagens sunnah: Drick i tre andetag
+TRIGGER:P0D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌙 Dagens sunnah: Börja med höger sida
+DTSTART:20260520T090000
+DTEND:20260520T091500
+DTSTAMP:20260426T221150Z
+UID:sunnah-2026-05-20-borja-med-hoger@salattid.se
+CATEGORIES:Sunnah,Daglig påminnelse
+DESCRIPTION:📖 Hadith\n"Profeten ﷺ tyckte om att börja med höger sid
+ a när han tog på skor\, kammade håret\, gjorde wudu\, och i alla sina h
+ andlingar."\n— Sahih al-Bukhari 168\; Sahih Muslim 268\n\n✨ Att prakti
+ sera idag:\n  • Höger fot in i skorna först\, höger arm i tröjan fö
+ rst\n  • Höger hand först vid wudu\n  • In i moskén / hem med höge
+ r fot\, ut med vänster (motsatt för toaletten)\n\n───────
+ ─────────────\n🇬🇧 English\n"The Prophet 
+ ﷺ liked to begin with the right side when putting on shoes\, combing his
+  hair\, performing wudu\, and in all his affairs."\n— Sahih al-Bukhari 1
+ 68\; Sahih Muslim 268\n\nTo practice today:\n  • Right foot into shoes f
+ irst\, right arm into your shirt first\n  • Right hand first during wudu
+ \n  • Enter mosque/home with right foot\, exit with left (opposite for t
+ he bathroom)\n\n───────────────────
+ ─\n🕋 العربية (original)\nكَانَ النَّبِيُّ ﷺ 
+ يُعْجِبُهُ التَّيَمُّنُ فِي تَنَعُّلِه
+ ِ، وَتَرَجُّلِهِ، وَطُهُورِهِ، وَفِي شَ
+ أْنِهِ كُلِّهِ\n\n──────────────
+ ──────\nSalatTid.se — Sadaqah Jariyah\nhttps://salattid.com/
+ sunnah
+TRANSP:TRANSPARENT
+URL:https://salattid.com/sunnah
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Dagens sunnah: Börja med höger sida
+TRIGGER:P0D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌙 Dagens sunnah: Säg shahadan efter wudu
+DTSTART:20260521T090000
+DTEND:20260521T091500
+DTSTAMP:20260426T221150Z
+UID:sunnah-2026-05-21-dhikr-efter-wudu@salattid.se
+CATEGORIES:Sunnah,Daglig påminnelse
+DESCRIPTION:📖 Hadith\n"Den som gör wudu väl och sedan säger: "Ash-ha
+ du an la ilaha illallah wahdahu la sharika lah\, wa ash-hadu anna Muhammad
+ an `abduhu wa rasuluh" — för honom öppnas Paradisets åtta portar och 
+ han träder in genom vilken han vill."\n— Sahih Muslim 234\n\n✨ Att pr
+ aktisera idag:\n  • Memorera frasen om du inte redan kan den\n  • Säg
+  den direkt efter du torkat dig efter wudu\n  • Lägg gärna till: "Alla
+ humma-j`alni minat-tawwabin waj`alni minal-mutatahhirin" (Tirmidhi 55)\n\n
+ ────────────────────\n🇬🇧 Eng
+ lish\n"Whoever performs wudu well and then says: "I bear witness that ther
+ e is no god but Allah alone\, with no partner\, and I bear witness that Mu
+ hammad is His servant and messenger" — the eight gates of Paradise are o
+ pened for him and he enters through whichever he wishes."\n— Sahih Musli
+ m 234\n\nTo practice today:\n  • Memorize the phrase if you don't alread
+ y know it\n  • Say it right after drying off from wudu\n  • Optional a
+ ddition: "Allahumma-j`alni minat-tawwabin waj`alni minal-mutatahhirin" (Ti
+ rmidhi 55)\n\n────────────────────
+ \n🕋 العربية (original)\nمَنْ تَوَضَّأَ فَأَحْ
+ سَنَ الْوُضُوءَ، ثُمَّ قَالَ: أَشْهَدُ أ
+ َنْ لَا إِلَهَ إِلَّا اللَّهُ وَحْدَهُ ل
+ َا شَرِيكَ لَهُ، وَأَشْهَدُ أَنَّ مُحَم
+ َّدًا عَبْدُهُ وَرَسُولُهُ، فُتِحَتْ لَ
+ هُ أَبْوَابُ الْجَنَّةِ الثَّمَانِيَةُ\
+ n\n────────────────────\nSalatTid.
+ se — Sadaqah Jariyah\nhttps://salattid.com/sunnah
+TRANSP:TRANSPARENT
+URL:https://salattid.com/sunnah
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Dagens sunnah: Säg shahadan efter wudu
+TRIGGER:P0D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌙 Dagens sunnah: Klä dig i dina finaste kläder och använd pa
+ rfym på fredagen
+DTSTART:20260522T090000
+DTEND:20260522T091500
+DTSTAMP:20260426T221150Z
+UID:sunnah-2026-05-22-finaste-klader-fredagen@salattid.se
+CATEGORIES:Sunnah,Daglig påminnelse
+DESCRIPTION:📖 Hadith\n"Den som gör ghusl på fredagen\, använder misw
+ ak\, parfymerar sig om han har\, klär sig i sina finaste kläder\, går t
+ ill moskén... förlåts det som ligger mellan denna fredag och nästa."\n
+ — Sahih al-Bukhari 883\n\n✨ Att praktisera idag:\n  • Klä dig i din
+ a finaste rena kläder — vit thobe / abaya är extra sunnah\n  • Anvä
+ nd parfym (bara män i moskén — kvinnor använder inte parfym utomhus)\
+ n  • Använd miswak före du går\n\n───────────
+ ─────────\n🇬🇧 English\n"Whoever performs ghusl on 
+ Friday\, uses the miswak\, applies perfume if he has it\, wears his best c
+ lothes\, goes to the mosque... is forgiven for what is between this Friday
+  and the next."\n— Sahih al-Bukhari 883\n\nTo practice today:\n  • Wea
+ r your finest clean clothes — white thobe / abaya is extra sunnah\n  •
+  Use perfume (men in the mosque — women do not wear perfume outside)\n  
+ • Use miswak before you leave\n\n─────────────
+ ───────\n🕋 العربية (original)\nمَنِ اغْتَ
+ سَلَ يَوْمَ الْجُمُعَةِ، وَاسْتَنَّ، وَ
+ مَسَّ مِنْ طِيبٍ إِنْ كَانَ عِنْدَهُ، وَ
+ لَبِسَ مِنْ أَحْسَنِ ثِيَابِهِ، ثُمَّ خ
+ َرَجَ... إِلَّا غُفِرَ لَهُ مَا بَيْنَهُ 
+ وَبَيْنَ الْجُمُعَةِ الْأُخْرَى\n\n───
+ ─────────────────\nSalatTid.se — Sadaq
+ ah Jariyah\nhttps://salattid.com/sunnah
+TRANSP:TRANSPARENT
+URL:https://salattid.com/sunnah
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Dagens sunnah: Klä dig i dina finaste kläder och använd par
+ fym på fredagen
+TRIGGER:P0D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌙 Dagens sunnah: Surah al-Ikhlas — en tredjedel av Koranen
+DTSTART:20260523T090000
+DTEND:20260523T091500
+DTSTAMP:20260426T221150Z
+UID:sunnah-2026-05-23-surah-al-ikhlas-en-tredjedel@salattid.se
+CATEGORIES:Sunnah,Daglig påminnelse
+DESCRIPTION:📖 Hadith\n""Qul Huwa Allahu Ahad" (Surah al-Ikhlas) motsvar
+ ar en tredjedel av Koranen."\n— Sahih al-Bukhari 5013\n\n✨ Att praktis
+ era idag:\n  • Läs Surah al-Ikhlas tre gånger — du har då "läst" e
+ n hel Koran\n  • Reflektera över de fyra verserna: Allahs absoluta enhe
+ t\n  • Bra att läsa innan sömn med al-Falaq och an-Nas\n\n────
+ ────────────────\n🇬🇧 English\n""Qul 
+ Huwa Allahu Ahad" (Surah Al-Ikhlas) is equivalent to one third of the Qura
+ n."\n— Sahih al-Bukhari 5013\n\nTo practice today:\n  • Recite Surah A
+ l-Ikhlas three times — equivalent to a full Quran reading\n  • Reflect
+  on the four verses: Allah's absolute oneness\n  • Good to recite before
+  sleep along with Al-Falaq and An-Nas\n\n───────────
+ ─────────\n🕋 العربية (original)\nقُلْ هُ
+ وَ اللَّهُ أَحَدٌ تَعْدِلُ ثُلُثَ الْقُ
+ رْآنِ\n\n────────────────────
+ \nSalatTid.se — Sadaqah Jariyah\nhttps://salattid.com/sunnah
+TRANSP:TRANSPARENT
+URL:https://salattid.com/sunnah
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Dagens sunnah: Surah al-Ikhlas — en tredjedel av Koranen
+TRIGGER:P0D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌙 Dagens sunnah: Tasbih efter varje obligatorisk bön
+DTSTART:20260524T090000
+DTEND:20260524T091500
+DTSTAMP:20260426T221150Z
+UID:sunnah-2026-05-24-tasbih-efter-bonen@salattid.se
+CATEGORIES:Sunnah,Daglig påminnelse
+DESCRIPTION:📖 Hadith\n"Den som efter varje bön säger "Subhan Allah" 3
+ 3 gånger\, "Alhamdulillah" 33 gånger\, "Allahu Akbar" 33 gånger... hans
+  synder förlåts även om de vore som havets skum."\n— Sahih Muslim 597
+ \n\n✨ Att praktisera idag:\n  • Direkt efter salam: 33 × Subhan Allah
+ \, 33 × Alhamdulillah\, 33 × Allahu Akbar\n  • Avsluta med: "La ilaha 
+ illallah wahdahu la sharika lah\, lahul-mulku wa lahul-hamdu wa huwa `ala 
+ kulli shay'in qadir"\n  • Räkna med fingrarna på höger hand — det 
+ är sunnah (Abu Dawud 1502)\n\n──────────────
+ ──────\n🇬🇧 English\n"Whoever after every prayer says "Su
+ bhan Allah" 33 times\, "Alhamdulillah" 33 times\, "Allahu Akbar" 33 times.
+ .. his sins are forgiven even if they be like the foam of the sea."\n— S
+ ahih Muslim 597\n\nTo practice today:\n  • Right after salam: 33 × Subh
+ an Allah\, 33 × Alhamdulillah\, 33 × Allahu Akbar\n  • Finish with: "L
+ a ilaha illallah wahdahu la sharika lah\, lahul-mulku wa lahul-hamdu wa hu
+ wa `ala kulli shay'in qadir"\n  • Count on the fingers of your right han
+ d — that is sunnah (Abu Dawud 1502)\n\n───────────
+ ─────────\n🕋 العربية (original)\nمَنْ سَ
+ بَّحَ اللَّهَ فِي دُبُرِ كُلِّ صَلَاةٍ ث
+ َلَاثًا وَثَلَاثِينَ، وَحَمِدَ اللَّهَ 
+ ثَلَاثًا وَثَلَاثِينَ، وَكَبَّرَ اللَّ
+ هَ ثَلَاثًا وَثَلَاثِينَ... غُفِرَتْ خَط
+ َايَاهُ وَإِنْ كَانَتْ مِثْلَ زَبَدِ ال
+ ْبَحْرِ\n\n──────────────────
+ ──\nSalatTid.se — Sadaqah Jariyah\nhttps://salattid.com/sunnah
+TRANSP:TRANSPARENT
+URL:https://salattid.com/sunnah
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Dagens sunnah: Tasbih efter varje obligatorisk bön
+TRIGGER:P0D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌙 Dagens sunnah: Be två rak'ah efter wudu
+DTSTART:20260525T090000
+DTEND:20260525T091500
+DTSTAMP:20260426T221150Z
+UID:sunnah-2026-05-25-tva-rakah-efter-wudu@salattid.se
+CATEGORIES:Sunnah,Daglig påminnelse
+DESCRIPTION:📖 Hadith\n"Profeten ﷺ sa till Bilal: "Berätta för mig o
+ m den handling du gjort i islam som du har störst hopp om." Bilal svarade
+ : "Jag har inte renat mig med wudu vid någon tid\, varken natt eller dag\
+ , utan att be med den renheten det som var bestämt för mig att be.""\n
+ — Sahih al-Bukhari 1149\; Sahih Muslim 2458\n\n✨ Att praktisera idag:\
+ n  • Direkt efter wudu — be 2 rak'ah med uppriktighet\n  • Be som Bi
+ lal — varje gång du gör wudu (utom när det är makruh-tid)\n  • Pro
+ feten ﷺ hörde Bilals fotsteg framför sig i Paradiset på grund av dett
+ a\n\n────────────────────\n🇬
+ 🇧 English\n"The Prophet ﷺ said to Bilal: "Tell me of the deed you hav
+ e done in Islam that you have the most hope for." Bilal replied: "I have n
+ ot made wudu at any time\, day or night\, without praying with that wudu w
+ hatever was decreed for me to pray.""\n— Sahih al-Bukhari 1149\; Sahih M
+ uslim 2458\n\nTo practice today:\n  • Right after wudu — pray 2 rak'ah
+ s with sincerity\n  • Pray like Bilal — every time you make wudu (exce
+ pt during disliked times)\n  • The Prophet ﷺ heard Bilal's footsteps a
+ head of him in Paradise because of this\n\n──────────
+ ──────────\n🕋 العربية (original)\nيَا ب
+ ِلَالُ، حَدِّثْنِي بِأَرْجَى عَمَلٍ عَم
+ ِلْتَهُ فِي الْإِسْلَامِ... قَالَ: مَا تَ
+ طَهَّرْتُ طَهُورًا فِي سَاعَةٍ مِنْ لَي
+ ْلٍ أَوْ نَهَارٍ، إِلَّا صَلَّيْتُ بِذَ
+ لِكَ الطُّهُورِ مَا كُتِبَ لِي أَنْ أُصَ
+ لِّيَ\n\n────────────────────
+ \nSalatTid.se — Sadaqah Jariyah\nhttps://salattid.com/sunnah
+TRANSP:TRANSPARENT
+URL:https://salattid.com/sunnah
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Dagens sunnah: Be två rak'ah efter wudu
+TRIGGER:P0D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌙 Dagens sunnah: Fasta dagen för Arafah
+DTSTART:20260526T090000
+DTEND:20260526T091500
+DTSTAMP:20260426T221150Z
+UID:sunnah-2026-05-26-fasta-dagen-arafah@salattid.se
+CATEGORIES:Sunnah,Daglig påminnelse
+DESCRIPTION:📖 Hadith\n"Fastan på dagen för Arafah — jag hoppas hos 
+ Allah att den utplånar synderna från året innan och året efter."\n— 
+ Sahih Muslim 1162\n\n✨ Att praktisera idag:\n  • Idag är 9 Dhul-Hijja
+ h — fasta för icke-pilgrimer (pilgrimer på Arafah fastar EJ)\n  • Va
+ kna för suhoor\, gör mycket dhikr och dua under dagen\n  • Bästa duan
+  idag: "La ilaha illallah wahdahu la sharika lah\, lahul-mulku wa lahul-ha
+ md\, wa huwa `ala kulli shay'in qadir"\n  • Bryt fastan vid Maghrib\n  
+ • Datum bekräftat av Islamiska Förbundet / Sveriges Imamråd\n\n──
+ ──────────────────\n🇬🇧 English\n
+ "Fasting the Day of Arafah — I hope from Allah that it expiates the sins
+  of the year before and the year after."\n— Sahih Muslim 1162\n\nTo prac
+ tice today:\n  • Today is 9 Dhul-Hijjah — fast for non-pilgrims (pilgr
+ ims at Arafah do NOT fast)\n  • Wake for suhoor\, increase dhikr and dua
+  throughout the day\n  • Best dua today: "La ilaha illallah wahdahu la s
+ harika lah\, lahul-mulku wa lahul-hamd\, wa huwa `ala kulli shay'in qadir"
+ \n  • Break the fast at Maghrib\n  • Date confirmed by Islamiska Förb
+ undet / Sveriges Imamråd\n\n───────────────
+ ─────\n🕋 العربية (original)\nصِيَامُ يَوْم
+ ِ عَرَفَةَ، أَحْتَسِبُ عَلَى اللَّهِ أَ
+ نْ يُكَفِّرَ السَّنَةَ الَّتِي قَبْلَهُ
+  وَالسَّنَةَ الَّتِي بَعْدَهُ\n\n─────
+ ───────────────\nSalatTid.se — Sadaqah Jar
+ iyah\nhttps://salattid.com/sunnah
+TRANSP:TRANSPARENT
+URL:https://salattid.com/sunnah
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Dagens sunnah: Fasta dagen för Arafah
+TRIGGER:P0D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌙 Dagens sunnah: Eid al-Adha — Profetens ﷺ sunnahs
+DTSTART:20260527T090000
+DTEND:20260527T091500
+DTSTAMP:20260426T221150Z
+UID:sunnah-2026-05-27-eid-al-adha-sunnahs@salattid.se
+CATEGORIES:Sunnah,Daglig påminnelse
+DESCRIPTION:📖 Hadith\n"Profeten ﷺ gick inte ut på Eid al-Fitr förr
+ än han hade ätit\, och han åt inte på Eid al-Adha förrän han hade be
+ tt."\n— Jami` at-Tirmidhi 542\; Sunan Ibn Majah 1756\n\n✨ Att praktise
+ ra idag:\n  • ⚠️ Fasta är FÖRBJUDEN idag — det är Eid\n  • G
+ ör ghusl\, ta på dina finaste rena kläder\, använd parfym\n  • Säg 
+ takbir hela dagen: "Allahu Akbar\, Allahu Akbar\, La ilaha illallah\, wall
+ ahu Akbar\, Allahu Akbar wa lillahil-hamd"\n  • Gå till Eid-bönen — 
+ ät inte förrän efter bönen\n  • Gå dit och hem via olika vägar (Bu
+ khari 986)\n  • Offra (qurbani) om du har möjlighet\, dela på tre dela
+ r: familj\, släkt/grannar\, behövande\n  • Datum bekräftat av Islamis
+ ka Förbundet / Sveriges Imamråd\n\n────────────
+ ────────\n🇬🇧 English\n"The Prophet ﷺ did not go ou
+ t on Eid al-Fitr until he had eaten\, and he did not eat on Eid al-Adha un
+ til he had prayed."\n— Jami` at-Tirmidhi 542\; Sunan Ibn Majah 1756\n\nT
+ o practice today:\n  • ⚠️ Fasting is FORBIDDEN today — it is Eid\n
+   • Perform ghusl\, wear your finest clean clothes\, use perfume\n  • 
+ Say takbir throughout the day: "Allahu Akbar\, Allahu Akbar\, La ilaha ill
+ allah\, wallahu Akbar\, Allahu Akbar wa lillahil-hamd"\n  • Go to Eid pr
+ ayer — do NOT eat until after the prayer\n  • Walk there and home via 
+ different routes (Bukhari 986)\n  • Offer qurbani if able\, divide into 
+ thirds: family\, relatives/neighbors\, the needy\n  • Date confirmed by 
+ Islamiska Förbundet / Sveriges Imamråd\n\n──────────
+ ──────────\n🕋 العربية (original)\nكَانَ
+  النَّبِيُّ ﷺ لَا يَخْرُجُ يَوْمَ الْفِ
+ طْرِ حَتَّى يَأْكُلَ، وَلَا يَأْكُلُ يَ
+ وْمَ الْأَضْحَى حَتَّى يُصَلِّيَ\n\n───
+ ─────────────────\nSalatTid.se — Sadaq
+ ah Jariyah\nhttps://salattid.com/sunnah
+TRANSP:TRANSPARENT
+URL:https://salattid.com/sunnah
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Dagens sunnah: Eid al-Adha — Profetens ﷺ sunnahs
+TRIGGER:P0D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌙 Dagens sunnah: Besök gravar — det påminner om livet efter
+  detta
+DTSTART:20260528T090000
+DTEND:20260528T091500
+DTSTAMP:20260426T221150Z
+UID:sunnah-2026-05-28-besok-gravar@salattid.se
+CATEGORIES:Sunnah,Daglig påminnelse
+DESCRIPTION:📖 Hadith\n"Besök gravarna\, för de påminner er om livet 
+ efter detta."\n— Sahih Muslim 976\n\n✨ Att praktisera idag:\n  • Bes
+ ök en muslimsk grav idag eller i veckan\n  • Säg vid ankomst: "Assalam
+ u alaikum ahlad-diyari minal-mu'minina wal-muslimin\, wa inna inshaAllahu 
+ bikum lahiqun\, nas'alullaha lana wa lakumul-`afiyah"\n  • Reflektera ty
+ st — gå därifrån mer mjuk i hjärtat\n\n─────────
+ ───────────\n🇬🇧 English\n"Visit the graves\, f
+ or they remind you of the Hereafter."\n— Sahih Muslim 976\n\nTo practice
+  today:\n  • Visit a Muslim grave today or this week\n  • Say upon arr
+ ival: "Assalamu alaikum ahlad-diyari minal-mu'minina wal-muslimin\, wa inn
+ a inshaAllahu bikum lahiqun\, nas'alullaha lana wa lakumul-`afiyah"\n  •
+  Reflect in silence — leave with a softer heart\n\n───────
+ ─────────────\n🕋 العربية (original)\n
+ زُورُوا الْقُبُورَ، فَإِنَّهَا تُذَكِّ
+ رُكُمُ الْآخِرَةَ\n\n────────────
+ ────────\nSalatTid.se — Sadaqah Jariyah\nhttps://salatti
+ d.com/sunnah
+TRANSP:TRANSPARENT
+URL:https://salattid.com/sunnah
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Dagens sunnah: Besök gravar — det påminner om livet efter 
+ detta
+TRIGGER:P0D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌙 Dagens sunnah: Gå tidigt till Jumu'ah
+DTSTART:20260529T090000
+DTEND:20260529T091500
+DTSTAMP:20260426T221150Z
+UID:sunnah-2026-05-29-tidigt-till-jumuah@salattid.se
+CATEGORIES:Sunnah,Daglig påminnelse
+DESCRIPTION:📖 Hadith\n"Den som gör ghusl på fredagen som man gör fö
+ r janabah och sedan går tidigt — det är som om han offrade en kamel. D
+ en som går i andra timmen — som en ko. Den som går i tredje timmen —
+  som en bagge med horn. Den som går i fjärde — en höna. Den som går 
+ i femte — ett ägg."\n— Sahih al-Bukhari 881\; Sahih Muslim 850\n\n✨
+  Att praktisera idag:\n  • Sikta på att vara i moskén minst 30 min fö
+ re khutbah\n  • Be tahiyyatul-masjid + nafl\, läs Quran\, gör dhikr i 
+ väntan\n  • Vid khutbah: lyssna i tystnad — ord under khutbah ogiltig
+ förklarar belöningen\n\n────────────────
+ ────\n🇬🇧 English\n"Whoever performs ghusl on Friday like the
+  ghusl of janabah and then goes early — it is as if he offered a camel. 
+ The second hour — a cow. The third — a horned ram. The fourth — a he
+ n. The fifth — an egg."\n— Sahih al-Bukhari 881\; Sahih Muslim 850\n\n
+ To practice today:\n  • Aim to be in the mosque at least 30 min before k
+ hutbah\n  • Pray tahiyyatul-masjid + nafl\, read Quran\, make dhikr whil
+ e waiting\n  • During khutbah: listen in silence — talking nullifies t
+ he reward\n\n────────────────────\
+ n🕋 العربية (original)\nمَنِ اغْتَسَلَ يَوْمَ 
+ الْجُمُعَةِ غُسْلَ الْجَنَابَةِ، ثُمَّ 
+ رَاحَ، فَكَأَنَّمَا قَرَّبَ بَدَنَةً\n\n
+ ────────────────────\nSalatTid.se 
+ — Sadaqah Jariyah\nhttps://salattid.com/sunnah
+TRANSP:TRANSPARENT
+URL:https://salattid.com/sunnah
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Dagens sunnah: Gå tidigt till Jumu'ah
+TRIGGER:P0D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌙 Dagens sunnah: Tala gott eller var tyst
+DTSTART:20260530T090000
+DTEND:20260530T091500
+DTSTAMP:20260426T221150Z
+UID:sunnah-2026-05-30-tala-gott-eller-var-tyst@salattid.se
+CATEGORIES:Sunnah,Daglig påminnelse
+DESCRIPTION:📖 Hadith\n"Den som tror på Allah och den yttersta dagen\, 
+ låt honom tala gott eller vara tyst."\n— Sahih al-Bukhari 6018\; Sahih 
+ Muslim 47\n\n✨ Att praktisera idag:\n  • Innan du säger något idag 
+ — pausa en sekund. Är det sant? Gör det nytta?\n  • Undvik baktal (g
+ hibah) och skvaller (namimah) — även om det är sant\n  • Om du inte 
+ hittar något bra att säga — välj tystnad\n\n────────
+ ────────────\n🇬🇧 English\n"Whoever believes 
+ in Allah and the Last Day\, let him speak good or remain silent."\n— Sah
+ ih al-Bukhari 6018\; Sahih Muslim 47\n\nTo practice today:\n  • Before y
+ ou speak today — pause a second. Is it true? Does it help?\n  • Avoid 
+ backbiting (ghibah) and gossip (namimah) — even if true\n  • If you ca
+ n't find something good to say — choose silence\n\n───────
+ ─────────────\n🕋 العربية (original)\n
+ مَنْ كَانَ يُؤْمِنُ بِاللَّهِ وَالْيَوْ
+ مِ الْآخِرِ فَلْيَقُلْ خَيْرًا أَوْ لِي
+ َصْمُتْ\n\n──────────────────
+ ──\nSalatTid.se — Sadaqah Jariyah\nhttps://salattid.com/sunnah
+TRANSP:TRANSPARENT
+URL:https://salattid.com/sunnah
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Dagens sunnah: Tala gott eller var tyst
+TRIGGER:P0D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌙 Dagens sunnah: Hedra dina föräldrar
+DTSTART:20260531T090000
+DTEND:20260531T091500
+DTSTAMP:20260426T221150Z
+UID:sunnah-2026-05-31-hedra-foraldrar@salattid.se
+CATEGORIES:Sunnah,Daglig påminnelse
+DESCRIPTION:📖 Hadith\n"Herrens välbehag ligger i föräldrarnas välbe
+ hag\, och Herrens missnöje ligger i föräldrarnas missnöje."\n— Jami`
+  at-Tirmidhi 1899 (sahih per Albani)\n\n✨ Att praktisera idag:\n  • Ri
+ ng eller besök dina föräldrar idag — även en kort hälsning räknas\
+ n  • Säg duan: "Rabbir-hamhuma kama rabbayani saghira" (Quran 17:24)\n 
+  • Är de borta? Gör dua\, ge sadaqah i deras namn\, fullfölj deras go
+ da gärningar\n\n───────────────────
+ ─\n🇬🇧 English\n"The pleasure of the Lord lies in the pleasure of t
+ he parent\, and the displeasure of the Lord lies in the displeasure of the
+  parent."\n— Jami` at-Tirmidhi 1899 (sahih per Albani)\n\nTo practice to
+ day:\n  • Call or visit your parents today — even a short greeting cou
+ nts\n  • Say the dua: "Rabbir-hamhuma kama rabbayani saghira" (Quran 17:
+ 24)\n  • Are they deceased? Make dua\, give sadaqah in their name\, cont
+ inue their good deeds\n\n────────────────
+ ────\n🕋 العربية (original)\nرِضَى الرَّبِّ 
+ فِي رِضَى الْوَالِدِ، وَسَخَطُ الرَّبِّ
+  فِي سَخَطِ الْوَالِدِ\n\n─────────
+ ───────────\nSalatTid.se — Sadaqah Jariyah\nhttps:
+ //salattid.com/sunnah
+TRANSP:TRANSPARENT
+URL:https://salattid.com/sunnah
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Dagens sunnah: Hedra dina föräldrar
+TRIGGER:P0D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌙 Dagens sunnah: Morgon- och kvälls-adhkar
+DTSTART:20260601T090000
+DTEND:20260601T091500
+DTSTAMP:20260426T221150Z
+UID:sunnah-2026-06-01-morgon-och-kvalls-adhkar@salattid.se
+CATEGORIES:Sunnah,Daglig påminnelse
+DESCRIPTION:📖 Hadith\n"Den som säger på morgonen och kvällen "Subhan
+  Allahi wa bi-hamdihi" hundra gånger — ingen kommer på Domens dag med 
+ något bättre än det han kom med\, utom den som sagt detsamma eller mer.
+ "\n— Sahih Muslim 2692\n\n✨ Att praktisera idag:\n  • Efter Fajr (el
+ ler innan soluppgång): 100 × "Subhan Allahi wa bi-hamdihi"\n  • Efter 
+ Asr (eller innan Maghrib): samma\n  • Lägg till Ayatul-Kursi och de tre
+  Quls (Ikhlas\, Falaq\, Nas) ×3 — fullt skydd för dygnet\n  • Använ
+ d Hisn al-Muslim för komplett serie\n\n───────────
+ ─────────\n🇬🇧 English\n"Whoever says morning and e
+ vening "Subhan Allahi wa bi-hamdihi" one hundred times — no one will com
+ e on the Day of Resurrection with anything better\, except one who said th
+ e same or more."\n— Sahih Muslim 2692\n\nTo practice today:\n  • After
+  Fajr (or before sunrise): 100 × "Subhan Allahi wa bi-hamdihi"\n  • Aft
+ er Asr (or before Maghrib): same\n  • Add Ayatul-Kursi and the three Qul
+ s (Ikhlas\, Falaq\, Nas) ×3 — full protection for the day\n  • Use Hi
+ sn al-Muslim for the complete series\n\n───────────
+ ─────────\n🕋 العربية (original)\nمَنْ قَ
+ الَ حِينَ يُصْبِحُ وَحِينَ يُمْسِي: سُبْ
+ حَانَ اللَّهِ وَبِحَمْدِهِ، مِائَةَ مَر
+ َّةٍ، لَمْ يَأْتِ أَحَدٌ يَوْمَ الْقِيَ
+ امَةِ بِأَفْضَلَ مِمَّا جَاءَ بِهِ، إِل
+ َّا أَحَدٌ قَالَ مِثْلَ مَا قَالَ أَوْ ز
+ َادَ عَلَيْهِ\n\n───────────────
+ ─────\nSalatTid.se — Sadaqah Jariyah\nhttps://salattid.com/sun
+ nah
+TRANSP:TRANSPARENT
+URL:https://salattid.com/sunnah
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Dagens sunnah: Morgon- och kvälls-adhkar
+TRIGGER:P0D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌙 Dagens sunnah: Ayatul-Kursi efter varje obligatorisk bön
+DTSTART:20260602T090000
+DTEND:20260602T091500
+DTSTAMP:20260426T221150Z
+UID:sunnah-2026-06-02-ayatul-kursi-efter-bonen@salattid.se
+CATEGORIES:Sunnah,Daglig påminnelse
+DESCRIPTION:📖 Hadith\n"Den som läser Ayatul-Kursi efter varje obligato
+ risk bön — ingenting hindrar honom från att gå in i Paradiset utom d
+ öden."\n— Sunan an-Nasa'i al-Kubra 9928\; al-Silsilah al-Sahihah 972 (A
+ lbani: sahih)\n\n✨ Att praktisera idag:\n  • Memorera Ayatul-Kursi (Qu
+ ran 2:255) om du inte redan kan den utantill\n  • Läs den efter varje f
+ ard-bön — efter tasbih (33/33/33) och innan du lämnar bönmattan\n  
+ • Tar 30 sekunder. Fem böner per dag = en garanti om Paradiset\n\n─
+ ───────────────────\n🇬🇧 Englis
+ h\n"Whoever recites Ayatul-Kursi after every obligatory prayer — nothing
+  prevents him from entering Paradise except death."\n— Sunan an-Nasa'i a
+ l-Kubra 9928\; al-Silsilah al-Sahihah 972 (Albani: sahih)\n\nTo practice t
+ oday:\n  • Memorize Ayatul-Kursi (Quran 2:255) if you don't know it by h
+ eart\n  • Recite after every fard prayer — after the tasbih (33/33/33)
+  and before you leave the prayer mat\n  • Takes 30 seconds. Five prayers
+  a day = a guarantee of Paradise\n\n────────────
+ ────────\n🕋 العربية (original)\nمَنْ قَر
+ َأَ آيَةَ الْكُرْسِيِّ دُبُرَ كُلِّ صَل
+ َاةٍ مَكْتُوبَةٍ، لَمْ يَمْنَعْهُ مِنْ 
+ دُخُولِ الْجَنَّةِ إِلَّا أَنْ يَمُوتَ\n
+ \n────────────────────\nSalatTid.s
+ e — Sadaqah Jariyah\nhttps://salattid.com/sunnah
+TRANSP:TRANSPARENT
+URL:https://salattid.com/sunnah
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Dagens sunnah: Ayatul-Kursi efter varje obligatorisk bön
+TRIGGER:P0D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌙 Dagens sunnah: Dua när du går in på toaletten
+DTSTART:20260603T090000
+DTEND:20260603T091500
+DTSTAMP:20260426T221150Z
+UID:sunnah-2026-06-03-dua-toalett-in@salattid.se
+CATEGORIES:Sunnah,Daglig påminnelse
+DESCRIPTION:📖 Hadith\n"När Profeten ﷺ gick in på toaletten sade han
+ : "Allahumma inni a`udhu bika minal-khubuthi wal-khaba'ith" (O Allah\, jag
+  söker skydd hos Dig från manliga och kvinnliga onda andar)."\n— Sahih
+  al-Bukhari 142\; Sahih Muslim 375\n\n✨ Att praktisera idag:\n  • Säg
+  duan tyst innan du går in (tröskeln\, inte inuti)\n  • Vänster fot i
+ n först (höger ut)\n  • Memorera ordagrant — kort dua\, stor sunnah\
+ n\n────────────────────\n🇬🇧 
+ English\n"When the Prophet ﷺ entered the bathroom\, he would say: "Allah
+ umma inni a`udhu bika minal-khubuthi wal-khaba'ith" (O Allah\, I seek refu
+ ge in You from male and female evil spirits)."\n— Sahih al-Bukhari 142\;
+  Sahih Muslim 375\n\nTo practice today:\n  • Say the dua silently before
+  entering (at the threshold\, not inside)\n  • Left foot in first (right
+  out)\n  • Memorize verbatim — short dua\, major sunnah\n\n───
+ ─────────────────\n🕋 العربية (
+ original)\nكَانَ النَّبِيُّ ﷺ إِذَا دَخَلَ ا
+ لْخَلَاءَ قَالَ: اللَّهُمَّ إِنِّي أَعُ
+ وذُ بِكَ مِنَ الْخُبُثِ وَالْخَبَائِثِ\n
+ \n────────────────────\nSalatTid.s
+ e — Sadaqah Jariyah\nhttps://salattid.com/sunnah
+TRANSP:TRANSPARENT
+URL:https://salattid.com/sunnah
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Dagens sunnah: Dua när du går in på toaletten
+TRIGGER:P0D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌙 Dagens sunnah: Dua när du går ut från toaletten
+DTSTART:20260604T090000
+DTEND:20260604T091500
+DTSTAMP:20260426T221150Z
+UID:sunnah-2026-06-04-dua-toalett-ut@salattid.se
+CATEGORIES:Sunnah,Daglig påminnelse
+DESCRIPTION:📖 Hadith\n"När han ﷺ gick ut från toaletten sade han: "
+ Ghufranak" (Din förlåtelse\, o Allah)."\n— Jami` at-Tirmidhi 7 (sahih)
+ \; Sunan Abi Dawud 30\n\n✨ Att praktisera idag:\n  • Höger fot ut fö
+ rst\n  • Säg "Ghufranak" när du lämnar\n  • Reflektion: Profeten 
+ ﷺ bad om förlåtelse även efter en så enkel handling\n\n────
+ ────────────────\n🇬🇧 English\n"When 
+ he ﷺ left the bathroom\, he would say: "Ghufranak" (Your forgiveness\, O
+  Allah)."\n— Jami` at-Tirmidhi 7 (sahih)\; Sunan Abi Dawud 30\n\nTo prac
+ tice today:\n  • Right foot out first\n  • Say "Ghufranak" as you leav
+ e\n  • Reflect: the Prophet ﷺ asked for forgiveness even after such a 
+ simple act\n\n────────────────────
+ \n🕋 العربية (original)\nكَانَ إِذَا خَرَجَ مِ
+ نَ الْخَلَاءِ قَالَ: غُفْرَانَكَ\n\n───
+ ─────────────────\nSalatTid.se — Sadaq
+ ah Jariyah\nhttps://salattid.com/sunnah
+TRANSP:TRANSPARENT
+URL:https://salattid.com/sunnah
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Dagens sunnah: Dua när du går ut från toaletten
+TRIGGER:P0D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌙 Dagens sunnah: Sök stunden av besvarad dua på fredagen
+DTSTART:20260605T090000
+DTEND:20260605T091500
+DTSTAMP:20260426T221150Z
+UID:sunnah-2026-06-05-saaat-al-ijabah-fredag@salattid.se
+CATEGORIES:Sunnah,Daglig påminnelse
+DESCRIPTION:📖 Hadith\n"På fredagen finns en stund då ingen muslim som
+  ber och frågar Allah om något gott blir nekad."\n— Sahih al-Bukhari 9
+ 35\; Sahih Muslim 852\n\n✨ Att praktisera idag:\n  • Mest sannolika ti
+ der: mellan Asr och Maghrib (Tirmidhi 489) — eller stunden imamen sätte
+ r sig mellan khutbahs\n  • Ha duan förberedd — vad ber du om?\n  • 
+ Sista timmen före Maghrib är särskilt välsignad — ägna minst 15 min
+  åt dua\n\n────────────────────\n
+ 🇬🇧 English\n"On Friday there is an hour when no Muslim asks Allah fo
+ r something good while praying except that He grants it to him."\n— Sahi
+ h al-Bukhari 935\; Sahih Muslim 852\n\nTo practice today:\n  • Most like
+ ly times: between Asr and Maghrib (Tirmidhi 489) — or when the imam sits
+  between the two khutbahs\n  • Have your dua ready — what are you aski
+ ng for?\n  • The last hour before Maghrib is especially blessed — spen
+ d at least 15 min in dua\n\n───────────────
+ ─────\n🕋 العربية (original)\nإِنَّ فِي الْ
+ جُمُعَةِ لَسَاعَةً، لَا يُوَافِقُهَا عَ
+ بْدٌ مُسْلِمٌ يُصَلِّي يَسْأَلُ اللَّهَ
+  خَيْرًا، إِلَّا أَعْطَاهُ إِيَّاهُ\n\n─
+ ───────────────────\nSalatTid.se —
+  Sadaqah Jariyah\nhttps://salattid.com/sunnah
+TRANSP:TRANSPARENT
+URL:https://salattid.com/sunnah
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Dagens sunnah: Sök stunden av besvarad dua på fredagen
+TRIGGER:P0D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌙 Dagens sunnah: Dua när du lämnar hemmet
+DTSTART:20260606T090000
+DTEND:20260606T091500
+DTSTAMP:20260426T221150Z
+UID:sunnah-2026-06-06-dua-lamna-hemmet@salattid.se
+CATEGORIES:Sunnah,Daglig påminnelse
+DESCRIPTION:📖 Hadith\n"När en man lämnar sitt hem och säger: "Bismil
+ lah\, tawakkaltu `ala Allah\, la hawla wa la quwwata illa billah" — säg
+ s det till honom: Du är vägledd\, du är skyddad\, du är räddad. Och S
+ haytan vänder bort från honom."\n— Sunan Abi Dawud 5095\; Jami` at-Tir
+ midhi 3426 (sahih)\n\n✨ Att praktisera idag:\n  • Säg duan varje gån
+ g du går ut — till jobbet\, affären\, var som helst\n  • Tre änglar
+  svarar med skydd\, vägledning och räddning\n  • Sätt en post-it vid 
+ dörren tills du memorerat\n\n──────────────
+ ──────\n🇬🇧 English\n"When a man leaves his home and says
+ : "Bismillah\, tawakkaltu `ala Allah\, la hawla wa la quwwata illa billah"
+  — it is said to him: You are guided\, sufficed\, and protected. And Sha
+ ytan turns away from him."\n— Sunan Abi Dawud 5095\; Jami` at-Tirmidhi 3
+ 426 (sahih)\n\nTo practice today:\n  • Say the dua every time you go out
+  — to work\, the store\, anywhere\n  • Three angels respond with prote
+ ction\, guidance\, and sufficiency\n  • Stick a post-it by the door unti
+ l you've memorized it\n\n────────────────
+ ────\n🕋 العربية (original)\nإِذَا خَرَجَ ال
+ رَّجُلُ مِنْ بَيْتِهِ، فَقَالَ: بِسْمِ ا
+ للَّهِ، تَوَكَّلْتُ عَلَى اللَّهِ، لَا 
+ حَوْلَ وَلَا قُوَّةَ إِلَّا بِاللَّهِ، 
+ يُقَالُ لَهُ: هُدِيتَ، وَكُفِيتَ، وَوُق
+ ِيتَ\n\n────────────────────\n
+ SalatTid.se — Sadaqah Jariyah\nhttps://salattid.com/sunnah
+TRANSP:TRANSPARENT
+URL:https://salattid.com/sunnah
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Dagens sunnah: Dua när du lämnar hemmet
+TRIGGER:P0D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌙 Dagens sunnah: Dua när du går in i moskén
+DTSTART:20260607T090000
+DTEND:20260607T091500
+DTSTAMP:20260426T221150Z
+UID:sunnah-2026-06-07-dua-ga-in-i-mosken@salattid.se
+CATEGORIES:Sunnah,Daglig påminnelse
+DESCRIPTION:📖 Hadith\n"När någon av er går in i moskén\, låt honom
+  säga: "Allahumma-ftah li abwaba rahmatik" (O Allah\, öppna för mig Din
+  barmhärtighets dörrar). Och när han går ut: "Allahumma inni as'aluka 
+ min fadlik" (O Allah\, jag ber Dig om Din ynnest)."\n— Sahih Muslim 713\
+ n\n✨ Att praktisera idag:\n  • Höger fot in\, vänster ut (motsatt mo
+ t toaletten)\n  • Säg ingångsduan när du sätter foten över tröskel
+ n\n  • Be 2 rak'ah Tahiyyatul-Masjid innan du sätter dig\n\n───
+ ─────────────────\n🇬🇧 English\n"Wh
+ en any of you enters the mosque\, let him say: "Allahumma-ftah li abwaba r
+ ahmatik" (O Allah\, open for me the gates of Your mercy). And when he leav
+ es: "Allahumma inni as'aluka min fadlik" (O Allah\, I ask You of Your boun
+ ty)."\n— Sahih Muslim 713\n\nTo practice today:\n  • Right foot in\, l
+ eft foot out (opposite to the bathroom)\n  • Say the entrance dua as you
+ r foot crosses the threshold\n  • Pray 2 rak'ahs Tahiyyatul-Masjid befor
+ e sitting down\n\n──────────────────
+ ──\n🕋 العربية (original)\nإِذَا دَخَلَ أَحَد
+ ُكُمُ الْمَسْجِدَ فَلْيَقُلْ: اللَّهُمَ
+ ّ افْتَحْ لِي أَبْوَابَ رَحْمَتِكَ، وَإ
+ ِذَا خَرَجَ فَلْيَقُلْ: اللَّهُمَّ إِنِ
+ ّي أَسْأَلُكَ مِنْ فَضْلِكَ\n\n──────
+ ──────────────\nSalatTid.se — Sadaqah Jariya
+ h\nhttps://salattid.com/sunnah
+TRANSP:TRANSPARENT
+URL:https://salattid.com/sunnah
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Dagens sunnah: Dua när du går in i moskén
+TRIGGER:P0D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌙 Dagens sunnah: Dua innan du sover
+DTSTART:20260608T090000
+DTEND:20260608T091500
+DTSTAMP:20260426T221150Z
+UID:sunnah-2026-06-08-dua-innan-somn@salattid.se
+CATEGORIES:Sunnah,Daglig påminnelse
+DESCRIPTION:📖 Hadith\n"När Profeten ﷺ gick till sin bädd sade han: 
+ "Bismika Allahumma amutu wa ahya" (I Ditt namn\, o Allah\, dör jag och le
+ ver jag)."\n— Sahih al-Bukhari 6324\n\n✨ Att praktisera idag:\n  • S
+ äg duan när du lägger huvudet på kudden\n  • Lägg till: Ayatul-Kurs
+ i (Quran 2:255) — en ängel skyddar dig hela natten (Bukhari 2311)\n  
+ • Och de tre Quls (Ikhlas\, Falaq\, Nas) ×3 — blås i händerna och s
+ tryk över kroppen (Bukhari 5017)\n\n────────────
+ ────────\n🇬🇧 English\n"When the Prophet ﷺ went to 
+ bed he said: "Bismika Allahumma amutu wa ahya" (In Your name\, O Allah\, I
+  die and I live)."\n— Sahih al-Bukhari 6324\n\nTo practice today:\n  •
+  Say the dua as you put your head on the pillow\n  • Add: Ayatul-Kursi (
+ Quran 2:255) — an angel guards you all night (Bukhari 2311)\n  • And t
+ he three Quls (Ikhlas\, Falaq\, Nas) ×3 — blow into your hands and wipe
+  over your body (Bukhari 5017)\n\n─────────────
+ ───────\n🕋 العربية (original)\nكَانَ النَ
+ ّبِيُّ ﷺ إِذَا أَوَى إِلَى فِرَاشِهِ قَ
+ الَ: بِاسْمِكَ اللَّهُمَّ أَمُوتُ وَأَح
+ ْيَا\n\n────────────────────\n
+ SalatTid.se — Sadaqah Jariyah\nhttps://salattid.com/sunnah
+TRANSP:TRANSPARENT
+URL:https://salattid.com/sunnah
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Dagens sunnah: Dua innan du sover
+TRIGGER:P0D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌙 Dagens sunnah: Dua när du vaknar
+DTSTART:20260609T090000
+DTEND:20260609T091500
+DTSTAMP:20260426T221150Z
+UID:sunnah-2026-06-09-dua-vakna-upp@salattid.se
+CATEGORIES:Sunnah,Daglig påminnelse
+DESCRIPTION:📖 Hadith\n"All lov till Allah som har gett oss liv efter at
+ t Han lät oss dö\, och till Honom är uppståndelsen."\n— Sahih al-Buk
+ hari 6324\n\n✨ Att praktisera idag:\n  • Första orden ur munnen när 
+ du vaknar — innan mobilen\, innan något annat\n  • Borsta tänderna m
+ ed miswak (Bukhari 245)\n  • Efter det: morgon-adhkar\, då Fajr-bönen\
+ n\n────────────────────\n🇬🇧 
+ English\n"All praise to Allah who gave us life after He caused us to die\,
+  and to Him is the resurrection."\n— Sahih al-Bukhari 6324\n\nTo practic
+ e today:\n  • First words out of your mouth when waking — before phone
+ \, before anything else\n  • Brush teeth with miswak (Bukhari 245)\n  
+ • Then: morning adhkar\, then Fajr prayer\n\n─────────
+ ───────────\n🕋 العربية (original)\nالْ
+ حَمْدُ لِلَّهِ الَّذِي أَحْيَانَا بَعْد
+ َ مَا أَمَاتَنَا، وَإِلَيْهِ النُّشُورُ
+ \n\n────────────────────\nSalatTid
+ .se — Sadaqah Jariyah\nhttps://salattid.com/sunnah
+TRANSP:TRANSPARENT
+URL:https://salattid.com/sunnah
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Dagens sunnah: Dua när du vaknar
+TRIGGER:P0D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌙 Dagens sunnah: Ge sadaqah varje dag — även om det är lite
+ t
+DTSTART:20260610T090000
+DTEND:20260610T091500
+DTSTAMP:20260426T221150Z
+UID:sunnah-2026-06-10-daglig-sadaqah@salattid.se
+CATEGORIES:Sunnah,Daglig påminnelse
+DESCRIPTION:📖 Hadith\n"Skydda er från Elden\, även om det bara är me
+ d en halv dadel."\n— Sahih al-Bukhari 1417\; Sahih Muslim 1016\n\n✨ At
+ t praktisera idag:\n  • Bestäm en daglig sadaqah-summa — 5 kr räcker
+ \, men gör det dagligen\n  • Sätt upp autogiro till en moské eller v
+ älgörenhet\n  • Sadaqah Jariyah (löpande): bygg/sponsra en brunn\, ko
+ ran-tryck\, kunskapsspridning\n\n─────────────
+ ───────\n🇬🇧 English\n"Protect yourselves from the Fire
+ \, even with half a date."\n— Sahih al-Bukhari 1417\; Sahih Muslim 1016\
+ n\nTo practice today:\n  • Set a daily sadaqah amount — 5 SEK is enoug
+ h\, but do it daily\n  • Set up auto-pay to a mosque or charity\n  • S
+ adaqah Jariyah (continuous): sponsor a well\, Quran printing\, spreading k
+ nowledge\n\n────────────────────\n
+ 🕋 العربية (original)\nاتَّقُوا النَّارَ وَلَ
+ وْ بِشِقِّ تَمْرَةٍ\n\n───────────
+ ─────────\nSalatTid.se — Sadaqah Jariyah\nhttps://sala
+ ttid.com/sunnah
+TRANSP:TRANSPARENT
+URL:https://salattid.com/sunnah
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Dagens sunnah: Ge sadaqah varje dag — även om det är litet
+TRIGGER:P0D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌙 Dagens sunnah: Be 12 rak'ah Sunnah ar-Rawatib varje dag
+DTSTART:20260611T090000
+DTEND:20260611T091500
+DTSTAMP:20260426T221150Z
+UID:sunnah-2026-06-11-sunnah-rawatib-12-rakah@salattid.se
+CATEGORIES:Sunnah,Daglig påminnelse
+DESCRIPTION:📖 Hadith\n"Ingen muslimsk slav ber 12 rak'ah utöver det ob
+ ligatoriska varje dag\, utan att Allah bygger ett hus åt honom i Paradise
+ t."\n— Sahih Muslim 728\n\n✨ Att praktisera idag:\n  • Fördelning: 
+ 2 före Fajr · 4 före Dhuhr · 2 efter Dhuhr · 2 efter Maghrib · 2 eft
+ er Isha\n  • Börja med de 2 före Fajr — de är "bättre än världen
+  och allt i den" (Muslim 725)\n  • Be hemma så mycket som möjligt (Mus
+ lim 778) — gäller frivilliga böner\n\n──────────
+ ──────────\n🇬🇧 English\n"No Muslim servant prays
+  12 rak'ahs beyond the obligatory each day except that Allah builds for hi
+ m a house in Paradise."\n— Sahih Muslim 728\n\nTo practice today:\n  •
+  Distribution: 2 before Fajr · 4 before Dhuhr · 2 after Dhuhr · 2 after
+  Maghrib · 2 after Isha\n  • Start with the 2 before Fajr — they are 
+ "better than the world and what's in it" (Muslim 725)\n  • Pray at home 
+ as much as possible (Muslim 778) — applies to voluntary prayers\n\n─
+ ───────────────────\n🕋 العرب
+ ية (original)\nمَا مِنْ عَبْدٍ مُسْلِمٍ يُصَل
+ ِّي لِلَّهِ كُلَّ يَوْمٍ ثِنْتَيْ عَشْر
+ َةَ رَكْعَةً تَطَوُّعًا، غَيْرَ فَرِيضَ
+ ةٍ، إِلَّا بَنَى اللَّهُ لَهُ بَيْتًا فِ
+ ي الْجَنَّةِ\n\n───────────────
+ ─────\nSalatTid.se — Sadaqah Jariyah\nhttps://salattid.com/sun
+ nah
+TRANSP:TRANSPARENT
+URL:https://salattid.com/sunnah
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Dagens sunnah: Be 12 rak'ah Sunnah ar-Rawatib varje dag
+TRIGGER:P0D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌙 Dagens sunnah: Säg Salam till barn
+DTSTART:20260612T090000
+DTEND:20260612T091500
+DTSTAMP:20260426T221150Z
+UID:sunnah-2026-06-12-salam-till-barn@salattid.se
+CATEGORIES:Sunnah,Daglig påminnelse
+DESCRIPTION:📖 Hadith\n"Anas (RA) gick förbi några barn och hälsade p
+ å dem. Han sa: "Profeten ﷺ brukade göra detta.""\n— Sahih al-Bukhari
+  6247\; Sahih Muslim 2168\n\n✨ Att praktisera idag:\n  • Säg "Assalam
+ u alaikum" till varje muslimskt barn du möter\n  • Sätt dig på huk f
+ ör att vara i deras höjd\n  • Det lär dem vikten av salam och bygger 
+ självkänsla\n\n───────────────────
+ ─\n🇬🇧 English\n"Anas (RA) passed by some children and greeted them
+  with Salam. He said: "The Prophet ﷺ used to do this.""\n— Sahih al-Bu
+ khari 6247\; Sahih Muslim 2168\n\nTo practice today:\n  • Say "Assalamu 
+ alaikum" to every Muslim child you meet\n  • Crouch down to their height
+ \n  • It teaches them the importance of salam and builds their self-wort
+ h\n\n────────────────────\n🕋 ا
+ لعربية (original)\nأَنَّهُ مَرَّ عَلَى صِبْيَ
+ انٍ فَسَلَّمَ عَلَيْهِمْ، وَقَالَ: كَان
+ َ النَّبِيُّ ﷺ يَفْعَلُهُ\n\n───────
+ ─────────────\nSalatTid.se — Sadaqah Jariyah\n
+ https://salattid.com/sunnah
+TRANSP:TRANSPARENT
+URL:https://salattid.com/sunnah
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Dagens sunnah: Säg Salam till barn
+TRIGGER:P0D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌙 Dagens sunnah: Ät från din egen sida av tallriken
+DTSTART:20260613T090000
+DTEND:20260613T091500
+DTSTAMP:20260426T221150Z
+UID:sunnah-2026-06-13-at-fran-din-sida@salattid.se
+CATEGORIES:Sunnah,Daglig påminnelse
+DESCRIPTION:📖 Hadith\n"Profeten ﷺ sa till en pojke (Umar bin Abi Sala
+ ma): "Pojke\, säg Bismillah\, ät med höger hand\, och ät från det som
+  är närmast dig.""\n— Sahih al-Bukhari 5376\; Sahih Muslim 2022\n\n✨
+  Att praktisera idag:\n  • Vid gemensam tallrik: ta från din kant\, int
+ e mitten\n  • Mitten är där välsignelsen sjunker ner — ta inte den 
+ först (Tirmidhi 1805)\n  • Ät i sittande ställning (Bukhari 5398)\n\n
+ ────────────────────\n🇬🇧 Eng
+ lish\n"The Prophet ﷺ said to a boy (Umar bin Abi Salama): "Boy\, say Bis
+ millah\, eat with your right hand\, and eat from what is in front of you."
+ "\n— Sahih al-Bukhari 5376\; Sahih Muslim 2022\n\nTo practice today:\n  
+ • Sharing a plate: take from your edge\, not the middle\n  • The middl
+ e is where blessing descends — don't take from there first (Tirmidhi 180
+ 5)\n  • Eat sitting down (Bukhari 5398)\n\n─────────
+ ───────────\n🕋 العربية (original)\nيَا 
+ غُلَامُ، سَمِّ اللَّهَ، وَكُلْ بِيَمِين
+ ِكَ، وَكُلْ مِمَّا يَلِيكَ\n\n───────
+ ─────────────\nSalatTid.se — Sadaqah Jariyah\n
+ https://salattid.com/sunnah
+TRANSP:TRANSPARENT
+URL:https://salattid.com/sunnah
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Dagens sunnah: Ät från din egen sida av tallriken
+TRIGGER:P0D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌙 Dagens sunnah: Slicka av fingrarna efter maten
+DTSTART:20260614T090000
+DTEND:20260614T091500
+DTSTAMP:20260426T221150Z
+UID:sunnah-2026-06-14-slicka-fingrar-efter-mat@salattid.se
+CATEGORIES:Sunnah,Daglig påminnelse
+DESCRIPTION:📖 Hadith\n"När någon av er äter\, låt honom inte torka 
+ av handen förrän han slickat den ren — för han vet inte i vilken del 
+ av maten välsignelsen finns."\n— Sahih Muslim 2033\n\n✨ Att praktiser
+ a idag:\n  • Slicka av fingrarna efter en måltid med händerna\n  • P
+ locka upp tappade smulor och ät dem (Muslim 2033)\n  • Säg "Alhamdulil
+ lah" efter måltiden\n\n────────────────
+ ────\n🇬🇧 English\n"When any of you eats\, let him not wipe h
+ is hand until he licks it — for he does not know in which part of the fo
+ od the blessing lies."\n— Sahih Muslim 2033\n\nTo practice today:\n  •
+  Lick fingers clean after a hand-eaten meal\n  • Pick up dropped crumbs 
+ and eat them (Muslim 2033)\n  • Say "Alhamdulillah" after the meal\n\n
+ ────────────────────\n🕋 الع
+ ربية (original)\nإِذَا أَكَلَ أَحَدُكُمْ فَلَ
+ ا يَمْسَحْ يَدَهُ حَتَّى يَلْعَقَهَا أَ
+ وْ يُلْعِقَهَا\n\n──────────────
+ ──────\nSalatTid.se — Sadaqah Jariyah\nhttps://salattid.com/
+ sunnah
+TRANSP:TRANSPARENT
+URL:https://salattid.com/sunnah
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Dagens sunnah: Slicka av fingrarna efter maten
+TRIGGER:P0D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌙 Dagens sunnah: Tahajjud — be i nattens sista tredjedel
+DTSTART:20260615T090000
+DTEND:20260615T091500
+DTSTAMP:20260426T221150Z
+UID:sunnah-2026-06-15-tahajjud-sista-tredjedel@salattid.se
+CATEGORIES:Sunnah,Daglig påminnelse
+DESCRIPTION:📖 Hadith\n"Vår Herre stiger ner till den lägsta himlen va
+ rje natt\, när nattens sista tredjedel är kvar\, och säger: Vem ber Mig
+  så att Jag besvarar honom? Vem frågar Mig så att Jag ger honom? Vem s
+ öker Min förlåtelse så att Jag förlåter honom?"\n— Sahih al-Bukhar
+ i 1145\; Sahih Muslim 758\n\n✨ Att praktisera idag:\n  • Räkna ut din
+  nattens sista tredjedel: (Maghrib → Fajr) ÷ 3 × 2 från Maghrib\n  
+ • Be så få eller många rak'ah du orkar — ens 2 räknas\n  • Bäst
+ a tiden för dua hela dygnet — ha din viktigaste önskan redo\n\n──
+ ──────────────────\n🇬🇧 English\n
+ "Our Lord descends to the lowest heaven every night\, when the last third 
+ of the night remains\, and says: Who calls upon Me so that I may answer hi
+ m? Who asks Me so that I may give him? Who seeks My forgiveness so that I 
+ may forgive him?"\n— Sahih al-Bukhari 1145\; Sahih Muslim 758\n\nTo prac
+ tice today:\n  • Calculate the last third: (Maghrib → Fajr) ÷ 3 × 2 
+ from Maghrib\n  • Pray as few or as many rak'ahs as you can — even 2 c
+ ounts\n  • The best time for dua of the whole day — have your most imp
+ ortant request ready\n\n────────────────
+ ────\n🕋 العربية (original)\nيَنْزِلُ رَبُّ
+ نَا تَبَارَكَ وَتَعَالَى كُلَّ لَيْلَةٍ
+  إِلَى السَّمَاءِ الدُّنْيَا، حِينَ يَب
+ ْقَى ثُلُثُ اللَّيْلِ الْآخِرُ، يَقُولُ
+ : مَنْ يَدْعُونِي فَأَسْتَجِيبَ لَهُ، مَ
+ نْ يَسْأَلُنِي فَأُعْطِيَهُ، مَنْ يَسْت
+ َغْفِرُنِي فَأَغْفِرَ لَهُ\n\n──────
+ ──────────────\nSalatTid.se — Sadaqah Jariya
+ h\nhttps://salattid.com/sunnah
+TRANSP:TRANSPARENT
+URL:https://salattid.com/sunnah
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Dagens sunnah: Tahajjud — be i nattens sista tredjedel
+TRIGGER:P0D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌙 Dagens sunnah: 1 Muharram 1448 — den heliga månaden börja
+ r
+DTSTART:20260616T090000
+DTEND:20260616T091500
+DTSTAMP:20260426T221150Z
+UID:sunnah-2026-06-16-muharram-helig-manad@salattid.se
+CATEGORIES:Sunnah,Daglig påminnelse
+DESCRIPTION:📖 Hadith\n"Året har tolv månader\, varav fyra är heliga:
+  tre i följd — Dhul-Qa'dah\, Dhul-Hijjah och Muharram — och Rajab Mud
+ ar."\n— Sahih al-Bukhari 4662\; Sahih Muslim 1679\n\n✨ Att praktisera 
+ idag:\n  • Idag är 1 Muharram 1448 — det islamiska nyåret\n  • Syn
+ der och belöningar väger tyngre under heliga månader — undvik orättv
+ isa\, öka goda gärningar\n  • Profeten ﷺ sa: "Den bästa fastan efte
+ r Ramadan är Allahs månad Muharram" (Muslim 1163) — sikta på extra fa
+ stedagar denna månad\n  • Höjdpunkter att förbereda: Tasu'a (24 juni)
+  och Ashura (25 juni)\n  • Datum bekräftat av Islamiska Förbundet / Sv
+ eriges Imamråd\n\n──────────────────
+ ──\n🇬🇧 English\n"The year has twelve months\, four of which are 
+ sacred: three consecutive — Dhul-Qa'dah\, Dhul-Hijjah\, and Muharram —
+  and Rajab of Mudar."\n— Sahih al-Bukhari 4662\; Sahih Muslim 1679\n\nTo
+  practice today:\n  • Today is 1 Muharram 1448 — the Islamic New Year\
+ n  • Sins and rewards weigh more in sacred months — avoid wrongdoing\,
+  increase good deeds\n  • The Prophet ﷺ said: "The best fasting after 
+ Ramadan is Allah's month Muharram" (Muslim 1163) — aim for extra fasts t
+ his month\n  • Coming up: Tasu'a (June 24) and Ashura (June 25)\n  • D
+ ate confirmed by Islamiska Förbundet / Sveriges Imamråd\n\n────
+ ────────────────\n🕋 العربية (ori
+ ginal)\nالسَّنَةُ اثْنَا عَشَرَ شَهْرًا، مِ
+ نْهَا أَرْبَعَةٌ حُرُمٌ: ثَلَاثَةٌ مُتَ
+ وَالِيَاتٌ ذُو الْقَعْدَةِ وَذُو الْحِج
+ َّةِ وَالْمُحَرَّمُ، وَرَجَبُ مُضَرَ\n\n
+ ────────────────────\nSalatTid.se 
+ — Sadaqah Jariyah\nhttps://salattid.com/sunnah
+TRANSP:TRANSPARENT
+URL:https://salattid.com/sunnah
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Dagens sunnah: 1 Muharram 1448 — den heliga månaden börjar
+TRIGGER:P0D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌙 Dagens sunnah: Tahiyyatul-Masjid — 2 rak'ah när du går in
+  i moskén
+DTSTART:20260617T090000
+DTEND:20260617T091500
+DTSTAMP:20260426T221150Z
+UID:sunnah-2026-06-17-tahiyyatul-masjid@salattid.se
+CATEGORIES:Sunnah,Daglig påminnelse
+DESCRIPTION:📖 Hadith\n"När någon av er går in i moskén\, låt honom
+  be två rak'ah innan han sätter sig."\n— Sahih al-Bukhari 1163\; Sahih
+  Muslim 714\n\n✨ Att praktisera idag:\n  • Be 2 korta rak'ah så snart
+  du gått in i moskén — innan du sätter dig\n  • Gäller även om im
+ amen håller på med khutbah (Muslim 875) — be korta\n  • Är fard-bö
+ nen redan igång? Hoppa över Tahiyyatul-Masjid och gå in i bönen\n\n─
+ ───────────────────\n🇬🇧 Englis
+ h\n"When any of you enters the mosque\, let him pray two rak'ahs before he
+  sits down."\n— Sahih al-Bukhari 1163\; Sahih Muslim 714\n\nTo practice 
+ today:\n  • Pray 2 short rak'ahs as soon as you enter the mosque — bef
+ ore you sit\n  • Applies even during khutbah (Muslim 875) — keep them 
+ short\n  • Fard prayer already started? Skip Tahiyyatul-Masjid and join 
+ the prayer\n\n────────────────────
+ \n🕋 العربية (original)\nإِذَا دَخَلَ أَحَدُكُ
+ مُ الْمَسْجِدَ فَلْيَرْكَعْ رَكْعَتَيْ
+ نِ قَبْلَ أَنْ يَجْلِسَ\n\n─────────
+ ───────────\nSalatTid.se — Sadaqah Jariyah\nhttps:
+ //salattid.com/sunnah
+TRANSP:TRANSPARENT
+URL:https://salattid.com/sunnah
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Dagens sunnah: Tahiyyatul-Masjid — 2 rak'ah när du går in 
+ i moskén
+TRIGGER:P0D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌙 Dagens sunnah: Sadaqah minskar inte rikedom
+DTSTART:20260618T090000
+DTEND:20260618T091500
+DTSTAMP:20260426T221150Z
+UID:sunnah-2026-06-18-sadaqah-minskar-inte-rikedom@salattid.se
+CATEGORIES:Sunnah,Daglig påminnelse
+DESCRIPTION:📖 Hadith\n"Sadaqah minskar inte rikedom. Allah ökar bara f
+ örlåtelsens slav i ära. Och ingen ödmjukar sig för Allah utan att All
+ ah upphöjer honom."\n— Sahih Muslim 2588\n\n✨ Att praktisera idag:\n 
+  • Tre löften från Profeten ﷺ: ge sadaqah\, förlåt andra\, var öd
+ mjuk\n  • Praktisera ALLA tre idag — ge något\, förlåt någon\, var
+  ödmjuk i ett möte\n  • Resultatet är garanterat — bevarad rikedom\
+ , ökad ära\, upphöjd status hos Allah\n\n──────────
+ ──────────\n🇬🇧 English\n"Sadaqah does not decrea
+ se wealth. Allah only increases the one who forgives in honor. And no one 
+ humbles himself for Allah except that Allah raises him."\n— Sahih Muslim
+  2588\n\nTo practice today:\n  • Three promises from the Prophet ﷺ: gi
+ ve sadaqah\, forgive others\, be humble\n  • Practice ALL three today 
+ — give something\, forgive someone\, be humble in a meeting\n  • The r
+ esult is guaranteed — preserved wealth\, increased honor\, raised status
+  with Allah\n\n───────────────────
+ ─\n🕋 العربية (original)\nمَا نَقَصَتْ صَدَقَ
+ ةٌ مِنْ مَالٍ، وَمَا زَادَ اللَّهُ عَبْد
+ ًا بِعَفْوٍ إِلَّا عِزًّا، وَمَا تَوَاض
+ َعَ أَحَدٌ لِلَّهِ إِلَّا رَفَعَهُ اللَ
+ ّهُ\n\n────────────────────\nSa
+ latTid.se — Sadaqah Jariyah\nhttps://salattid.com/sunnah
+TRANSP:TRANSPARENT
+URL:https://salattid.com/sunnah
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Dagens sunnah: Sadaqah minskar inte rikedom
+TRIGGER:P0D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌙 Dagens sunnah: Var barmhärtig mot unga\, hedra de äldre
+DTSTART:20260619T090000
+DTEND:20260619T091500
+DTSTAMP:20260426T221150Z
+UID:sunnah-2026-06-19-barmhartighet-mot-unga-aktning-mot-aldre@salattid.se
+CATEGORIES:Sunnah,Daglig påminnelse
+DESCRIPTION:📖 Hadith\n"Den är inte av oss som inte är barmhärtig mot
+  våra unga och inte erkänner värdigheten hos våra äldre."\n— Jami` 
+ at-Tirmidhi 1919 (sahih per Albani)\n\n✨ Att praktisera idag:\n  • Mot
+  barn idag: tålamod\, vänliga ord\, ögonkontakt\, tid\n  • Mot äldre
+  idag: stå upp\, prioritera deras plats\, lyssna utan att avbryta\n  • 
+ Hjälp en gammal granne — bär matkassar\, kör till moskén\n\n──
+ ──────────────────\n🇬🇧 English\n
+ "He is not of us who is not merciful to our young\, and does not recognize
+  the dignity of our elderly."\n— Jami` at-Tirmidhi 1919 (sahih per Alban
+ i)\n\nTo practice today:\n  • With children today: patience\, gentle wor
+ ds\, eye contact\, time\n  • With elders today: stand up\, give them sea
+ ts\, listen without interrupting\n  • Help an elderly neighbor — carry
+  groceries\, drive to the mosque\n\n────────────
+ ────────\n🕋 العربية (original)\nلَيْسَ م
+ ِنَّا مَنْ لَمْ يَرْحَمْ صَغِيرَنَا، وَ
+ يَعْرِفْ شَرَفَ كَبِيرِنَا\n\n──────
+ ──────────────\nSalatTid.se — Sadaqah Jariya
+ h\nhttps://salattid.com/sunnah
+TRANSP:TRANSPARENT
+URL:https://salattid.com/sunnah
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Dagens sunnah: Var barmhärtig mot unga\, hedra de äldre
+TRIGGER:P0D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌙 Dagens sunnah: Hjälp din familj i hemmet
+DTSTART:20260620T090000
+DTEND:20260620T091500
+DTSTAMP:20260426T221150Z
+UID:sunnah-2026-06-20-hjalpa-din-fru-hemma@salattid.se
+CATEGORIES:Sunnah,Daglig påminnelse
+DESCRIPTION:📖 Hadith\n"Aisha (RA) tillfrågades vad Profeten ﷺ brukad
+ e göra hemma. Hon sa: "Han brukade vara i sin familjs tjänst\, och när 
+ bönen kom gick han till bönen.""\n— Sahih al-Bukhari 676\n\n✨ Att pr
+ aktisera idag:\n  • Diska\, tvätta\, laga mat\, ta hand om barnen — d
+ et är sunnah\n  • "Manlighet" är inte att sitta still — Profeten ﷺ
+  lagade sina egna skor\n  • Gör en hushållsuppgift idag som du normalt
+  skjuter på frun\n\n─────────────────
+ ───\n🇬🇧 English\n"Aisha (RA) was asked what the Prophet ﷺ us
+ ed to do at home. She said: "He used to be in the service of his family\, 
+ and when the prayer was due\, he would go to prayer.""\n— Sahih al-Bukha
+ ri 676\n\nTo practice today:\n  • Wash dishes\, do laundry\, cook\, care
+  for the children — it's sunnah\n  • "Manliness" is not sitting still 
+ — the Prophet ﷺ mended his own shoes\n  • Do a household task today 
+ you normally leave to your wife\n\n─────────────
+ ───────\n🕋 العربية (original)\nكَانَ يَكُ
+ ونُ فِي مِهْنَةِ أَهْلِهِ، فَإِذَا حَضَ
+ رَتِ الصَّلَاةُ خَرَجَ إِلَى الصَّلَاةِ
+ \n\n────────────────────\nSalatTid
+ .se — Sadaqah Jariyah\nhttps://salattid.com/sunnah
+TRANSP:TRANSPARENT
+URL:https://salattid.com/sunnah
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Dagens sunnah: Hjälp din familj i hemmet
+TRIGGER:P0D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌙 Dagens sunnah: Bär vita kläder
+DTSTART:20260621T090000
+DTEND:20260621T091500
+DTSTAMP:20260426T221150Z
+UID:sunnah-2026-06-21-vita-klader@salattid.se
+CATEGORIES:Sunnah,Daglig påminnelse
+DESCRIPTION:📖 Hadith\n"Bär vita kläder\, för de är det bästa av er
+ a kläder. Och svep era döda i dem."\n— Jami` at-Tirmidhi 994 (sahih)\;
+  Sunan Abi Dawud 3878\n\n✨ Att praktisera idag:\n  • Vit thobe / abaya
+  / skjorta — särskilt på fredagar och Eid\n  • Vit speglar ljus\, ä
+ r ren\, är ödmjuk\n  • Påminner dig dagligen om dina kafan (svepnings
+ kläder)\n\n────────────────────\n
+ 🇬🇧 English\n"Wear white clothes\, for they are the best of your clot
+ hes. And shroud your dead in them."\n— Jami` at-Tirmidhi 994 (sahih)\; S
+ unan Abi Dawud 3878\n\nTo practice today:\n  • White thobe / abaya / shi
+ rt — especially on Fridays and Eid\n  • White reflects light\, is clea
+ n\, is humble\n  • Reminds you daily of your kafan (burial shroud)\n\n
+ ────────────────────\n🕋 الع
+ ربية (original)\nالْبَسُوا مِنْ ثِيَابِكُمُ ا
+ لْبَيَاضَ، فَإِنَّهَا مِنْ خَيْرِ ثِيَا
+ بِكُمْ، وَكَفِّنُوا فِيهَا مَوْتَاكُمْ\
+ n\n────────────────────\nSalatTid.
+ se — Sadaqah Jariyah\nhttps://salattid.com/sunnah
+TRANSP:TRANSPARENT
+URL:https://salattid.com/sunnah
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Dagens sunnah: Bär vita kläder
+TRIGGER:P0D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌙 Dagens sunnah: Säg åt din broder att du älskar honom för 
+ Allahs skull
+DTSTART:20260622T090000
+DTEND:20260622T091500
+DTSTAMP:20260426T221150Z
+UID:sunnah-2026-06-22-sag-att-du-alskar-din-broder@salattid.se
+CATEGORIES:Sunnah,Daglig påminnelse
+DESCRIPTION:📖 Hadith\n"När någon av er älskar sin broder\, låt hono
+ m säga det till honom."\n— Sunan Abi Dawud 5124 (sahih per Albani)\; Ja
+ mi` at-Tirmidhi 2392\n\n✨ Att praktisera idag:\n  • Säg det idag till
+  en muslimsk vän: "Uhibbuka fillah" (Jag älskar dig för Allahs skull)\n
+   • Han svarar: "Ahabbakal-ladhi ahbabtani lah" (Må Han som du älskat 
+ mig för älska dig)\n  • Bygger riktiga band — minskar splittring i u
+ mmah\n\n────────────────────\n🇬
+ 🇧 English\n"When any of you loves his brother\, let him tell him."\n—
+  Sunan Abi Dawud 5124 (sahih per Albani)\; Jami` at-Tirmidhi 2392\n\nTo pr
+ actice today:\n  • Say it today to a Muslim friend: "Uhibbuka fillah" (I
+  love you for the sake of Allah)\n  • He replies: "Ahabbakal-ladhi ahbab
+ tani lah" (May He for whose sake you loved me\, love you)\n  • Builds re
+ al bonds — reduces division in the ummah\n\n─────────
+ ───────────\n🕋 العربية (original)\nإِذ
+ َا أَحَبَّ أَحَدُكُمْ أَخَاهُ، فَلْيُخْ
+ بِرْهُ أَنَّهُ يُحِبُّهُ\n\n────────
+ ────────────\nSalatTid.se — Sadaqah Jariyah\nhtt
+ ps://salattid.com/sunnah
+TRANSP:TRANSPARENT
+URL:https://salattid.com/sunnah
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Dagens sunnah: Säg åt din broder att du älskar honom för A
+ llahs skull
+TRIGGER:P0D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌙 Dagens sunnah: Miswak när du vaknar för bön
+DTSTART:20260623T090000
+DTEND:20260623T091500
+DTSTAMP:20260426T221150Z
+UID:sunnah-2026-06-23-miswak-vid-uppvaknande@salattid.se
+CATEGORIES:Sunnah,Daglig påminnelse
+DESCRIPTION:📖 Hadith\n"När Profeten ﷺ steg upp på natten brukade ha
+ n rengöra munnen med miswak."\n— Sahih al-Bukhari 245\; Sahih Muslim 25
+ 5\n\n✨ Att praktisera idag:\n  • Lägg en miswak vid sängen — anvä
+ nd direkt efter du vaknar\n  • Innan Fajr-bönen är extra bra — du l
+ äser Quran med ren mun\n  • Munnen är vägen Quran kommer ut — håll
+  den ren\n\n────────────────────\n
+ 🇬🇧 English\n"When the Prophet ﷺ got up at night\, he would clean h
+ is mouth with the miswak."\n— Sahih al-Bukhari 245\; Sahih Muslim 255\n\
+ nTo practice today:\n  • Keep a miswak by the bed — use right after wa
+ king\n  • Before Fajr is especially good — you'll recite Quran with a 
+ clean mouth\n  • The mouth is the path the Quran exits — keep it clean
+ \n\n────────────────────\n🕋 ا
+ لعربية (original)\nكَانَ النَّبِيُّ ﷺ إِذَا ق
+ َامَ مِنَ اللَّيْلِ يَشُوصُ فَاهُ بِالس
+ ِّوَاكِ\n\n──────────────────
+ ──\nSalatTid.se — Sadaqah Jariyah\nhttps://salattid.com/sunnah
+TRANSP:TRANSPARENT
+URL:https://salattid.com/sunnah
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Dagens sunnah: Miswak när du vaknar för bön
+TRIGGER:P0D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌙 Dagens sunnah: Fasta Tasu'a — 9 Muharram
+DTSTART:20260624T090000
+DTEND:20260624T091500
+DTSTAMP:20260426T221150Z
+UID:sunnah-2026-06-24-fasta-tasua-9-muharram@salattid.se
+CATEGORIES:Sunnah,Daglig påminnelse
+DESCRIPTION:📖 Hadith\n""Om jag lever till nästa år ska jag fasta äve
+ n den nionde." (Profeten ﷺ ville fasta 9 Muharram tillsammans med 10 fö
+ r att skilja sig från judarna som bara fastar 10.)"\n— Sahih Muslim 113
+ 4\n\n✨ Att praktisera idag:\n  • Idag är 9 Muharram — fasta tillsam
+ mans med Ashura imorgon\n  • Sätt nijjah ikväll\, vakna för suhoor\n 
+  • Att fasta 9 + 10 är den fullständiga sunnah\; bara 10 är också gi
+ ltigt\n  • Bryt vid Maghrib med dadlar och vatten\n  • Datum bekräfta
+ t av Islamiska Förbundet / Sveriges Imamråd\n\n────────
+ ────────────\n🇬🇧 English\n""If I live until 
+ next year\, I will fast the ninth as well." (The Prophet ﷺ intended to f
+ ast 9 Muharram alongside the 10th to differ from the Jews who fast only th
+ e 10th.)"\n— Sahih Muslim 1134\n\nTo practice today:\n  • Today is 9 M
+ uharram — fast alongside Ashura tomorrow\n  • Make nijjah tonight\, wa
+ ke for suhoor\n  • Fasting 9 + 10 is the complete sunnah\; just 10 alone
+  is also valid\n  • Break at Maghrib with dates and water\n  • Date co
+ nfirmed by Islamiska Förbundet / Sveriges Imamråd\n\n──────
+ ──────────────\n🕋 العربية (original)
+ \nلَئِنْ بَقِيتُ إِلَى قَابِلٍ لَأَصُومَ
+ نَّ التَّاسِعَ\n\n──────────────
+ ──────\nSalatTid.se — Sadaqah Jariyah\nhttps://salattid.com/
+ sunnah
+TRANSP:TRANSPARENT
+URL:https://salattid.com/sunnah
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Dagens sunnah: Fasta Tasu'a — 9 Muharram
+TRIGGER:P0D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌙 Dagens sunnah: Fasta Ashura — 10 Muharram
+DTSTART:20260625T090000
+DTEND:20260625T091500
+DTSTAMP:20260426T221150Z
+UID:sunnah-2026-06-25-fasta-ashura-10-muharram@salattid.se
+CATEGORIES:Sunnah,Daglig påminnelse
+DESCRIPTION:📖 Hadith\n"Fastan på Ashura — jag hoppas hos Allah att d
+ en utplånar synderna från året innan."\n— Sahih Muslim 1162\n\n✨ At
+ t praktisera idag:\n  • Idag är 10 Muharram — Ashura. En av årets vi
+ ktigaste frivilliga fastor\n  • Fastan utplånar mindre synder från år
+ et som gått\n  • Allah räddade Musa (AS) och Bani Isra'il från Farao 
+ denna dag (Bukhari 2004)\n  • Bryt vid Maghrib\n  • Datum bekräftat a
+ v Islamiska Förbundet / Sveriges Imamråd\n\n─────────
+ ───────────\n🇬🇧 English\n"Fasting the Day of A
+ shura — I hope from Allah that it expiates the sins of the previous year
+ ."\n— Sahih Muslim 1162\n\nTo practice today:\n  • Today is 10 Muharra
+ m — Ashura. One of the year's most important voluntary fasts\n  • The 
+ fast expiates minor sins of the past year\n  • Allah saved Musa (AS) and
+  Bani Isra'il from Pharaoh on this day (Bukhari 2004)\n  • Break at Magh
+ rib\n  • Date confirmed by Islamiska Förbundet / Sveriges Imamråd\n\n
+ ────────────────────\n🕋 الع
+ ربية (original)\nصِيَامُ يَوْمِ عَاشُورَاءَ، 
+ أَحْتَسِبُ عَلَى اللَّهِ أَنْ يُكَفِّرَ
+  السَّنَةَ الَّتِي قَبْلَهُ\n\n──────
+ ──────────────\nSalatTid.se — Sadaqah Jariya
+ h\nhttps://salattid.com/sunnah
+TRANSP:TRANSPARENT
+URL:https://salattid.com/sunnah
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Dagens sunnah: Fasta Ashura — 10 Muharram
+TRIGGER:P0D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌙 Dagens sunnah: Var god mot din granne
+DTSTART:20260626T090000
+DTEND:20260626T091500
+DTSTAMP:20260426T221150Z
+UID:sunnah-2026-06-26-var-god-mot-grannen@salattid.se
+CATEGORIES:Sunnah,Daglig påminnelse
+DESCRIPTION:📖 Hadith\n"Jibreel fortsatte att förmana mig om grannen\, 
+ tills jag trodde han skulle göra honom till arvinge."\n— Sahih al-Bukha
+ ri 6014\; Sahih Muslim 2624\n\n✨ Att praktisera idag:\n  • Identifiera
+  dina tre närmaste grannar — vet du deras namn?\n  • Knacka på idag 
+ med en liten gåva: bröd\, dadlar\, kakor\n  • "Granne" inkluderar musl
+ im och icke-muslim — inget undantag\n\n───────────
+ ─────────\n🇬🇧 English\n"Jibreel kept enjoining goo
+ d treatment of the neighbor upon me\, until I thought he would make him an
+  heir."\n— Sahih al-Bukhari 6014\; Sahih Muslim 2624\n\nTo practice toda
+ y:\n  • Identify your three closest neighbors — do you know their name
+ s?\n  • Knock today with a small gift: bread\, dates\, cookies\n  • "N
+ eighbor" includes Muslim and non-Muslim — no exceptions\n\n────
+ ────────────────\n🕋 العربية (ori
+ ginal)\nمَا زَالَ جِبْرِيلُ يُوصِينِي بِالْ
+ جَارِ، حَتَّى ظَنَنْتُ أَنَّهُ سَيُوَرِ
+ ّثُهُ\n\n────────────────────
+ \nSalatTid.se — Sadaqah Jariyah\nhttps://salattid.com/sunnah
+TRANSP:TRANSPARENT
+URL:https://salattid.com/sunnah
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Dagens sunnah: Var god mot din granne
+TRIGGER:P0D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌙 Dagens sunnah: Hedra din gäst
+DTSTART:20260627T090000
+DTEND:20260627T091500
+DTSTAMP:20260426T221150Z
+UID:sunnah-2026-06-27-hedra-din-gast@salattid.se
+CATEGORIES:Sunnah,Daglig påminnelse
+DESCRIPTION:📖 Hadith\n"Den som tror på Allah och den yttersta dagen\, 
+ låt honom hedra sin gäst."\n— Sahih al-Bukhari 6135\; Sahih Muslim 47\
+ n\n✨ Att praktisera idag:\n  • Bjud in någon på iftar / fika / midda
+ g den här veckan\n  • Gästfrihet är 3 dagar — första dagen extra g
+ enerös\, dag 2–3 vanlig kost\n  • Bär ut den till dörren när han g
+ år (Tirmidhi 1739)\n\n─────────────────
+ ───\n🇬🇧 English\n"Whoever believes in Allah and the Last Day\,
+  let him honor his guest."\n— Sahih al-Bukhari 6135\; Sahih Muslim 47\n\
+ nTo practice today:\n  • Invite someone for iftar / coffee / dinner this
+  week\n  • Hospitality is 3 days — first day extra generous\, days 2
+ –3 normal food\n  • Walk them to the door when they leave (Tirmidhi 17
+ 39)\n\n────────────────────\n🕋 
+ العربية (original)\nمَنْ كَانَ يُؤْمِنُ بِالل
+ َّهِ وَالْيَوْمِ الْآخِرِ فَلْيُكْرِمْ 
+ ضَيْفَهُ\n\n──────────────────
+ ──\nSalatTid.se — Sadaqah Jariyah\nhttps://salattid.com/sunnah
+TRANSP:TRANSPARENT
+URL:https://salattid.com/sunnah
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Dagens sunnah: Hedra din gäst
+TRIGGER:P0D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌙 Dagens sunnah: Ayyam al-Beed börjar — Muharrams vita dagar
+DTSTART:20260628T090000
+DTEND:20260628T091500
+DTSTAMP:20260426T221150Z
+UID:sunnah-2026-06-28-ayyam-al-beed-muharram@salattid.se
+CATEGORIES:Sunnah,Daglig påminnelse
+DESCRIPTION:📖 Hadith\n"Att fasta tre dagar varje månad\, och Ramadan t
+ ill Ramadan — det är som att fasta hela året."\n— Sahih Muslim 1162\
+ n\n✨ Att praktisera idag:\n  • Idag är 13 Muharram 1448 — första v
+ ita dagen i en helig månad\n  • Fasta 13\, 14\, 15 Muharram (28\, 29\, 
+ 30 juni) — extra belöning i Muharram\n  • Den som inte hinner alla tr
+ e: 14:e (måndag) räknas också som regelbunden mån-fasta\n  • Sätt n
+ ijjah ikväll\n  • Källa för datum: Islamiska Förbundet / Sveriges Im
+ amråd\n\n────────────────────\n
+ 🇬🇧 English\n"Fasting three days every month\, and Ramadan to Ramadan
+  — that is like fasting the entire year."\n— Sahih Muslim 1162\n\nTo p
+ ractice today:\n  • Today is 13 Muharram 1448 — first white day in a s
+ acred month\n  • Fast 13\, 14\, 15 Muharram (June 28\, 29\, 30) — extr
+ a reward in Muharram\n  • Can't do all three: the 14th (Monday) doubles 
+ as the regular Monday fast\n  • Make nijjah tonight\n  • Date source: 
+ Islamiska Förbundet / Sveriges Imamråd\n\n──────────
+ ──────────\n🕋 العربية (original)\nصِيَا
+ مُ ثَلَاثَةِ أَيَّامٍ مِنْ كُلِّ شَهْرٍ
+ ، وَرَمَضَانَ إِلَى رَمَضَانَ، فَهَذَا 
+ صِيَامُ الدَّهْرِ\n\n────────────
+ ────────\nSalatTid.se — Sadaqah Jariyah\nhttps://salatti
+ d.com/sunnah
+TRANSP:TRANSPARENT
+URL:https://salattid.com/sunnah
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Dagens sunnah: Ayyam al-Beed börjar — Muharrams vita dagar
+TRIGGER:P0D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌙 Dagens sunnah: Visa ömhet mot barnen
+DTSTART:20260629T090000
+DTEND:20260629T091500
+DTSTAMP:20260426T221150Z
+UID:sunnah-2026-06-29-visa-omhet-mot-barn@salattid.se
+CATEGORIES:Sunnah,Daglig påminnelse
+DESCRIPTION:📖 Hadith\n"Den som inte visar barmhärtighet\, kommer inte 
+ att få barmhärtighet. (Profeten ﷺ sa detta när al-Aqra' bin Habis sa 
+ att han hade tio barn och aldrig kysst någon av dem.)"\n— Sahih al-Bukh
+ ari 5997\; Sahih Muslim 2318\n\n✨ Att praktisera idag:\n  • Kyss dina 
+ barn / barnbarn idag — på pannan\, kinden\, hjässan\n  • Säg "jag 
+ älskar dig" tydligt och ofta\n  • Lyft upp dem\, lek på golvet — Pro
+ feten ﷺ red Hasan och Hussain på sin rygg\n\n────────
+ ────────────\n🇬🇧 English\n"He who shows no m
+ ercy will not be shown mercy. (The Prophet ﷺ said this when al-Aqra' bin
+  Habis told him he had ten children and had never kissed any of them.)"\n
+ — Sahih al-Bukhari 5997\; Sahih Muslim 2318\n\nTo practice today:\n  •
+  Kiss your children / grandchildren today — on the forehead\, cheek\, he
+ ad\n  • Say "I love you" clearly and often\n  • Lift them up\, play on
+  the floor — the Prophet ﷺ let Hasan and Hussain ride on his back\n\n
+ ────────────────────\n🕋 الع
+ ربية (original)\nمَنْ لَا يَرْحَمْ، لَا يُرْح
+ َمْ\n\n────────────────────\nSa
+ latTid.se — Sadaqah Jariyah\nhttps://salattid.com/sunnah
+TRANSP:TRANSPARENT
+URL:https://salattid.com/sunnah
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Dagens sunnah: Visa ömhet mot barnen
+TRIGGER:P0D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌙 Dagens sunnah: Tacksamhet i medgång\, tålamod i motgång
+DTSTART:20260630T090000
+DTEND:20260630T091500
+DTSTAMP:20260426T221150Z
+UID:sunnah-2026-06-30-den-troendes-affar-ar-gott@salattid.se
+CATEGORIES:Sunnah,Daglig påminnelse
+DESCRIPTION:📖 Hadith\n"Förvånande är den troendes affär! All hans a
+ ngelägenhet är gott — och det gäller ingen utom den troende: drabbas 
+ han av glädje\, tackar han\, och det är gott för honom\; drabbas han av
+  motgång\, håller han ut\, och det är gott för honom."\n— Sahih Musl
+ im 2999\n\n✨ Att praktisera idag:\n  • Något bra hänt idag? Säg "Al
+ hamdulillah" — högt\, inte bara i tanken\n  • Något jobbigt? Säg "I
+ nna lillahi wa inna ilayhi raji'un" och be om belöning för tålamod\n  
+ • Reflektera kvällstid: vad var gott i dag? Vad var prövning?\n\n─
+ ───────────────────\n🇬🇧 Englis
+ h\n"Amazing is the affair of the believer! All his matter is good — and 
+ that is for no one except the believer: if good befalls him he is grateful
+  and it is good for him\; if hardship befalls him he is patient and it is 
+ good for him."\n— Sahih Muslim 2999\n\nTo practice today:\n  • Somethi
+ ng good today? Say "Alhamdulillah" — out loud\, not just in your head\n 
+  • Something hard? Say "Inna lillahi wa inna ilayhi raji'un" and ask for
+  the reward of patience\n  • Reflect tonight: what was good today? What 
+ was a test?\n\n───────────────────
+ ─\n🕋 العربية (original)\nعَجَبًا لِأَمْرِ ال
+ ْمُؤْمِنِ، إِنَّ أَمْرَهُ كُلَّهُ خَيْر
+ ٌ، وَلَيْسَ ذَاكَ لِأَحَدٍ إِلَّا لِلْم
+ ُؤْمِنِ، إِنْ أَصَابَتْهُ سَرَّاءُ شَكَ
+ رَ، فَكَانَ خَيْرًا لَهُ، وَإِنْ أَصَاب
+ َتْهُ ضَرَّاءُ صَبَرَ، فَكَانَ خَيْرًا 
+ لَهُ\n\n────────────────────\n
+ SalatTid.se — Sadaqah Jariyah\nhttps://salattid.com/sunnah
+TRANSP:TRANSPARENT
+URL:https://salattid.com/sunnah
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Dagens sunnah: Tacksamhet i medgång\, tålamod i motgång
+TRIGGER:P0D
+END:VALARM
+END:VEVENT
+END:VCALENDAR

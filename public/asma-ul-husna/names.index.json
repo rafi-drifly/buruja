@@ -1,0 +1,592 @@
+[
+ {
+  "day": 1,
+  "slug": "allah",
+  "kind": "intro",
+  "name": "Allah",
+  "epithet": "The greatest name",
+  "names": [
+   {
+    "arabic": "اللَّهُ",
+    "translit": "Allah",
+    "en": "The One worthy of all worship; the One most intensely loved"
+   }
+  ],
+  "video_id": "7LyoBs9SCYc"
+ },
+ {
+  "day": 2,
+  "slug": "ar-rabb",
+  "kind": "lesson",
+  "name": "Ar-Rabb",
+  "epithet": "The Master and Nurturer",
+  "names": [
+   {
+    "arabic": "رَبّ",
+    "translit": "Ar-Rabb",
+    "en": "The Lord: Master, Nurturer and Sustainer"
+   }
+  ],
+  "video_id": "ppmkzGH3aNY"
+ },
+ {
+  "day": 3,
+  "slug": "al-hayy-al-qayyum",
+  "kind": "lesson",
+  "name": "Al-Hayy and Al-Qayyum",
+  "epithet": "The Living, the Maintainer",
+  "names": [
+   {
+    "arabic": "الْحَيُّ",
+    "translit": "Al-Hayy",
+    "en": "The Ever-Living"
+   },
+   {
+    "arabic": "الْقَيُّومُ",
+    "translit": "Al-Qayyum",
+    "en": "The Sustainer of all"
+   }
+  ],
+  "video_id": "4L17YYmufCA"
+ },
+ {
+  "day": 4,
+  "slug": "ar-rahman-ar-rahim",
+  "kind": "lesson",
+  "name": "Ar-Rahman and Ar-Raheem",
+  "epithet": "The Most Merciful",
+  "names": [
+   {
+    "arabic": "الرَّحْمَٰنُ",
+    "translit": "Ar-Rahman",
+    "en": "The Most Compassionate"
+   },
+   {
+    "arabic": "الرَّحِيمُ",
+    "translit": "Ar-Raheem",
+    "en": "The Most Merciful"
+   }
+  ],
+  "video_id": "Q0JxpvhMPas"
+ },
+ {
+  "day": 5,
+  "slug": "al-ghaffar",
+  "kind": "lesson",
+  "name": "Al-Ghaffar and Al-Ghafur",
+  "epithet": "The Forgiving",
+  "names": [
+   {
+    "arabic": "الْغَفَّارُ",
+    "translit": "Al-Ghaffar",
+    "en": "The Ever-Forgiving"
+   },
+   {
+    "arabic": "الْغَفُورُ",
+    "translit": "Al-Ghafur",
+    "en": "The Most Forgiving"
+   }
+  ],
+  "video_id": "k3pHcxYqQpA"
+ },
+ {
+  "day": 6,
+  "slug": "al-malik",
+  "kind": "lesson",
+  "name": "Al-Malik and Maalik al-Mulk",
+  "epithet": "The King and the Owner",
+  "names": [
+   {
+    "arabic": "الْمَلِكُ",
+    "translit": "Al-Malik",
+    "en": "The King, The Sovereign"
+   },
+   {
+    "arabic": "مَالِكَ الْمُلْكِ",
+    "translit": "Maalik al-Mulk",
+    "en": "Master of all dominion"
+   }
+  ],
+  "video_id": "sVxq43U9n1g"
+ },
+ {
+  "day": 7,
+  "slug": "al-alim",
+  "kind": "lesson",
+  "name": "Al-Aleem",
+  "epithet": "The All-Knowing",
+  "names": [
+   {
+    "arabic": "الْعَلِيمُ",
+    "translit": "Al-Aleem",
+    "en": "The All-Knowing"
+   }
+  ],
+  "video_id": "2ZQT8HGEPu0"
+ },
+ {
+  "day": 8,
+  "slug": "ar-raqib",
+  "kind": "lesson",
+  "name": "Ar-Raqib",
+  "epithet": "The Watchful Protector",
+  "names": [
+   {
+    "arabic": "الرَّقِيب",
+    "translit": "Ar-Raqib",
+    "en": "The Ever-Watchful"
+   }
+  ],
+  "video_id": "GqcyMdMM71E"
+ },
+ {
+  "day": 9,
+  "slug": "al-qadir",
+  "kind": "lesson",
+  "name": "Al-Qadeer",
+  "epithet": "The All-Powerful",
+  "names": [
+   {
+    "arabic": "قَدِيرٌ",
+    "translit": "Al-Qadeer",
+    "en": "The All-Powerful, The Able"
+   }
+  ],
+  "video_id": "178ucuKIAnw"
+ },
+ {
+  "day": 10,
+  "slug": "al-wali-an-nasir",
+  "kind": "lesson",
+  "name": "Al-Wali and An-Naseer",
+  "epithet": "The Protective Guardian and Helper",
+  "names": [
+   {
+    "arabic": "الْوَلِيُّ",
+    "translit": "Al-Wali",
+    "en": "The Protective Guardian, the close Ally"
+   },
+   {
+    "arabic": "النَّصِيرُ",
+    "translit": "An-Naseer",
+    "en": "The Helper, the Supporter"
+   }
+  ],
+  "video_id": "Xry5B7lWq3Q"
+ },
+ {
+  "day": 11,
+  "slug": "al-khaliq-al-bari",
+  "kind": "lesson",
+  "name": "Al-Khaliq and Al-Bari",
+  "epithet": "The Creator and Originator",
+  "names": [
+   {
+    "arabic": "الْخَالِقُ",
+    "translit": "Al-Khaliq",
+    "en": "The Creator"
+   },
+   {
+    "arabic": "الْبَارِئُ",
+    "translit": "Al-Bari",
+    "en": "The Originator, The Maker"
+   },
+   {
+    "arabic": "الْمُصَوِّرُ",
+    "translit": "Al-Musawwir",
+    "en": "The Fashioner"
+   }
+  ],
+  "video_id": "YKOAqJNKANw"
+ },
+ {
+  "day": 12,
+  "slug": "al-ghani",
+  "kind": "lesson",
+  "name": "Al-Ghani and Al-Hamid",
+  "epithet": "The Independent",
+  "names": [
+   {
+    "arabic": "الْغَنِيُّ",
+    "translit": "Al-Ghani",
+    "en": "The Free of Need, The Independent"
+   },
+   {
+    "arabic": "الْحَمِيدُ",
+    "translit": "Al-Hamid",
+    "en": "The Praiseworthy"
+   },
+   {
+    "arabic": "الصَّمَدُ",
+    "translit": "As-Samad",
+    "en": "The Eternal Refuge, the One all creation turns to and needs"
+   }
+  ],
+  "video_id": "z7bubS0x8Zc"
+ },
+ {
+  "day": 13,
+  "slug": "al-aziz-al-hakim",
+  "kind": "lesson",
+  "name": "Al-Azeez and Al-Hakeem",
+  "epithet": "The Undefeatable and the All-Wise",
+  "names": [
+   {
+    "arabic": "الْعَزِيزُ",
+    "translit": "Al-Azeez",
+    "en": "The Almighty, The Undefeatable"
+   },
+   {
+    "arabic": "الْحَكِيمُ",
+    "translit": "Al-Hakeem",
+    "en": "The All-Wise"
+   }
+  ],
+  "video_id": "px75SrI9V04"
+ },
+ {
+  "day": 14,
+  "slug": "ar-razzaq",
+  "kind": "lesson",
+  "name": "Ar-Razzaq",
+  "epithet": "The Ultimate Provider",
+  "names": [
+   {
+    "arabic": "الرَّزَّاقُ",
+    "translit": "Ar-Razzaq",
+    "en": "The Ultimate Provider"
+   }
+  ],
+  "video_id": "s4cHfJDjafs"
+ },
+ {
+  "day": 15,
+  "slug": "al-latif-al-khabir",
+  "kind": "lesson",
+  "name": "Al-Lateef and Al-Khabeer",
+  "epithet": "The Subtle and All-Aware",
+  "names": [
+   {
+    "arabic": "اللَّطِيفُ",
+    "translit": "Al-Lateef",
+    "en": "The Subtle, The Most Gentle"
+   },
+   {
+    "arabic": "الْخَبِيرُ",
+    "translit": "Al-Khabeer",
+    "en": "The All-Aware"
+   }
+  ],
+  "video_id": "Vk5l1iGT0ik"
+ },
+ {
+  "day": 16,
+  "slug": "al-qawiyy-al-matin",
+  "kind": "lesson",
+  "name": "Al-Qawiyy and Al-Mateen",
+  "epithet": "The Powerful and Firm",
+  "names": [
+   {
+    "arabic": "الْقَوِيُّ",
+    "translit": "Al-Qawiyy",
+    "en": "The All-Strong"
+   },
+   {
+    "arabic": "الْمَتِينُ",
+    "translit": "Al-Mateen",
+    "en": "The Firm, The Steadfast"
+   }
+  ],
+  "video_id": "c5KjwJxYx1k"
+ },
+ {
+  "day": 17,
+  "slug": "al-haqq",
+  "kind": "lesson",
+  "name": "Al-Haqq",
+  "epithet": "The Real",
+  "names": [
+   {
+    "arabic": "الْحَقُّ",
+    "translit": "Al-Haqq",
+    "en": "The Truth, The Real"
+   }
+  ],
+  "video_id": "WbJdApGJT7k"
+ },
+ {
+  "day": 18,
+  "slug": "al-qarib-al-mujib",
+  "kind": "lesson",
+  "name": "Al-Qareeb and Al-Mujeeb",
+  "epithet": "The Near and Responsive",
+  "names": [
+   {
+    "arabic": "قَرِيبٌ",
+    "translit": "Al-Qareeb",
+    "en": "The Ever-Near"
+   },
+   {
+    "arabic": "مُّجِيبٌ",
+    "translit": "Al-Mujeeb",
+    "en": "The Responsive, The Answerer"
+   }
+  ],
+  "video_id": "MbaVjlVcvzE"
+ },
+ {
+  "day": 19,
+  "slug": "al-hadi",
+  "kind": "lesson",
+  "name": "Al-Hadi",
+  "epithet": "The Guide",
+  "names": [
+   {
+    "arabic": "هَادِيًا",
+    "translit": "Al-Hadi",
+    "en": "The Guide"
+   }
+  ],
+  "video_id": "jf07u1nXfxw"
+ },
+ {
+  "day": 20,
+  "slug": "ash-shakur-al-halim",
+  "kind": "lesson",
+  "name": "Ash-Shakoor and Al-Haleem",
+  "epithet": "The Appreciative and the Forbearing",
+  "names": [
+   {
+    "arabic": "الشَّكُورُ",
+    "translit": "Ash-Shakoor",
+    "en": "The Most Appreciative"
+   },
+   {
+    "arabic": "الْحَلِيمُ",
+    "translit": "Al-Haleem",
+    "en": "The Forbearing, the Tolerant"
+   }
+  ],
+  "video_id": "RXqyDJ6C5dI"
+ },
+ {
+  "day": 21,
+  "slug": "al-wahhab-al-fattah",
+  "kind": "lesson",
+  "name": "Al-Wahhab and Al-Fattah",
+  "epithet": "The Gift-Giver and the Opener",
+  "names": [
+   {
+    "arabic": "الْوَهَّابُ",
+    "translit": "Al-Wahhab",
+    "en": "The Bestower, the Gift-Giver"
+   },
+   {
+    "arabic": "الْفَتَّاحُ",
+    "translit": "Al-Fattah",
+    "en": "The Opener"
+   }
+  ],
+  "video_id": "VLMdZm-X014"
+ },
+ {
+  "day": 22,
+  "slug": "al-wasi",
+  "kind": "lesson",
+  "name": "Al-Wasi",
+  "epithet": "The Limitless in Favour",
+  "names": [
+   {
+    "arabic": "الْوَاسِعُ",
+    "translit": "Al-Wasi",
+    "en": "The All-Encompassing, the Limitless in giving"
+   },
+   {
+    "arabic": "ذُو الْفَضْلِ الْعَظِيمِ",
+    "translit": "Dhul-Fadl al-Adheem",
+    "en": "The Possessor of Great Bounty"
+   }
+  ],
+  "video_id": "ZWYrPWahPx0"
+ },
+ {
+  "day": 23,
+  "slug": "al-quddus-as-salam",
+  "kind": "lesson",
+  "name": "Al-Quddus and As-Salam",
+  "epithet": "The Perfect and the Source of Peace",
+  "names": [
+   {
+    "arabic": "الْقُدُّوسُ",
+    "translit": "Al-Quddus",
+    "en": "The Perfect, free of every flaw"
+   },
+   {
+    "arabic": "السَّلَامُ",
+    "translit": "As-Salam",
+    "en": "The Source of Peace"
+   }
+  ],
+  "video_id": "w7cNRXMKyC8"
+ },
+ {
+  "day": 24,
+  "slug": "al-karim",
+  "kind": "lesson",
+  "name": "Al-Karim and Dhul-Jalali wal-Ikram",
+  "epithet": "The Generous, Honourable and Majestic",
+  "names": [
+   {
+    "arabic": "الْكَرِيمُ",
+    "translit": "Al-Karim",
+    "en": "The Most Generous"
+   },
+   {
+    "arabic": "الْأَكْرَمُ",
+    "translit": "Al-Akram",
+    "en": "The Most Generous (of all)"
+   },
+   {
+    "arabic": "ذُو الْجَلَالِ وَالْإِكْرَامِ",
+    "translit": "Dhul-Jalali wal-Ikram",
+    "en": "Lord of Majesty and Honour"
+   }
+  ],
+  "video_id": "LVU0FMYOnB4"
+ },
+ {
+  "day": 25,
+  "slug": "al-wadud",
+  "kind": "lesson",
+  "name": "Al-Wadud",
+  "epithet": "The Most Loving",
+  "names": [
+   {
+    "arabic": "الْوَدُودُ",
+    "translit": "Al-Wadud",
+    "en": "The Most Loving"
+   }
+  ],
+  "video_id": "ECWjt4xwUcY"
+ },
+ {
+  "day": 26,
+  "slug": "al-azim",
+  "kind": "lesson",
+  "name": "Al-Adheem and Al-Kabeer",
+  "epithet": "The Greatest",
+  "names": [
+   {
+    "arabic": "الْعَظِيمُ",
+    "translit": "Al-Adheem",
+    "en": "The Magnificent, The Greatest"
+   },
+   {
+    "arabic": "الْكَبِيرُ",
+    "translit": "Al-Kabeer",
+    "en": "The Great, The Grand"
+   }
+  ],
+  "video_id": "aOsjzglilS4"
+ },
+ {
+  "day": 27,
+  "slug": "al-ali-al-mutaali",
+  "kind": "lesson",
+  "name": "Al-Aliyy and Al-Mutaali",
+  "epithet": "The Majestic and Most High",
+  "names": [
+   {
+    "arabic": "الْعَلِيُّ",
+    "translit": "Al-Aliyy",
+    "en": "The Most High"
+   },
+   {
+    "arabic": "الْمُتَعَالِ",
+    "translit": "Al-Mutaali",
+    "en": "The Supremely Exalted"
+   }
+  ],
+  "video_id": "kAanOftzW9s"
+ },
+ {
+  "day": 28,
+  "slug": "al-jabbar",
+  "kind": "lesson",
+  "name": "Al-Jabbar",
+  "epithet": "The Compeller",
+  "names": [
+   {
+    "arabic": "الْجَبَّارُ",
+    "translit": "Al-Jabbar",
+    "en": "The Compeller, The Restorer of what is broken"
+   },
+   {
+    "arabic": "الْقَهَّارُ",
+    "translit": "Al-Qahhar",
+    "en": "The Prevailing, The Subduer"
+   }
+  ],
+  "video_id": "ZXFI7VRxYwU"
+ },
+ {
+  "day": 29,
+  "slug": "al-mumin",
+  "kind": "lesson",
+  "name": "Al-Mu'min",
+  "epithet": "The Giver of Safety",
+  "names": [
+   {
+    "arabic": "الْمُؤْمِنُ",
+    "translit": "Al-Mu'min",
+    "en": "The Giver of Security"
+   }
+  ],
+  "video_id": "P6KpYgWAxPc"
+ },
+ {
+  "day": 30,
+  "slug": "al-awwal-al-akhir",
+  "kind": "lesson",
+  "name": "Al-Awwal, Al-Akhir, Al-Wahid and Al-Ahad",
+  "epithet": "The First, the Last, the One and Only",
+  "names": [
+   {
+    "arabic": "الْأَوَّلُ",
+    "translit": "Al-Awwal",
+    "en": "The First"
+   },
+   {
+    "arabic": "الْآخِرُ",
+    "translit": "Al-Akhir",
+    "en": "The Last"
+   },
+   {
+    "arabic": "الْوَاحِدُ",
+    "translit": "Al-Wahid",
+    "en": "The One"
+   },
+   {
+    "arabic": "أَحَدٌ",
+    "translit": "Al-Ahad",
+    "en": "The Only, The Unique"
+   }
+  ],
+  "video_id": "73Pp_bHeoVI"
+ },
+ {
+  "day": 31,
+  "slug": "living-with-allahs-names",
+  "kind": "finale",
+  "name": "Living with Allah's Names",
+  "epithet": "Living with Allah's Names",
+  "names": [
+   {
+    "arabic": "اللَّهَ",
+    "translit": "Allah",
+    "en": "Allah"
+   }
+  ],
+  "video_id": "wBFip8eVrBw"
+ }
+]

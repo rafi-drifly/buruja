@@ -1,0 +1,65 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Buruja//Dhikr & Du'a//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Buruja · Dhikr & Du'a
+X-WR-CALDESC:The daily wird: morning and evening adhkar and the remembrance
+  before sleep, from the Qur'an and the authentic sunnah.
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:adhkar-morning-adhkar@buruja.com
+DTSTAMP:20260616T000000Z
+DTSTART:20260616T063000
+RRULE:FREQ=DAILY
+DURATION:PT15M
+SUMMARY:Morning Adhkar · Buruja
+DESCRIPTION:After Fajr\, to open the day. 24 adhkar from the Qur'an and the
+  sunnah\, with Arabic\, transliteration\, meaning and recitation.\n\nOpen:
+  https://buruja.com/adhkar/morning
+URL:https://buruja.com/adhkar/morning
+CATEGORIES:Buruja,Dhikr & Du'a
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Morning Adhkar
+TRIGGER:PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:adhkar-evening-adhkar@buruja.com
+DTSTAMP:20260616T000000Z
+DTSTART:20260616T173000
+RRULE:FREQ=DAILY
+DURATION:PT15M
+SUMMARY:Evening Adhkar · Buruja
+DESCRIPTION:After Asr\, to close the day. 24 adhkar from the Qur'an and the
+  sunnah\, with Arabic\, transliteration\, meaning and recitation.\n\nOpen:
+  https://buruja.com/adhkar/evening
+URL:https://buruja.com/adhkar/evening
+CATEGORIES:Buruja,Dhikr & Du'a
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Evening Adhkar
+TRIGGER:PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:adhkar-before-sleep@buruja.com
+DTSTAMP:20260616T000000Z
+DTSTART:20260616T220000
+RRULE:FREQ=DAILY
+DURATION:PT15M
+SUMMARY:Before Sleep · Buruja
+DESCRIPTION:As you lie down for the night. 13 adhkar from the Qur'an and th
+ e sunnah\, with Arabic\, transliteration\, meaning and recitation.\n\nOpen
+ : https://buruja.com/adhkar/before-sleep
+URL:https://buruja.com/adhkar/before-sleep
+CATEGORIES:Buruja,Dhikr & Du'a
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Before Sleep
+TRIGGER:PT0M
+END:VALARM
+END:VEVENT
+END:VCALENDAR

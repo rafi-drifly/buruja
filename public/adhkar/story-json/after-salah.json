@@ -1,0 +1,182 @@
+{
+  "slug": "after-salah",
+  "group": "main",
+  "order": 5,
+  "name": "After Salah",
+  "arabic_name": "أذكار بعد الصلاة",
+  "epithet": "The dhikr that follows every prayer",
+  "title": "After Salah: the adhkar after the obligatory prayer, in Arabic, transliteration and meaning",
+  "meta_description": "The adhkar after salah (adhkar ba'd as-salah): istighfar, the tasbih of 33, Ayat al-Kursi and more, each with Arabic, transliteration, meaning, source and count. Qur'an verified via quran.ai.",
+  "keywords": "after salah dua, adhkar after prayer, tasbih 33, Ayat al-Kursi after prayer, dhikr after fardh, subhanallah 33 alhamdulillah 33, Hisn al-Muslim, Buruja",
+  "lede": [
+    "The prayer ends, but the standing before Allah does not have to. The Prophet ﷺ would turn from the prayer and stay a little longer in remembrance, and he taught a set of words for exactly this moment, while the heart is still soft from sujood.",
+    "These are the adhkar after the obligatory prayer: forgiveness, the oneness of Allah, the tasbih that outweighs the world, and the protection of Ayat al-Kursi."
+  ],
+  "intro_heading": "How to say them",
+  "intro": [
+    "Say these after the salam of each obligatory prayer, before you stand and scatter into the day. A few are kept for after Fajr and Maghrib in particular (the ten declarations and the three Quls); the rest follow every fardh.",
+    "Take the tasbih slowly: SubhanAllah, Alhamdulillah, Allahu Akbar, thirty-three each, then sealing the hundred with the declaration of oneness. The Prophet ﷺ said the one who keeps this after every prayer has their sins forgiven though they be like the foam of the sea."
+  ],
+  "closing_heading": "Why we linger",
+  "closing": [
+    "The prayer is the meeting; the adhkar after it are the few moments you do not rush away. The angels are still listening, the heart is still turned. To sit and remember Him here is to let the prayer keep working in you after the salam.",
+    "O Allah, You are Peace and from You comes peace. Let us not pray and then forget You until the next prayer, but carry the remembrance of the salam out into the whole day."
+  ],
+  "faq": [
+    {
+      "q": "What do you say after the obligatory prayer?",
+      "a": "Begin with istighfar three times and 'Allahumma antas-salam wa minkas-salam...', then the declaration of Allah's oneness, the tasbih (SubhanAllah, Alhamdulillah, Allahu Akbar thirty-three each, sealed with La ilaha illallah), and Ayat al-Kursi. These are all gathered here with counts."
+    },
+    {
+      "q": "How many times do you say SubhanAllah after prayer?",
+      "a": "Thirty-three times SubhanAllah, thirty-three Alhamdulillah, and thirty-three Allahu Akbar, then completing the hundred with La ilaha illallah wahdahu la sharika lah... The Prophet ﷺ attached enormous reward to this."
+    },
+    {
+      "q": "Which adhkar are only after Fajr and Maghrib?",
+      "a": "The three Quls are recited three times each after Fajr and Maghrib, and the ten declarations of 'La ilaha illallah... ' are also specified for after those two prayers. Ayat al-Kursi and the tasbih follow every obligatory prayer."
+    }
+  ],
+  "email": {
+    "subject": "Don't rush away after the salam",
+    "alt_subject": "The dhikr that outweighs the world",
+    "preview": "The adhkar after every prayer: istighfar, the tasbih of 33, Ayat al-Kursi.",
+    "body": "Assalamu alaikum,\n\nThe prayer ends with the salam, but the standing before Allah does not have to. The Prophet ﷺ would turn from his prayer and stay a little longer in remembrance, while the heart was still soft from sujood, and he taught us words for exactly that moment.\n\nIstighfar three times. The declaration that He alone is God. The tasbih: SubhanAllah, Alhamdulillah, Allahu Akbar, thirty-three each, sealed with the hundredth. And Ayat al-Kursi, after which, he said, nothing stands between you and Paradise but death. We have gathered them here with Arabic, transliteration, meaning, counts and audio.\n\nThe full set is here:"
+  },
+  "social": {
+    "hook": "The prayer ends at the salam.\n\nThe standing before Allah doesn't have to.",
+    "caption": "The adhkar after salah.\n\nDon't rush away after the salam. The Prophet ﷺ stayed a little longer: istighfar, the oneness of Allah, the tasbih of thirty-three, and Ayat al-Kursi, after which nothing stands between you and Paradise but death.\n\nThe sins of the one who keeps this, he said, are forgiven though they be like the foam of the sea.\n\nFull set with Arabic, transliteration, meaning, counts and audio at buruja.com/adhkar/after-salah\n\n#AfterSalah #DhikrAfterPrayer #Tasbih #AyatAlKursi #Salah #IslamicReminders #Buruja #Islam"
+  },
+  "kind": "collection",
+  "source_note": "The Qur'anic adhkar (Ayat al-Kursi, Al-Baqarah 2:255; and the three Quls, Al-Ikhlas 112, Al-Falaq 113, An-Nas 114) are grounded via quran.ai: Arabic in Uthmani script (ar-uthmani-minimal) and the Saheeh International translation. The prophetic adhkar, their transliterations, references and gradings are transcribed verbatim from Hisn al-Muslim (Fortress of the Muslim) by Sa'eed al-Qahtani, via sunnah.com; al-Bukhari and Muslim taken as sahih, jayyid/reliable noted as hasan. Recitation audio: Qur'anic items by Mishary Rashid Alafasy (everyayah.com); prophetic adhkar from the official Hisn al-Muslim audio (hisnmuslim.com), aligned by dua number. Selection and ordering follow Hisn al-Muslim, with thanks to lifewithallah.com. Reflections are Buruja's own. FOR SCHOLAR REVIEW: confirm every Arabic text, reference, repetition count and grading before publication.",
+  "items": [
+    {
+      "n": 1,
+      "title": "Forgiveness, then peace",
+      "source": "hadith",
+      "arabic": "أَسْـتَغْفِرُ الله اللّهُـمَّ أَنْـتَ السَّلامُ وَمِـنْكَ السَّلام تَبارَكْتَ يا ذا الجَـلالِ وَالإِكْـرام",
+      "translit": "Astaghfirullāh",
+      "en": "I seek the forgiveness of Allah (three times). O Allah, You are Peace and from You comes peace. Blessed are You, O Owner of majesty and honor.",
+      "repeat": "3x",
+      "ref": "Muslim 1/414",
+      "grade": "sahih",
+      "audio": [
+        "https://www.hisnmuslim.com/audio/ar/66.mp3"
+      ]
+    },
+    {
+      "n": 2,
+      "title": "There is no god but Allah, alone",
+      "source": "hadith",
+      "arabic": "لا إلهَ إلاّ اللّهُ وحدَهُ لا شريكَ لهُ لهُ المُـلْكُ ولهُ الحَمْد وهوَ على كلّ شَيءٍ قَدير اللّهُـمَّ لا مانِعَ لِما أَعْطَـيْت وَلا مُعْطِـيَ لِما مَنَـعْت وَلا يَنْفَـعُ ذا الجَـدِّ مِنْـكَ الجَـد",
+      "translit": "Lā 'ilāha 'illallāh, waḥdahu lā sharīka lah, lahu ‘l-mulku wa lahu ‘l-ḥamd, wa huwa `alā kulli shay'in qadīr, Allāhumma lā māni`a limā 'a`tayt, wa lā mu`tiya limā mana`t, wa lā yanfa`u dhal-jaddi minkal-jadd.",
+      "en": "None has the right to be worshipped but Allah alone, He has no partner, His is the dominion and His is the praise, and He is Able to do all things. O Allah, there is none who can withhold what You give, and none may give what You have withheld, and the might of the mighty person cannot benefit him against You.",
+      "repeat": "",
+      "ref": "Al-Bukhari 1/255, Muslim 1/414",
+      "grade": "sahih",
+      "audio": [
+        "https://www.hisnmuslim.com/audio/ar/67.mp3"
+      ]
+    },
+    {
+      "n": 3,
+      "title": "No power except in Him",
+      "source": "hadith",
+      "arabic": "لا إلهَ إلاّ اللّه وحدَهُ لا شريكَ لهُ لهُ الملكُ ولهُ الحَمد وهوَ على كلّ شيءٍ قدير لا حَـوْلَ وَلا قـوَّةَ إِلاّ بِاللهِ لا إلهَ إلاّ اللّـه وَلا نَعْـبُـدُ إِلاّ إيّـاه لَهُ النِّعْـمَةُ وَلَهُ الفَضْل وَلَهُ الثَّـناءُ الحَـسَن لا إلهَ إلاّ اللّهُ مخْلِصـينَ لَـهُ الدِّينَ وَلَوْ كَـرِهَ الكـافِرون",
+      "translit": "Lā 'ilāha 'illallāh, waḥdahu lā sharīka lah, lahul-mulku, wa lahul-ḥamd, wa huwa `alā kulli shay'in qadīr. Lā ḥawla wa lā quwwata 'illā billāh, lā 'ilāha 'illallāh, wa lā na`budu 'illā 'iyyāh, lahun-ni`matu wa lahul-faḍl, wa lahuth-thanā'ul-ḥasan, lā 'ilāha 'illallāh, mukhliṣīna lahud-dīn, wa law karihal-kāfirūn.",
+      "en": "None has the right to be worshipped but Allah alone, He has no partner, His is the dominion and His is the praise and He is Able to do all things. There is no power and no might except by Allah. None has the right to be worshipped but Allah, and we do not worship any other besides Him. His is grace, and His is bounty, and to Him belongs the most excellent praise. None has the right to be worshipped but Allah. (We are) sincere in making our religious devotion to Him, even though the disbelievers may dislike it.",
+      "repeat": "",
+      "ref": "Muslim 1/415",
+      "grade": "sahih",
+      "audio": [
+        "https://www.hisnmuslim.com/audio/ar/68.mp3"
+      ]
+    },
+    {
+      "n": 4,
+      "title": "The tasbih of thirty-three",
+      "source": "hadith",
+      "arabic": "سُـبْحانَ اللهِ والحَمْـدُ لله واللهُ أكْـبَر لا إلهَ إلاّ اللّهُ وَحْـدَهُ لا شريكَ لهُ لهُ الملكُ ولهُ الحَمْد وهُوَ على كُلّ شَيءٍ قَـدير",
+      "translit": "Subḥānallāh, walḥamdu lillāh, wallāhu 'akbar,",
+      "en": "Glory is to Allah, and praise is to Allah, and Allah is the Most Great. (each said thirty-three times) None has the right to be worshiped but Allah alone, He has no partner, His is the dominion and His is the praise and He is Able to do all things.",
+      "repeat": "3x",
+      "ref": "Muslim 1/418, Whoever says this after every prayer will be forgiven his sins even though they be as the foam of the sea",
+      "grade": "sahih",
+      "audio": [
+        "https://www.hisnmuslim.com/audio/ar/69.mp3"
+      ],
+      "note": "SubhanAllah, Alhamdulillah, Allahu Akbar, thirty-three each, then La ilaha illallah to complete the hundred. The Prophet ﷺ said whoever does this after every prayer is forgiven though his sins be like the foam of the sea."
+    },
+    {
+      "n": 5,
+      "title": "The three Quls",
+      "source": "quran",
+      "arabic": "قُلْ هُوَ ٱللَّهُ أَحَدٌ ۝ ٱللَّهُ ٱلصَّمَدُ ۝ لَمْ يَلِدْ وَلَمْ يُولَدْ ۝ وَلَمْ يَكُن لَّهُۥ كُفُوًا أَحَدٌۢ\nقُلْ أَعُوذُ بِرَبِّ ٱلْفَلَقِ ۝ مِن شَرِّ مَا خَلَقَ ۝ وَمِن شَرِّ غَاسِقٍ إِذَا وَقَبَ ۝ وَمِن شَرِّ ٱلنَّفَّٰثَٰتِ فِى ٱلْعُقَدِ ۝ وَمِن شَرِّ حَاسِدٍ إِذَا حَسَدَ\nقُلْ أَعُوذُ بِرَبِّ ٱلنَّاسِ ۝ مَلِكِ ٱلنَّاسِ ۝ إِلَٰهِ ٱلنَّاسِ ۝ مِن شَرِّ ٱلْوَسْوَاسِ ٱلْخَنَّاسِ ۝ ٱلَّذِى يُوَسْوِسُ فِى صُدُورِ ٱلنَّاسِ ۝ مِنَ ٱلْجِنَّةِ وَٱلنَّاسِ",
+      "translit": "",
+      "en": "Say, \"He is Allah, [who is] One, Allah, the Eternal Refuge. He neither begets nor is born, Nor is there to Him any equivalent.\" / Say, \"I seek refuge in the Lord of daybreak From the evil of that which He created And from the evil of darkness when it settles And from the evil of the blowers in knots And from the evil of an envier when he envies.\" / Say, \"I seek refuge in the Lord of mankind, The Sovereign of mankind, The God of mankind, From the evil of the retreating whisperer - Who whispers [evil] into the breasts of mankind - From among the jinn and mankind.\"",
+      "repeat": "3x after Fajr & Maghrib",
+      "ref": "Al-Ikhlas 112, Al-Falaq 113, An-Nas 114",
+      "grade": "Qur'an",
+      "audio": [
+        "https://everyayah.com/data/Alafasy_128kbps/112001.mp3",
+        "https://everyayah.com/data/Alafasy_128kbps/112002.mp3",
+        "https://everyayah.com/data/Alafasy_128kbps/112003.mp3",
+        "https://everyayah.com/data/Alafasy_128kbps/112004.mp3",
+        "https://everyayah.com/data/Alafasy_128kbps/113001.mp3",
+        "https://everyayah.com/data/Alafasy_128kbps/113002.mp3",
+        "https://everyayah.com/data/Alafasy_128kbps/113003.mp3",
+        "https://everyayah.com/data/Alafasy_128kbps/113004.mp3",
+        "https://everyayah.com/data/Alafasy_128kbps/113005.mp3",
+        "https://everyayah.com/data/Alafasy_128kbps/114001.mp3",
+        "https://everyayah.com/data/Alafasy_128kbps/114002.mp3",
+        "https://everyayah.com/data/Alafasy_128kbps/114003.mp3",
+        "https://everyayah.com/data/Alafasy_128kbps/114004.mp3",
+        "https://everyayah.com/data/Alafasy_128kbps/114005.mp3",
+        "https://everyayah.com/data/Alafasy_128kbps/114006.mp3"
+      ],
+      "note": "Recited after every prayer, and three times each after Fajr and Maghrib."
+    },
+    {
+      "n": 6,
+      "title": "Ayat al-Kursi",
+      "source": "quran",
+      "arabic": "ٱللَّهُ لَآ إِلَٰهَ إِلَّا هُوَ ٱلْحَىُّ ٱلْقَيُّومُ ۚ لَا تَأْخُذُهُۥ سِنَةٌ وَلَا نَوْمٌ ۚ لَّهُۥ مَا فِى ٱلسَّمَٰوَٰتِ وَمَا فِى ٱلْأَرْضِ ۗ مَن ذَا ٱلَّذِى يَشْفَعُ عِندَهُۥٓ إِلَّا بِإِذْنِهِۦ ۚ يَعْلَمُ مَا بَيْنَ أَيْدِيهِمْ وَمَا خَلْفَهُمْ ۖ وَلَا يُحِيطُونَ بِشَىْءٍ مِّنْ عِلْمِهِۦٓ إِلَّا بِمَا شَآءَ ۚ وَسِعَ كُرْسِيُّهُ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضَ ۖ وَلَا يَـُٔودُهُۥ حِفْظُهُمَا ۚ وَهُوَ ٱلْعَلِىُّ ٱلْعَظِيمُ",
+      "translit": "",
+      "en": "Allah - there is no deity except Him, the Ever-Living, the Self-Sustaining. Neither drowsiness overtakes Him nor sleep. To Him belongs whatever is in the heavens and whatever is on the earth. Who is it that can intercede with Him except by His permission? He knows what is before them and what will be after them, and they encompass not a thing of His knowledge except for what He wills. His Kursi extends over the heavens and the earth, and their preservation tires Him not. And He is the Most High, the Most Great.",
+      "repeat": "1x",
+      "ref": "Al-Baqarah 2:255",
+      "grade": "Qur'an",
+      "audio": [
+        "https://everyayah.com/data/Alafasy_128kbps/002255.mp3"
+      ],
+      "note": "The Prophet ﷺ said that whoever recites Ayat al-Kursi after every obligatory prayer, nothing stands between him and entering Paradise except death."
+    },
+    {
+      "n": 7,
+      "title": "Ten declarations after Fajr and Maghrib",
+      "source": "hadith",
+      "arabic": "لاَ إِلَهَ إِلاَّ اللَّهُ وَحْدَهُ لاَ شَرِيكَ لَهُ لَهُ الْمُلْكُ وَلَهُ الْحَمْدُ يُحْيِي وَيُمِيتُ وَهُوَ عَلَى كُلِّ شَيْءٍ قَدِيرٌ",
+      "translit": "Lā ilāha illallāh waḥdahu lā sharīka lah, lahu‘l-mulku wa lahu‘l-ḥamd yuḥyī wa yumīt wa huwa `alā kulli shay'in qadīr.",
+      "en": "None has the right to be worshipped but Allah alone, Who has no partner. His is the dominion and His is the praise. He brings life and He causes death, and He is Able to do all things.",
+      "repeat": "",
+      "ref": "At-Tirmidhi 5/515, Ahmad 4/227",
+      "grade": "",
+      "audio": [
+        "https://www.hisnmuslim.com/audio/ar/72.mp3"
+      ]
+    },
+    {
+      "n": 8,
+      "title": "Asking for beneficial knowledge (after Fajr)",
+      "source": "hadith",
+      "arabic": "اللَّهُمَّ إِنِّي أَسْأَلُكَ عِلْماً نافِعاً وَرِزْقاً طَيِّباً وَعَمَلاً مُتَقَبَّلاً بَعْدَ السّلامِ مِنْ صَلاَةِ الفَجْرِ",
+      "translit": "Allāhumma innī as'aluka `ilman nāfi`an, wa rizqan ṭayyiban, wa `amalam-mutaqabbala.",
+      "en": "\"O Allah, I ask You for knowledge which is beneficial, and sustenance which is good, and deeds which are acceptable.\"",
+      "repeat": "",
+      "ref": "Ibn Majah 1/152 and Majma' Az-Zawa'id 10/111",
+      "grade": "sahih",
+      "audio": [
+        "https://www.hisnmuslim.com/audio/ar/73.mp3"
+      ]
+    }
+  ]
+}

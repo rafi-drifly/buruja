@@ -1,0 +1,116 @@
+{
+  "slug": "hajj-the-pilgrimage",
+  "day": 19,
+  "lesson_no": 19,
+  "tier": 2,
+  "kind": "new-muslim",
+  "name": "Hajj",
+  "epithet": "The journey of a lifetime",
+  "title": "Hajj: The Pilgrimage, the Fifth Pillar, for New Muslims",
+  "meta_description": "The fifth pillar, gently explained for new Muslims: what Hajj is, the call of Ibrahim that still gathers millions, that it is required only once and only for those able, and how a pilgrim returns washed clean.",
+  "keywords": ["what is Hajj", "fifth pillar of Islam", "Hajj explained", "pilgrimage to Makkah", "who has to do Hajj", "Hajj for new Muslims", "Kaaba pilgrimage"],
+  "lede": [
+    "The fifth pillar is the grandest and, for most people, the least urgent: Hajj, the pilgrimage to Makkah, where two million Muslims of every colour and country stand together in plain white cloth, indistinguishable, circling the first house ever built for the worship of Allah.",
+    "And here is its mercy from the start: Hajj is required only once in a lifetime, and only for those who can truly afford it and make the journey. So if you are new, with little and a long road ahead, this pillar does not press on you today. It waits, like a promise, for the day you are able."
+  ],
+  "do_today": {
+    "label": "Just for today",
+    "text": "Look up one image or short clip of the Hajj, the white ocean of people circling the Kaaba. Just look for a moment, and let yourself feel it: one day, if Allah opens the way, that is you in that crowd. That small ache of longing is itself the beginning of the journey."
+  },
+  "sections": [
+    {
+      "h2": "The call of Ibrahim",
+      "paras": [
+        "Hajj did not begin with Muhammad ﷺ. Thousands of years ago, the Prophet Ibrahim (Abraham, peace be upon him) raised the foundations of the Kaaba and was told to call all of humanity to it. He stood in an empty desert valley and called, and the Qur'an records the command:"
+      ],
+      "ayah": {
+        "arabic": "وَأَذِّن فِى ٱلنَّاسِ بِٱلْحَجِّ يَأْتُوكَ رِجَالًا وَعَلَىٰ كُلِّ ضَامِرٍ يَأْتِينَ مِن كُلِّ فَجٍّ عَمِيقٍ",
+        "text": "And proclaim to the people the Hajj; they will come to you on foot and on every lean camel; they will come from every distant pass.",
+        "ref": "Al-Hajj 22:27"
+      },
+      "tafsir": { "source": "Tafsir as-Sa'di", "text": "As-Sa'di pictures this verse as a call first raised by Ibrahim and then by Muhammad ﷺ: announce the Hajj, and they will come, some on foot out of sheer longing, others crossing deserts on lean mounts, from every far corner of the earth. And that promise, he notes, has been coming true ever since, as people stream to Makkah from east and west." }
+    },
+    {
+      "h2": "Once in a lifetime, for those able",
+      "paras": [
+        "The obligation of Hajj is gentle in its conditions. It falls on a Muslim once in a lifetime, and only on those who have the means and the physical ability to go, and a safe way to get there. Allah states it, and attaches no threat to the one who genuinely cannot, for Allah needs nothing from anyone:"
+      ],
+      "ayah": {
+        "arabic": "وَلِلَّهِ عَلَى ٱلنَّاسِ حِجُّ ٱلْبَيْتِ مَنِ ٱسْتَطَاعَ إِلَيْهِ سَبِيلًا",
+        "text": "And due to Allah from the people is a pilgrimage to the House, for whoever is able to find thereto a way.",
+        "ref": "Aal 'Imran 3:97"
+      }
+    },
+    {
+      "h2": "What the pilgrim does",
+      "paras": [
+        "Hajj takes place once a year, in the appointed days of the final month of the Islamic calendar. Without drowning you in detail, here is its shape. The pilgrim enters a sacred state called ihram, the men in two plain white unstitched cloths, so that prince and pauper look identical before Allah. They circle the Kaaba seven times (tawaf) and walk between the two hills of Safa and Marwah, retracing the steps of Hajar, Ibrahim's wife, as she searched for water for her baby.",
+        "Then comes the heart of it: the day of standing at the plain of Arafah, where the pilgrims gather in the open, hands raised, weeping and begging Allah's forgiveness, in the closest thing this world has to the gathering of the Day of Judgement. There is more, the nights at Muzdalifah and Mina, the symbolic stoning, the sacrifice, but Arafah is the soul of the journey. You do not need to memorize any of this now. You need only know where the road eventually leads."
+      ]
+    },
+    {
+      "h2": "You come back newborn",
+      "paras": [
+        "Why would millions save for years and cross the world for this? Because of what the Prophet ﷺ promised the one who does it sincerely:"
+      ],
+      "hadith": {
+        "text": "Whoever performs Hajj for the sake of Allah and does not commit any obscenity or wrongdoing returns as free of sin as the day his mother bore him.",
+        "source": "Sahih al-Bukhari 1521; Sahih Muslim 1350",
+        "grade": "sahih"
+      }
+    },
+    {
+      "h2": "The only provision that lasts",
+      "paras": [
+        "You will travel light on that journey one day, two white cloths and little else, and the Qur'an tells you the one thing actually worth packing:"
+      ],
+      "ayah": {
+        "arabic": "وَتَزَوَّدُوا۟ فَإِنَّ خَيْرَ ٱلزَّادِ ٱلتَّقْوَىٰ",
+        "text": "And take provisions, but indeed, the best provision is fear of Allah.",
+        "ref": "Al-Baqarah 2:197"
+      }
+    }
+  ],
+  "dua": {
+    "arabic": "لَبَّيْكَ اللَّهُمَّ لَبَّيْكَ، لَبَّيْكَ لَا شَرِيكَ لَكَ لَبَّيْكَ، إِنَّ الْحَمْدَ وَالنِّعْمَةَ لَكَ وَالْمُلْكَ، لَا شَرِيكَ لَكَ",
+    "translit": "Labbayka Allahumma labbayk, labbayka la sharika laka labbayk, inna-l-hamda wa-n-ni'mata laka wa-l-mulk, la sharika lak",
+    "meaning": "Here I am, O Allah, here I am. Here I am, You have no partner, here I am. Indeed all praise and blessing are Yours, and the dominion. You have no partner. (the talbiyah, the call the pilgrims chant, Sahih al-Bukhari 1549; Sahih Muslim 1184)"
+  },
+  "lessons_heading": "Carry this with you",
+  "lessons_intro": "If you remember nothing else from this page, remember that this pillar is a promise, not a pressure.",
+  "lessons": [
+    { "bold": "Hajj is the call of Ibrahim, still answered.", "text": "A call raised in an empty valley thousands of years ago that still gathers millions from every corner of the earth." },
+    { "bold": "Once in a lifetime, only if you are able.", "text": "It rests only on those with the means, the health, and a safe way. New and starting out, it does not press on you." },
+    { "bold": "All are equal in two white cloths.", "text": "Prince and pauper stand identical before Allah, circling His house, standing at Arafah, begging forgiveness together." },
+    { "bold": "The pilgrim returns newborn.", "text": "Done sincerely, the Prophet ﷺ said, Hajj returns a person as free of sin as the day they were born." }
+  ],
+  "faq": [
+    { "q": "What is Hajj?", "a": "Hajj is the fifth pillar of Islam: the pilgrimage to Makkah performed once a year in the appointed days, where Muslims circle the Kaaba, stand at the plain of Arafah, and complete a series of rites that retrace the legacy of the Prophet Ibrahim. It is required once in a lifetime for those able." },
+    { "q": "Do I have to perform Hajj?", "a": "Only once in your life, and only if you have the financial means, the physical ability, and a safe way to travel. If you cannot, it is simply not required of you, and there is no blame; the Qur'an makes ability a condition. It waits patiently until, and unless, you are able." },
+    { "q": "What happens during Hajj?", "a": "Pilgrims enter the sacred state of ihram, circle the Kaaba (tawaf), walk between Safa and Marwah, and above all stand at the plain of Arafah in prayer and repentance. There are further rites at Muzdalifah and Mina, including a symbolic stoning and a sacrifice. You learn the details when the journey is near." },
+    { "q": "Why do pilgrims wear plain white?", "a": "In the state of ihram, the men wear two simple unstitched white cloths so that rich and poor, ruler and labourer, look completely alike. It is a living picture of how all people stand equal before Allah, stripped of status and wealth." },
+    { "q": "What is the reward of Hajj?", "a": "The Prophet ﷺ said that whoever performs Hajj sincerely, without obscenity or wrongdoing, returns as free of sin as the day they were born. An accepted Hajj is also said to have no reward less than Paradise." }
+  ],
+  "closing_heading": "A du'a for the journey, near or far",
+  "closing": [
+    "And so the five pillars stand complete in your understanding: the testimony you spoke, the prayer you learned, the charity that purifies, the fast that draws near, and now the journey of a lifetime that waits at the end of the road. Most of these ask only a little of you today. All of them, together, are the frame of a whole life turned toward Allah.",
+    "You came to this path a few weeks ago unsure you belonged. Look now: you know who Allah is and who His Messenger ﷺ is, you can pray, and you hold the whole shape of the religion, its beliefs, its pillars, and the spirit that lights them. The first month is nearly done, and the road from here only widens, into a life, and toward a House you may one day circle.",
+    "O Allah, You called humanity to Your House through Ibrahim, and the called have never stopped coming. Write my name among them. If You make a way for me, let me stand at Arafah with my sins behind me; and if the journey is long in coming, keep the longing for it alive in my heart. Here I am, O Allah, here I am. Ameen."
+  ],
+  "source_note": "Qur'an citations (22:27, 3:97, 2:197) are from the Saheeh International translation, with the Arabic in Uthmani script verified via quran.ai (edition ar-uthmani-minimal). The 'From the tafsir' note on 22:27 is a faithful condensed rendering of Tafsir as-Sa'di (edition ar-saadi, via quran.ai), not a verbatim quotation. Hadith: 'Whoever performs Hajj... returns as free of sin as the day his mother bore him,' Sahih al-Bukhari 1521 and Sahih Muslim 1350 (sahih); the talbiyah, Sahih al-Bukhari 1549 and Sahih Muslim 1184 (sahih); 'an accepted Hajj has no reward less than Paradise,' Sahih al-Bukhari 1773 and Sahih Muslim 1349 (sahih). FOR SCHOLAR REVIEW: this lesson summarizes the rites of Hajj. Please confirm the description of ihram, tawaf, sa'i, Arafah, Muzdalifah, Mina, the stoning and sacrifice, the conditions of obligation, the hadith references, and the as-Sa'di rendering before publication.",
+  "next": "halal-and-haram",
+  "bridges_to": "seerah/the-farewell-hajj",
+  "related": [
+    {"to": "seerah/the-farewell-hajj", "label": "The Farewell Hajj", "note": "the Prophet's own pilgrimage, and the great sermon he gave there"},
+    {"to": "seerah/the-hajj-of-abu-bakr", "label": "The Hajj of Abu Bakr", "note": "the first Hajj led in Islam, the year before the Prophet's own"},
+    {"to": "asma-ul-husna/al-ghani", "label": "Al-Ghani", "note": "the Self-Sufficient: He calls you to His House while needing nothing from you"}
+  ],
+  "social": {
+    "hook": "Thousands of years ago Ibrahim stood in an empty valley and called humanity to Allah's House. They have never stopped coming. Two million today, every colour and country, in plain white cloth, indistinguishable, circling the same point on earth.",
+    "caption": "The fifth pillar, gently: the call of Ibrahim, why Hajj is asked only once and only of those able, and how a pilgrim returns washed newborn. Lesson 19 of The New Muslim Path. Buruja."
+  },
+  "email": {
+    "subject": "Hajj: the journey of a lifetime",
+    "preview": "The call of Ibrahim still gathers millions. Required once, for those able, and the pilgrim returns newborn."
+  }
+}

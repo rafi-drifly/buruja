@@ -1,0 +1,18 @@
+# Buruja — commit only the deployable site (public/) + build tooling/config.
+# The ~46 GB of source content, social-media renders, audio, video, book PDFs,
+# and the SalatTid.se sub-brand stay local (regenerable / hosted on R2 separately).
+
+# Ignore everything at the repo root by default...
+/*
+
+# ...then re-include exactly what the repo should track:
+!/.gitignore
+!/README.md
+!/build.py
+!/public/
+!/wrangler.toml
+
+# OS / cache junk (belt and suspenders, even inside tracked dirs)
+.DS_Store
+__pycache__/
+*.pyc

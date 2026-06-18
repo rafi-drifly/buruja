@@ -1,0 +1,70 @@
+<!DOCTYPE html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><title>Email: The Madani era begins</title><link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin><link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,400;0,500;0,600;1,400&family=Inter:wght@400;500;600;700&family=Amiri&display=swap" rel="stylesheet"><style>
+:root{--navy:#211F1A;--midnight:#0F1A18;--gold:#1C6E68;--emerald:#5A4632;--cream:#F1E8D5;--cream2:#FBF6EA;--stone:#736A58}
+*{box-sizing:border-box}
+body{font-family:'Inter',system-ui,sans-serif;color:var(--navy);background:var(--cream);margin:0;line-height:1.62;-webkit-font-smoothing:antialiased}
+.wrap{max-width:720px;margin:0 auto;padding:30px 26px 72px}
+.topbar{display:flex;align-items:center;gap:12px;padding-bottom:18px;border-bottom:1px solid rgba(8,20,32,.14)}
+.topbar .wm{font-family:'Cormorant Garamond',serif;font-size:1.5rem}
+.topbar .dom{margin-left:auto;font-size:.72rem;letter-spacing:.12em;text-transform:uppercase;color:var(--stone)}
+.nav{display:flex;gap:8px;flex-wrap:wrap;margin:20px 0 0}
+.nav a{font-size:.78rem;font-weight:500;text-decoration:none;color:var(--navy);border:1px solid rgba(8,20,32,.18);padding:6px 13px;border-radius:999px}
+.nav a.cur{background:var(--navy);color:var(--cream);border-color:var(--navy)}
+.eyebrow{color:var(--gold);font-size:.72rem;font-weight:700;letter-spacing:.18em;text-transform:uppercase;margin:26px 0 6px}
+h1{font-family:'Cormorant Garamond',serif;font-weight:400;font-size:2.5rem;line-height:1.12;margin:.1em 0 .15em}
+.epithet{font-family:'Cormorant Garamond',serif;font-style:italic;font-size:1.3rem;opacity:.78;margin:0 0 .2em}
+.credit{font-size:.82rem;color:var(--stone);margin:.2em 0 0}
+.meta{font-size:.74rem;letter-spacing:.08em;text-transform:uppercase;color:var(--stone);margin:.2em 0 0}
+.goldrule{width:54px;height:3px;background:var(--gold);border:0;margin:18px 0 22px}
+h2{font-family:'Cormorant Garamond',serif;font-weight:400;font-size:1.5rem;margin:1.9em 0 .45em}
+p{font-size:1.02rem;margin:0 0 1em}
+.lede{border-left:3px solid var(--gold);padding:.2em 0 .2em 1.1em;margin:1.2em 0 1.6em}
+.lede p{font-size:1.12rem}
+a{color:var(--navy);text-decoration:underline;text-decoration-color:var(--gold);text-underline-offset:3px}
+ul{padding-left:1.2em}li{margin:.4em 0}li::marker{color:var(--gold)}
+.hero{background:var(--midnight);color:var(--cream);border-radius:14px;padding:42px 28px;text-align:center;margin:20px 0 8px}
+.hero .eye{color:var(--gold);letter-spacing:.2em;font-size:.72rem;font-weight:700;text-transform:uppercase}
+.hero h1{color:var(--cream);font-size:2.5rem;margin:.12em 0 .04em}
+.hero .epithet{color:var(--cream);opacity:.85}
+.hero .gr{width:54px;height:3px;background:var(--gold);margin:15px auto 0;border:0}
+.era{display:flex;flex-wrap:wrap;gap:13px;margin:1.5em 0 .4em}
+.eracard{background:var(--cream2);border:1px solid rgba(8,20,32,.12);border-radius:12px;padding:11px 18px 13px;min-width:140px;flex:1}
+.eracard .lb{color:var(--gold);font-size:.66rem;font-weight:700;letter-spacing:.16em;text-transform:uppercase;display:block}
+.eracard .vl{font-family:'Cormorant Garamond',serif;font-size:1.22rem;margin-top:.12em}
+.video{margin:1.9em 0}
+.video .vlabel{font-size:.72rem;letter-spacing:.12em;text-transform:uppercase;color:var(--emerald);font-weight:700;margin-bottom:.55em}
+.video .vwrap{position:relative;padding-bottom:56.25%;height:0;border-radius:12px;overflow:hidden;border:1px solid rgba(8,20,32,.18);background:var(--midnight)}
+.video iframe{position:absolute;top:0;left:0;width:100%;height:100%;border:0}
+.ayah{background:var(--cream2);border-left:3px solid var(--gold);border-radius:0 8px 8px 0;padding:1.05em 1.3em;margin:1.5em 0}
+.ayah .ar{font-family:'Amiri',serif;font-size:1.6rem;line-height:1.9;display:block;direction:rtl;text-align:right;color:var(--emerald);margin-bottom:.35em}
+.ayah .t{font-style:italic;font-size:1.1rem}
+.ayah .c{display:block;margin-top:.6em;color:var(--emerald);font-size:.74rem;font-weight:700;letter-spacing:.1em;text-transform:uppercase}
+.dua{background:var(--midnight);color:var(--cream);border-radius:12px;padding:1.3em 1.5em;margin:1.9em 0}
+.dua .lbl{color:var(--gold);font-size:.72rem;letter-spacing:.14em;text-transform:uppercase;font-weight:700;margin-bottom:.6em}
+.dua .ar{font-family:'Amiri',serif;font-size:1.5rem;direction:rtl;text-align:right;display:block;line-height:1.95;margin-bottom:.45em}
+.dua .tl{font-style:italic;opacity:.86;margin:0 0 .3em}
+.dua .en{margin:0}
+.faq{background:var(--cream2);border-radius:10px;padding:1.3em 1.5em;margin:2.4em 0}
+.faq h3{font-family:'Cormorant Garamond',serif;font-weight:400;font-size:1.12rem;margin:1em 0 .2em}
+.faq h3:first-of-type{margin-top:.2em}
+.cta{display:inline-block;background:var(--navy);color:var(--cream);padding:13px 26px;border-radius:7px;text-decoration:none;font-weight:500}
+.src{color:var(--stone);font-size:.82rem;border-top:1px solid rgba(8,20,32,.14);padding-top:1.1em;margin-top:2.2em}
+.pending{background:var(--cream2);border:1px dashed var(--gold);border-radius:8px;padding:.7em 1em;color:var(--stone);font-size:.9rem;margin:1.4em 0}
+footer{margin-top:3em;padding-top:1.4em;border-top:1px solid rgba(8,20,32,.14);color:var(--stone);font-size:.84rem}
+footer .dom{color:var(--navy);font-weight:500}
+.grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(230px,1fr));gap:14px;margin-top:18px}
+.card{border:1px solid rgba(8,20,32,.16);border-radius:12px;padding:15px 17px;text-decoration:none;color:var(--navy);display:block;background:var(--cream)}
+.card:hover{border-color:var(--gold)}
+.card .nm{font-family:'Cormorant Garamond',serif;font-size:1.12rem}.card .ep{color:var(--stone);font-size:.85rem;font-style:italic;margin-top:.2em}
+.card .dy{color:var(--gold);font-size:.68rem;font-weight:700;letter-spacing:.14em;text-transform:uppercase;display:block;margin-bottom:.2em}
+.phasehead{font-family:'Cormorant Garamond',serif;font-weight:400;font-size:1.6rem;margin:2.2em 0 .1em}
+.phaseblurb{color:var(--stone);font-style:italic;font-size:.95rem;margin:0 0 .4em}
+.tile-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:14px;margin-top:16px}
+.tile{aspect-ratio:4/5;border-radius:12px;padding:20px;display:flex;flex-direction:column;position:relative}
+.tile.cream{background:var(--cream);border:1px solid var(--cream2)}.tile.navy{background:var(--midnight);color:var(--cream)}
+.tile .acc{width:32px;height:4px;border-radius:2px;margin-bottom:auto}.acc.gold{background:var(--gold)}.acc.emerald{background:var(--emerald)}
+.tile .mkw{margin:auto 0 10px}.tile .th{font-family:'Cormorant Garamond',serif;font-size:1.4rem;line-height:1.1}
+.tile .tep{font-style:italic;opacity:.82;font-size:.92rem;margin-top:.15em}.tile .tb{margin-top:auto;font-size:.95rem;line-height:1.45}
+.tile .tf{display:flex;align-items:center;justify-content:space-between;margin-top:16px;font-size:.68rem;letter-spacing:.06em;text-transform:uppercase;opacity:.8}
+.dot{width:11px;height:11px;border-radius:50%}.dot.gold{background:var(--gold)}.dot.emerald{background:var(--emerald)}
+@media(max-width:680px){.tile-grid{grid-template-columns:1fr}}
+</style></head><body><div class="wrap"><div class="topbar"><span class="wm">Buruja</span><span class="dom">Daily email</span></div><div class="nav"><a href="../index.html">All days</a><a href="blog.html">Read</a><a href="email.html" class=cur>Email</a><a href="social.html">Social</a></div><p class="eyebrow">Daily email</p><h1>He built Allah's house before his own &#65018;</h1><p class="src" style="border:0;margin:.2em 0 1.3em;padding:0"><strong>Preview:</strong> Day 30 of 104: the Madani era begins with a command, a camel, and a masjid of palm trunks.</p><hr class="goldrule"><p>Assalamu alaykum,</p><p>The hijrah is complete, and today the Madani era truly begins. Day 30 of Buruja's seerah, retold faithfully from Dr. Yasir Qadhi's series, opens not with a parade but with a command: hijrah became obligatory on every Muslim still in Makkah, down to the women and children.</p><p>One of them was an old man, blind, unable to walk, who heard the verse warning those who stayed and said: I am not of those who have an excuse. I will not spend another night in Makkah. He died at the city's edge, his right hand pressed into his left: O Allah, this is my pledge. The companions said he almost made it. Allah answered by revealing his pardon, and Ibn Abbas taught that when Allah says perhaps, it is a promise.</p><p>Then the arrival. On a Friday, more than five hundred of the Ansar marched out in armor to walk the Prophet &#65018; in (and the famous song of the little girls, the Sheikh shows, belongs to another day entirely). Every clan grabbed at his camel's halter, and he gave one answer: let her be, she is under command. She knelt on a date-drying yard owned by two orphans, beside the home of his distant cousin Abu Ayyub, who would spend half a year terrified of so much as walking above his guest's head.</p><p>The orphans begged to gift the land. He paid them full price. Then he joined the labor line himself, passing bricks and singing with the builders: there is no good but the good of the akhirah. Two weeks later the masjid stood, palm trunks and clay, its roof low enough to touch. His own house could wait. Allah's house came first.</p><p>And when a proper minbar finally replaced the old palm stump he used to stand on, the stump wept aloud like a baby camel, and he &#65018; came down mid khutbah and hugged it until it went quiet. A piece of wood could not bear distance from him. The early scholars asked: can your heart really bear it more easily?</p><p>Read day 30, and watch the Sheikh's full episode, at the link below.</p><p><a class="cta" href="blog.html">Read the full story</a></p><p style="margin-top:1.2em">Rafi<br><span style="color:var(--stone)">Buruja</span></p><footer>The Seerah by <span class="dom">Buruja</span> &middot; buruja.com<br>Retold faithfully from Dr. Yasir Qadhi. The Qur'an is verified, the narration is his.</footer></div></body></html>

@@ -1,0 +1,142 @@
+{
+  "slug": "wudu-bathroom",
+  "kind": "collection",
+  "group": "through-day",
+  "order": 1,
+  "name": "Wudu & Bathroom",
+  "arabic_name": "أذكار الوضوء والخلاء",
+  "epithet": "Remembrance at the edge of purity",
+  "title": "Wudu & Bathroom Adhkar: what to say entering and leaving the bathroom and around wudu, in Arabic, transliteration and meaning",
+  "meta_description": "Short du'as for entering and leaving the bathroom, and the words to say before and after wudu, in Arabic, transliteration and English, each with its source.",
+  "keywords": "bathroom dua, wudu dua, dua entering bathroom, dua leaving bathroom, dua before wudu, dua after wudu, Bismillah wudu, ablution dhikr, Hisn al-Muslim, Buruja",
+  "lede": [
+    "Some of the smallest moments of the day are the ones we pass through without a thought: stepping into the bathroom, turning on the tap, finishing a wash. The Prophet ﷺ filled even these with the Name of Allah, so that no part of the day was lived heedless of Him.",
+    "These are the words for the threshold of the bathroom and for the act of wudu. A few syllables, but they turn an ordinary routine into worship and ask for shelter where the heart is most exposed."
+  ],
+  "intro_heading": "How to use these",
+  "intro": [
+    "Say the entering du'a before you step in, and the leaving du'a once you are out. Say Bismillah as you begin to wash, and the words of witness once your wudu is complete. The bathroom du'as are said outside the bathroom itself, or silently within the heart while inside."
+  ],
+  "closing_heading": "Worship in the small things",
+  "closing": [
+    "Wudu is not only washing; it is the light a believer carries to the prayer, and the sunnah is that minor sins fall away with the water. To begin it with His Name and seal it with the testimony of faith is to make the whole act count twice.",
+    "O Allah, make us among those who are purified, and let no corner of our day be empty of Your remembrance."
+  ],
+  "faq": [
+    {
+      "q": "Do I recite the bathroom du'as inside the bathroom?",
+      "a": "No. Say the entering du'a just before you step in, and the leaving du'a as soon as you come out. Inside, the Name of Allah is not spoken aloud, so these words belong at the door, not within."
+    },
+    {
+      "q": "What do I say before wudu?",
+      "a": "Begin with Bismillah (In the Name of Allah) as you start to wash. When you have finished, say the testimony of faith, and the sunnah du'a asking to be made among those who repent and those who are purified."
+    },
+    {
+      "q": "Why say a du'a for something as ordinary as wudu?",
+      "a": "Because the Prophet ﷺ taught us that nothing is too ordinary for the remembrance of Allah. Beginning wudu with His Name and ending it with the shahadah turns a daily routine into an act of worship that lifts the soul along with the body."
+    }
+  ],
+  "email": {
+    "subject": "The words for the smallest moments of your day",
+    "alt_subject": "What to say around wudu and the bathroom",
+    "preview": "Short du'as for the bathroom and for wudu, in Arabic, transliteration and meaning.",
+    "body": "Assalamu alaikum,\n\nWe pass through some moments of the day without a second thought: stepping into the bathroom, turning on the tap, finishing a wash. The Prophet ﷺ filled even these with the Name of Allah, so that no part of his day was lived forgetful of Him.\n\nWe have gathered the short du'as for the threshold of the bathroom and for the act of wudu, each with its Arabic, a transliteration to help you learn it, the meaning, and its source. They are only a few words, but they turn an ordinary routine into worship and ask for shelter where the heart is most exposed.\n\nBegin wudu with His Name, seal it with the testimony of faith, and let the light of it carry you to the prayer:"
+  },
+  "social": {
+    "hook": "There is a du'a for stepping into the bathroom.\n\nThe Prophet ﷺ left no part of the day empty of Allah's Name.",
+    "caption": "The adhkar of the bathroom and of wudu, the words for the smallest moments of your day.\n\nA du'a for entering, a du'a for leaving, the Name of Allah to begin your wash, and the testimony of faith to seal it. Wudu is the light a believer carries to the prayer, and beginning it this way makes the whole act count twice.\n\nSave this, and read the full set with Arabic, transliteration and meaning at buruja.com/adhkar/wudu-bathroom\n\n#WuduDua #BathroomDua #Ablution #Dhikr #Dua #HisnAlMuslim #SunnahOfTheProphet #IslamicReminders #Buruja #Islam"
+  },
+  "source_note": "Prophetic adhkar transcribed verbatim from Hisn al-Muslim (Sa'eed al-Qahtani) via sunnah.com; al-Bukhari and Muslim taken as sahih, jayyid/reliable as hasan. Recitation audio: the official Hisn al-Muslim audio (hisnmuslim.com) for the adhkar. Selection follows Hisn al-Muslim, with thanks to lifewithallah.com; framing is Buruja's own. FOR SCHOLAR REVIEW: confirm every Arabic text, reference, repetition count and grading before publication.",
+  "items": [
+    {
+      "source": "hadith",
+      "title": "Entering the bathroom",
+      "arabic": "اللّهُـمَّ إِنِّـي أَعـوذُ بِـكَ مِـنَ الْخُـبْثِ وَالْخَبائِث",
+      "translit": "[Bismillāhi] Allāhumma 'innī 'a`ūdhu bika minal-khubthi walkhabā'ith.",
+      "en": "[In the Name of Allah]. O Allah, I seek protection in You from evil and the evil ones (or, from the evil male and female Jinn).",
+      "repeat": "",
+      "ref": "Al-Bukhari 1/45, Muslim 1/283",
+      "grade": "sahih",
+      "audio": [
+        "https://www.hisnmuslim.com/audio/ar/10.mp3"
+      ],
+      "note": "Said before you step in. The Prophet ﷺ sought refuge in Allah from harm at the very threshold, knowing these are places where the soul is exposed.",
+      "n": 1
+    },
+    {
+      "source": "hadith",
+      "title": "Leaving the bathroom",
+      "arabic": "غُفْـرانَك",
+      "translit": "Ghufrānaka",
+      "en": "I seek Your forgiveness.",
+      "repeat": "",
+      "ref": "Abu Dawud, Ibn Majah and At-Tirmidhi",
+      "grade": "",
+      "audio": [
+        "https://www.hisnmuslim.com/audio/ar/11.mp3"
+      ],
+      "note": "A single word, Ghufranaka, asking forgiveness. A beautiful sunnah: having been relieved of harm, the first thing on the tongue is a plea for pardon.",
+      "n": 2
+    },
+    {
+      "source": "hadith",
+      "title": "Before wudu",
+      "arabic": "بِسْمِ الله",
+      "translit": "Bismillāhi",
+      "en": "In the Name of Allah",
+      "repeat": "",
+      "ref": "Abu Dawud, Ibn Majah, and Ahmad",
+      "grade": "sahih",
+      "audio": [
+        "https://www.hisnmuslim.com/audio/ar/12.mp3"
+      ],
+      "note": "Begin your wash with the Name of Allah, and the whole act becomes worship.",
+      "n": 3
+    },
+    {
+      "source": "hadith",
+      "title": "The testimony after wudu",
+      "arabic": "أَشْهَدُ أَنْ لا إِلَـهَ إِلاّ اللهُ وَحْدَهُ لا شَريـكَ لَـهُ وَأَشْهَدُأَنَّ مُحَمّـداً عَبْـدُهُ وَرَسـولُـه",
+      "translit": "'Ash-hadu 'an lā 'ilāha 'illallāhu waḥdahu lā sharīka lahu wa 'ash-hadu 'anna Muḥammadan `abduhu wa Rasūluhu.",
+      "en": "I bear witness that none has the right to be worshipped but Allah alone, Who has no partner; and I bear witness that Muhammad is His slave and His Messenger.",
+      "repeat": "",
+      "ref": "Muslim 1/209",
+      "grade": "sahih",
+      "audio": [
+        "https://www.hisnmuslim.com/audio/ar/13.mp3"
+      ],
+      "note": "The Prophet ﷺ said that whoever completes his wudu well and then says this will have the eight gates of Paradise opened for him, to enter by whichever he wishes.",
+      "n": 4
+    },
+    {
+      "source": "hadith",
+      "title": "Among the repentant and the purified",
+      "arabic": "اللّهُـمَّ اجْعَلنـي مِنَ التَّـوّابينَ وَاجْعَـلْني مِنَ المتَطَهّـرين",
+      "translit": "Allāhummaj`alnī minat-tawwābīna waj`alnī minal-mutaṭahhirīn.",
+      "en": "O Allah, make me among those who turn to You in repentance, and make me among those who are purified.",
+      "repeat": "",
+      "ref": "At-Tirmidhi 1/78",
+      "grade": "sahih",
+      "audio": [
+        "https://www.hisnmuslim.com/audio/ar/14.mp3"
+      ],
+      "note": "A second sunnah du'a after wudu, asking to be counted with those who turn back to Allah and those whom He keeps clean.",
+      "n": 5
+    },
+    {
+      "source": "hadith",
+      "title": "Glory and praise after wudu",
+      "arabic": "سُبْحـانَكَ اللّهُـمَّ وَبِحَمدِك أَشْهَـدُ أَنْ لا إِلهَ إِلاّ أَنْتَ أَسْتَغْفِرُكَ وَأَتوبُ إِلَـيْك",
+      "translit": "Subḥānaka Allāhumma wa biḥamdika, 'ash-hadu 'an lā 'ilāha 'illā 'Anta, 'astaghfiruka wa 'atūbu 'ilayk.",
+      "en": "Glory is to You, O Allah, and praise; I bear witness that there is none worthy of worship but You. I seek Your forgiveness and turn to You in repentance.",
+      "repeat": "",
+      "ref": "An-Nasa'i, 'Amalul-Yawm wal-Laylah, p",
+      "grade": "sahih",
+      "audio": [
+        "https://www.hisnmuslim.com/audio/ar/15.mp3"
+      ],
+      "note": "The words of tasbih and seeking forgiveness, reported as a seal upon the wudu, written and kept until the Day of Resurrection.",
+      "n": 6
+    }
+  ]
+}
