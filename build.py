@@ -71,7 +71,7 @@ if os.path.isdir(qr) and not os.path.exists(os.path.join(qr, "index.html")) \
 
 # --- slim: drop raster images not referenced by any html/css/js/json (social cards) ---
 _IMG = {'.jpg', '.jpeg', '.png', '.gif', '.webp', '.avif'}
-_KEEP = ('favicon', 'apple-touch', 'icon')
+_KEEP = ('favicon', 'apple-touch', 'icon', 'og-default', 'logo')
 _attr = re.compile(r'(?:src|href|poster|content)\s*=\s*["\']([^"\']+)["\']', re.I)
 _css  = re.compile(r'url\(\s*[\'"]?([^\'")]+)[\'"]?\s*\)', re.I)
 _srcs = re.compile(r'srcset\s*=\s*["\']([^"\']+)["\']', re.I)

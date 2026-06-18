@@ -96,6 +96,10 @@ for dp, _dirs, files in os.walk(PUB):
             add.append('<meta name="description" content="%s">' % html.escape(desc)); stats["desc"] += 1
         if noindex:
             add.append('<meta name="robots" content="noindex,follow">')
+        if 'rel="icon"' not in doc and "rel='icon'" not in doc:
+            add += ['<link rel="icon" href="/favicon.svg" type="image/svg+xml">',
+                    '<link rel="icon" href="/favicon-32x32.png" sizes="32x32" type="image/png">',
+                    '<link rel="apple-touch-icon" href="/images/apple-touch-icon.png">']
         if "og:title" not in doc:
             stats["og"] += 1
             ptype = "article" if rel.count("/") >= 2 else "website"
