@@ -144,6 +144,7 @@ print("\nTOTAL: %d files, %.1f MB  ->  %s" % (total_files, total_bytes/1048576, 
 # --- SEO pass: canonical, meta, Open Graph, JSON-LD, robots.txt, sitemap.xml ---
 import subprocess
 print()
+subprocess.run([sys.executable, os.path.join(SRC, "quran.py"), OUT], check=False)
 subprocess.run([sys.executable, os.path.join(SRC, "content.py"), OUT], check=False)
 subprocess.run([sys.executable, os.path.join(SRC, "seo.py"), OUT], check=False)
 subprocess.run([sys.executable, os.path.join(SRC, "theme.py"), OUT], check=False)

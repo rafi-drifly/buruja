@@ -17,6 +17,9 @@
 !/public/
 !/wrangler.toml
 
+# Qur'an recitation audio (2.4GB) is served from R2, not committed/deployed via git
+/public/audio/
+
 # OS / cache junk (belt and suspenders, even inside tracked dirs)
 .DS_Store
 __pycache__/

@@ -29,18 +29,25 @@ wrangler pages deploy public --project-name=buruja
 
 ---
 
-## 2. R2 for the oversized files (optional, only if you want them live)
+## 2. R2 — Qur'an recitation audio (needed for the player) + oversized files
 
-The build removes two full-tafsir calendars that exceed Pages' 25 MB/file cap:
-- `quran-daily/quran-daily.ics` (~46 MB)
-- `quran-daily/quran-page-daily.ics` (~44 MB)
+The Qur'an reading pages (`/quran/<n>/`) play `/audio/<surah>_<ayah>.mp3` — 6,236 files, ~2.4 GB (Mishary Alafasy). That's too large for Pages, so it's served from R2 at the `/audio/` path. (A few short surahs are bundled locally for preview; the full set goes to R2.)
 
-(The lite `.ics` versions stay on Pages.) Nothing on the site links these yet, so this is optional until you add calendar-subscribe buttons. To host them — and later the audio recitations + book PDFs:
+**Stage the audio with flattened names:**
+```bash
+mkdir -p audio_r2
+for d in quran-daily/social/*_*/ ; do
+  k=$(basename "$d"); f="${d}audio/audio.mp3"
+  [ -f "$f" ] && cp "$f" "audio_r2/$k.mp3"
+done            # -> audio_r2/1_1.mp3, audio_r2/1_2.mp3, ...
+```
 
-1. **R2 → Create bucket** → e.g. `buruja-assets`.
-2. Upload the files (dashboard or `wrangler r2 object put buruja-assets/quran-daily.ics --file=...`).
-3. **Bucket → Settings → Public access → connect a domain**, e.g. `assets.buruja.com`.
-4. Link to them as `https://assets.buruja.com/quran-daily.ics`.
+**Upload and serve at `/audio/`:**
+1. **R2 → Create bucket** → e.g. `buruja-audio`.
+2. Upload `audio_r2/*` (dashboard, or `rclone`/`wrangler r2 object put`).
+3. Route `/audio/*` to the bucket — either bind it to the Pages project with a tiny Pages Function, or give the bucket a public custom domain (e.g. `audio.buruja.com`) and point the audio base there.
+
+**Also (optional):** the two full-tafsir calendars the build removed (`quran-daily.ics` ~46 MB, `quran-page-daily.ics` ~44 MB) and the book PDFs can live on the same bucket.
 
 ---
 
