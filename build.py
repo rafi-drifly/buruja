@@ -27,7 +27,7 @@ WEB_EXT = {'.html','.htm','.css','.js','.svg','.json','.xml','.ics','.woff','.wo
 IMG_EXT = {'.jpg','.jpeg','.png','.gif','.webp','.avif'}
 SKIP_DIR = {'social','_social','__pycache__','_archive-pre-brand','_archive','archive',
             'brand-samples','_brand_samples','transcripts','node_modules','.git',
-            '_social_packs','social-packs'}
+            '_social_packs','social-packs','_cache','_raw','_cfg','_html'}
 
 def include(src_rel_root, rel, fn):
     ext = os.path.splitext(fn)[1].lower()
@@ -121,3 +121,8 @@ print("\n%-16s %-26s %7s %9s" % ("URL", "SRC", "FILES", "MB"))
 for u, s, c, mb, note in summary:
     print("  %-14s %-26s %7d %8.1f  %s" % (u, s, c, mb, note))
 print("\nTOTAL: %d files, %.1f MB  ->  %s" % (total_files, total_bytes/1048576, OUT))
+
+# --- SEO pass: canonical, meta, Open Graph, JSON-LD, robots.txt, sitemap.xml ---
+import subprocess
+print()
+subprocess.run([sys.executable, os.path.join(SRC, "seo.py"), OUT], check=False)

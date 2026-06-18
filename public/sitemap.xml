@@ -1,226 +1,623 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url><loc>https://buruja.com/</loc></url>
+  <url><loc>https://buruja.com/adhkar/</loc></url>
+  <url><loc>https://buruja.com/adhkar/after-salah/</loc></url>
+  <url><loc>https://buruja.com/adhkar/before-sleep/</loc></url>
+  <url><loc>https://buruja.com/adhkar/book/buruja-adhkar-book.html</loc></url>
+  <url><loc>https://buruja.com/adhkar/death-grief/</loc></url>
+  <url><loc>https://buruja.com/adhkar/distress/</loc></url>
+  <url><loc>https://buruja.com/adhkar/evening-adhkar/</loc></url>
+  <url><loc>https://buruja.com/adhkar/food-drink/</loc></url>
+  <url><loc>https://buruja.com/adhkar/gatherings/</loc></url>
+  <url><loc>https://buruja.com/adhkar/hajj-umrah/</loc></url>
+  <url><loc>https://buruja.com/adhkar/home/</loc></url>
+  <url><loc>https://buruja.com/adhkar/istighfar/</loc></url>
+  <url><loc>https://buruja.com/adhkar/istikharah/</loc></url>
+  <url><loc>https://buruja.com/adhkar/marriage-children/</loc></url>
+  <url><loc>https://buruja.com/adhkar/masjid-adhan/</loc></url>
+  <url><loc>https://buruja.com/adhkar/money-shopping/</loc></url>
+  <url><loc>https://buruja.com/adhkar/morning-adhkar/</loc></url>
+  <url><loc>https://buruja.com/adhkar/nature-weather/</loc></url>
+  <url><loc>https://buruja.com/adhkar/praises-of-allah/</loc></url>
+  <url><loc>https://buruja.com/adhkar/protection-iman/</loc></url>
+  <url><loc>https://buruja.com/adhkar/quranic-duas/</loc></url>
+  <url><loc>https://buruja.com/adhkar/ruqyah-illness/</loc></url>
+  <url><loc>https://buruja.com/adhkar/salawat/</loc></url>
+  <url><loc>https://buruja.com/adhkar/sunnah-duas/</loc></url>
+  <url><loc>https://buruja.com/adhkar/travel/</loc></url>
+  <url><loc>https://buruja.com/adhkar/waking-up/</loc></url>
+  <url><loc>https://buruja.com/adhkar/wudu-bathroom/</loc></url>
+  <url><loc>https://buruja.com/asma-ul-husna/</loc></url>
+  <url><loc>https://buruja.com/asma-ul-husna/book/the-99-names-of-allah-book.html</loc></url>
+  <url><loc>https://buruja.com/asma-ul-husna/book/the-names-of-allah-book.html</loc></url>
+  <url><loc>https://buruja.com/asma-ul-husna/index-99.html</loc></url>
+  <url><loc>https://buruja.com/asma-ul-husna/quran-and-classical/ad-darr/</loc></url>
+  <url><loc>https://buruja.com/asma-ul-husna/quran-and-classical/al-adl/</loc></url>
+  <url><loc>https://buruja.com/asma-ul-husna/quran-and-classical/al-afuw/</loc></url>
+  <url><loc>https://buruja.com/asma-ul-husna/quran-and-classical/al-badi/</loc></url>
+  <url><loc>https://buruja.com/asma-ul-husna/quran-and-classical/al-baith/</loc></url>
+  <url><loc>https://buruja.com/asma-ul-husna/quran-and-classical/al-baqi/</loc></url>
+  <url><loc>https://buruja.com/asma-ul-husna/quran-and-classical/al-barr/</loc></url>
+  <url><loc>https://buruja.com/asma-ul-husna/quran-and-classical/al-basir/</loc></url>
+  <url><loc>https://buruja.com/asma-ul-husna/quran-and-classical/al-basit/</loc></url>
+  <url><loc>https://buruja.com/asma-ul-husna/quran-and-classical/al-batin/</loc></url>
+  <url><loc>https://buruja.com/asma-ul-husna/quran-and-classical/al-hafiz/</loc></url>
+  <url><loc>https://buruja.com/asma-ul-husna/quran-and-classical/al-hakam/</loc></url>
+  <url><loc>https://buruja.com/asma-ul-husna/quran-and-classical/al-hasib/</loc></url>
+  <url><loc>https://buruja.com/asma-ul-husna/quran-and-classical/al-jalil/</loc></url>
+  <url><loc>https://buruja.com/asma-ul-husna/quran-and-classical/al-jami/</loc></url>
+  <url><loc>https://buruja.com/asma-ul-husna/quran-and-classical/al-kabir/</loc></url>
+  <url><loc>https://buruja.com/asma-ul-husna/quran-and-classical/al-khafid/</loc></url>
+  <url><loc>https://buruja.com/asma-ul-husna/quran-and-classical/al-maajid/</loc></url>
+  <url><loc>https://buruja.com/asma-ul-husna/quran-and-classical/al-majeed/</loc></url>
+  <url><loc>https://buruja.com/asma-ul-husna/quran-and-classical/al-mani/</loc></url>
+  <url><loc>https://buruja.com/asma-ul-husna/quran-and-classical/al-muakhkhir/</loc></url>
+  <url><loc>https://buruja.com/asma-ul-husna/quran-and-classical/al-mubdi/</loc></url>
+  <url><loc>https://buruja.com/asma-ul-husna/quran-and-classical/al-mudhill/</loc></url>
+  <url><loc>https://buruja.com/asma-ul-husna/quran-and-classical/al-mughni/</loc></url>
+  <url><loc>https://buruja.com/asma-ul-husna/quran-and-classical/al-muhaymin/</loc></url>
+  <url><loc>https://buruja.com/asma-ul-husna/quran-and-classical/al-muhsi/</loc></url>
+  <url><loc>https://buruja.com/asma-ul-husna/quran-and-classical/al-muhyi/</loc></url>
+  <url><loc>https://buruja.com/asma-ul-husna/quran-and-classical/al-muid/</loc></url>
+  <url><loc>https://buruja.com/asma-ul-husna/quran-and-classical/al-muizz/</loc></url>
+  <url><loc>https://buruja.com/asma-ul-husna/quran-and-classical/al-mumit/</loc></url>
+  <url><loc>https://buruja.com/asma-ul-husna/quran-and-classical/al-muntaqim/</loc></url>
+  <url><loc>https://buruja.com/asma-ul-husna/quran-and-classical/al-muqaddim/</loc></url>
+  <url><loc>https://buruja.com/asma-ul-husna/quran-and-classical/al-muqit/</loc></url>
+  <url><loc>https://buruja.com/asma-ul-husna/quran-and-classical/al-muqsit/</loc></url>
+  <url><loc>https://buruja.com/asma-ul-husna/quran-and-classical/al-muqtadir/</loc></url>
+  <url><loc>https://buruja.com/asma-ul-husna/quran-and-classical/al-musawwir/</loc></url>
+  <url><loc>https://buruja.com/asma-ul-husna/quran-and-classical/al-mutakabbir/</loc></url>
+  <url><loc>https://buruja.com/asma-ul-husna/quran-and-classical/al-qabid/</loc></url>
+  <url><loc>https://buruja.com/asma-ul-husna/quran-and-classical/al-qahhar/</loc></url>
+  <url><loc>https://buruja.com/asma-ul-husna/quran-and-classical/al-wajid/</loc></url>
+  <url><loc>https://buruja.com/asma-ul-husna/quran-and-classical/al-wakil/</loc></url>
+  <url><loc>https://buruja.com/asma-ul-husna/quran-and-classical/al-wali/</loc></url>
+  <url><loc>https://buruja.com/asma-ul-husna/quran-and-classical/al-warith/</loc></url>
+  <url><loc>https://buruja.com/asma-ul-husna/quran-and-classical/an-nafi/</loc></url>
+  <url><loc>https://buruja.com/asma-ul-husna/quran-and-classical/an-nur/</loc></url>
+  <url><loc>https://buruja.com/asma-ul-husna/quran-and-classical/ar-rafi/</loc></url>
+  <url><loc>https://buruja.com/asma-ul-husna/quran-and-classical/ar-rashid/</loc></url>
+  <url><loc>https://buruja.com/asma-ul-husna/quran-and-classical/ar-rauf/</loc></url>
+  <url><loc>https://buruja.com/asma-ul-husna/quran-and-classical/as-sabur/</loc></url>
+  <url><loc>https://buruja.com/asma-ul-husna/quran-and-classical/as-sami/</loc></url>
+  <url><loc>https://buruja.com/asma-ul-husna/quran-and-classical/ash-shahid/</loc></url>
+  <url><loc>https://buruja.com/asma-ul-husna/quran-and-classical/at-tawwab/</loc></url>
+  <url><loc>https://buruja.com/asma-ul-husna/quran-and-classical/az-zahir/</loc></url>
+  <url><loc>https://buruja.com/asma-ul-husna/ustadh-hisham/al-ali-al-mutaali/</loc></url>
+  <url><loc>https://buruja.com/asma-ul-husna/ustadh-hisham/al-alim/</loc></url>
+  <url><loc>https://buruja.com/asma-ul-husna/ustadh-hisham/al-awwal-al-akhir/</loc></url>
+  <url><loc>https://buruja.com/asma-ul-husna/ustadh-hisham/al-azim/</loc></url>
+  <url><loc>https://buruja.com/asma-ul-husna/ustadh-hisham/al-aziz-al-hakim/</loc></url>
+  <url><loc>https://buruja.com/asma-ul-husna/ustadh-hisham/al-ghaffar/</loc></url>
+  <url><loc>https://buruja.com/asma-ul-husna/ustadh-hisham/al-ghani/</loc></url>
+  <url><loc>https://buruja.com/asma-ul-husna/ustadh-hisham/al-hadi/</loc></url>
+  <url><loc>https://buruja.com/asma-ul-husna/ustadh-hisham/al-haqq/</loc></url>
+  <url><loc>https://buruja.com/asma-ul-husna/ustadh-hisham/al-hayy-al-qayyum/</loc></url>
+  <url><loc>https://buruja.com/asma-ul-husna/ustadh-hisham/al-jabbar/</loc></url>
+  <url><loc>https://buruja.com/asma-ul-husna/ustadh-hisham/al-karim/</loc></url>
+  <url><loc>https://buruja.com/asma-ul-husna/ustadh-hisham/al-khaliq-al-bari/</loc></url>
+  <url><loc>https://buruja.com/asma-ul-husna/ustadh-hisham/al-latif-al-khabir/</loc></url>
+  <url><loc>https://buruja.com/asma-ul-husna/ustadh-hisham/al-malik/</loc></url>
+  <url><loc>https://buruja.com/asma-ul-husna/ustadh-hisham/al-mumin/</loc></url>
+  <url><loc>https://buruja.com/asma-ul-husna/ustadh-hisham/al-qadir/</loc></url>
+  <url><loc>https://buruja.com/asma-ul-husna/ustadh-hisham/al-qarib-al-mujib/</loc></url>
+  <url><loc>https://buruja.com/asma-ul-husna/ustadh-hisham/al-qawiyy-al-matin/</loc></url>
+  <url><loc>https://buruja.com/asma-ul-husna/ustadh-hisham/al-quddus-as-salam/</loc></url>
+  <url><loc>https://buruja.com/asma-ul-husna/ustadh-hisham/al-wadud/</loc></url>
+  <url><loc>https://buruja.com/asma-ul-husna/ustadh-hisham/al-wahhab-al-fattah/</loc></url>
+  <url><loc>https://buruja.com/asma-ul-husna/ustadh-hisham/al-wali-an-nasir/</loc></url>
+  <url><loc>https://buruja.com/asma-ul-husna/ustadh-hisham/al-wasi/</loc></url>
+  <url><loc>https://buruja.com/asma-ul-husna/ustadh-hisham/allah/</loc></url>
+  <url><loc>https://buruja.com/asma-ul-husna/ustadh-hisham/ar-rabb/</loc></url>
+  <url><loc>https://buruja.com/asma-ul-husna/ustadh-hisham/ar-rahman-ar-rahim/</loc></url>
+  <url><loc>https://buruja.com/asma-ul-husna/ustadh-hisham/ar-raqib/</loc></url>
+  <url><loc>https://buruja.com/asma-ul-husna/ustadh-hisham/ar-razzaq/</loc></url>
+  <url><loc>https://buruja.com/asma-ul-husna/ustadh-hisham/ash-shakur-al-halim/</loc></url>
+  <url><loc>https://buruja.com/asma-ul-husna/ustadh-hisham/living-with-allahs-names/</loc></url>
   <url><loc>https://buruja.com/companions/</loc></url>
   <url><loc>https://buruja.com/companions/a-foiled-conspiracy/</loc></url>
+  <url><loc>https://buruja.com/companions/a-foiled-conspiracy/chapter.html</loc></url>
   <url><loc>https://buruja.com/companions/abbad-ibn-bishr/</loc></url>
+  <url><loc>https://buruja.com/companions/abbad-ibn-bishr/chapter.html</loc></url>
   <url><loc>https://buruja.com/companions/abdullah-ibn-abbas/</loc></url>
+  <url><loc>https://buruja.com/companions/abdullah-ibn-abbas/chapter.html</loc></url>
   <url><loc>https://buruja.com/companions/abdullah-ibn-abdullah-ibn-ubayy-the-son-of/</loc></url>
+  <url><loc>https://buruja.com/companions/abdullah-ibn-abdullah-ibn-ubayy-the-son-of/chapter.html</loc></url>
   <url><loc>https://buruja.com/companions/abdullah-ibn-amr/</loc></url>
+  <url><loc>https://buruja.com/companions/abdullah-ibn-amr/chapter.html</loc></url>
   <url><loc>https://buruja.com/companions/abdullah-ibn-az-zubayr/</loc></url>
+  <url><loc>https://buruja.com/companions/abdullah-ibn-az-zubayr/chapter.html</loc></url>
   <url><loc>https://buruja.com/companions/abdullah-ibn-hudhafah/</loc></url>
+  <url><loc>https://buruja.com/companions/abdullah-ibn-hudhafah/chapter.html</loc></url>
   <url><loc>https://buruja.com/companions/abdullah-ibn-jafar/</loc></url>
+  <url><loc>https://buruja.com/companions/abdullah-ibn-jafar/chapter.html</loc></url>
   <url><loc>https://buruja.com/companions/abdullah-ibn-jahsh/</loc></url>
+  <url><loc>https://buruja.com/companions/abdullah-ibn-jahsh/chapter.html</loc></url>
   <url><loc>https://buruja.com/companions/abdullah-ibn-masood/</loc></url>
+  <url><loc>https://buruja.com/companions/abdullah-ibn-masood/chapter.html</loc></url>
   <url><loc>https://buruja.com/companions/abdullah-ibn-rawahah/</loc></url>
+  <url><loc>https://buruja.com/companions/abdullah-ibn-rawahah/chapter.html</loc></url>
   <url><loc>https://buruja.com/companions/abdullah-ibn-salam/</loc></url>
+  <url><loc>https://buruja.com/companions/abdullah-ibn-salam/chapter.html</loc></url>
   <url><loc>https://buruja.com/companions/abdullah-ibn-umar/</loc></url>
+  <url><loc>https://buruja.com/companions/abdullah-ibn-umar/chapter.html</loc></url>
   <url><loc>https://buruja.com/companions/abdullah-ibn-umm-maktum/</loc></url>
+  <url><loc>https://buruja.com/companions/abdullah-ibn-umm-maktum/chapter.html</loc></url>
   <url><loc>https://buruja.com/companions/abdurrahman-ibn-awf/</loc></url>
+  <url><loc>https://buruja.com/companions/abdurrahman-ibn-awf/chapter.html</loc></url>
   <url><loc>https://buruja.com/companions/abu-ahmad-abd-ibn-jahsh/</loc></url>
+  <url><loc>https://buruja.com/companions/abu-ahmad-abd-ibn-jahsh/chapter.html</loc></url>
   <url><loc>https://buruja.com/companions/abu-ayyub-al-ansari/</loc></url>
+  <url><loc>https://buruja.com/companions/abu-ayyub-al-ansari/chapter.html</loc></url>
   <url><loc>https://buruja.com/companions/abu-bakr-part-1/</loc></url>
+  <url><loc>https://buruja.com/companions/abu-bakr-part-1/chapter.html</loc></url>
   <url><loc>https://buruja.com/companions/abu-bakr-part-2/</loc></url>
+  <url><loc>https://buruja.com/companions/abu-bakr-part-2/chapter.html</loc></url>
   <url><loc>https://buruja.com/companions/abu-bakr-part-3/</loc></url>
+  <url><loc>https://buruja.com/companions/abu-bakr-part-3/chapter.html</loc></url>
   <url><loc>https://buruja.com/companions/abu-bakra/</loc></url>
+  <url><loc>https://buruja.com/companions/abu-bakra/chapter.html</loc></url>
   <url><loc>https://buruja.com/companions/abu-darda/</loc></url>
+  <url><loc>https://buruja.com/companions/abu-darda/chapter.html</loc></url>
   <url><loc>https://buruja.com/companions/abu-dharr-al-ghifari/</loc></url>
+  <url><loc>https://buruja.com/companions/abu-dharr-al-ghifari/chapter.html</loc></url>
   <url><loc>https://buruja.com/companions/abu-dujana/</loc></url>
+  <url><loc>https://buruja.com/companions/abu-dujana/chapter.html</loc></url>
   <url><loc>https://buruja.com/companions/abu-hudhaifa-ibn-utbah/</loc></url>
+  <url><loc>https://buruja.com/companions/abu-hudhaifa-ibn-utbah/chapter.html</loc></url>
   <url><loc>https://buruja.com/companions/abu-huraira/</loc></url>
+  <url><loc>https://buruja.com/companions/abu-huraira/chapter.html</loc></url>
   <url><loc>https://buruja.com/companions/abu-jandal-abdullah-and-suhayl-ibn-amr/</loc></url>
+  <url><loc>https://buruja.com/companions/abu-jandal-abdullah-and-suhayl-ibn-amr/chapter.html</loc></url>
   <url><loc>https://buruja.com/companions/abu-mahdhura/</loc></url>
+  <url><loc>https://buruja.com/companions/abu-mahdhura/chapter.html</loc></url>
   <url><loc>https://buruja.com/companions/abu-musa-al-ash-ari/</loc></url>
+  <url><loc>https://buruja.com/companions/abu-musa-al-ash-ari/chapter.html</loc></url>
   <url><loc>https://buruja.com/companions/abu-muwayhiba/</loc></url>
+  <url><loc>https://buruja.com/companions/abu-muwayhiba/chapter.html</loc></url>
   <url><loc>https://buruja.com/companions/abu-rafi-al-qibti/</loc></url>
+  <url><loc>https://buruja.com/companions/abu-rafi-al-qibti/chapter.html</loc></url>
   <url><loc>https://buruja.com/companions/abu-saeed-al-khudri/</loc></url>
+  <url><loc>https://buruja.com/companions/abu-saeed-al-khudri/chapter.html</loc></url>
   <url><loc>https://buruja.com/companions/abu-sufyan-ibn-harb/</loc></url>
+  <url><loc>https://buruja.com/companions/abu-sufyan-ibn-harb/chapter.html</loc></url>
   <url><loc>https://buruja.com/companions/abu-ubaydah-ibn-al-jarrah/</loc></url>
+  <url><loc>https://buruja.com/companions/abu-ubaydah-ibn-al-jarrah/chapter.html</loc></url>
   <url><loc>https://buruja.com/companions/addas-of-taif/</loc></url>
+  <url><loc>https://buruja.com/companions/addas-of-taif/chapter.html</loc></url>
   <url><loc>https://buruja.com/companions/adi-ibn-hatim-al-tai/</loc></url>
-  <url><loc>https://buruja.com/companions/aisha-bint-abu-bakr/</loc></url>
+  <url><loc>https://buruja.com/companions/adi-ibn-hatim-al-tai/chapter.html</loc></url>
   <url><loc>https://buruja.com/companions/aisha-bint-abu-bakr-2/</loc></url>
+  <url><loc>https://buruja.com/companions/aisha-bint-abu-bakr-2/chapter.html</loc></url>
   <url><loc>https://buruja.com/companions/aisha-bint-abu-bakr-3/</loc></url>
+  <url><loc>https://buruja.com/companions/aisha-bint-abu-bakr-3/chapter.html</loc></url>
   <url><loc>https://buruja.com/companions/aisha-bint-abu-bakr-4/</loc></url>
+  <url><loc>https://buruja.com/companions/aisha-bint-abu-bakr-4/chapter.html</loc></url>
+  <url><loc>https://buruja.com/companions/aisha-bint-abu-bakr/</loc></url>
+  <url><loc>https://buruja.com/companions/aisha-bint-abu-bakr/chapter.html</loc></url>
   <url><loc>https://buruja.com/companions/al-arqam-ibn-abil-arqam/</loc></url>
+  <url><loc>https://buruja.com/companions/al-arqam-ibn-abil-arqam/chapter.html</loc></url>
   <url><loc>https://buruja.com/companions/al-bara-ibn-malik/</loc></url>
+  <url><loc>https://buruja.com/companions/al-bara-ibn-malik/chapter.html</loc></url>
   <url><loc>https://buruja.com/companions/al-baraa-ibn-aazib/</loc></url>
+  <url><loc>https://buruja.com/companions/al-baraa-ibn-aazib/chapter.html</loc></url>
   <url><loc>https://buruja.com/companions/al-baraa-ibn-maroor/</loc></url>
+  <url><loc>https://buruja.com/companions/al-baraa-ibn-maroor/chapter.html</loc></url>
   <url><loc>https://buruja.com/companions/al-shifa-bint-abdullah/</loc></url>
+  <url><loc>https://buruja.com/companions/al-shifa-bint-abdullah/chapter.html</loc></url>
   <url><loc>https://buruja.com/companions/ali-and-fatima/</loc></url>
+  <url><loc>https://buruja.com/companions/ali-and-fatima/chapter.html</loc></url>
   <url><loc>https://buruja.com/companions/ali-ibn-abi-talib/</loc></url>
+  <url><loc>https://buruja.com/companions/ali-ibn-abi-talib/chapter.html</loc></url>
   <url><loc>https://buruja.com/companions/amir-ibn-fuhayra/</loc></url>
+  <url><loc>https://buruja.com/companions/amir-ibn-fuhayra/chapter.html</loc></url>
   <url><loc>https://buruja.com/companions/ammar-ibn-yasir/</loc></url>
-  <url><loc>https://buruja.com/companions/amr-ibn-al-as/</loc></url>
+  <url><loc>https://buruja.com/companions/ammar-ibn-yasir/chapter.html</loc></url>
   <url><loc>https://buruja.com/companions/amr-ibn-al-as-2/</loc></url>
+  <url><loc>https://buruja.com/companions/amr-ibn-al-as-2/chapter.html</loc></url>
+  <url><loc>https://buruja.com/companions/amr-ibn-al-as/</loc></url>
+  <url><loc>https://buruja.com/companions/amr-ibn-al-as/chapter.html</loc></url>
   <url><loc>https://buruja.com/companions/amr-ibn-al-jamuh/</loc></url>
+  <url><loc>https://buruja.com/companions/amr-ibn-al-jamuh/chapter.html</loc></url>
   <url><loc>https://buruja.com/companions/anas-ibn-malik/</loc></url>
+  <url><loc>https://buruja.com/companions/anas-ibn-malik/chapter.html</loc></url>
   <url><loc>https://buruja.com/companions/anisa-al-numan-and-amir/</loc></url>
+  <url><loc>https://buruja.com/companions/anisa-al-numan-and-amir/chapter.html</loc></url>
   <url><loc>https://buruja.com/companions/asad-ibn-zurara/</loc></url>
+  <url><loc>https://buruja.com/companions/asad-ibn-zurara/chapter.html</loc></url>
   <url><loc>https://buruja.com/companions/asim-ibn-thabit/</loc></url>
+  <url><loc>https://buruja.com/companions/asim-ibn-thabit/chapter.html</loc></url>
   <url><loc>https://buruja.com/companions/asma-bint-abi-bakr/</loc></url>
+  <url><loc>https://buruja.com/companions/asma-bint-abi-bakr/chapter.html</loc></url>
   <url><loc>https://buruja.com/companions/asma-bint-yazid/</loc></url>
+  <url><loc>https://buruja.com/companions/asma-bint-yazid/chapter.html</loc></url>
   <url><loc>https://buruja.com/companions/atika-bint-zayd/</loc></url>
+  <url><loc>https://buruja.com/companions/atika-bint-zayd/chapter.html</loc></url>
   <url><loc>https://buruja.com/companions/ayyash-ibn-abi-rabiah/</loc></url>
+  <url><loc>https://buruja.com/companions/ayyash-ibn-abi-rabiah/chapter.html</loc></url>
   <url><loc>https://buruja.com/companions/bilal-ibn-rabah/</loc></url>
+  <url><loc>https://buruja.com/companions/bilal-ibn-rabah/chapter.html</loc></url>
   <url><loc>https://buruja.com/companions/bishr-ibn-al-baraa/</loc></url>
+  <url><loc>https://buruja.com/companions/bishr-ibn-al-baraa/chapter.html</loc></url>
   <url><loc>https://buruja.com/companions/burayda-ibn-al-husayb/</loc></url>
+  <url><loc>https://buruja.com/companions/burayda-ibn-al-husayb/chapter.html</loc></url>
   <url><loc>https://buruja.com/companions/fadl-ibn-abbas/</loc></url>
+  <url><loc>https://buruja.com/companions/fadl-ibn-abbas/chapter.html</loc></url>
   <url><loc>https://buruja.com/companions/fatima-bint-qays/</loc></url>
+  <url><loc>https://buruja.com/companions/fatima-bint-qays/chapter.html</loc></url>
   <url><loc>https://buruja.com/companions/hafsa-bint-umar/</loc></url>
+  <url><loc>https://buruja.com/companions/hafsa-bint-umar/chapter.html</loc></url>
   <url><loc>https://buruja.com/companions/hakim-ibn-hizam/</loc></url>
+  <url><loc>https://buruja.com/companions/hakim-ibn-hizam/chapter.html</loc></url>
   <url><loc>https://buruja.com/companions/hamza-ibn-abdulmuttalib/</loc></url>
+  <url><loc>https://buruja.com/companions/hamza-ibn-abdulmuttalib/chapter.html</loc></url>
   <url><loc>https://buruja.com/companions/hanzala-ibn-abi-amr-and-jameela/</loc></url>
+  <url><loc>https://buruja.com/companions/hanzala-ibn-abi-amr-and-jameela/chapter.html</loc></url>
   <url><loc>https://buruja.com/companions/hasan-ibn-ali/</loc></url>
+  <url><loc>https://buruja.com/companions/hasan-ibn-ali/chapter.html</loc></url>
   <url><loc>https://buruja.com/companions/hassan-ibn-thabit/</loc></url>
+  <url><loc>https://buruja.com/companions/hassan-ibn-thabit/chapter.html</loc></url>
   <url><loc>https://buruja.com/companions/hudhayfah-ibn-al-yaman/</loc></url>
+  <url><loc>https://buruja.com/companions/hudhayfah-ibn-al-yaman/chapter.html</loc></url>
   <url><loc>https://buruja.com/companions/husayn-ibn-ali/</loc></url>
+  <url><loc>https://buruja.com/companions/husayn-ibn-ali/chapter.html</loc></url>
   <url><loc>https://buruja.com/companions/ikrimah-ibn-abi-jahl/</loc></url>
+  <url><loc>https://buruja.com/companions/ikrimah-ibn-abi-jahl/chapter.html</loc></url>
   <url><loc>https://buruja.com/companions/jabir-ibn-abdullah/</loc></url>
+  <url><loc>https://buruja.com/companions/jabir-ibn-abdullah/chapter.html</loc></url>
   <url><loc>https://buruja.com/companions/jafar-ibn-abi-talib/</loc></url>
+  <url><loc>https://buruja.com/companions/jafar-ibn-abi-talib/chapter.html</loc></url>
   <url><loc>https://buruja.com/companions/jarir-ibn-abdullah/</loc></url>
+  <url><loc>https://buruja.com/companions/jarir-ibn-abdullah/chapter.html</loc></url>
   <url><loc>https://buruja.com/companions/julaybib/</loc></url>
+  <url><loc>https://buruja.com/companions/julaybib/chapter.html</loc></url>
   <url><loc>https://buruja.com/companions/juwayriya-bint-al-harith/</loc></url>
+  <url><loc>https://buruja.com/companions/juwayriya-bint-al-harith/chapter.html</loc></url>
   <url><loc>https://buruja.com/companions/kaab-ibn-malik/</loc></url>
+  <url><loc>https://buruja.com/companions/kaab-ibn-malik/chapter.html</loc></url>
   <url><loc>https://buruja.com/companions/kab-ibn-zuhayr/</loc></url>
+  <url><loc>https://buruja.com/companions/kab-ibn-zuhayr/chapter.html</loc></url>
   <url><loc>https://buruja.com/companions/khabbab-ibn-al-aratt/</loc></url>
+  <url><loc>https://buruja.com/companions/khabbab-ibn-al-aratt/chapter.html</loc></url>
   <url><loc>https://buruja.com/companions/khadijah/</loc></url>
-  <url><loc>https://buruja.com/companions/khalid-ibn-al-walid/</loc></url>
+  <url><loc>https://buruja.com/companions/khadijah/chapter.html</loc></url>
   <url><loc>https://buruja.com/companions/khalid-ibn-al-walid-2/</loc></url>
+  <url><loc>https://buruja.com/companions/khalid-ibn-al-walid-2/chapter.html</loc></url>
+  <url><loc>https://buruja.com/companions/khalid-ibn-al-walid/</loc></url>
+  <url><loc>https://buruja.com/companions/khalid-ibn-al-walid/chapter.html</loc></url>
   <url><loc>https://buruja.com/companions/khalid-ibn-said-ibn-al-as/</loc></url>
+  <url><loc>https://buruja.com/companions/khalid-ibn-said-ibn-al-as/chapter.html</loc></url>
   <url><loc>https://buruja.com/companions/khawla-bint-hakim-and-uthman-ibn-madhun/</loc></url>
+  <url><loc>https://buruja.com/companions/khawla-bint-hakim-and-uthman-ibn-madhun/chapter.html</loc></url>
   <url><loc>https://buruja.com/companions/khubayb-ibn-addiy/</loc></url>
+  <url><loc>https://buruja.com/companions/khubayb-ibn-addiy/chapter.html</loc></url>
   <url><loc>https://buruja.com/companions/khunais-ibn-hudhafah/</loc></url>
+  <url><loc>https://buruja.com/companions/khunais-ibn-hudhafah/chapter.html</loc></url>
   <url><loc>https://buruja.com/companions/kulthum-ibn-al-hadm-and-saad-ibn-khaythamah/</loc></url>
+  <url><loc>https://buruja.com/companions/kulthum-ibn-al-hadm-and-saad-ibn-khaythamah/chapter.html</loc></url>
   <url><loc>https://buruja.com/companions/loving-husayn-and-hating-yazid/</loc></url>
+  <url><loc>https://buruja.com/companions/loving-husayn-and-hating-yazid/chapter.html</loc></url>
   <url><loc>https://buruja.com/companions/loving-the-ansar/</loc></url>
+  <url><loc>https://buruja.com/companions/loving-the-ansar/chapter.html</loc></url>
   <url><loc>https://buruja.com/companions/lubaba-bint-al-harith/</loc></url>
+  <url><loc>https://buruja.com/companions/lubaba-bint-al-harith/chapter.html</loc></url>
   <url><loc>https://buruja.com/companions/maymunah-bint-al-harith/</loc></url>
+  <url><loc>https://buruja.com/companions/maymunah-bint-al-harith/chapter.html</loc></url>
   <url><loc>https://buruja.com/companions/mihja-umayr-and-ubayda/</loc></url>
+  <url><loc>https://buruja.com/companions/mihja-umayr-and-ubayda/chapter.html</loc></url>
   <url><loc>https://buruja.com/companions/miqdad-ibn-aswad/</loc></url>
+  <url><loc>https://buruja.com/companions/miqdad-ibn-aswad/chapter.html</loc></url>
   <url><loc>https://buruja.com/companions/mothers-of-the-prophet/</loc></url>
+  <url><loc>https://buruja.com/companions/mothers-of-the-prophet/chapter.html</loc></url>
   <url><loc>https://buruja.com/companions/muadh-ibn-jabal/</loc></url>
+  <url><loc>https://buruja.com/companions/muadh-ibn-jabal/chapter.html</loc></url>
   <url><loc>https://buruja.com/companions/muhammad-ibn-maslama/</loc></url>
+  <url><loc>https://buruja.com/companions/muhammad-ibn-maslama/chapter.html</loc></url>
   <url><loc>https://buruja.com/companions/musab-ibn-umair/</loc></url>
+  <url><loc>https://buruja.com/companions/musab-ibn-umair/chapter.html</loc></url>
   <url><loc>https://buruja.com/companions/najashi-ashama-ibn-abjar/</loc></url>
+  <url><loc>https://buruja.com/companions/najashi-ashama-ibn-abjar/chapter.html</loc></url>
   <url><loc>https://buruja.com/companions/nuaym-ibn-abdullah/</loc></url>
+  <url><loc>https://buruja.com/companions/nuaym-ibn-abdullah/chapter.html</loc></url>
   <url><loc>https://buruja.com/companions/nusaybah-bint-kaab/</loc></url>
-  <url><loc>https://buruja.com/companions/omar-ibn-al-khattab/</loc></url>
+  <url><loc>https://buruja.com/companions/nusaybah-bint-kaab/chapter.html</loc></url>
   <url><loc>https://buruja.com/companions/omar-ibn-al-khattab-2/</loc></url>
+  <url><loc>https://buruja.com/companions/omar-ibn-al-khattab-2/chapter.html</loc></url>
   <url><loc>https://buruja.com/companions/omar-ibn-al-khattab-3/</loc></url>
+  <url><loc>https://buruja.com/companions/omar-ibn-al-khattab-3/chapter.html</loc></url>
   <url><loc>https://buruja.com/companions/omar-ibn-al-khattab-4/</loc></url>
+  <url><loc>https://buruja.com/companions/omar-ibn-al-khattab-4/chapter.html</loc></url>
+  <url><loc>https://buruja.com/companions/omar-ibn-al-khattab/</loc></url>
+  <url><loc>https://buruja.com/companions/omar-ibn-al-khattab/chapter.html</loc></url>
   <url><loc>https://buruja.com/companions/qutham-ibn-abbas/</loc></url>
+  <url><loc>https://buruja.com/companions/qutham-ibn-abbas/chapter.html</loc></url>
   <url><loc>https://buruja.com/companions/rabiah-ibn-kab/</loc></url>
+  <url><loc>https://buruja.com/companions/rabiah-ibn-kab/chapter.html</loc></url>
   <url><loc>https://buruja.com/companions/rayta-bint-al-harith/</loc></url>
+  <url><loc>https://buruja.com/companions/rayta-bint-al-harith/chapter.html</loc></url>
   <url><loc>https://buruja.com/companions/saad-ibn-abi-waqqas/</loc></url>
+  <url><loc>https://buruja.com/companions/saad-ibn-abi-waqqas/chapter.html</loc></url>
   <url><loc>https://buruja.com/companions/saad-ibn-muadh/</loc></url>
+  <url><loc>https://buruja.com/companions/saad-ibn-muadh/chapter.html</loc></url>
   <url><loc>https://buruja.com/companions/saad-ibn-ubadah/</loc></url>
+  <url><loc>https://buruja.com/companions/saad-ibn-ubadah/chapter.html</loc></url>
   <url><loc>https://buruja.com/companions/saalim-mawla-abu-hudhaifa/</loc></url>
+  <url><loc>https://buruja.com/companions/saalim-mawla-abu-hudhaifa/chapter.html</loc></url>
   <url><loc>https://buruja.com/companions/saeed-ibn-amir/</loc></url>
+  <url><loc>https://buruja.com/companions/saeed-ibn-amir/chapter.html</loc></url>
   <url><loc>https://buruja.com/companions/saeed-ibn-zaid/</loc></url>
+  <url><loc>https://buruja.com/companions/saeed-ibn-zaid/chapter.html</loc></url>
   <url><loc>https://buruja.com/companions/saffiyah-bint-abdul-mutallib/</loc></url>
+  <url><loc>https://buruja.com/companions/saffiyah-bint-abdul-mutallib/chapter.html</loc></url>
   <url><loc>https://buruja.com/companions/safina/</loc></url>
+  <url><loc>https://buruja.com/companions/safina/chapter.html</loc></url>
   <url><loc>https://buruja.com/companions/safiyya-bint-huyayy/</loc></url>
+  <url><loc>https://buruja.com/companions/safiyya-bint-huyayy/chapter.html</loc></url>
   <url><loc>https://buruja.com/companions/salma-and-ubaydullah/</loc></url>
-  <url><loc>https://buruja.com/companions/salman-al-farsi/</loc></url>
+  <url><loc>https://buruja.com/companions/salma-and-ubaydullah/chapter.html</loc></url>
   <url><loc>https://buruja.com/companions/salman-al-farsi-2/</loc></url>
+  <url><loc>https://buruja.com/companions/salman-al-farsi-2/chapter.html</loc></url>
+  <url><loc>https://buruja.com/companions/salman-al-farsi/</loc></url>
+  <url><loc>https://buruja.com/companions/salman-al-farsi/chapter.html</loc></url>
   <url><loc>https://buruja.com/companions/sawda-bint-zamaa/</loc></url>
+  <url><loc>https://buruja.com/companions/sawda-bint-zamaa/chapter.html</loc></url>
   <url><loc>https://buruja.com/companions/shurahbil-ibn-hasana/</loc></url>
+  <url><loc>https://buruja.com/companions/shurahbil-ibn-hasana/chapter.html</loc></url>
   <url><loc>https://buruja.com/companions/subaya-al-aslamiyya/</loc></url>
+  <url><loc>https://buruja.com/companions/subaya-al-aslamiyya/chapter.html</loc></url>
   <url><loc>https://buruja.com/companions/suhaib-ibn-sinan-al-rumi/</loc></url>
+  <url><loc>https://buruja.com/companions/suhaib-ibn-sinan-al-rumi/chapter.html</loc></url>
   <url><loc>https://buruja.com/companions/sumayyah/</loc></url>
+  <url><loc>https://buruja.com/companions/sumayyah/chapter.html</loc></url>
   <url><loc>https://buruja.com/companions/suraqa-ibn-malik/</loc></url>
+  <url><loc>https://buruja.com/companions/suraqa-ibn-malik/chapter.html</loc></url>
   <url><loc>https://buruja.com/companions/talha-ibn-ubaydillah/</loc></url>
+  <url><loc>https://buruja.com/companions/talha-ibn-ubaydillah/chapter.html</loc></url>
   <url><loc>https://buruja.com/companions/tamim-al-dari/</loc></url>
+  <url><loc>https://buruja.com/companions/tamim-al-dari/chapter.html</loc></url>
   <url><loc>https://buruja.com/companions/thabit-ibn-qays/</loc></url>
+  <url><loc>https://buruja.com/companions/thabit-ibn-qays/chapter.html</loc></url>
   <url><loc>https://buruja.com/companions/thawban/</loc></url>
+  <url><loc>https://buruja.com/companions/thawban/chapter.html</loc></url>
   <url><loc>https://buruja.com/companions/the-amwas-plague/</loc></url>
+  <url><loc>https://buruja.com/companions/the-amwas-plague/chapter.html</loc></url>
   <url><loc>https://buruja.com/companions/the-children-of-taif-who-stoned-the-prophet/</loc></url>
+  <url><loc>https://buruja.com/companions/the-children-of-taif-who-stoned-the-prophet/chapter.html</loc></url>
   <url><loc>https://buruja.com/companions/the-first-family/</loc></url>
+  <url><loc>https://buruja.com/companions/the-first-family/chapter.html</loc></url>
   <url><loc>https://buruja.com/companions/the-four-abdullahs-every-muslim-should-know/</loc></url>
+  <url><loc>https://buruja.com/companions/the-four-abdullahs-every-muslim-should-know/chapter.html</loc></url>
   <url><loc>https://buruja.com/companions/the-jinn-who-became-muslim/</loc></url>
+  <url><loc>https://buruja.com/companions/the-jinn-who-became-muslim/chapter.html</loc></url>
   <url><loc>https://buruja.com/companions/the-martyrs-of-mutah/</loc></url>
+  <url><loc>https://buruja.com/companions/the-martyrs-of-mutah/chapter.html</loc></url>
   <url><loc>https://buruja.com/companions/the-most-honored-man-by-the-prophet/</loc></url>
+  <url><loc>https://buruja.com/companions/the-most-honored-man-by-the-prophet/chapter.html</loc></url>
   <url><loc>https://buruja.com/companions/the-prophet-s-bodyguard/</loc></url>
+  <url><loc>https://buruja.com/companions/the-prophet-s-bodyguard/chapter.html</loc></url>
   <url><loc>https://buruja.com/companions/the-prophet-s-brother/</loc></url>
+  <url><loc>https://buruja.com/companions/the-prophet-s-brother/chapter.html</loc></url>
   <url><loc>https://buruja.com/companions/thumama-ibn-uthal/</loc></url>
+  <url><loc>https://buruja.com/companions/thumama-ibn-uthal/chapter.html</loc></url>
   <url><loc>https://buruja.com/companions/trendsetters-revivers-and-strangers/</loc></url>
+  <url><loc>https://buruja.com/companions/trendsetters-revivers-and-strangers/chapter.html</loc></url>
   <url><loc>https://buruja.com/companions/tufayl-ibn-amr/</loc></url>
+  <url><loc>https://buruja.com/companions/tufayl-ibn-amr/chapter.html</loc></url>
   <url><loc>https://buruja.com/companions/tulayha-ibn-khuwaylid/</loc></url>
+  <url><loc>https://buruja.com/companions/tulayha-ibn-khuwaylid/chapter.html</loc></url>
   <url><loc>https://buruja.com/companions/ubadah-ibn-al-samit/</loc></url>
+  <url><loc>https://buruja.com/companions/ubadah-ibn-al-samit/chapter.html</loc></url>
   <url><loc>https://buruja.com/companions/ubaydullah-ibn-abbas/</loc></url>
+  <url><loc>https://buruja.com/companions/ubaydullah-ibn-abbas/chapter.html</loc></url>
   <url><loc>https://buruja.com/companions/ubayy-ibn-kab/</loc></url>
+  <url><loc>https://buruja.com/companions/ubayy-ibn-kab/chapter.html</loc></url>
   <url><loc>https://buruja.com/companions/ukasha-ibn-al-mihsan/</loc></url>
+  <url><loc>https://buruja.com/companions/ukasha-ibn-al-mihsan/chapter.html</loc></url>
   <url><loc>https://buruja.com/companions/umayr-ibn-sad/</loc></url>
+  <url><loc>https://buruja.com/companions/umayr-ibn-sad/chapter.html</loc></url>
   <url><loc>https://buruja.com/companions/umm-ayman/</loc></url>
+  <url><loc>https://buruja.com/companions/umm-ayman/chapter.html</loc></url>
   <url><loc>https://buruja.com/companions/umm-habiba-part-1/</loc></url>
+  <url><loc>https://buruja.com/companions/umm-habiba-part-1/chapter.html</loc></url>
   <url><loc>https://buruja.com/companions/umm-habiba-part-2/</loc></url>
+  <url><loc>https://buruja.com/companions/umm-habiba-part-2/chapter.html</loc></url>
   <url><loc>https://buruja.com/companions/umm-haram/</loc></url>
-  <url><loc>https://buruja.com/companions/umm-kulthum/</loc></url>
+  <url><loc>https://buruja.com/companions/umm-haram/chapter.html</loc></url>
   <url><loc>https://buruja.com/companions/umm-kulthum-bint-uqbah-ibn-abi-muayt/</loc></url>
+  <url><loc>https://buruja.com/companions/umm-kulthum-bint-uqbah-ibn-abi-muayt/chapter.html</loc></url>
+  <url><loc>https://buruja.com/companions/umm-kulthum/</loc></url>
+  <url><loc>https://buruja.com/companions/umm-kulthum/chapter.html</loc></url>
   <url><loc>https://buruja.com/companions/umm-mabad/</loc></url>
+  <url><loc>https://buruja.com/companions/umm-mabad/chapter.html</loc></url>
   <url><loc>https://buruja.com/companions/umm-mahjan/</loc></url>
+  <url><loc>https://buruja.com/companions/umm-mahjan/chapter.html</loc></url>
   <url><loc>https://buruja.com/companions/umm-salama-part-1/</loc></url>
+  <url><loc>https://buruja.com/companions/umm-salama-part-1/chapter.html</loc></url>
   <url><loc>https://buruja.com/companions/umm-salama-part-2/</loc></url>
+  <url><loc>https://buruja.com/companions/umm-salama-part-2/chapter.html</loc></url>
   <url><loc>https://buruja.com/companions/umm-sulaym/</loc></url>
+  <url><loc>https://buruja.com/companions/umm-sulaym/chapter.html</loc></url>
   <url><loc>https://buruja.com/companions/umm-waraqa-bint-abdullah/</loc></url>
+  <url><loc>https://buruja.com/companions/umm-waraqa-bint-abdullah/chapter.html</loc></url>
   <url><loc>https://buruja.com/companions/urwa-ibn-az-zubayr/</loc></url>
+  <url><loc>https://buruja.com/companions/urwa-ibn-az-zubayr/chapter.html</loc></url>
   <url><loc>https://buruja.com/companions/urwa-ibn-masud/</loc></url>
+  <url><loc>https://buruja.com/companions/urwa-ibn-masud/chapter.html</loc></url>
   <url><loc>https://buruja.com/companions/usama-ibn-zayd/</loc></url>
+  <url><loc>https://buruja.com/companions/usama-ibn-zayd/chapter.html</loc></url>
   <url><loc>https://buruja.com/companions/usayd-ibn-hudayr/</loc></url>
+  <url><loc>https://buruja.com/companions/usayd-ibn-hudayr/chapter.html</loc></url>
   <url><loc>https://buruja.com/companions/utbah-ibn-ghazwan/</loc></url>
+  <url><loc>https://buruja.com/companions/utbah-ibn-ghazwan/chapter.html</loc></url>
   <url><loc>https://buruja.com/companions/uthman-ibn-affan-part-1/</loc></url>
+  <url><loc>https://buruja.com/companions/uthman-ibn-affan-part-1/chapter.html</loc></url>
   <url><loc>https://buruja.com/companions/uthman-ibn-affan-part-2/</loc></url>
+  <url><loc>https://buruja.com/companions/uthman-ibn-affan-part-2/chapter.html</loc></url>
   <url><loc>https://buruja.com/companions/waraqa-ibn-nawfal/</loc></url>
+  <url><loc>https://buruja.com/companions/waraqa-ibn-nawfal/chapter.html</loc></url>
   <url><loc>https://buruja.com/companions/when-allah-guided-the-children-of-abu-lahab/</loc></url>
+  <url><loc>https://buruja.com/companions/when-allah-guided-the-children-of-abu-lahab/chapter.html</loc></url>
   <url><loc>https://buruja.com/companions/zahir-ibn-haram/</loc></url>
+  <url><loc>https://buruja.com/companions/zahir-ibn-haram/chapter.html</loc></url>
   <url><loc>https://buruja.com/companions/zaid-ibn-amr/</loc></url>
+  <url><loc>https://buruja.com/companions/zaid-ibn-amr/chapter.html</loc></url>
   <url><loc>https://buruja.com/companions/zayd-ibn-al-arqam/</loc></url>
+  <url><loc>https://buruja.com/companions/zayd-ibn-al-arqam/chapter.html</loc></url>
   <url><loc>https://buruja.com/companions/zayd-ibn-al-haritha/</loc></url>
+  <url><loc>https://buruja.com/companions/zayd-ibn-al-haritha/chapter.html</loc></url>
   <url><loc>https://buruja.com/companions/zayd-ibn-al-khattab/</loc></url>
+  <url><loc>https://buruja.com/companions/zayd-ibn-al-khattab/chapter.html</loc></url>
   <url><loc>https://buruja.com/companions/zayd-ibn-thabit/</loc></url>
+  <url><loc>https://buruja.com/companions/zayd-ibn-thabit/chapter.html</loc></url>
   <url><loc>https://buruja.com/companions/zaynab-bint-ali/</loc></url>
+  <url><loc>https://buruja.com/companions/zaynab-bint-ali/chapter.html</loc></url>
   <url><loc>https://buruja.com/companions/zaynab-bint-jahsh/</loc></url>
+  <url><loc>https://buruja.com/companions/zaynab-bint-jahsh/chapter.html</loc></url>
   <url><loc>https://buruja.com/companions/zaynab-bint-khuzayma/</loc></url>
+  <url><loc>https://buruja.com/companions/zaynab-bint-khuzayma/chapter.html</loc></url>
   <url><loc>https://buruja.com/companions/zaynab-bint-muhammad/</loc></url>
+  <url><loc>https://buruja.com/companions/zaynab-bint-muhammad/chapter.html</loc></url>
   <url><loc>https://buruja.com/companions/zinneera-and-aflah/</loc></url>
+  <url><loc>https://buruja.com/companions/zinneera-and-aflah/chapter.html</loc></url>
   <url><loc>https://buruja.com/companions/zubayr-ibn-awwam/</loc></url>
+  <url><loc>https://buruja.com/companions/zubayr-ibn-awwam/chapter.html</loc></url>
+  <url><loc>https://buruja.com/juz-amma/</loc></url>
+  <url><loc>https://buruja.com/juz-amma/abasa/</loc></url>
+  <url><loc>https://buruja.com/juz-amma/ad-duha/</loc></url>
+  <url><loc>https://buruja.com/juz-amma/al-adiyat/</loc></url>
+  <url><loc>https://buruja.com/juz-amma/al-ala/</loc></url>
+  <url><loc>https://buruja.com/juz-amma/al-alaq/</loc></url>
+  <url><loc>https://buruja.com/juz-amma/al-asr/</loc></url>
+  <url><loc>https://buruja.com/juz-amma/al-balad/</loc></url>
+  <url><loc>https://buruja.com/juz-amma/al-bayyinah/</loc></url>
+  <url><loc>https://buruja.com/juz-amma/al-buruj/</loc></url>
+  <url><loc>https://buruja.com/juz-amma/al-fajr/</loc></url>
+  <url><loc>https://buruja.com/juz-amma/al-falaq/</loc></url>
+  <url><loc>https://buruja.com/juz-amma/al-fil/</loc></url>
+  <url><loc>https://buruja.com/juz-amma/al-ghashiyah/</loc></url>
+  <url><loc>https://buruja.com/juz-amma/al-humazah/</loc></url>
+  <url><loc>https://buruja.com/juz-amma/al-ikhlas/</loc></url>
+  <url><loc>https://buruja.com/juz-amma/al-infitar/</loc></url>
+  <url><loc>https://buruja.com/juz-amma/al-inshiqaq/</loc></url>
+  <url><loc>https://buruja.com/juz-amma/al-kafirun/</loc></url>
+  <url><loc>https://buruja.com/juz-amma/al-kawthar/</loc></url>
+  <url><loc>https://buruja.com/juz-amma/al-layl/</loc></url>
+  <url><loc>https://buruja.com/juz-amma/al-masad/</loc></url>
+  <url><loc>https://buruja.com/juz-amma/al-maun/</loc></url>
+  <url><loc>https://buruja.com/juz-amma/al-mutaffifin/</loc></url>
+  <url><loc>https://buruja.com/juz-amma/al-qadr/</loc></url>
+  <url><loc>https://buruja.com/juz-amma/al-qariah/</loc></url>
+  <url><loc>https://buruja.com/juz-amma/an-naba/</loc></url>
+  <url><loc>https://buruja.com/juz-amma/an-nas/</loc></url>
+  <url><loc>https://buruja.com/juz-amma/an-nasr/</loc></url>
+  <url><loc>https://buruja.com/juz-amma/an-naziat/</loc></url>
+  <url><loc>https://buruja.com/juz-amma/ash-shams/</loc></url>
+  <url><loc>https://buruja.com/juz-amma/ash-sharh/</loc></url>
+  <url><loc>https://buruja.com/juz-amma/at-takathur/</loc></url>
+  <url><loc>https://buruja.com/juz-amma/at-takwir/</loc></url>
+  <url><loc>https://buruja.com/juz-amma/at-tariq/</loc></url>
+  <url><loc>https://buruja.com/juz-amma/at-tin/</loc></url>
+  <url><loc>https://buruja.com/juz-amma/az-zalzalah/</loc></url>
+  <url><loc>https://buruja.com/juz-amma/book/juz-amma-book.html</loc></url>
+  <url><loc>https://buruja.com/juz-amma/quraysh/</loc></url>
+  <url><loc>https://buruja.com/new-muslim/</loc></url>
+  <url><loc>https://buruja.com/new-muslim/akhlaq-character/</loc></url>
+  <url><loc>https://buruja.com/new-muslim/beginning-the-quran/</loc></url>
+  <url><loc>https://buruja.com/new-muslim/dua-talking-to-allah/</loc></url>
+  <url><loc>https://buruja.com/new-muslim/family-and-the-old-life/</loc></url>
+  <url><loc>https://buruja.com/new-muslim/fasting-and-ramadan/</loc></url>
+  <url><loc>https://buruja.com/new-muslim/finding-community/</loc></url>
+  <url><loc>https://buruja.com/new-muslim/ghusl-and-purity/</loc></url>
+  <url><loc>https://buruja.com/new-muslim/hajj-the-pilgrimage/</loc></url>
+  <url><loc>https://buruja.com/new-muslim/halal-and-haram/</loc></url>
+  <url><loc>https://buruja.com/new-muslim/how-to-make-wudu/</loc></url>
+  <url><loc>https://buruja.com/new-muslim/ihsan-as-if-you-see-him/</loc></url>
+  <url><loc>https://buruja.com/new-muslim/praying-with-presence/</loc></url>
+  <url><loc>https://buruja.com/new-muslim/start-here/</loc></url>
+  <url><loc>https://buruja.com/new-muslim/tawbah-when-you-slip/</loc></url>
+  <url><loc>https://buruja.com/new-muslim/the-five-pillars-of-islam/</loc></url>
+  <url><loc>https://buruja.com/new-muslim/the-four-schools/</loc></url>
+  <url><loc>https://buruja.com/new-muslim/the-hadith-of-jibril/</loc></url>
+  <url><loc>https://buruja.com/new-muslim/the-masjid-and-congregation/</loc></url>
+  <url><loc>https://buruja.com/new-muslim/the-rest-of-your-life/</loc></url>
+  <url><loc>https://buruja.com/new-muslim/the-shahada/</loc></url>
+  <url><loc>https://buruja.com/new-muslim/the-shape-of-salah/</loc></url>
+  <url><loc>https://buruja.com/new-muslim/the-six-pillars-of-iman/</loc></url>
+  <url><loc>https://buruja.com/new-muslim/the-words-of-salah/</loc></url>
+  <url><loc>https://buruja.com/new-muslim/when-life-gets-in-the-way/</loc></url>
+  <url><loc>https://buruja.com/new-muslim/who-is-allah/</loc></url>
+  <url><loc>https://buruja.com/new-muslim/who-is-muhammad/</loc></url>
+  <url><loc>https://buruja.com/new-muslim/why-we-pray/</loc></url>
+  <url><loc>https://buruja.com/new-muslim/zakah-purifying-wealth/</loc></url>
+  <url><loc>https://buruja.com/prophets/</loc></url>
+  <url><loc>https://buruja.com/prophets/adam-on-earth-part-1/</loc></url>
+  <url><loc>https://buruja.com/prophets/adam-on-earth-part-2/</loc></url>
+  <url><loc>https://buruja.com/prophets/ayyub-and-yunus/</loc></url>
+  <url><loc>https://buruja.com/prophets/between-musa-and-dawud/</loc></url>
+  <url><loc>https://buruja.com/prophets/book/the-prophets-book.html</loc></url>
+  <url><loc>https://buruja.com/prophets/dawud-the-grateful/</loc></url>
+  <url><loc>https://buruja.com/prophets/hud-and-the-people-of-ad/</loc></url>
+  <url><loc>https://buruja.com/prophets/ibrahim-and-ismail-part-3/</loc></url>
+  <url><loc>https://buruja.com/prophets/ibrahim-and-ismail-part-4/</loc></url>
+  <url><loc>https://buruja.com/prophets/ibrahim-the-friend-of-allah-part-1/</loc></url>
+  <url><loc>https://buruja.com/prophets/ibrahim-the-friend-of-allah-part-2/</loc></url>
+  <url><loc>https://buruja.com/prophets/idris-raised-to-a-high-place/</loc></url>
+  <url><loc>https://buruja.com/prophets/introduction-to-the-prophets/</loc></url>
+  <url><loc>https://buruja.com/prophets/isa-the-word-of-allah/</loc></url>
+  <url><loc>https://buruja.com/prophets/lut-and-the-overturned-towns/</loc></url>
+  <url><loc>https://buruja.com/prophets/musa-and-bani-israil-part-1/</loc></url>
+  <url><loc>https://buruja.com/prophets/musa-and-bani-israil-part-2/</loc></url>
+  <url><loc>https://buruja.com/prophets/musa-and-harun-part-1/</loc></url>
+  <url><loc>https://buruja.com/prophets/musa-and-harun-part-2/</loc></url>
+  <url><loc>https://buruja.com/prophets/musa-and-harun-part-3/</loc></url>
+  <url><loc>https://buruja.com/prophets/nuh-and-the-flood/</loc></url>
+  <url><loc>https://buruja.com/prophets/salih-and-the-she-camel/</loc></url>
+  <url><loc>https://buruja.com/prophets/shith-the-trust-passed-on/</loc></url>
+  <url><loc>https://buruja.com/prophets/shuayb-and-the-honest-scale/</loc></url>
+  <url><loc>https://buruja.com/prophets/sulayman-and-the-kingdom-part-1/</loc></url>
+  <url><loc>https://buruja.com/prophets/sulayman-and-the-line-of-zakariyya/</loc></url>
+  <url><loc>https://buruja.com/prophets/the-creation-of-adam/</loc></url>
+  <url><loc>https://buruja.com/prophets/yaqub-and-yusuf-part-1/</loc></url>
+  <url><loc>https://buruja.com/prophets/yusuf-part-2/</loc></url>
+  <url><loc>https://buruja.com/prophets/yusuf-part-3/</loc></url>
+  <url><loc>https://buruja.com/quran-reader/</loc></url>
   <url><loc>https://buruja.com/seerah/</loc></url>
-  <url><loc>https://buruja.com/seerah/specialities-of-the-prophet-1/</loc></url>
-  <url><loc>https://buruja.com/seerah/specialities-of-the-prophet-2/</loc></url>
-  <url><loc>https://buruja.com/seerah/why-study-the-seerah/</loc></url>
-  <url><loc>https://buruja.com/seerah/the-world-before-islam/</loc></url>
-  <url><loc>https://buruja.com/seerah/genealogy-and-the-year-of-the-elephant/</loc></url>
-  <url><loc>https://buruja.com/seerah/the-birth-of-the-prophet/</loc></url>
+  <url><loc>https://buruja.com/seerah/al-raji-and-bir-mauna/</loc></url>
+  <url><loc>https://buruja.com/seerah/banu-al-mustaliq/</loc></url>
+  <url><loc>https://buruja.com/seerah/banu-qurayza/</loc></url>
+  <url><loc>https://buruja.com/seerah/between-badr-and-uhud/</loc></url>
+  <url><loc>https://buruja.com/seerah/book/the-seerah-book.html</loc></url>
+  <url><loc>https://buruja.com/seerah/change-of-the-qiblah/</loc></url>
+  <url><loc>https://buruja.com/seerah/declaration-of-prophethood/</loc></url>
+  <url><loc>https://buruja.com/seerah/dhat-al-salasil/</loc></url>
   <url><loc>https://buruja.com/seerah/early-childhood/</loc></url>
   <url><loc>https://buruja.com/seerah/early-manhood/</loc></url>
+  <url><loc>https://buruja.com/seerah/expulsion-of-banu-nadir/</loc></url>
+  <url><loc>https://buruja.com/seerah/genealogy-and-the-year-of-the-elephant/</loc></url>
+  <url><loc>https://buruja.com/seerah/incident-of-the-satanic-verses/</loc></url>
+  <url><loc>https://buruja.com/seerah/introducing-the-madani-phase/</loc></url>
+  <url><loc>https://buruja.com/seerah/kab-ibn-al-ashraf/</loc></url>
+  <url><loc>https://buruja.com/seerah/kab-ibn-malik/</loc></url>
+  <url><loc>https://buruja.com/seerah/kab-ibn-zuhayr/</loc></url>
+  <url><loc>https://buruja.com/seerah/lessons-from-hunayn-and-taif/</loc></url>
+  <url><loc>https://buruja.com/seerah/lessons-from-the-hijrah/</loc></url>
+  <url><loc>https://buruja.com/seerah/letters-to-the-kings/</loc></url>
+  <url><loc>https://buruja.com/seerah/maria-and-ibrahim/</loc></url>
   <url><loc>https://buruja.com/seerah/marriage-to-khadijah/</loc></url>
-  <url><loc>https://buruja.com/seerah/zayd-and-the-first-revelation/</loc></url>
-  <url><loc>https://buruja.com/seerah/the-second-revelation/</loc></url>
-  <url><loc>https://buruja.com/seerah/declaration-of-prophethood/</loc></url>
+  <url><loc>https://buruja.com/seerah/marriage-to-zaynab/</loc></url>
+  <url><loc>https://buruja.com/seerah/minor-expeditions-after-khandaq/</loc></url>
+  <url><loc>https://buruja.com/seerah/miracles-of-the-prophet/</loc></url>
   <url><loc>https://buruja.com/seerah/opposition-from-the-quraysh/</loc></url>
   <url><loc>https://buruja.com/seerah/persecution-of-the-weak/</loc></url>
-  <url><loc>https://buruja.com/seerah/torture-and-abyssinia/</loc></url>
-  <url><loc>https://buruja.com/seerah/incident-of-the-satanic-verses/</loc></url>
-  <url><loc>https://buruja.com/seerah/second-migration-to-abyssinia/</loc></url>
-  <url><loc>https://buruja.com/seerah/umar-hamza-and-the-boycott/</loc></url>
-  <url><loc>https://buruja.com/seerah/the-year-of-sorrow/</loc></url>
-  <url><loc>https://buruja.com/seerah/the-incident-of-taif/</loc></url>
-  <url><loc>https://buruja.com/seerah/the-night-journey-1/</loc></url>
-  <url><loc>https://buruja.com/seerah/the-night-journey-2/</loc></url>
-  <url><loc>https://buruja.com/seerah/the-night-journey-3/</loc></url>
-  <url><loc>https://buruja.com/seerah/seeds-of-yathrib/</loc></url>
-  <url><loc>https://buruja.com/seerah/the-pledges-of-aqabah/</loc></url>
-  <url><loc>https://buruja.com/seerah/the-early-emigration/</loc></url>
-  <url><loc>https://buruja.com/seerah/the-hijrah/</loc></url>
-  <url><loc>https://buruja.com/seerah/lessons-from-the-hijrah/</loc></url>
-  <url><loc>https://buruja.com/seerah/introducing-the-madani-phase/</loc></url>
-  <url><loc>https://buruja.com/seerah/the-madani-era-begins/</loc></url>
-  <url><loc>https://buruja.com/seerah/the-first-mosques/</loc></url>
-  <url><loc>https://buruja.com/seerah/the-people-of-suffa/</loc></url>
-  <url><loc>https://buruja.com/seerah/the-constitution-of-madinah/</loc></url>
-  <url><loc>https://buruja.com/seerah/change-of-the-qiblah/</loc></url>
   <url><loc>https://buruja.com/seerah/preparation-for-badr/</loc></url>
+  <url><loc>https://buruja.com/seerah/second-migration-to-abyssinia/</loc></url>
+  <url><loc>https://buruja.com/seerah/seeds-of-yathrib/</loc></url>
+  <url><loc>https://buruja.com/seerah/specialities-of-the-prophet-1/</loc></url>
+  <url><loc>https://buruja.com/seerah/specialities-of-the-prophet-2/</loc></url>
+  <url><loc>https://buruja.com/seerah/summary-of-the-makkan-period/</loc></url>
+  <url><loc>https://buruja.com/seerah/tafsir-of-surat-at-tawbah/</loc></url>
   <url><loc>https://buruja.com/seerah/the-battle-of-badr-1/</loc></url>
   <url><loc>https://buruja.com/seerah/the-battle-of-badr-2/</loc></url>
   <url><loc>https://buruja.com/seerah/the-battle-of-badr-3/</loc></url>
@@ -228,66 +625,68 @@
   <url><loc>https://buruja.com/seerah/the-battle-of-badr-5/</loc></url>
   <url><loc>https://buruja.com/seerah/the-battle-of-badr-6/</loc></url>
   <url><loc>https://buruja.com/seerah/the-battle-of-badr-7/</loc></url>
-  <url><loc>https://buruja.com/seerah/between-badr-and-uhud/</loc></url>
-  <url><loc>https://buruja.com/seerah/kab-ibn-al-ashraf/</loc></url>
-  <url><loc>https://buruja.com/seerah/summary-of-the-makkan-period/</loc></url>
+  <url><loc>https://buruja.com/seerah/the-battle-of-hunayn-1/</loc></url>
+  <url><loc>https://buruja.com/seerah/the-battle-of-hunayn-2/</loc></url>
+  <url><loc>https://buruja.com/seerah/the-battle-of-khandaq-1/</loc></url>
+  <url><loc>https://buruja.com/seerah/the-battle-of-khandaq-2/</loc></url>
+  <url><loc>https://buruja.com/seerah/the-battle-of-khandaq-3/</loc></url>
+  <url><loc>https://buruja.com/seerah/the-battle-of-khandaq-4/</loc></url>
+  <url><loc>https://buruja.com/seerah/the-battle-of-khaybar-1/</loc></url>
+  <url><loc>https://buruja.com/seerah/the-battle-of-khaybar-2/</loc></url>
+  <url><loc>https://buruja.com/seerah/the-battle-of-mutah-1/</loc></url>
+  <url><loc>https://buruja.com/seerah/the-battle-of-mutah-2/</loc></url>
   <url><loc>https://buruja.com/seerah/the-battle-of-uhud-1/</loc></url>
   <url><loc>https://buruja.com/seerah/the-battle-of-uhud-2/</loc></url>
   <url><loc>https://buruja.com/seerah/the-battle-of-uhud-3/</loc></url>
   <url><loc>https://buruja.com/seerah/the-battle-of-uhud-4/</loc></url>
   <url><loc>https://buruja.com/seerah/the-battle-of-uhud-5/</loc></url>
-  <url><loc>https://buruja.com/seerah/al-raji-and-bir-mauna/</loc></url>
-  <url><loc>https://buruja.com/seerah/the-mothers-of-the-believers/</loc></url>
-  <url><loc>https://buruja.com/seerah/expulsion-of-banu-nadir/</loc></url>
-  <url><loc>https://buruja.com/seerah/banu-al-mustaliq/</loc></url>
-  <url><loc>https://buruja.com/seerah/the-slander-of-aisha-1/</loc></url>
-  <url><loc>https://buruja.com/seerah/the-slander-of-aisha-2/</loc></url>
-  <url><loc>https://buruja.com/seerah/the-battle-of-khandaq-1/</loc></url>
-  <url><loc>https://buruja.com/seerah/the-battle-of-khandaq-2/</loc></url>
-  <url><loc>https://buruja.com/seerah/the-battle-of-khandaq-3/</loc></url>
-  <url><loc>https://buruja.com/seerah/the-battle-of-khandaq-4/</loc></url>
-  <url><loc>https://buruja.com/seerah/banu-qurayza/</loc></url>
-  <url><loc>https://buruja.com/seerah/minor-expeditions-after-khandaq/</loc></url>
-  <url><loc>https://buruja.com/seerah/the-treaty-of-hudaybiyyah-1/</loc></url>
-  <url><loc>https://buruja.com/seerah/the-treaty-of-hudaybiyyah-2/</loc></url>
-  <url><loc>https://buruja.com/seerah/the-treaty-of-hudaybiyyah-3/</loc></url>
-  <url><loc>https://buruja.com/seerah/the-treaty-of-hudaybiyyah-4/</loc></url>
-  <url><loc>https://buruja.com/seerah/the-treaty-of-hudaybiyyah-5/</loc></url>
-  <url><loc>https://buruja.com/seerah/the-battle-of-khaybar-1/</loc></url>
-  <url><loc>https://buruja.com/seerah/marriage-to-zaynab/</loc></url>
-  <url><loc>https://buruja.com/seerah/the-battle-of-khaybar-2/</loc></url>
-  <url><loc>https://buruja.com/seerah/letters-to-the-kings/</loc></url>
-  <url><loc>https://buruja.com/seerah/umrah-al-qada/</loc></url>
-  <url><loc>https://buruja.com/seerah/the-battle-of-mutah-1/</loc></url>
-  <url><loc>https://buruja.com/seerah/the-battle-of-mutah-2/</loc></url>
-  <url><loc>https://buruja.com/seerah/dhat-al-salasil/</loc></url>
+  <url><loc>https://buruja.com/seerah/the-birth-of-the-prophet/</loc></url>
   <url><loc>https://buruja.com/seerah/the-conquest-of-makkah-1/</loc></url>
   <url><loc>https://buruja.com/seerah/the-conquest-of-makkah-2/</loc></url>
   <url><loc>https://buruja.com/seerah/the-conquest-of-makkah-3/</loc></url>
   <url><loc>https://buruja.com/seerah/the-conquest-of-makkah-4/</loc></url>
   <url><loc>https://buruja.com/seerah/the-conquest-of-makkah-5/</loc></url>
   <url><loc>https://buruja.com/seerah/the-conquest-of-makkah-6/</loc></url>
-  <url><loc>https://buruja.com/seerah/the-battle-of-hunayn-1/</loc></url>
-  <url><loc>https://buruja.com/seerah/the-battle-of-hunayn-2/</loc></url>
-  <url><loc>https://buruja.com/seerah/kab-ibn-zuhayr/</loc></url>
-  <url><loc>https://buruja.com/seerah/miracles-of-the-prophet/</loc></url>
-  <url><loc>https://buruja.com/seerah/lessons-from-hunayn-and-taif/</loc></url>
+  <url><loc>https://buruja.com/seerah/the-constitution-of-madinah/</loc></url>
+  <url><loc>https://buruja.com/seerah/the-death-of-the-prophet/</loc></url>
+  <url><loc>https://buruja.com/seerah/the-early-emigration/</loc></url>
+  <url><loc>https://buruja.com/seerah/the-election-of-abu-bakr/</loc></url>
   <url><loc>https://buruja.com/seerah/the-expedition-of-tabuk-1/</loc></url>
   <url><loc>https://buruja.com/seerah/the-expedition-of-tabuk-2/</loc></url>
-  <url><loc>https://buruja.com/seerah/kab-ibn-malik/</loc></url>
   <url><loc>https://buruja.com/seerah/the-expedition-of-tabuk-3/</loc></url>
   <url><loc>https://buruja.com/seerah/the-expedition-of-tabuk-4/</loc></url>
   <url><loc>https://buruja.com/seerah/the-expedition-of-tabuk-5/</loc></url>
-  <url><loc>https://buruja.com/seerah/tafsir-of-surat-at-tawbah/</loc></url>
+  <url><loc>https://buruja.com/seerah/the-farewell-hajj/</loc></url>
+  <url><loc>https://buruja.com/seerah/the-first-mosques/</loc></url>
+  <url><loc>https://buruja.com/seerah/the-hajj-of-abu-bakr/</loc></url>
+  <url><loc>https://buruja.com/seerah/the-hijrah/</loc></url>
+  <url><loc>https://buruja.com/seerah/the-incident-of-taif/</loc></url>
+  <url><loc>https://buruja.com/seerah/the-incident-of-the-scrolls/</loc></url>
+  <url><loc>https://buruja.com/seerah/the-madani-era-begins/</loc></url>
+  <url><loc>https://buruja.com/seerah/the-marital-dispute/</loc></url>
+  <url><loc>https://buruja.com/seerah/the-mosque-and-grave-of-the-prophet/</loc></url>
+  <url><loc>https://buruja.com/seerah/the-mothers-of-the-believers/</loc></url>
+  <url><loc>https://buruja.com/seerah/the-night-journey-1/</loc></url>
+  <url><loc>https://buruja.com/seerah/the-night-journey-2/</loc></url>
+  <url><loc>https://buruja.com/seerah/the-night-journey-3/</loc></url>
+  <url><loc>https://buruja.com/seerah/the-people-of-suffa/</loc></url>
+  <url><loc>https://buruja.com/seerah/the-pledges-of-aqabah/</loc></url>
+  <url><loc>https://buruja.com/seerah/the-second-revelation/</loc></url>
+  <url><loc>https://buruja.com/seerah/the-slander-of-aisha-1/</loc></url>
+  <url><loc>https://buruja.com/seerah/the-slander-of-aisha-2/</loc></url>
+  <url><loc>https://buruja.com/seerah/the-treaty-of-hudaybiyyah-1/</loc></url>
+  <url><loc>https://buruja.com/seerah/the-treaty-of-hudaybiyyah-2/</loc></url>
+  <url><loc>https://buruja.com/seerah/the-treaty-of-hudaybiyyah-3/</loc></url>
+  <url><loc>https://buruja.com/seerah/the-treaty-of-hudaybiyyah-4/</loc></url>
+  <url><loc>https://buruja.com/seerah/the-treaty-of-hudaybiyyah-5/</loc></url>
+  <url><loc>https://buruja.com/seerah/the-world-before-islam/</loc></url>
   <url><loc>https://buruja.com/seerah/the-year-of-delegations-1/</loc></url>
   <url><loc>https://buruja.com/seerah/the-year-of-delegations-2/</loc></url>
   <url><loc>https://buruja.com/seerah/the-year-of-delegations-3/</loc></url>
-  <url><loc>https://buruja.com/seerah/maria-and-ibrahim/</loc></url>
-  <url><loc>https://buruja.com/seerah/the-marital-dispute/</loc></url>
-  <url><loc>https://buruja.com/seerah/the-hajj-of-abu-bakr/</loc></url>
-  <url><loc>https://buruja.com/seerah/the-farewell-hajj/</loc></url>
-  <url><loc>https://buruja.com/seerah/the-death-of-the-prophet/</loc></url>
-  <url><loc>https://buruja.com/seerah/the-mosque-and-grave-of-the-prophet/</loc></url>
-  <url><loc>https://buruja.com/seerah/the-incident-of-the-scrolls/</loc></url>
-  <url><loc>https://buruja.com/seerah/the-election-of-abu-bakr/</loc></url>
+  <url><loc>https://buruja.com/seerah/the-year-of-sorrow/</loc></url>
+  <url><loc>https://buruja.com/seerah/torture-and-abyssinia/</loc></url>
+  <url><loc>https://buruja.com/seerah/umar-hamza-and-the-boycott/</loc></url>
+  <url><loc>https://buruja.com/seerah/umrah-al-qada/</loc></url>
+  <url><loc>https://buruja.com/seerah/why-study-the-seerah/</loc></url>
+  <url><loc>https://buruja.com/seerah/zayd-and-the-first-revelation/</loc></url>
 </urlset>
