@@ -8,6 +8,7 @@
 # ...then re-include exactly what the repo should track:
 !/.gitignore
 !/README.md
+!/DEPLOY.md
 !/build.py
 !/seo.py
 !/make_assets.py

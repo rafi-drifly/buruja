@@ -33,6 +33,8 @@ def include(src_rel_root, rel, fn):
     ext = os.path.splitext(fn)[1].lower()
     if src_rel_root == "quran-daily":          # calendar subscriptions only
         return ext == '.ics'                    # verses.json/tafsirs.json unused by the site
+    if src_rel_root == "site" and fn in ("_headers", "_redirects", "_routes.json", "404.html", "CNAME"):
+        return True                             # Cloudflare Pages config files
     return ext in WEB_EXT or ext in IMG_EXT
 
 if os.path.isdir(OUT):
@@ -116,6 +118,23 @@ for dp, _d, _f in os.walk(OUT, topdown=False):
     if os.path.isdir(dp) and not os.listdir(dp):
         os.rmdir(dp)
 print("slimmed %d unreferenced social images (%.1f MB)" % (_slim, _slimb/1048576))
+
+# --- drop files larger than Cloudflare Pages' 25 MiB/file limit (host on R2) ---
+_LIMIT = 25 * 1024 * 1024
+_dropped = []
+for _dp, _dd, _ff in os.walk(OUT):
+    for _fn in _ff:
+        _fp = os.path.join(_dp, _fn)
+        try:
+            _sz = os.path.getsize(_fp)
+        except OSError:
+            continue
+        if _sz > _LIMIT:
+            _dropped.append((os.path.relpath(_fp, OUT), _sz)); os.remove(_fp)
+if _dropped:
+    print("dropped %d file(s) >25MiB for Cloudflare Pages (upload these to R2):" % len(_dropped))
+    for _r, _s in _dropped:
+        print("  %4.0f MB  %s" % (_s/1048576, _r))
 
 print("\n%-16s %-26s %7s %9s" % ("URL", "SRC", "FILES", "MB"))
 for u, s, c, mb, note in summary:
