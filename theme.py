@@ -5,7 +5,7 @@ Idempotent; runs after seo.py in the build."""
 import os, re, sys
 
 PUB = sys.argv[1] if len(sys.argv) > 1 else os.path.join(os.path.dirname(os.path.abspath(__file__)), "public")
-CSS_LINK = '<link rel="stylesheet" href="/buruja.css">'
+CSS_LINK = '<link rel="stylesheet" href="/buruja.css?v=2">'
 
 # legacy mark: any <svg ... viewBox="0 0 80 74" ...> ... </svg> (the mosque artboard)
 MOSQUE = re.compile(r'<svg\b[^>]*viewBox="0 0 80 74"[^>]*>.*?</svg>', re.S)

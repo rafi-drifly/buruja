@@ -12,6 +12,7 @@
 !/seo.py
 !/make_assets.py
 !/theme.py
+!/content.py
 !/public/
 !/wrangler.toml
 

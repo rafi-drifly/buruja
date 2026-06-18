@@ -57,7 +57,7 @@ for dp, _dirs, files in os.walk(PUB):
         fnl = fn.lower()
         is_reader_dup = fnl == "reader.html"
         segs = rel.split("/")
-        is_variant = (fnl in ("blog.html", "email.html", "social.html", "sheet.html")
+        is_variant = (fnl in ("blog.html", "email.html", "social.html", "sheet.html", "chapter.html")
                       or re.match(r"slide-\d+\.html$", fnl) is not None
                       or "social-images" in segs or "social" in segs)
         noindex = is_reader_dup or is_variant
